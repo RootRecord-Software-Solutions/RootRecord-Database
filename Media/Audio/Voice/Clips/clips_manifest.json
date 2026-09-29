@@ -2282,6 +2282,37 @@
       "source": "PROPOSED respelling (Hawaiian phonology)",
       "proposed": true
     },
+    "Ava/proposed_liliuokalani_b_misaki": {
+      "slug": "proposed_liliuokalani_b_misaki",
+      "persona": "Ava",
+      "kinds": [],
+      "text": "Liliʻuokalani.",
+      "spoken": "Liliuokalani.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "1082ec36873f9afb374476cf586f279415336a827052392d4a6428e4a903c32e",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.26,
+      "peak_dbfs": -5.21,
+      "rms_dbfs": -20.15,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 382,
+        "tail": 608
+      },
+      "render_s": 5.15,
+      "rendered": "2026-09-29T04:40:08-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "PROPOSED respelling (Hawaiian phonology)",
+      "proposed": true
+    },
     "Ava/proposed_mahele": {
       "slug": "proposed_mahele",
       "persona": "Ava",
@@ -2305,6 +2336,37 @@
       },
       "render_s": 0.52,
       "rendered": "2026-09-29T04:27:19-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "PROPOSED respelling (Hawaiian phonology)",
+      "proposed": true
+    },
+    "Ava/proposed_mahele_b_ipa": {
+      "slug": "proposed_mahele_b_ipa",
+      "persona": "Ava",
+      "kinds": [],
+      "text": "Māhele.",
+      "spoken": "[Māhele](/mˌɑhˈɛlɛ/).",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "d1ae1252c872d72a643964a8aee83b7c5bccae98b117f98d0d4e7d62eff2bc6e",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 0.742,
+      "peak_dbfs": -7.16,
+      "rms_dbfs": -20.13,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 387,
+        "tail": 571
+      },
+      "render_s": 4.89,
+      "rendered": "2026-09-29T04:41:21-10:00",
       "engine": {
         "kokoro": "0.9.4",
         "misaki": "0.9.4",
@@ -3014,5 +3076,5 @@
       }
     }
   },
-  "updated": "2026-09-29T04:27:19-10:00"
+  "updated": "2026-09-29T04:41:21-10:00"
 }
