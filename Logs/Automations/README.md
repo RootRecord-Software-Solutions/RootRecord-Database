@@ -8,20 +8,20 @@ Live automation / poller log stream for the Pacific solar node.
 |------|------|
 | `automations_current.log` | Active poller + job output (tailed by `poller-watch.py`) |
 | `stack_reload_current.log` | Stack reload script output (created on first reload) |
-| `Archive/` | Daily / weekly / monthly rotation (see Archive/README) |
+| `Archive/` | Hourly rotation for `automations_current.log`; other log classes may use daily/weekly/monthly policies |
 
 ## Desk absolute path
 
 ```text
-/home/rootrecord/Database/Logs/Automations/automations_current.log
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Automations/automations_current.log
 ```
 
-This directory is the **desk checkout** of `RootRecord-Software-Solutions/RootRecord-Database` (or a bind that matches this tree).
+This directory is the **desk checkout** of `RootRecord-Software-Solutions/RootRecord-Database`.
 
 ## Writers / readers (Pacific)
 
 | Component | Uses |
-|-----------|------|
+|------|------|
 | `rr-rootserver-poller.service` / poller stdout | Should append here (or via `POLLER_LOG`) |
 | `Automations/scripts/poller/poller-watch.py` | Default `POLLER_LOG` → this file |
 | `open-poller-window.sh` / `run-poller.sh` | Same default |
@@ -31,8 +31,16 @@ Env overrides: `POLLER_LOG`, `STACK_RELOAD_LOG`.
 
 ## Archive policy
 
-See [Archive/README.md](Archive/README.md): daily move of `*_current.log` → `Archive/<LOGTYPE>_<DATE>.log`, weekly zip, monthly zip.
+`automations_current.log` is **hourly-cut** because it is the high-volume automation/poller stream. The Pacific job `automations_log_hourly_archive` copies the current file to:
 
-## Note on git size
+```text
+Archive/automations_YYYY-MM-DD_HH00.log
+```
 
-`automations_current.log` is operational data. Prefer rotation into Archive and avoid unbounded growth in the tracked current file. Optional: gitignore `*_current.log` later if sync policy changes.
+and truncates the current file after the archive copy succeeds.
+
+The archive is operational history; the current file remains the live tail target. Other log types retain their own rotation policies.
+
+## Git behavior
+
+Generated binary media is excluded from Git by the Database repository policy. Automation logs remain text and may be synchronized/archived through the normal GitHub catalog flow.
