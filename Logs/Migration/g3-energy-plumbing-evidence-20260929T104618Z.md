@@ -46,3 +46,14 @@ read-river2pro-20260929-002437.json
 ACAD: status= online=1 capacity=
 BAT0: status=Charging online= capacity=84
 ```
+
+## Correction — 2026-09-29T10:49:33Z (00:49 HST)
+
+At 00:46:45 HST another editor revised the G3 runbook (Library `f1109fc`). The active Database authority is now `/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database` (Pacific commits `64cfd08`, `2287a77`, `1f0efae`, `d081968` and `2c5b3d2`, 00:42 HST). Re-scored against the revised criteria:
+
+- **Plumbing non-NPU → FAIL on the state-path criterion.** The gate itself worked: one inference went through, and the parallel run was refused. But `System/scripts/plumbing/single-flight.sh` still defaults `STATE_DIR` to the old `/home/rootrecord/Database/GITHUB/plumbing/state`. The runbook now requires `…/2 - RootRecord-Database/GITHUB/plumbing/state`, which does not exist. The exec-bit fix stands.
+- **Energy `solar-gate-status` → VERIFY PENDING.** It runs read-only, but `solar-gate-status.sh`, `solar-gate-arm.sh` and `solar-gate-disarm.sh` hardcode the old `/home/rootrecord/Database/ENERGY/ports/solar-gate-state.json`, while `Energy/lib/paths.py` `PORTS` now points at the canonical root.
+- **G2 retirement reverted.** Because neither row now passes, `~/.ollama/skills/plumbing/scripts/ollama-warmup.sh` and `~/.ollama/skills/energy/scripts/actions/solar-gate-status.sh` were restored byte-identical from `/home/rootrecord/Database/GITHUB/g2-retire.bak-20260929-004619/`, and the two `MIGRATED.md` files were removed.
+- Other old-root references that still point at `/home/rootrecord/Database` (recorded, not changed): `flm-warmup.sh` LOG; `ble-owner.py` LOG/PID defaults and `devices.conf` `ble_log`; the running poller still writes `/home/rootrecord/Database/Logs/Automations/automations_current.log` (the canonical-root path in runbook §5 has no such file; the poller was not restarted).
+- Side effect to settle before moving the state: the Database repo is auto-synced and `.gitignore` covers only binary media. So single-flight holder files and `solar-gate-state.json` at the canonical root would be committed.
+- B1 finding unchanged. The canonical `ENERGY/soc/river2pro-last.json` still shows `soc: 0.0`, `source: api`.
