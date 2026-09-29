@@ -51,3 +51,11 @@
 /Logs/Energy/ava-ecoflow-ble.log
 /Logs/Automations/automations_current.log
 /Logs/Communications/council-relay.log
+
+# Previous-datasets archive: bulk/binary/private content stays local; only each dataset README is tracked. Added 2026-09-29.
+/Archive/Previous-Datasets/*/*
+!/Archive/Previous-Datasets/*/README.md
+# Weather daemon data tree (intended as the separate RootRecord-Weather-Database working tree) — never in this repo.
+/WEATHER/
+# Energy sqlite store (binary).
+/ROOTRECORD/
