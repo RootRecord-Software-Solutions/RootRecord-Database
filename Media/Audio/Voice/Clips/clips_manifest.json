@@ -1901,6 +1901,105 @@
         "verdict": "match"
       }
     },
+    "Ava/late_intro": {
+      "slug": "late_intro",
+      "persona": "Ava",
+      "kinds": [
+        "late"
+      ],
+      "text": "Late report.",
+      "spoken": "Late report.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "0541f4e5916eb1927ddc98ba0fe6ca2d3eb67dc7b2c322d48f5eaf663543daa1",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.064,
+      "peak_dbfs": -5.64,
+      "rms_dbfs": -20.0,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 378,
+        "tail": 558
+      },
+      "render_s": 0.56,
+      "rendered": "2026-09-29T04:27:14-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "G3 voice_reports late_report",
+      "proposed": false
+    },
+    "Ava/midday_intro": {
+      "slug": "midday_intro",
+      "persona": "Ava",
+      "kinds": [
+        "midday"
+      ],
+      "text": "Midday report.",
+      "spoken": "Midday report.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "9da7a522684c53082700f15f2f0533153c3b301c4ec6ddd2832ffe6ce016fcd3",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.289,
+      "peak_dbfs": -6.54,
+      "rms_dbfs": -20.08,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 362,
+        "tail": 549
+      },
+      "render_s": 0.62,
+      "rendered": "2026-09-29T04:27:14-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "G3 voice_reports midday_report",
+      "proposed": false
+    },
+    "Ava/morning_intro": {
+      "slug": "morning_intro",
+      "persona": "Ava",
+      "kinds": [
+        "morning"
+      ],
+      "text": "Morning report.",
+      "spoken": "Morning report.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "c6a9ce940ad0078fb819caa2734588fe199a93b59412bfa872f4940f5573b558",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.179,
+      "peak_dbfs": -7.02,
+      "rms_dbfs": -20.0,
+      "lead_silence_ms": 21,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 383,
+        "tail": 538
+      },
+      "render_s": 0.57,
+      "rendered": "2026-09-29T04:27:13-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "G3 voice_reports morning_report",
+      "proposed": false
+    },
     "Ava/nws_by_county": {
       "slug": "nws_by_county",
       "persona": "Ava",
@@ -1938,6 +2037,72 @@
         "score": 0.714,
         "verdict": "review"
       }
+    },
+    "Ava/nws_forecast_today": {
+      "slug": "nws_forecast_today",
+      "persona": "Ava",
+      "kinds": [
+        "nws"
+      ],
+      "text": "State forecast for today.",
+      "spoken": "State forecast for today.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "a5725e89665753f5bd8118776ec6e6c9f91a52c7b3eaab37e25266e6cdea5ca9",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.697,
+      "peak_dbfs": -3.24,
+      "rms_dbfs": -20.17,
+      "lead_silence_ms": 23,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 301,
+        "tail": 503
+      },
+      "render_s": 4.44,
+      "rendered": "2026-09-29T04:27:12-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "G3 voice_reports nws_weather",
+      "proposed": false
+    },
+    "Ava/nws_forecast_tonight": {
+      "slug": "nws_forecast_tonight",
+      "persona": "Ava",
+      "kinds": [
+        "nws"
+      ],
+      "text": "State forecast for tonight.",
+      "spoken": "State forecast for tonight.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "800ec846f77c48dcc84cf8b0cb1dd3a3920fe4ef630886717d036e30f14318f1",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.728,
+      "peak_dbfs": -3.33,
+      "rms_dbfs": -20.22,
+      "lead_silence_ms": 22,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 290,
+        "tail": 507
+      },
+      "render_s": 0.69,
+      "rendered": "2026-09-29T04:27:12-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "G3 voice_reports nws_weather",
+      "proposed": false
     },
     "Ava/nws_no_active_alerts": {
       "slug": "nws_no_active_alerts",
@@ -2054,6 +2219,76 @@
         "score": 0.833,
         "verdict": "match"
       }
+    },
+    "Ava/rollup_ecoflow_offline": {
+      "slug": "rollup_ecoflow_offline",
+      "persona": "Ava",
+      "kinds": [
+        "morning",
+        "midday",
+        "late"
+      ],
+      "text": "EcoFlow is offline.",
+      "spoken": "EcoFlow is offline.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "ca6ad5c23efd406ccab7a741ca2debb8162fa6ff832da5dc7c7b3ab40bb786c5",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.643,
+      "peak_dbfs": -4.55,
+      "rms_dbfs": -20.12,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 360,
+        "tail": 547
+      },
+      "render_s": 0.68,
+      "rendered": "2026-09-29T04:27:15-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "G3 voice_reports roll-ups",
+      "proposed": false
+    },
+    "Ava/rollup_outro": {
+      "slug": "rollup_outro",
+      "persona": "Ava",
+      "kinds": [
+        "morning",
+        "midday",
+        "late"
+      ],
+      "text": "End of report.",
+      "spoken": "End of report.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "35bb1dbef009f430c7d55ce3e004c62dafc49852994d4953197fbe275a32e031",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.2,
+      "peak_dbfs": -5.84,
+      "rms_dbfs": -20.16,
+      "lead_silence_ms": 14,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 374,
+        "tail": 526
+      },
+      "render_s": 0.55,
+      "rendered": "2026-09-29T04:27:15-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "G3 voice_reports roll-ups",
+      "proposed": false
     },
     "Bruce/remaining_intro": {
       "slug": "remaining_intro",
@@ -2283,6 +2518,39 @@
         "score": 1.0,
         "verdict": "match"
       }
+    },
+    "Carly/energy_intro": {
+      "slug": "energy_intro",
+      "persona": "Carly",
+      "kinds": [
+        "energy"
+      ],
+      "text": "Energy desk report.",
+      "spoken": "Energy desk report.",
+      "voice": "af_nova",
+      "speed": 0.74,
+      "sha256": "22373473b8db7b30251aa8579424ec85e5d9af579f19bda2c1c9a2434580bd57",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 2.163,
+      "peak_dbfs": -4.73,
+      "rms_dbfs": -20.32,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 225,
+        "tail": 862
+      },
+      "render_s": 0.82,
+      "rendered": "2026-09-29T04:27:16-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "G3 voice_reports energy_report",
+      "proposed": false
     },
     "Carly/hurricane_intro": {
       "slug": "hurricane_intro",
@@ -2589,5 +2857,5 @@
       }
     }
   },
-  "updated": "2026-09-29T04:09:35-10:00"
+  "updated": "2026-09-29T04:27:16-10:00"
 }
