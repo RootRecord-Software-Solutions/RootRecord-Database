@@ -1,11 +1,11 @@
-# Late report — 2026-09-29T04:29:07-10:00
+# Late report — 2026-09-29T04:34:54-10:00
 
 ## Measured
 
-- Batteries: Delta 2 36%, River 2 Pro 5%; solar input 0 W
+- Batteries: Delta 2 35%, River 2 Pro 5%; solar input 0 W
 - NWS alerts active: 1 (High Surf Advisory)
 - Forecast Today: Partly sunny. Breezy. Windward and mountains, isolated showers. Leeward, numerous showers in the morning. Isolated showers in the afternoon. Highs 86 to 91. Southeast winds 15 to 25 mph.
-- Host CPU 21%, memory 23% used
+- Host CPU 6%, memory 21% used
 - Open work-order items: 27
 
 ## LLM summary
