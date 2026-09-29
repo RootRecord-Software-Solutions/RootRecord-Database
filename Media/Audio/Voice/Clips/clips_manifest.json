@@ -2220,6 +2220,130 @@
         "verdict": "match"
       }
     },
+    "Ava/proposed_kalakaua": {
+      "slug": "proposed_kalakaua",
+      "persona": "Ava",
+      "kinds": [],
+      "text": "Kalākaua.",
+      "spoken": "kah lah kow ah.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "3c188dae3e8d291837c1457b5ba6e67998dcb916624fcf986dc12802e2acfb36",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 0.969,
+      "peak_dbfs": -5.45,
+      "rms_dbfs": -20.29,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 362,
+        "tail": 545
+      },
+      "render_s": 0.51,
+      "rendered": "2026-09-29T04:27:17-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "PROPOSED respelling (Hawaiian phonology)",
+      "proposed": true
+    },
+    "Ava/proposed_liliuokalani": {
+      "slug": "proposed_liliuokalani",
+      "persona": "Ava",
+      "kinds": [],
+      "text": "Liliʻuokalani.",
+      "spoken": "lee lee oo oh kah lah nee.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "10feb787b20b99ed3fa8c5abb7c5c59fbbae4812683aa01f7f3ee36ea493242d",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.512,
+      "peak_dbfs": -4.12,
+      "rms_dbfs": -20.25,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 312,
+        "tail": 502
+      },
+      "render_s": 0.63,
+      "rendered": "2026-09-29T04:27:18-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "PROPOSED respelling (Hawaiian phonology)",
+      "proposed": true
+    },
+    "Ava/proposed_mahele": {
+      "slug": "proposed_mahele",
+      "persona": "Ava",
+      "kinds": [],
+      "text": "Māhele.",
+      "spoken": "mah heh leh.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "5ba8aba0dbae8b9bc9cf49e1141cbed33d4fccef00973a2527ed785466a53be3",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 0.899,
+      "peak_dbfs": -6.02,
+      "rms_dbfs": -20.1,
+      "lead_silence_ms": 23,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 382,
+        "tail": 569
+      },
+      "render_s": 0.52,
+      "rendered": "2026-09-29T04:27:19-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "PROPOSED respelling (Hawaiian phonology)",
+      "proposed": true
+    },
+    "Ava/proposed_nuuanu": {
+      "slug": "proposed_nuuanu",
+      "persona": "Ava",
+      "kinds": [],
+      "text": "Nuʻuanu.",
+      "spoken": "noo oo ah noo.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "738a75487ef031e5850e502097dbf9d9333dabf37fa48a1243fd9f58b90a61e0",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.026,
+      "peak_dbfs": -4.51,
+      "rms_dbfs": -20.18,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 379,
+        "tail": 570
+      },
+      "render_s": 0.53,
+      "rendered": "2026-09-29T04:27:19-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "PROPOSED respelling (Hawaiian phonology)",
+      "proposed": true
+    },
     "Ava/rollup_ecoflow_offline": {
       "slug": "rollup_ecoflow_offline",
       "persona": "Ava",
@@ -2327,6 +2451,39 @@
         "score": 1.0,
         "verdict": "match"
       }
+    },
+    "Bruce/remaining_none": {
+      "slug": "remaining_none",
+      "persona": "Bruce",
+      "kinds": [
+        "remaining"
+      ],
+      "text": "No open tasks on file.",
+      "spoken": "No open tasks on file.",
+      "voice": "am_echo",
+      "speed": 0.92,
+      "sha256": "2de587a09bf604e543e7119e0416363413873649d4256ba96ac00b7875141fec",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 2.057,
+      "peak_dbfs": -5.13,
+      "rms_dbfs": -20.14,
+      "lead_silence_ms": 21,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 240,
+        "tail": 579
+      },
+      "render_s": 0.75,
+      "rendered": "2026-09-29T04:27:17-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "G3 voice_reports remaining_tasks",
+      "proposed": false
     },
     "Bruce/solar_ecoflow_offline": {
       "slug": "solar_ecoflow_offline",
@@ -2857,5 +3014,5 @@
       }
     }
   },
-  "updated": "2026-09-29T04:27:16-10:00"
+  "updated": "2026-09-29T04:27:19-10:00"
 }

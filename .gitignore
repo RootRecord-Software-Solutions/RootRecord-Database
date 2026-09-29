@@ -83,6 +83,8 @@
 *.pt
 /Logs/AI/Inference/inference_current.jsonl
 /Media/Audio/Voice/Archive/
+# voice report text/sidecar history (G3 voice_reports.py, 2026-09-29) rotates every run; _current.md stays tracked
+/Media/Audio/Voice/Reports/Archive/
 
 # Council relay quiet-mode inbox: held Telegram message text is private — local only; only the README is tracked.
 # Added 2026-09-29 ~04:03 HST (g3-proposals-impl, 08-ideas relay-quiet-mode-message-hold).
