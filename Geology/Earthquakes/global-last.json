@@ -1,11 +1,11 @@
 {
-  "at": "2026-09-29T13:19:17-10:00",
+  "at": "2026-09-29T13:49:55-10:00",
   "source": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson",
   "window_h": 24,
   "min_mag": 2.5,
   "excludes": "hawaii-last ids",
-  "count": 33,
-  "count_m2": 33,
+  "count": 34,
+  "count_m2": 34,
   "count_m25": 33,
   "largest": {
     "id": "us6000tyc3",
@@ -13,9 +13,25 @@
     "place": "southern Mid-Atlantic Ridge",
     "time_hst": "2026-09-29T03:06:10.191000-10:00"
   },
-  "new_this_run": 33,
-  "usgs_generated_utc": "2026-09-29T23:18:57+00:00",
+  "new_this_run": 1,
+  "usgs_generated_utc": "2026-09-29T23:48:57+00:00",
   "events": [
+    {
+      "id": "nc75441671",
+      "mag": 2.49,
+      "mag_type": "md",
+      "place": "12 km NNE of San Lucas, CA",
+      "time_utc": "2026-09-29T23:39:46.170000+00:00",
+      "time_hst": "2026-09-29T13:39:46.170000-10:00",
+      "lon": -120.977996826172,
+      "lat": 36.2361679077148,
+      "depth_km": 4.82999992370605,
+      "status": "automatic",
+      "tsunami": 0,
+      "type": "earthquake",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441671",
+      "nearest": null
+    },
     {
       "id": "us6000tyfk",
       "mag": 4.5,
@@ -29,7 +45,14 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyfk"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyfk",
+      "nearest": {
+        "location_id": "co-bogot",
+        "name": "Bogotá",
+        "country_code": "CO",
+        "admin1_code": null,
+        "km": 188.4
+      }
     },
     {
       "id": "uw714111952",
@@ -44,7 +67,14 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714111952"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714111952",
+      "nearest": {
+        "location_id": "us-washington-olympia",
+        "name": "Olympia",
+        "country_code": "US",
+        "admin1_code": "Washington",
+        "km": 42.8
+      }
     },
     {
       "id": "us6000tyf0",
@@ -59,7 +89,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyf0"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyf0",
+      "nearest": null
     },
     {
       "id": "us6000tye9",
@@ -74,7 +105,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tye9"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tye9",
+      "nearest": null
     },
     {
       "id": "us6000tycv",
@@ -89,7 +121,14 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tycv"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tycv",
+      "nearest": {
+        "location_id": "to-nuku-alofa",
+        "name": "Nuku'alofa",
+        "country_code": "TO",
+        "admin1_code": null,
+        "km": 223.0
+      }
     },
     {
       "id": "nc75444432",
@@ -104,7 +143,14 @@
       "status": "automatic",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444432"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444432",
+      "nearest": {
+        "location_id": "us-california-sacramento",
+        "name": "Sacramento",
+        "country_code": "US",
+        "admin1_code": "California",
+        "km": 83.4
+      }
     },
     {
       "id": "us6000tycz",
@@ -119,7 +165,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tycz"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tycz",
+      "nearest": null
     },
     {
       "id": "us6000tyck",
@@ -134,7 +181,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyck"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyck",
+      "nearest": null
     },
     {
       "id": "us6000tych",
@@ -149,7 +197,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tych"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tych",
+      "nearest": null
     },
     {
       "id": "us6000tyc9",
@@ -164,7 +213,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc9"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc9",
+      "nearest": null
     },
     {
       "id": "us6000tyc3",
@@ -179,7 +229,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc3"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc3",
+      "nearest": null
     },
     {
       "id": "us6000tyc1",
@@ -194,7 +245,14 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc1"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc1",
+      "nearest": {
+        "location_id": "to-nuku-alofa",
+        "name": "Nuku'alofa",
+        "country_code": "TO",
+        "admin1_code": null,
+        "km": 127.0
+      }
     },
     {
       "id": "nc75444342",
@@ -209,7 +267,14 @@
       "status": "automatic",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444342"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444342",
+      "nearest": {
+        "location_id": "us-nevada-carson-city",
+        "name": "Carson City",
+        "country_code": "US",
+        "admin1_code": "Nevada",
+        "km": 221.0
+      }
     },
     {
       "id": "nc75444322",
@@ -224,7 +289,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444322"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444322",
+      "nearest": null
     },
     {
       "id": "us6000tybs",
@@ -239,7 +305,14 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybs"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybs",
+      "nearest": {
+        "location_id": "vu-port-vila",
+        "name": "Port Vila",
+        "country_code": "VU",
+        "admin1_code": null,
+        "km": 98.0
+      }
     },
     {
       "id": "us6000tybr",
@@ -254,7 +327,14 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybr"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybr",
+      "nearest": {
+        "location_id": "nc-noum-a",
+        "name": "Nouméa",
+        "country_code": "NC",
+        "admin1_code": null,
+        "km": 244.9
+      }
     },
     {
       "id": "aka2026thiuub",
@@ -269,7 +349,8 @@
       "status": "automatic",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026thiuub"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026thiuub",
+      "nearest": null
     },
     {
       "id": "us6000tybl",
@@ -284,7 +365,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybl"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybl",
+      "nearest": null
     },
     {
       "id": "us6000tybk",
@@ -299,7 +381,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybk"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybk",
+      "nearest": null
     },
     {
       "id": "aka2026thikql",
@@ -314,7 +397,14 @@
       "status": "automatic",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026thikql"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026thikql",
+      "nearest": {
+        "location_id": "us-alaska-juneau",
+        "name": "Juneau",
+        "country_code": "US",
+        "admin1_code": "Alaska",
+        "km": 141.7
+      }
     },
     {
       "id": "nn00925017",
@@ -329,7 +419,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925017"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925017",
+      "nearest": null
     },
     {
       "id": "us6000tyb6",
@@ -344,7 +435,14 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyb6"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyb6",
+      "nearest": {
+        "location_id": "gt-guatemala-city",
+        "name": "Guatemala City",
+        "country_code": "GT",
+        "admin1_code": null,
+        "km": 247.3
+      }
     },
     {
       "id": "aka2026thenke",
@@ -359,7 +457,8 @@
       "status": "automatic",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026thenke"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026thenke",
+      "nearest": null
     },
     {
       "id": "us6000tyat",
@@ -374,7 +473,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyat"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyat",
+      "nearest": null
     },
     {
       "id": "us6000tyap",
@@ -389,7 +489,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyap"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyap",
+      "nearest": null
     },
     {
       "id": "us6000tyab",
@@ -404,7 +505,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyab"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyab",
+      "nearest": null
     },
     {
       "id": "pr71535083",
@@ -419,7 +521,14 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535083"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535083",
+      "nearest": {
+        "location_id": "pr-san-juan",
+        "name": "San Juan",
+        "country_code": "PR",
+        "admin1_code": null,
+        "km": 19.1
+      }
     },
     {
       "id": "us6000tya5",
@@ -434,7 +543,14 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5",
+      "nearest": {
+        "location_id": "nc-noum-a",
+        "name": "Nouméa",
+        "country_code": "NC",
+        "admin1_code": null,
+        "km": 243.3
+      }
     },
     {
       "id": "us6000ty9x",
@@ -449,7 +565,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty9x"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty9x",
+      "nearest": null
     },
     {
       "id": "pr71535063",
@@ -464,7 +581,14 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535063"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535063",
+      "nearest": {
+        "location_id": "do-santo-domingo",
+        "name": "Santo Domingo",
+        "country_code": "DO",
+        "admin1_code": null,
+        "km": 110.0
+      }
     },
     {
       "id": "pr71535043",
@@ -479,7 +603,14 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535043"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535043",
+      "nearest": {
+        "location_id": "pr-san-juan",
+        "name": "San Juan",
+        "country_code": "PR",
+        "admin1_code": null,
+        "km": 212.2
+      }
     },
     {
       "id": "us6000ty9j",
@@ -494,7 +625,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty9j"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty9j",
+      "nearest": null
     },
     {
       "id": "us6000ty9i",
@@ -509,7 +641,8 @@
       "status": "reviewed",
       "tsunami": 0,
       "type": "earthquake",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty9i"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty9i",
+      "nearest": null
     }
   ]
 }

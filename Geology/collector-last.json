@@ -1,21 +1,21 @@
 {
   "ok": true,
-  "at": "2026-09-29T13:19:17-10:00",
-  "what": "all",
+  "at": "2026-09-29T13:49:55-10:00",
+  "what": "quakes",
   "dry_run": false,
   "sources": {
     "hawaii": {
       "ok": true,
-      "count": 10,
-      "new": 10,
-      "new_m2": 1,
-      "ms": 633
+      "count": 9,
+      "new": 1,
+      "new_m2": 0,
+      "ms": 568
     },
     "global": {
       "ok": true,
-      "count": 33,
-      "new": 33,
-      "ms": 303
+      "count": 34,
+      "new": 1,
+      "ms": 415
     },
     "hvo_notices": {
       "ok": true,
