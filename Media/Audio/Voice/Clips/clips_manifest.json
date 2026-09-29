@@ -1,0 +1,455 @@
+{
+  "format": "24 kHz 16-bit PCM mono WAV",
+  "clips": {
+    "Bruce/remaining_intro": {
+      "slug": "remaining_intro",
+      "persona": "Bruce",
+      "kinds": [
+        "remaining"
+      ],
+      "text": "Remaining tasks.",
+      "spoken": "Remaining tasks.",
+      "voice": "am_echo",
+      "speed": 0.92,
+      "sha256": "2c7fb4b80058e475295b9b14614879b5a8212b876f3d4bc9c107313f18c653de",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.567,
+      "peak_dbfs": -6.13,
+      "rms_dbfs": -20.0,
+      "lead_silence_ms": 23,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 242,
+        "tail": 491
+      },
+      "render_s": 0.71,
+      "rendered": "2026-09-29T04:06:38-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "origin kokoro_tts _TOKEN_WORDS phrase_remaining_tasks"
+    },
+    "Bruce/solar_ecoflow_offline": {
+      "slug": "solar_ecoflow_offline",
+      "persona": "Bruce",
+      "kinds": [
+        "solar"
+      ],
+      "text": "EcoFlow is offline.",
+      "spoken": "EcoFlow is offline.",
+      "voice": "am_echo",
+      "speed": 0.92,
+      "sha256": "1ee577d13ca537dfa9e55f4e7f076ae9c8304f15127e06f27f5fe41b34b90526",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 2.044,
+      "peak_dbfs": -3.71,
+      "rms_dbfs": -20.05,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 258,
+        "tail": 573
+      },
+      "render_s": 0.77,
+      "rendered": "2026-09-29T04:06:37-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "origin kokoro_tts _TOKEN_WORDS phrase_ecoflow_down"
+    },
+    "Bruce/solar_hourly_intro": {
+      "slug": "solar_hourly_intro",
+      "persona": "Bruce",
+      "kinds": [
+        "solar",
+        "hourly"
+      ],
+      "text": "Hourly solar report.",
+      "spoken": "Hourly solar report.",
+      "voice": "am_echo",
+      "speed": 0.92,
+      "sha256": "0f440bb9ab9391b1fae1dafd88087a41d734052be70fc9799d52655a65e1943d",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.824,
+      "peak_dbfs": -4.3,
+      "rms_dbfs": -20.11,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 255,
+        "tail": 546
+      },
+      "render_s": 4.36,
+      "rendered": "2026-09-29T04:06:36-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "origin kokoro_tts _TOKEN_WORDS phrase_hourly_solar"
+    },
+    "Bruce/system_intro": {
+      "slug": "system_intro",
+      "persona": "Bruce",
+      "kinds": [
+        "system"
+      ],
+      "text": "System performance report.",
+      "spoken": "System performance report.",
+      "voice": "am_echo",
+      "speed": 0.92,
+      "sha256": "8ed6851a66adc9ea756b0094263061474253f0ae950bb13e9394112851aa3268",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 2.084,
+      "peak_dbfs": -4.63,
+      "rms_dbfs": -20.28,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 234,
+        "tail": 557
+      },
+      "render_s": 0.75,
+      "rendered": "2026-09-29T04:06:38-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "G3 system_perf template"
+    },
+    "Bruce/system_outro": {
+      "slug": "system_outro",
+      "persona": "Bruce",
+      "kinds": [
+        "system"
+      ],
+      "text": "End of system report.",
+      "spoken": "End of system report.",
+      "voice": "am_echo",
+      "speed": 0.92,
+      "sha256": "c113901dbfc736c752d847b87c25401298b211521beb340b4d21c75ae40ffac9",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.81,
+      "peak_dbfs": -4.66,
+      "rms_dbfs": -20.05,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 244,
+        "tail": 546
+      },
+      "render_s": 0.7,
+      "rendered": "2026-09-29T04:06:39-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "G3 system_perf template"
+    },
+    "Carly/energy_ecoflow_offline": {
+      "slug": "energy_ecoflow_offline",
+      "persona": "Carly",
+      "kinds": [
+        "energy"
+      ],
+      "text": "EcoFlow is offline.",
+      "spoken": "EcoFlow is offline.",
+      "voice": "af_nova",
+      "speed": 0.74,
+      "sha256": "c1c6663ed01f080c00de64fab5c971c5587f1042257f8360a389185978ee5da3",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 2.392,
+      "peak_dbfs": -5.73,
+      "rms_dbfs": -20.55,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 232,
+        "tail": 926
+      },
+      "render_s": 4.57,
+      "rendered": "2026-09-29T04:06:45-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "origin kokoro_tts _TOKEN_WORDS phrase_ecoflow_down"
+    },
+    "Carly/hurricane_intro": {
+      "slug": "hurricane_intro",
+      "persona": "Carly",
+      "kinds": [
+        "hurricane"
+      ],
+      "text": "Hurricane global desk, Pacific Root Server.",
+      "spoken": "Hurricane global desk, Pacific Root Server.",
+      "voice": "af_nova",
+      "speed": 0.74,
+      "sha256": "9ce67516379df2cd95c8cd860ada150a512ab5686eacf604dbf710f8860e003f",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 3.773,
+      "peak_dbfs": -3.95,
+      "rms_dbfs": -20.29,
+      "lead_silence_ms": 22,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 235,
+        "tail": 941
+      },
+      "render_s": 1.34,
+      "rendered": "2026-09-29T04:06:53-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "weather/hurricane-desk/scripts/hurricane_desk.py"
+    },
+    "Carly/hurricane_outro": {
+      "slug": "hurricane_outro",
+      "persona": "Carly",
+      "kinds": [
+        "hurricane"
+      ],
+      "text": "Stay with NWS Honolulu for watches and warnings.",
+      "spoken": "Stay with National Weather Service hoh noh loo loo for watches and warnings.",
+      "voice": "af_nova",
+      "speed": 0.74,
+      "sha256": "ba39f6b5eef190f8748fbcda346cd02997e56dcb9a7c78b5d8606de74a1fce55",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 5.508,
+      "peak_dbfs": -3.07,
+      "rms_dbfs": -20.34,
+      "lead_silence_ms": 13,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 268,
+        "tail": 948
+      },
+      "render_s": 1.89,
+      "rendered": "2026-09-29T04:06:57-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "weather/hurricane-desk/scripts/hurricane_desk.py"
+    },
+    "Carly/hurricane_quiet": {
+      "slug": "hurricane_quiet",
+      "persona": "Carly",
+      "kinds": [
+        "hurricane"
+      ],
+      "text": "Around the world right now, the tropical boards are quiet.",
+      "spoken": "Around the world right now, the tropical boards are quiet.",
+      "voice": "af_nova",
+      "speed": 0.74,
+      "sha256": "7d499ca390edeec491f38f79d989526c7893c6553bb8c414858e1e934b930b97",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 4.155,
+      "peak_dbfs": -3.33,
+      "rms_dbfs": -20.31,
+      "lead_silence_ms": 6,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 252,
+        "tail": 868
+      },
+      "render_s": 1.39,
+      "rendered": "2026-09-29T04:06:55-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "weather/hurricane-desk/scripts/hurricane_desk.py"
+    },
+    "Carly/kilauea_hvo_notice": {
+      "slug": "kilauea_hvo_notice",
+      "persona": "Carly",
+      "kinds": [
+        "kilauea"
+      ],
+      "text": "Here is the latest Hawaiian Volcano Observatory notice, unedited for honesty.",
+      "spoken": "Here is the latest hah wye uhn Volcano Observatory notice, unedited for honesty.",
+      "voice": "af_nova",
+      "speed": 0.74,
+      "sha256": "430aa63d951d1fc421059e29a0260d1375a96260f856803172a21aac8d0cbe7a",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 7.109,
+      "peak_dbfs": -4.8,
+      "rms_dbfs": -20.27,
+      "lead_silence_ms": 23,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 280,
+        "tail": 1011
+      },
+      "render_s": 2.55,
+      "rendered": "2026-09-29T04:06:52-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/voice/plugins/kilauea_report.py"
+    },
+    "Carly/kilauea_intro": {
+      "slug": "kilauea_intro",
+      "persona": "Carly",
+      "kinds": [
+        "kilauea"
+      ],
+      "text": "Kilauea Report.",
+      "spoken": "Kill ah way uh Report.",
+      "voice": "af_nova",
+      "speed": 0.74,
+      "sha256": "c021818156d03b6d41ec5484d6b18b458f7ab48b4f39ab21b5e0cb08ac1dbd3f",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 2.518,
+      "peak_dbfs": -3.04,
+      "rms_dbfs": -20.21,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 232,
+        "tail": 850
+      },
+      "render_s": 0.99,
+      "rendered": "2026-09-29T04:06:50-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/voice/plugins/kilauea_report.py title line (time part live)"
+    },
+    "Carly/quake_global_none": {
+      "slug": "quake_global_none",
+      "persona": "Carly",
+      "kinds": [
+        "earthquake"
+      ],
+      "text": "No new global earthquakes since the last report.",
+      "spoken": "No new global earthquakes since the last report.",
+      "voice": "af_nova",
+      "speed": 0.74,
+      "sha256": "4d8c846d244b2a75bb35820cee5892cc9af3a2498cf3be02edac326b45e11b81",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 3.872,
+      "peak_dbfs": -5.04,
+      "rms_dbfs": -20.13,
+      "lead_silence_ms": 5,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 253,
+        "tail": 900
+      },
+      "render_s": 1.38,
+      "rendered": "2026-09-29T04:06:49-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "earthquakes/earthquake-hourly/scripts/earthquake_hourly.py"
+    },
+    "Carly/quake_hi_intro": {
+      "slug": "quake_hi_intro",
+      "persona": "Carly",
+      "kinds": [
+        "earthquake"
+      ],
+      "text": "Hawaii Earthquake Report.",
+      "spoken": "hah wye ee Earthquake Report.",
+      "voice": "af_nova",
+      "speed": 0.74,
+      "sha256": "3e5963cf57f8e19a622db407b375a37ac1f813ea8e289c149748df95d35aeddc",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 2.853,
+      "peak_dbfs": -6.68,
+      "rms_dbfs": -20.33,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 232,
+        "tail": 866
+      },
+      "render_s": 1.12,
+      "rendered": "2026-09-29T04:06:46-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/voice/plugins/earthquake_hawaii.py title line (time part live)"
+    },
+    "Carly/quake_hi_none": {
+      "slug": "quake_hi_none",
+      "persona": "Carly",
+      "kinds": [
+        "earthquake"
+      ],
+      "text": "No new Hawaii earthquakes since the last report.",
+      "spoken": "No new hah wye ee earthquakes since the last report.",
+      "voice": "af_nova",
+      "speed": 0.74,
+      "sha256": "753df7700efc08862cccb1170e4233a4a3f9b43ad3f0e5a80f17b37e32750dd3",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 4.14,
+      "peak_dbfs": -5.66,
+      "rms_dbfs": -20.17,
+      "lead_silence_ms": 20,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 253,
+        "tail": 907
+      },
+      "render_s": 1.49,
+      "rendered": "2026-09-29T04:06:47-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "earthquakes/earthquake-hourly/scripts/earthquake_hourly.py"
+    }
+  },
+  "updated": "2026-09-29T04:06:57-10:00"
+}

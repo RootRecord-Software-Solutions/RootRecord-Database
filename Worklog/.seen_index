@@ -3465,7 +3465,6 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/.venv/lib/python3.14/site-packages/usb_devices-0.5.1.dist-info/INSTALLER|4|1790687823
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/.venv/lib/python3.14/site-packages/usb_devices-0.5.1.dist-info/RECORD|715|1790687823
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/plumbing/run-ollama.sh|1725|1790687694
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1hour.db|184320|1790688030
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/day.db|65536|1790688030
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T131858Z.jpg|12345|1790687940
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T131848Z.jpg|314841|1790687932
@@ -3664,7 +3663,6 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Residual-Path-Retirement-Table-2026-09-28.md|14622|1790689445
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G3-Runtime-Verification-Checklist-2026-09-28.md|11968|1790689445
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G3-Runtime-Verification-Runbook-2026-09-28.md|21506|1790689445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/15min.db|483328|1790689506
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T134351Z.jpg|12400|1790689433
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T134438Z.jpg|322759|1790689483
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T134345Z.jpg|349417|1790689430
@@ -3677,7 +3675,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-delta2-20260929-034506.json|350|1790689506
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-034506.json|820|1790689506
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-034408.json|819|1790689448
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/15min.db|57344|1790689506
 /home/rootrecord/.local/share/gvfs-metadata/root|64|1790689534
 /home/rootrecord/.grokbot/local-exec-backend-return.json|20|1790689571
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T134554Z.jpg|12430|1790689555
@@ -7311,7 +7308,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-delta2-20260929-035456.json|350|1790690096
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json|74|1790690096
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json|186|1790690096
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/.gitignore|2171|1790690114
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-035456.json|820|1790690096
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/httpx|420|1790690045
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/phonemize|430|1790690045
@@ -8531,20 +8527,11 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/functions/comm.h|1451|1790690009
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/functions/basic_ops.h|3995|1790690009
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/functions/accumulate_grad.h|15622|1790690009
-/home/rootrecord/.grokbot/local-exec-supervisor.json|31|1790690337
-/home/rootrecord/.grokbot/local-exec-daemon.json|154|1790690364
-/home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790690338
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|3883008|1790690333
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|5885952|1790690334
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|317775872|1790690334
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|1290240|1790690334
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T135837Z.jpg|12424|1790690319
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T135831Z.jpg|347628|1790690315
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T135826Z.jpg|320447|1790690311
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T135835Z.jpg|12413|1790690317
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-river2pro-20260929-035854.json|357|1790690334
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|73|1790690334
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|137|1790690334
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif|1239689|1790690191
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md|1520|1790690191
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/wa0_airmets_current.md|777|1790690190
@@ -8686,7 +8673,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html|65531|1790690269
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/index_current.html|190651|1790690190
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/raw/index_raw_current.html|190651|1790690190
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json|70507|1790690224
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json|5021|1790690223
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json|4501|1790690224
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/raw/product_types_raw_current.html|74397|1790690252
@@ -8694,18 +8680,7 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/issuedby=HFO&product=RRA&site=hfo_current.html|41902|1790690266
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/raw/issuedby=HFO&product=RRA&site=hfo_raw_current.html|41902|1790690266
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/README.md|232151|1790690191
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/AI/Reports/ai-processing-report_current.md|849|1790690284
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|819|1790690335
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790690335
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-035855.json|819|1790690335
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790690335
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|113|1790690335
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1min.db|229376|1790690335
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1sec.db|2605056|1790690335
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/5min.db|90112|1790690335
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|274432|1790690335
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2449|1790690335
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|2223175|1790690306
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/functions/tensor.h|7529|1790690009
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/functions/pybind.h|634|1790690009
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/python_autograd.h|677|1790690009
@@ -9677,3 +9652,742 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_slow_conv2d_forward_ops.h|2957|1790690008
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_test_warn_in_autograd_native.h|840|1790690008
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_copy_from_native.h|801|1790690008
+/home/rootrecord/.grokbot/local-exec-supervisor.json|31|1790690585
+/home/rootrecord/.grokbot/local-exec-daemon.json|154|1790690602
+/home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790690585
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|3887104|1790690572
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1hour.db|192512|1790690573
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/15min.db|499712|1790690573
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|5898240|1790690573
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|318447616|1790690573
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|1298432|1790690573
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T140225Z.jpg|323009|1790690550
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T140230Z.jpg|351010|1790690554
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T140236Z.jpg|12438|1790690557
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T140234Z.jpg|12442|1790690556
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-river2pro-20260929-040253.json|357|1790690573
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|73|1790690573
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|137|1790690573
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/.gitignore|2458|1790690564
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json|70507|1790690522
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Communications/Relay-Inbox/README.md|2131|1790690564
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/AI/Reports/ai-processing-report_current.md|932|1790690410
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/AI/Reports/Archive/ai-processing-report_2026-09-29T0358.md|849|1790690284
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/AI/Inference/inference_current.lock|0|1790690375
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|821|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|163|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-040254.json|821|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1hour.db|49152|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/15min.db|57344|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1min.db|229376|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1sec.db|2654208|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/5min.db|90112|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|278528|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2416|1790690574
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|119|1790690603
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/20260929-030004-20260929-040323.md|2517646|1790690545
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh|5653|1790690382
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/hawaiian_lexicon.py|19342|1790690528
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/speakable.py|13114|1790690528
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/speakers.py|6449|1790690528
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/test_hawaiian_lexicon.py|2972|1790690528
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_make_dual.h|1005|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/nll_loss_backward_meta_dispatch.h|2533|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_pool2d_with_indices_native.h|1381|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fake_quantize_per_channel_affine_compositeimplicitautograd_dispatch.h|1153|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_semi_structured_tile.h|1193|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_flash_attention_forward_no_dropout_inplace_cuda_dispatch.h|2369|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/view_as_real_copy_compositeexplicitautograd_dispatch.h|1143|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/logit_backward_compositeexplicitautogradnonfunctional_dispatch.h|1128|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/tril_indices_compositeexplicitautograd_dispatch.h|1169|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/item_native.h|728|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/gt_meta_dispatch.h|1622|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_multi_dot.h|1402|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/dense_dim_native.h|864|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_mask_projection.h|1511|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/var_mean_native.h|1364|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_round.h|1502|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/eq_meta.h|989|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/stride_native.h|740|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_lstsq_compositeexplicitautograd_dispatch.h|1196|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/slow_conv3d_forward.h|7004|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/geometric_cpu_dispatch.h|1041|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_shifted_chebyshev_polynomial_u_compositeexplicitautograd_dispatch.h|1692|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/hspmm_ops.h|1961|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/row_stack_compositeimplicitautograd_dispatch.h|1181|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fmin.h|1402|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/sgn_native.h|1368|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_csr_prod_compositeexplicitautograd_dispatch.h|1310|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cudnn_convolution_add_relu_compositeexplicitautograd_dispatch.h|2304|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_native_batch_norm_legit_ops.h|7612|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/atan.h|1397|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_upsample_bilinear2d_aa_backward_cpu_dispatch.h|2603|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/qscheme_ops.h|1218|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mkldnn_adaptive_avg_pool2d_backward.h|1766|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/corrcoef_compositeimplicitautograd_dispatch.h|1020|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/quantize_per_tensor_dynamic.h|1788|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_bsc_tensor_unsafe_ops.h|2054|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cast_Half_native.h|759|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/std_mean_compositeexplicitautograd_dispatch.h|1437|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_unpack_dual_ops.h|1385|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/batch_norm_gather_stats_with_counts_native.h|1359|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_mps_convolution_transpose_compositeexplicitautograd_dispatch.h|2012|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/threshold_ops.h|2879|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/normal_meta_dispatch.h|2308|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/rot90.h|1494|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fliplr_compositeimplicitautograd_dispatch.h|1018|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_nested_tensor_from_mask_native.h|939|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/elu_backward_cuda_dispatch.h|1591|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/index_select.h|1563|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/pow_cpu_dispatch.h|1941|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/upsample_trilinear3d_backward_native.h|1525|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_eigvalsh_native.h|876|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/quantize_per_channel_cuda_dispatch.h|1085|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/frac_native.h|1252|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/true_divide.h|1697|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/kthvalue_cpu_dispatch.h|1642|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/masked_select_backward_ops.h|1428|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/isneginf.h|1301|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/is_contiguous.h|764|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/batch_norm_elemt_ops.h|2849|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_solve_triangular_native.h|983|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_assert_async_cpu_dispatch.h|1059|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fractional_max_pool2d_backward_ops.h|2759|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_pool2d.h|1188|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_gammaincc_native.h|882|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/permute_copy.h|1461|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/sym_constrain_range_for_size_ops.h|1460|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/embedding_dense_backward_compositeexplicitautograd_dispatch.h|1788|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/resize_cpu_dispatch.h|1229|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_standard_gamma_grad_native.h|994|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/as_strided_copy_ops.h|2517|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/smm.h|923|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/hardshrink_ops.h|2005|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/replication_pad1d_backward_cpu_dispatch.h|1865|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/narrow.h|2892|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_coo_tensor_with_dims_and_tensors_meta_dispatch.h|2178|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_pool3d_with_indices_cuda_dispatch.h|1693|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_upsample_bilinear2d_aa_backward_native.h|1472|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/arccos.h|1423|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/binomial.h|1712|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_prelu_kernel_backward.h|1105|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_lu_solve_compositeexplicitautogradnonfunctional_dispatch.h|1136|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/take_along_dim_compositeimplicitautograd_dispatch.h|1403|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/take.h|1402|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/multilabel_margin_loss_forward_ops.h|2546|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cslt_sparse_mm.h|1463|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/log2_ops.h|2282|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/gt_compositeexplicitautogradnonfunctional_dispatch.h|1288|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/rand_like_compositeexplicitautograd_dispatch.h|2488|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/atleast_1d_compositeimplicitautograd_dispatch.h|1094|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_aminmax_ops.h|3638|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/addbmm_meta_dispatch.h|1082|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_sqrt_native.h|1043|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/values_copy_compositeexplicitautogradnonfunctional_dispatch.h|1049|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cos_cpu_dispatch.h|1170|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mkldnn_max_pool3d_backward_ops.h|3135|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fake_quantize_per_tensor_affine_cachemask_cuda_dispatch.h|1108|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/randperm_compositeexplicitautograd_dispatch.h|2528|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_values_ops.h|1220|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/dense_dim_compositeexplicitautograd_dispatch.h|1018|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/lstm_mps_backward_ops.h|4688|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_upsample_nearest_exact2d_backward_cpu_dispatch.h|2495|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/complex_ops.h|1973|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/avg_pool3d_backward_native.h|2030|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/gather_cuda_dispatch.h|1316|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/reflection_pad3d.h|4151|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/column_stack_compositeimplicitautograd_dispatch.h|1190|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bernoulli_meta_dispatch.h|1180|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_lerp_native.h|2719|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/multi_margin_loss_cpu_dispatch.h|1635|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/kaiser_window_ops.h|5919|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_scaled_grouped_mm.h|1490|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/geometric_native.h|1054|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/unsqueeze.h|936|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/col2im_ops.h|2709|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/segment_reduce_cuda_dispatch.h|1248|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_make_per_tensor_quantized_tensor_cpu_dispatch.h|1035|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_scaled_dot_product_fused_attention_overrideable_ops.h|2448|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_thnn_fused_lstm_cell_backward_compositeimplicitautograd_dispatch.h|1256|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fused_rms_norm_backward.h|1313|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_bessel_j1_native.h|883|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_asin_compositeexplicitautograd_dispatch.h|1239|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/pin_memory_compositeimplicitautograd_dispatch.h|1073|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mkldnn_max_pool2d_ops.h|2689|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_linalg_det_native.h|915|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/asinh_meta_dispatch.h|1180|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_modified_bessel_k1_ops.h|1921|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/sinh_ops.h|2282|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/upsample_nearest3d_backward.h|8178|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/acosh_meta.h|820|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/rrelu_with_noise_backward.h|2383|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_test_autograd_multiple_dispatch_view_copy_compositeexplicitautogradnonfunctional_dispatch.h|1080|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/chunk.h|982|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cast_Short.h|975|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/new_full_native.h|1086|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_linalg_svd.h|2224|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/split_copy_ops.h|2141|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/div_ops.h|9213|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/subtract_compositeimplicitautograd_dispatch.h|1665|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/ones_like_compositeexplicitautograd_dispatch.h|1642|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_flash_attention_forward_no_dropout_inplace_ops.h|3222|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/exp.h|1384|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/less_equal.h|2248|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_lerp.h|4409|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_log_softmax_backward_data_meta.h|916|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_spherical_bessel_j0_meta_dispatch.h|1187|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_scaled_dot_product_cudnn_attention_backward_cuda_dispatch.h|1993|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/randperm.h|11222|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/embedding_ops.h|2463|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_batch_norm_impl_index_native.h|1051|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_hermite_polynomial_he_native.h|1370|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/squeeze_copy_native.h|1194|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_indices_copy_compositeexplicitautograd_dispatch.h|1135|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/matrix_power_compositeimplicitautograd_dispatch.h|1226|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bincount_cpu_dispatch.h|1181|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/lcm_native.h|867|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/glu_backward_jvp_native.h|1066|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_backward.h|760|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_pin_memory_native.h|1271|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/indices_copy_compositeexplicitautogradnonfunctional_dispatch.h|1050|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/numpy_T.h|758|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_scaled_dot_product_flash_attention_for_cpu_backward_ops.h|2327|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_convolution_compositeimplicitautograd_dispatch.h|1639|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_reshape_alias_cpu_dispatch.h|1151|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_clamp_max_compositeexplicitautograd_dispatch.h|2181|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/multi_margin_loss.h|2231|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/pow_compositeexplicitautogradnonfunctional_dispatch.h|1384|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_unique.h|1829|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/view_cpu_dispatch.h|1079|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_max_compositeexplicitautograd_dispatch.h|1184|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/silu_cpu_dispatch.h|1174|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/smooth_l1_loss.h|1814|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/dim_native.h|724|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/hamming_window_ops.h|8030|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_rfft2_compositeimplicitautograd_dispatch.h|2114|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bitwise_left_shift_compositeexplicitautogradnonfunctional_dispatch.h|1171|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_ldl_solve_cpu_dispatch.h|1362|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/add_cpu_dispatch.h|1384|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/binary_cross_entropy_backward.h|2341|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/expm1_cuda_dispatch.h|1180|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/istft_native.h|1058|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/logspace_compositeexplicitautograd_dispatch.h|3372|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_flash_attention_backward_native.h|1263|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_pin_memory.h|1556|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/pad_ops.h|1480|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_philox_uniform.h|1968|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_asin.h|1489|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/eq_cuda_dispatch.h|1622|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/masked_fill_native.h|2233|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/dist_compositeexplicitautograd_dispatch.h|1317|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_shifted_chebyshev_polynomial_v_ops.h|5053|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cdist_forward_native.h|964|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/conv_tbc_ops.h|2249|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_dimV.h|756|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_linalg_slogdet_compositeexplicitautogradnonfunctional_dispatch.h|1097|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_functional_assert_scalar_native.h|808|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/quantized_rnn_tanh_cell_ops.h|2506|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/scatter_add_cpu_dispatch.h|1454|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_upsample_nearest_exact2d_backward_compositeexplicitautogradnonfunctional_dispatch.h|1493|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/to_mkldnn_ops.h|2089|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/trunc_meta_dispatch.h|1180|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/vdot_cuda_dispatch.h|1000|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_amp_update_scale_cuda_dispatch.h|1125|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mT_ops.h|1205|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_rfftfreq.h|2031|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/conv_transpose1d_native.h|1025|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/resize_as_ops.h|3227|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/le_compositeexplicitautogradnonfunctional_dispatch.h|1288|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_hfft_compositeimplicitautograd_dispatch.h|2049|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/clamp_min_ops.h|4484|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/rnn_tanh_cell_native.h|901|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/grid_sampler_2d_cpu_dispatch.h|1079|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_semi_structured_tile_cuda_dispatch.h|1111|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/replication_pad3d_backward_ops.h|2367|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cslt_compress_native.h|739|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mH_ops.h|1205|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/adaptive_max_pool2d_backward_meta.h|903|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mvlgamma_cpu_dispatch.h|1103|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/erfc_cuda_dispatch.h|1176|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_dyn_quant_pack_4bit_weight_native.h|896|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/any_meta.h|1111|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/isreal_native.h|730|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/view_as_real_ops.h|1235|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cumprod_backward_ops.h|1460|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mps_convolution_backward_compositeexplicitautograd_dispatch.h|2448|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_softmax_compositeexplicitautogradnonfunctional_dispatch.h|1079|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cummaxmin_backward_ops.h|1469|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mkldnn_max_pool2d_backward_compositeexplicitautograd_dispatch.h|1534|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/flip_cuda_dispatch.h|996|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_local_scalar_dense_ops.h|1250|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/row_indices_copy.h|1381|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cudnn_grid_sampler_ops.h|2046|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cudnn_batch_norm_ops.h|3955|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/gather_ops.h|2196|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/size_compositeimplicitautograd_dispatch.h|1026|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_ldl_factor_ex_native.h|978|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_bessel_j1_cuda_dispatch.h|1166|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/upsample_trilinear3d_backward_cpu_dispatch.h|2849|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cudnn_attention_backward.h|4508|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_to_sparse_bsr_ops.h|2265|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fractional_max_pool3d_ops.h|2773|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/upsample_trilinear3d_ops.h|3849|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_scaled_modified_bessel_k0_meta_dispatch.h|1205|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/upsample_nearest1d_meta.h|900|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/igamma_compositeexplicitautogradnonfunctional_dispatch.h|1147|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/softshrink.h|1482|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_zeta_cpu_dispatch.h|1227|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/miopen_convolution_transpose.h|9347|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cast_Char_native.h|759|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_efficient_attention_forward.h|5659|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_unpool2d_cuda_dispatch.h|1755|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_vector_norm_compositeexplicitautogradnonfunctional_dispatch.h|1200|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/asin.h|1397|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_softmax_backward_data.h|1972|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/conv2d.h|4774|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/gt_native.h|1549|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_convert_indices_from_coo_to_csr.h|1793|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_log_softmax_backward_data_native.h|1238|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/sparse_csr_tensor_compositeimplicitautograd_dispatch.h|1880|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_upsample_bilinear2d_aa_cpu_dispatch.h|2299|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_use_miopen_ctc_loss_ops.h|2515|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/nonzero_ops.h|1807|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_norm_compositeimplicitautograd_dispatch.h|2271|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/log1p_compositeexplicitautogradnonfunctional_dispatch.h|1093|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/log_normal_compositeexplicitautograd_dispatch.h|1426|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_thnn_differentiable_gru_cell_backward.h|1454|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_linalg_slogdet_meta.h|827|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fused_moving_avg_obs_fq_helper_native.h|2418|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_i0e_compositeexplicitautogradnonfunctional_dispatch.h|1049|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_functional_sym_constrain_range_for_size_compositeexplicitautograd_dispatch.h|1142|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/logical_or.h|1462|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/split_with_sizes_copy.h|4710|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_index_put_impl_ops.h|3527|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/maximum_cpu_dispatch.h|1212|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/dequantize_ops.h|3036|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_pool3d.h|1188|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_log_softmax_cuda_dispatch.h|1250|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_use_cudnn_rnn_flatten_weight_compositeimplicitautograd_dispatch.h|1012|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/coalesce.h|759|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_shifted_chebyshev_polynomial_v_meta_dispatch.h|1286|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/sparse_bsr_tensor.h|3247|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/upsample_bilinear2d_backward_cuda_dispatch.h|2581|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fill_mem_eff_dropout_mask_ops.h|1431|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cosine_embedding_loss_native.h|859|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/record_stream.h|764|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/arctan2_compositeimplicitautograd_dispatch.h|1334|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_is_all_true_ops.h|1229|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_pool1d_with_indices.h|1275|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/lstm_cell.h|1205|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_clamp_max.h|3934|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/slice_backward_ops.h|2569|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/new_empty_strided_ops.h|2727|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_erfcx_cpu_dispatch.h|1152|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/t_copy_native.h|808|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cumsum.h|1605|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/unfold_ops.h|1373|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fused_adagrad_native.h|3468|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/geometric_compositeexplicitautograd_dispatch.h|1370|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_standard_gamma_cpu_dispatch.h|1040|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/soft_margin_loss_backward_compositeexplicitautograd_dispatch.h|1480|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_abs_compositeexplicitautograd_dispatch.h|1235|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cummax.h|1644|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/asinh.h|1410|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/histogram_ops.h|5007|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_irfftn_compositeimplicitautograd_dispatch.h|2196|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/diag_embed.h|1649|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/isinf_native.h|1061|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fused_adagrad_ops.h|9870|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/miopen_convolution_add_relu_native.h|976|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_hfftn_native.h|1071|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/dsplit_compositeimplicitautograd_dispatch.h|1145|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fill_mem_eff_dropout_mask_cuda_dispatch.h|1041|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fmod_meta_dispatch.h|1280|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_lgamma_ops.h|2360|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/to_mkldnn_compositeexplicitautograd_dispatch.h|1220|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/contiguous_native.h|796|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/polar_compositeexplicitautograd_dispatch.h|1042|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_add_relu_native.h|1382|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_triton_scaled_dot_attention.h|1842|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_legendre_polynomial_p_meta.h|863|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_philox_key_split_ops.h|1306|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_grid_sampler_2d_cpu_fallback.h|2195|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_lgamma_native.h|1053|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_pool2d_native.h|867|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bmm_compositeexplicitautogradnonfunctional_dispatch.h|1066|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/choose_qparams_optimized_ops.h|1567|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_upsample_bicubic2d_aa.h|8356|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_autocast_to_reduced_precision_compositeimplicitautograd_dispatch.h|1132|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_mps_convolution_transpose_native.h|951|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_thnn_fused_lstm_cell_compositeexplicitautograd_dispatch.h|1635|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_weight_int4pack_mm_for_cpu_native.h|827|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_tensorsolve.h|1734|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/quantized_max_pool1d_compositeexplicitautograd_dispatch.h|1402|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/reshape_native.h|861|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_thnn_fused_lstm_cell_backward_impl_native.h|1298|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/tensor_split_ops.h|3026|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/celu_native.h|939|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/logit_ops.h|2591|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/q_per_channel_zero_points.h|1471|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/convolution_overrideable.h|8743|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/randn_like_compositeimplicitautogradnestedtensor_dispatch.h|1880|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/avg_pool3d_backward_cuda_dispatch.h|1765|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/randperm_ops.h|4122|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/trunc_native.h|1261|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/permute_compositeexplicitautograd_dispatch.h|1041|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_clamp_min.h|3934|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/arccosh.h|1436|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_upsample_nearest_exact1d_backward_meta_dispatch.h|2221|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mkldnn_rnn_layer_ops.h|4591|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/is_conj_ops.h|1194|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_log_softmax.h|1951|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/lgamma_cuda_dispatch.h|1184|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/margin_ranking_loss_compositeimplicitautograd_dispatch.h|1145|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_gather_sparse_backward_compositeimplicitautograd_dispatch.h|1099|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/count_nonzero_compositeexplicitautograd_dispatch.h|1529|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_flash_attention_forward_ops.h|6179|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/argmin_meta.h|865|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/empty_like_compositeexplicitautograd_dispatch.h|1646|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bitwise_right_shift_meta_dispatch.h|1340|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_ndtri_cuda_dispatch.h|1154|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/nanmedian_cuda_dispatch.h|1306|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cudnn_is_acceptable_native.h|737|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_csr_sum_native.h|1172|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_polar.h|1497|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fmod_compositeexplicitautogradnonfunctional_dispatch.h|1143|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_use_cudnn_rnn_flatten_weight.h|937|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_wrapped_quantized_linear_prepacked.h|1428|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/softshrink_backward_meta.h|892|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_sum_native.h|1106|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_nested_view_from_buffer_copy.h|2087|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/unsafe_chunk_native.h|782|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/reflection_pad3d_compositeexplicitautogradnonfunctional_dispatch.h|1179|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_rfft_ops.h|2389|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_irfftn_native.h|1073|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fused_dropout_cuda_dispatch.h|1076|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_philox_key_split_native.h|853|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/nanmedian_ops.h|3452|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_validate_sparse_compressed_tensor_args.h|1351|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_slow_conv2d_backward_compositeexplicitautograd_dispatch.h|2376|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bitwise_left_shift_native.h|1438|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cast_Byte_native.h|759|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_nested_tensor_from_mask_cpu_dispatch.h|1036|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_hermite_polynomial_h_cuda_dispatch.h|1256|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cumprod_meta.h|874|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_cosh_native.h|1043|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/reflection_pad2d_backward_ops.h|2361|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bucketize_cuda_dispatch.h|1471|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/expand_copy_compositeexplicitautograd_dispatch.h|1480|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fft_r2c_cuda_dispatch.h|1316|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/lu_unpack_compositeexplicitautogradnonfunctional_dispatch.h|1164|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/retains_grad.h|763|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_pool1d_with_indices_compositeimplicitautograd_dispatch.h|1193|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/matmul_native.h|1058|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/zeros_ops.h|2301|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/lt_ops.h|4455|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/remainder_meta_dispatch.h|1300|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/remainder_native.h|1366|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_vecdot_ops.h|2070|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_upsample_bilinear2d_aa_backward_compositeexplicitautogradnonfunctional_dispatch.h|1529|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_scaled_dot_product_flash_attention_cuda_dispatch.h|1779|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/movedim_compositeimplicitautograd_dispatch.h|1164|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/ravel_ops.h|1214|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fmin_cuda_dispatch.h|1205|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/any.h|2817|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/embedding_dense_backward.h|6241|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/hardtanh_backward.h|1974|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_gammaln_native.h|826|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_cholesky_ex_cpu_dispatch.h|1397|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/select_backward_compositeexplicitautograd_dispatch.h|1600|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_ifftn.h|5740|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_add_batch_dim_ops.h|1347|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/div_meta_dispatch.h|1826|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/amax_cpu_dispatch.h|1248|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_nested_view_from_buffer_copy_ops.h|2557|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/log_sigmoid_ops.h|1831|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bitwise_right_shift_compositeexplicitautogradnonfunctional_dispatch.h|1173|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_flash_attention_forward_no_dropout_inplace.h|6178|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/random_ops.h|7394|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_native_batch_norm_legit_no_training_compositeexplicitautograd_dispatch.h|2002|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_minimum_native.h|2460|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/scatter.h|4765|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/median_ops.h|3416|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/embedding_renorm_cpu_dispatch.h|1044|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_fft_compositeimplicitautograd_dispatch.h|2043|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/reflection_pad1d_backward.h|5314|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/lu_solve_compositeimplicitautograd_dispatch.h|1355|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/native_norm_ops.h|3972|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/binary_cross_entropy_native.h|1420|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_scaled_dot_product_attention_math.h|1550|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_addcmul_compositeexplicitautograd_dispatch.h|2759|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/lgamma_meta_dispatch.h|1184|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/silu_backward.h|1616|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_cond_ops.h|3378|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_maximum_cuda_dispatch.h|1478|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_standard_gamma_grad.h|1571|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bitwise_right_shift_ops.h|6247|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_ctc_loss_backward_cuda_dispatch.h|1522|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cast_Short_ops.h|1295|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_thnn_differentiable_lstm_cell_backward.h|1585|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/xlogy_native.h|1320|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/asinh_cpu_dispatch.h|1178|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_gammaincc_ops.h|2039|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/huber_loss_cuda_dispatch.h|1373|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/conv_tbc_backward_ops.h|1672|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mps_convolution_transpose_backward_native.h|1072|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/uniform_meta_dispatch.h|1059|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/leaky_relu_backward_compositeexplicitautogradnonfunctional_dispatch.h|1145|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/dot_cpu_dispatch.h|998|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/sym_numel_native.h|734|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sobol_engine_ff_compositeimplicitautograd_dispatch.h|1109|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_softmax_compositeimplicitautograd_dispatch.h|1094|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_scaled_dot_product_cudnn_attention_native.h|1559|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/square.h|1423|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fused_sdp_choice_cuda_dispatch.h|1198|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/empty_permuted_native.h|1063|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/log_sigmoid_backward_ops.h|2313|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/is_inference_native.h|730|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_test_string_default_ops.h|1412|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/reciprocal_meta_dispatch.h|1200|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_ihfftn.h|5771|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/logit_native.h|973|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/output_nr_compositeimplicitautograd_dispatch.h|1018|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cudnn_rnn_ops.h|5128|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bitwise_left_shift_ops.h|6223|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_linalg_solve_ex.h|2360|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_zeta.h|3072|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fused_sgd_native.h|3594|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_fftfreq.h|2018|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_matrix_sqrth.h|1411|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cumsum_meta.h|873|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/detach_copy.h|1331|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_embedding_bag_sparse_backward.h|3511|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/reflection_pad1d_meta_dispatch.h|1587|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_scaled_mm_v2_cuda_dispatch.h|2198|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/batch_norm_update_stats_native.h|1370|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_autocast_to_full_precision_compositeimplicitautograd_dispatch.h|1076|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_choose_qparams_per_tensor_compositeimplicitautograd_dispatch.h|1081|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/exponential_native.h|1076|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/logdet_native.h|730|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mean_compositeexplicitautogradnonfunctional_dispatch.h|1145|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_bessel_j1.h|1391|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/pixel_shuffle_compositeexplicitautograd_dispatch.h|1183|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/norm_cpu_dispatch.h|1852|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/scatter_reduce_native.h|985|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mkldnn_max_pool2d_backward_ops.h|3135|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mse_loss_native.h|902|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_nested_view_from_buffer_copy_native.h|1044|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/as_strided.h|4132|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/grid_sampler_native.h|832|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/resize_as_compositeexplicitautograd_dispatch.h|1647|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_nested_view_from_buffer_ops.h|1580|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_xlog1py.h|3156|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/native_group_norm_backward_cpu_dispatch.h|1575|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_digamma_native.h|826|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_reshape_alias_copy_compositeexplicitautogradnonfunctional_dispatch.h|1231|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/masked_scatter_backward_native.h|813|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/deg2rad_compositeexplicitautograd_dispatch.h|1230|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cdist_backward_cuda_dispatch.h|1074|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_entr_compositeexplicitautogradnonfunctional_dispatch.h|1050|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/segment_reduce_native.h|1327|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_upsample_nearest_exact2d_ops.h|3466|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fft_c2c_cuda_dispatch.h|1737|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/quantile_ops.h|4244|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/to_mkldnn_backward_compositeimplicitautograd_dispatch.h|1056|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_broadcast_to.h|993|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/is_complex_compositeimplicitautograd_dispatch.h|1016|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mkldnn_convolution.h|7171|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_bessel_j1_ops.h|1867|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/hash_tensor_cpu_dispatch.h|1315|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_unsafe_masked_index_put_accumulate_compositeexplicitautograd_dispatch.h|1155|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_lu_with_info_native.h|814|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/resize_ops.h|3143|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/upsample_bilinear2d_ops.h|4620|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bitwise_left_shift_cuda_dispatch.h|1336|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_scaled_grouped_mm_v2_meta_dispatch.h|2390|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/conj_compositeimplicitautograd_dispatch.h|1016|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_mm_native.h|873|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_softmax_cpu_dispatch.h|1236|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/convolution_backward_ops.h|4236|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_lstsq_native.h|1218|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_cos_cuda_dispatch.h|1044|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/angle_cpu_dispatch.h|1128|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/quantized_batch_norm_ops.h|3167|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/acosh.h|1410|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/batch_norm_elemt.h|2146|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/atan_ops.h|2282|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/ldexp_compositeexplicitautograd_dispatch.h|1326|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cudnn_convolution_native.h|1172|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_bessel_y0_cpu_dispatch.h|1164|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/replication_pad2d_backward_cuda_dispatch.h|1867|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fractional_max_pool2d_backward_cuda_dispatch.h|1573|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/uniform_compositeexplicitautograd_dispatch.h|1414|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/fft_ifft_ops.h|2389|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/acos_cpu_dispatch.h|1174|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/floor_divide.h|2244|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/arcsinh_native.h|862|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/addmm_cuda_dispatch.h|2193|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/unique_consecutive.h|2340|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/binary_cross_entropy_cuda_dispatch.h|1491|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fake_quantize_learnable_per_channel_affine_ops.h|2881|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_reciprocal.h|1567|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_debug_has_internal_overlap_native.h|748|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/native_batch_norm_backward_cpu_dispatch.h|1357|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_saturate_weight_to_fp16_native.h|750|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/crow_indices_ops.h|1235|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/argsort.h|1931|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/logaddexp.h|1452|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/convolution_backward_overrideable_compositeexplicitautograd_dispatch.h|3421|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/exp2_cpu_dispatch.h|1174|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_modified_bessel_k0_meta_dispatch.h|1193|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_svdvals_compositeimplicitautograd_dispatch.h|1346|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/tensordot_compositeimplicitautograd_dispatch.h|1427|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/clip_compositeimplicitautograd_dispatch.h|2191|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/erfc.h|1397|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/qscheme.h|758|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/select_backward_compositeexplicitautogradnonfunctional_dispatch.h|1259|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cudnn_convolution_add_relu_ops.h|3511|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/floor_cpu_dispatch.h|1178|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_tan_native.h|1038|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/silu_backward_compositeimplicitautograd_dispatch.h|1057|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mkldnn_rnn_layer_backward_native.h|2279|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_sinc_compositeimplicitautograd_dispatch.h|1193|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/remainder_cuda_dispatch.h|1383|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_slow_conv2d_backward.h|14784|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/upsample_bicubic2d_backward_meta_dispatch.h|2575|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/log_softmax_ops.h|2212|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/nansum_ops.h|2384|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/upsample_nearest3d_compositeimplicitautograd_dispatch.h|1288|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_pdist_forward_ops.h|1927|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/multinomial.h|5334|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/segment_reduce_compositeexplicitautograd_dispatch.h|1633|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/copy_sparse_to_sparse_meta_dispatch.h|1037|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linspace_cuda_dispatch.h|1163|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_weight_int4pack_mm.h|1109|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/gather_backward.h|1094|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/min_compositeimplicitautograd_dispatch.h|1244|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/baddbmm_native.h|1839|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_laguerre_polynomial_l_meta_dispatch.h|1259|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/nll_loss2d_compositeimplicitautograd_dispatch.h|2227|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_chebyshev_polynomial_w_ops.h|4909|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/i0_meta.h|817|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/rnn_tanh_ops.h|2973|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/addmm_meta_dispatch.h|1596|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_slow_conv2d_backward_ops.h|5115|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/indices_copy.h|1341|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_efficient_attention_forward_native.h|1317|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/geqrf_cpu_dispatch.h|1239|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/frexp_native.h|886|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/upsample_trilinear3d_meta_dispatch.h|2547|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/smm_native.h|752|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/log1p_meta_dispatch.h|1180|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/acos_compositeexplicitautogradnonfunctional_dispatch.h|1091|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/type_as_ops.h|1300|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_erf.h|1331|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/glu_meta_dispatch.h|1169|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_i1_meta_dispatch.h|1145|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/exponential_ops.h|2933|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/ge_native.h|1549|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/multi_margin_loss_backward_native.h|1782|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_csc_tensor_unsafe_ops.h|2054|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/masked_fill_cuda_dispatch.h|1136|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_scaled_grouped_mm_v2.h|3711|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_minimum.h|3860|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/poisson_nll_loss_ops.h|1531|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_lu_factor_compositeimplicitautograd_dispatch.h|1361|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/avg_pool2d_backward_meta_dispatch.h|1765|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_log_softmax_ops.h|2057|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/gt.h|2096|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/multiply.h|1658|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/leaky_relu_compositeexplicitautogradnonfunctional_dispatch.h|1183|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_psi.h|1331|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_tensorsolve_native.h|959|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/softmax_compositeexplicitautograd_dispatch.h|1242|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_airy_ai_compositeexplicitautogradnonfunctional_dispatch.h|1050|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_ndtri_ops.h|1843|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_to_sparse_bsc_cuda_dispatch.h|1062|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cumulative_trapezoid.h|1265|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_pool3d_compositeimplicitautograd_dispatch.h|1155|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_polar_cpu_dispatch.h|1247|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/requires_grad_ops.h|1302|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/chain_matmul_native.h|820|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_pool1d_native.h|867|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/nextafter_ops.h|2585|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_scaled_modified_bessel_k0_cpu_dispatch.h|1203|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/imag_compositeimplicitautograd_dispatch.h|1016|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/adaptive_avg_pool2d_cpu_dispatch.h|1424|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/can_cast.h|932|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_softmax_meta_dispatch.h|1238|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_semi_structured_mm_native.h|863|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_pool2d_with_indices_backward.h|2730|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mvlgamma_ops.h|2432|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_nested_from_padded_native.h|1143|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_linalg_check_errors_compositeexplicitautograd_dispatch.h|1069|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_laguerre_polynomial_l_compositeexplicitautograd_dispatch.h|1638|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/ge_cpu_dispatch.h|1620|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_indices_native.h|739|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_nested_tensor_from_mask_compositeexplicitautograd_dispatch.h|1240|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_shifted_chebyshev_polynomial_v_native.h|1433|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/bitwise_left_shift_compositeexplicitautograd_dispatch.h|1703|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/glu_backward_cpu_dispatch.h|1298|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/pin_memory_ops.h|1351|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_to_cpu_native.h|745|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_autocast_to_reduced_precision_ops.h|1595|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_choose_qparams_per_tensor_ops.h|1400|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/randn_native.h|1322|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_foreach_mul_compositeexplicitautograd_dispatch.h|2484|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_values_copy_compositeexplicitautogradnonfunctional_dispatch.h|1050|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/addcmul.h|1763|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mish_cuda_dispatch.h|1176|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mkldnn_max_pool3d_ops.h|2689|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/rsqrt_meta_dispatch.h|1180|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_weight_norm_interface_compositeexplicitautograd_dispatch.h|1313|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/slow_conv_dilated3d_native.h|1470|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/miopen_rnn_backward_native.h|2090|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/size.h|923|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/triu_indices_compositeexplicitautograd_dispatch.h|1169|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_cudnn_rnn_flatten_weight_cuda_dispatch.h|1403|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/amax_meta.h|854|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_modified_bessel_i0_cuda_dispatch.h|1193|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/transpose_copy_compositeexplicitautogradnonfunctional_dispatch.h|1080|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/sort_native.h|1390|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/igammac_native.h|879|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/silu_compositeexplicitautogradnonfunctional_dispatch.h|1091|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/margin_ranking_loss_ops.h|1557|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/one_hot.h|952|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/adaptive_max_pool2d_native.h|1179|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/triu_indices_ops.h|2453|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mm_ops.h|3390|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sample_dirichlet.h|1661|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/channel_shuffle_compositeexplicitautograd_dispatch.h|1400|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/prod_cuda_dispatch.h|1473|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cudnn_convolution_relu.h|7295|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/native_batch_norm_cpu_dispatch.h|2070|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_mkldnn_transpose_meta_dispatch.h|1012|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/nonzero_numpy_native.h|752|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/var_mean_cuda_dispatch.h|1130|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sample_dirichlet_cpu_dispatch.h|1042|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_upsample_nearest_exact2d_cpu_dispatch.h|2191|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/sym_constrain_range_for_size_native.h|836|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/ne_cpu_dispatch.h|1620|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/zero_meta_dispatch.h|971|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/max_compositeimplicitautograd_dispatch.h|1244|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/igamma_meta_dispatch.h|1288|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/adaptive_avg_pool1d.h|1597|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/linalg_svdvals_ops.h|2108|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/greater_equal_compositeimplicitautograd_dispatch.h|1752|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_test_check_tensor.h|939|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/cauchy_cuda_dispatch.h|1063|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/values_copy.h|1331|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/gather_native.h|907|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/mse_loss_meta.h|869|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_fake_quantize_learnable_per_channel_affine_backward_cpu_dispatch.h|1214|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sparse_csr_prod_native.h|1175|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/special_expit_ops.h|1843|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/_sample_dirichlet_ops.h|2153|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/slice_ops.h|1582|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/to_mkldnn_backward_native.h|768|1790690009
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/diagonal_copy_compositeexplicitautograd_dispatch.h|1229|1790690008
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops/alias_copy_compositeexplicitautograd_dispatch.h|1129|1790690008
