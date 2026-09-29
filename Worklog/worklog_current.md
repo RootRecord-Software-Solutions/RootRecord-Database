@@ -4531,3 +4531,4882 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/products/types/ZFP/locations/HFO/archive | mtime=2026-09-29 03:51:31 | domain=Weather | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/products/types/ZFP/locations/HFO/archive/09-29-2026 | mtime=2026-09-29 03:51:31 | domain=Weather | source_job=worklog_scan
 
+### 2026-09-29 03:53:31 HST
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-supervisor.json | size=31 | mtime=2026-09-29 03:53:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon.json | size=154 | mtime=2026-09-29 03:53:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon-connection.json | size=1666 | mtime=2026-09-29 03:53:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Agent Context/Bruce-Agent-Context/CONTEXT/INFRASTRUCTURE.md | size=2096 | mtime=2026-09-29 03:52:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Agent Context/Ava-Agent-Context/CONTEXT/INFRASTRUCTURE.md | size=3116 | mtime=2026-09-29 03:52:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/WO-RPT-001-Reports-Worklog-Domain-Import.md | size=3887 | mtime=2026-09-29 03:52:37 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/A-EYES_Work_Order_WO-AEYES-2026-09-27.md | size=7756 | mtime=2026-09-29 03:52:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/README.md | size=8369 | mtime=2026-09-29 03:52:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Pacific-Unmigrated-Domains-Notes-2026-09-28.md | size=2348 | mtime=2026-09-29 03:52:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db | size=3870720 | mtime=2026-09-29 03:52:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db | size=5832704 | mtime=2026-09-29 03:52:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db | size=315777024 | mtime=2026-09-29 03:52:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T135134Z.jpg | size=321915 | mtime=2026-09-29 03:51:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T135240Z.jpg | size=12385 | mtime=2026-09-29 03:52:41 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T135229Z.jpg | size=321972 | mtime=2026-09-29 03:52:34 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T135139Z.jpg | size=349868 | mtime=2026-09-29 03:51:43 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T135143Z.jpg | size=12335 | mtime=2026-09-29 03:51:45 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T135234Z.jpg | size=346882 | mtime=2026-09-29 03:52:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T135238Z.jpg | size=12375 | mtime=2026-09-29 03:52:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T135145Z.jpg | size=12315 | mtime=2026-09-29 03:51:46 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-river2pro-20260929-035203.json | size=357 | mtime=2026-09-29 03:52:03 | domain=Energy | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-delta2-20260929-035256.json | size=349 | mtime=2026-09-29 03:52:56 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json | size=73 | mtime=2026-09-29 03:52:56 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json | size=73 | mtime=2026-09-29 03:52:03 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json | size=186 | mtime=2026-09-29 03:52:56 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json | size=137 | mtime=2026-09-29 03:52:03 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/02_current.gif | size=88713 | mtime=2026-09-29 03:52:04 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/08_current.gif | size=93866 | mtime=2026-09-29 03:52:16 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/07/07_current.gif | size=92938 | mtime=2026-09-29 03:52:14 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/04/04_current.gif | size=89515 | mtime=2026-09-29 03:52:08 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/01_current.gif | size=90137 | mtime=2026-09-29 03:52:02 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/06/06_current.gif | size=84497 | mtime=2026-09-29 03:52:12 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/03_current.gif | size=89097 | mtime=2026-09-29 03:52:06 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/00_current.gif | size=81918 | mtime=2026-09-29 03:52:00 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif | size=91214 | mtime=2026-09-29 03:52:18 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif | size=89740 | mtime=2026-09-29 03:52:20 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif | size=91948 | mtime=2026-09-29 03:52:10 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/14/GOES18-HI-14-600x600/GOES18-HI-14-600x600_current.gif | size=4620342 | mtime=2026-09-29 03:52:00 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json | size=70507 | mtime=2026-09-29 03:52:20 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/products/types/AFD/locations/HFO/HFO_current.txt | size=6508 | mtime=2026-09-29 03:53:02 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/gridpoints/HFO/272,74/272,74_current.txt | size=108858 | mtime=2026-09-29 03:52:01 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=820 | mtime=2026-09-29 03:52:57 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=162 | mtime=2026-09-29 03:52:57 | domain=System | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-035203.json | size=819 | mtime=2026-09-29 03:52:03 | domain=System | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-035257.json | size=820 | mtime=2026-09-29 03:52:57 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=85 | mtime=2026-09-29 03:52:57 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=114 | mtime=2026-09-29 03:52:57 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1min.db | size=229376 | mtime=2026-09-29 03:52:03 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1sec.db | size=2535424 | mtime=2026-09-29 03:52:57 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=274432 | mtime=2026-09-29 03:52:57 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2424 | mtime=2026-09-29 03:52:57 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=963247 | mtime=2026-09-29 03:53:57 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/.lock | size=0 | mtime=2026-09-29 03:53:20 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/pyvenv.cfg | size=176 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/.gitignore | size=1 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/activate | size=4156 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/activate.nu | size=4014 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/activate.ps1 | size=2765 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/activate.xsh | size=3867 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/pydoc.bat | size=1219 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/activate_this.py | size=2383 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/activate.bat | size=2736 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/activate.csh | size=2686 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/deactivate.bat | size=1730 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin/activate.fish | size=4397 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/CACHEDIR.TAG | size=43 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/_virtualenv.py | size=5246 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/_virtualenv.pth | size=18 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/bin/uvx | size=346992 | mtime=2026-09-29 03:53:01 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/bin/uv | size=50437584 | mtime=2026-09-29 03:53:01 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/.lock | size=0 | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/.gitignore | size=1 | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/fileutils.h | size=507 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/boolobject.h | size=1136 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pystrcmp.h | size=436 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/weakrefobject.h | size=1234 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/unicodeobject.h | size=35164 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/descrobject.h | size=3080 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/sliceobject.h | size=2518 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/import.h | size=3033 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pyport.h | size=25593 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/listobject.h | size=1782 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/warnings.h | size=1129 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/complexobject.h | size=728 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/frameobject.h | size=336 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/patchlevel.h | size=1301 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/codecs.h | size=7071 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pymem.h | size=3914 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/marshal.h | size=827 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/fileobject.h | size=1650 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/bytesobject.h | size=2619 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/datetime.h | size=9769 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/osmodule.h | size=291 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/methodobject.h | size=5076 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pylifecycle.h | size=2249 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/tracemalloc.h | size=2285 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/fileutils.h | size=232 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/longintrepr.h | size=4889 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/weakrefobject.h | size=2032 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/unicodeobject.h | size=35296 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/context.h | size=1965 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/descrobject.h | size=1642 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/import.h | size=1623 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/listobject.h | size=1633 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/warnings.h | size=564 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/complexobject.h | size=1248 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/frameobject.h | size=1108 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/classobject.h | size=2245 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pymem.h | size=3379 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/fileobject.h | size=818 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/bytesobject.h | size=4660 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pthread_stubs.h | size=3505 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/initconfig.h | size=7820 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/methodobject.h | size=2276 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pylifecycle.h | size=3423 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pyerrors.h | size=4276 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/setobject.h | size=2146 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pythread.h | size=1418 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/objimpl.h | size=3316 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/genobject.h | size=3316 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/picklebufobject.h | size=848 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pyctype.h | size=1387 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pystate.h | size=17228 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/code.h | size=16188 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/cellobject.h | size=1076 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/tupleobject.h | size=1377 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/floatobject.h | size=900 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/modsupport.h | size=4336 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pythonrun.h | size=4903 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/interpreteridobject.h | size=387 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pyframe.h | size=1479 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/ceval.h | size=1650 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/longobject.h | size=4679 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pytime.h | size=12402 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/object.h | size=21212 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/traceback.h | size=444 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pydebug.h | size=1413 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/memoryobject.h | size=2272 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/bytearrayobject.h | size=1163 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/funcobject.h | size=7188 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/pyfpe.h | size=444 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/dictobject.h | size=4686 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/compile.h | size=2660 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/sysmodule.h | size=489 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/abstract.h | size=7870 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython/odictobject.h | size=1311 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pyerrors.h | size=13017 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/typeslots.h | size=2342 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/opcode.h | size=12808 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/setobject.h | size=1557 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pythread.h | size=4875 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/objimpl.h | size=9238 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pytypedefs.h | size=851 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/exports.h | size=1267 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pydtrace.h | size=2404 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pycapsule.h | size=1727 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/errcode.h | size=1779 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/intrcheck.h | size=772 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/enumobject.h | size=253 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/iterobject.h | size=597 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pybuffer.h | size=5282 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pyconfig.h | size=55933 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pymath.h | size=1688 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/osdefs.h | size=737 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pystate.h | size=4635 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/bltinmodule.h | size=264 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/genericaliasobject.h | size=334 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/dynamic_annotations.h | size=22471 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/moduleobject.h | size=3559 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/tupleobject.h | size=1615 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/floatobject.h | size=1532 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/py_curses.h | size=2473 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/modsupport.h | size=6515 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pythonrun.h | size=1313 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pymacro.h | size=6656 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/interpreteridobject.h | size=333 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pyframe.h | size=551 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/ceval.h | size=6267 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pyexpat.h | size=3295 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/longobject.h | size=3739 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/Python.h | size=2854 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pyhash.h | size=4252 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/structseq.h | size=1398 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/object.h | size=37155 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/traceback.h | size=585 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_range.h | size=346 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_traceback.h | size=3501 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_bitutils.h | size=6062 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_runtime.h | size=8429 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_dict.h | size=6384 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_blocks_output_buffer.h | size=8688 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_fileutils.h | size=7910 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_emscripten_signal.h | size=562 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_ast.h | size=31288 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_long.h | size=7805 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_exceptions.h | size=842 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_global_strings.h | size=25438 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_bytes_methods.h | size=3384 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_unionobject.h | size=682 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_opcode.h | size=20081 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_gc.h | size=7658 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_getopt.h | size=490 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_hashtable.h | size=4286 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_memoryobject.h | size=383 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_instruments.h | size=2998 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_tuple.h | size=2197 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_initconfig.h | size=5706 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_typeobject.h | size=4731 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_symtable.h | size=7035 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_tracemalloc.h | size=3075 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_pythread.h | size=2075 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_global_objects.h | size=3035 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_obmalloc_init.h | size=2085 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_runtime_init.h | size=5912 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_pylifecycle.h | size=3365 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_interp.h | size=9086 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_unicodeobject.h | size=2657 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_pyhash.h | size=709 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_condvar.h | size=2909 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_format.h | size=480 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_atomic.h | size=16979 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_runtime_init_generated.h | size=45751 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_bytesobject.h | size=1339 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_flowgraph.h | size=4630 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_pystate.h | size=4982 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_import.h | size=6358 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_token.h | size=3050 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_object.h | size=14917 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_obmalloc.h | size=27284 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_ceval_state.h | size=2744 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_signal.h | size=2611 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_genobject.h | size=1186 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_compile.h | size=3453 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_unicodeobject_generated.h | size=125516 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_call.h | size=3920 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_atomic_funcs.h | size=2438 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_opcode_utils.h | size=2686 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_ceval.h | size=5265 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_parser.h | size=1358 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_object_state.h | size=1016 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_function.h | size=611 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_global_objects_fini_generated.h | size=115361 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_pyarena.h | size=2733 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_fileutils_windows.h | size=2724 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_code.h | size=15835 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_floatobject.h | size=1578 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_time.h | size=388 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_pymem_init.h | size=2654 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_atexit.h | size=1149 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_pymath.h | size=8600 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_namespace.h | size=392 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_dict_state.h | size=1095 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_sliceobject.h | size=414 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_descrobject.h | size=499 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_sysmodule.h | size=999 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_pyerrors.h | size=3110 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_list.h | size=1980 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_intrinsics.h | size=1397 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_warnings.h | size=740 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_moduleobject.h | size=1192 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_abstract.h | size=611 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_context.h | size=1301 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_faulthandler.h | size=2220 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_asdl.h | size=3035 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_dtoa.h | size=1615 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_typevarobject.h | size=763 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_strhex.h | size=937 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_pymem.h | size=3040 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_pathconfig.h | size=606 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_gil.h | size=1565 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_ast_state.h | size=6749 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_ucnhash.h | size=898 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_frame.h | size=9255 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_structseq.h | size=923 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal/pycore_hamt.h | size=3742 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/memoryobject.h | size=1081 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/bytearrayobject.h | size=1466 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/rangeobject.h | size=630 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pymacconfig.h | size=2810 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pystrtod.h | size=1557 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/dictobject.h | size=3860 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/compile.h | size=448 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/sysmodule.h | size=1729 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/structmember.h | size=1645 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/abstract.h | size=32616 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/pystats.h | size=2741 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/bin/pip | size=234 | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/bin/idle3.12 | size=156 | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/bin/python3.12 | size=30964240 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/bin/pip3 | size=234 | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/bin/python3.12-config | size=3219 | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/bin/pydoc3.12 | size=141 | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/bin/pip3.12 | size=234 | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/bin/2to3-3.12 | size=158 | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/BUILD | size=8 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/tclIndex | size=9866 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/word.tcl | size=4764 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/safe.tcl | size=46995 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/install.tcl | size=7312 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/auto.tcl | size=22931 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/foreachline.tcl | size=608 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/writefile.tcl | size=911 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/history.tcl | size=7899 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/clock.tcl | size=60997 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/parray.tcl | size=814 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/cookiejar0.2/public_suffix_list.dat.gz | size=70835 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/cookiejar0.2/idna.tcl | size=7453 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/cookiejar0.2/cookiejar.tcl | size=21330 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/cookiejar0.2/pkgIndex.tcl | size=214 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp437.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/gb2312.enc | size=85574 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/euc-kr.enc | size=93918 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-11.enc | size=1095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp874.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp855.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/koi8-t.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp864.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp857.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso2022-jp.enc | size=192 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/shiftjis.enc | size=41862 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp1251.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp775.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macCroatian.enc | size=1096 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cns11643.enc | size=97050 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-9.enc | size=1094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-7.enc | size=1094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp869.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp936.enc | size=132509 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp950.enc | size=91831 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp737.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/jis0212.enc | size=70974 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp860.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp1253.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-5.enc | size=1094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macGreek.enc | size=1093 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/jis0201.enc | size=1092 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp1255.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/koi8-r.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/ksc5601.enc | size=92877 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-2.enc | size=1094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/symbol.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-15.enc | size=1095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-6.enc | size=1094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/big5.enc | size=92873 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso2022.enc | size=226 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macThai.enc | size=1092 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-16.enc | size=1095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp866.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/gb12345.enc | size=86619 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-3.enc | size=1094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/euc-jp.enc | size=82537 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-10.enc | size=1095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp865.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp1258.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macCentEuro.enc | size=1096 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/jis0208.enc | size=80453 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/ascii.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp1254.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-1.enc | size=1094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp1250.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp1252.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/euc-cn.enc | size=85574 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/koi8-u.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macTurkish.enc | size=1095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macDingbats.enc | size=1096 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso2022-kr.enc | size=115 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-4.enc | size=1094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macJapan.enc | size=48028 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-8.enc | size=1094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp861.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp852.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp932.enc | size=48207 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp863.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-13.enc | size=1095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp862.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/koi8-ru.enc | size=1092 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp165.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macRomania.enc | size=1095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macRoman.enc | size=1093 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/iso8859-14.enc | size=1095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp850.enc | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp1257.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/dingbats.enc | size=1093 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macIceland.enc | size=1095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macUkraine.enc | size=1095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/macCyrillic.enc | size=1096 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/gb1988.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/tis-620.enc | size=1092 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp1256.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/ebcdic.enc | size=1091 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/cp949.enc | size=130423 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding/gb2312-raw.enc | size=84532 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/readfile.tcl | size=599 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/tclAppInit.c | size=4852 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/opt0.4/optparse.tcl | size=30413 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/opt0.4/pkgIndex.tcl | size=625 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/tm.tcl | size=11904 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/icu.tcl | size=3861 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/package.tcl | size=24081 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/init.tcl | size=23574 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/thread3.0.6/libtcl9thread3.0.6.so | size=105432 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/thread3.0.6/ttrace.tcl | size=24364 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/thread3.0.6/pkgIndex.tcl | size=2151 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/libpython3.so | size=20736 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/copyreg.py | size=7614 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/rlcompleter.py | size=7827 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pickletools.py | size=94052 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/EXTERNALLY-MANAGED | size=97 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/os.py | size=40821 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/operator.py | size=10965 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/inspect.py | size=127125 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtle.py | size=146363 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/json/__init__.py | size=14020 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/json/decoder.py | size=12525 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/json/encoder.py | size=16075 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/json/tool.py | size=3339 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/json/scanner.py | size=2434 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_compression.py | size=5681 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/signals.py | size=2403 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/mock.py | size=106317 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/runner.py | size=10368 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/case.py | size=57531 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/__init__.py | size=3487 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/suite.py | size=13512 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/result.py | size=9130 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/main.py | size=11991 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/async_case.py | size=5483 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/_log.py | size=2746 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/__main__.py | size=472 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/util.py | size=5215 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest/loader.py | size=21116 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sre_parse.py | size=229 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_sysconfigdata__linux_x86_64-linux-gnu.py | size=51285 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/doctest.py | size=106749 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/_aix.py | size=12505 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/_endian.py | size=2535 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/__init__.py | size=18268 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/wintypes.py | size=5629 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/macholib/framework.py | size=1105 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/macholib/dylib.py | size=960 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/macholib/__init__.py | size=154 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/macholib/fetch_macholib | size=84 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/macholib/README.ctypes | size=296 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/macholib/fetch_macholib.bat | size=75 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/macholib/dyld.py | size=5024 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/util.py | size=13959 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/wsgiref/simple_server.py | size=5171 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/wsgiref/__init__.py | size=657 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/wsgiref/headers.py | size=7370 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/wsgiref/types.py | size=1717 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/wsgiref/validate.py | size=15036 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/wsgiref/handlers.py | size=21809 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/wsgiref/util.py | size=5472 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/dataclasses.py | size=62085 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/__hello__.py | size=227 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/timeit.py | size=13464 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/html/parser.py | size=22048 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/html/__init__.py | size=4775 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/html/entities.py | size=75512 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/shlex.py | size=13353 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/stat.py | size=5485 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ensurepip/_uninstall.py | size=808 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ensurepip/__init__.py | size=9445 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ensurepip/_bundled/pip-25.0.1-py3-none-any.whl | size=1841526 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ensurepip/__main__.py | size=88 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/abc.py | size=6538 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/http/server.py | size=49202 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/http/__init__.py | size=8308 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/http/cookies.py | size=21568 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/http/client.py | size=59574 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/http/cookiejar.py | size=77438 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/warnings.py | size=21909 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/colorsys.py | size=4062 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/statistics.py | size=50227 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/shelve.py | size=8560 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/quopri.py | size=7184 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/hmac.py | size=7716 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pipes.py | size=8978 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/locale.py | size=78599 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sndhdr.py | size=7448 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/posixpath.py | size=17356 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_sitebuiltins.py | size=3128 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu/Setup.local | size=895 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu/install-sh | size=15358 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu/Setup.bootstrap | size=902 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu/Makefile | size=182553 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu/config.c | size=8329 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu/python-config.py | size=2100 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu/makesetup | size=9312 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu/Setup.stdlib | size=6318 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu/Setup | size=11525 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu/config.c.in | size=1752 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu/python.o | size=4444 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_pyio.py | size=93593 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/urllib/__init__.py | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/urllib/response.py | size=2361 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/urllib/parse.py | size=45676 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/urllib/error.py | size=2415 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/urllib/request.py | size=103724 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/urllib/robotparser.py | size=9468 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/poplib.py | size=14619 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/mailbox.py | size=78911 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zoneinfo/_tzpath.py | size=5388 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zoneinfo/_zoneinfo.py | size=24674 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zoneinfo/_common.py | size=5294 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zoneinfo/__init__.py | size=703 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pprint.py | size=24158 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_weakrefset.py | size=5893 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/genericpath.py | size=5572 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pkgutil.py | size=18281 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sunau.py | size=18478 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/reprlib.py | size=7148 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pstats.py | size=29289 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/typing.py | size=118836 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/contextvars.py | size=129 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/io.py | size=3582 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/mailcap.py | size=9333 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_osx_support.py | size=22023 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tabnanny.py | size=11532 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pdb.py | size=70298 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/trace.py | size=29352 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/gettext.py | size=21320 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/compileall.py | size=20507 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/argparse.py | size=101155 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ftplib.py | size=35240 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sysconfig.py | size=31850 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xmlrpc/server.py | size=36822 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xmlrpc/__init__.py | size=38 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xmlrpc/client.py | size=49331 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_markupbase.py | size=14653 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/dis.py | size=30227 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/gzip.py | size=25402 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_compat_pickle.py | size=8761 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/policy.py | size=10614 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/architecture.rst | size=9561 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/quoprimime.py | size=9864 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/headerregistry.py | size=20819 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/parser.py | size=4975 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/encoders.py | size=1778 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/message.py | size=48396 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/header.py | size=24092 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/mime/message.py | size=1315 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/mime/base.py | size=914 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/mime/nonmultipart.py | size=689 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/mime/audio.py | size=3094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/mime/__init__.py | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/mime/image.py | size=3726 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/mime/application.py | size=1321 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/mime/multipart.py | size=1619 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/mime/text.py | size=1394 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/__init__.py | size=1764 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/contentmanager.py | size=10588 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/_header_value_parser.py | size=111685 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/base64mime.py | size=3551 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/charset.py | size=17063 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/utils.py | size=16071 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/generator.py | size=21403 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/errors.py | size=3814 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/_parseaddr.py | size=17821 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/_encoded_words.py | size=8541 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/feedparser.py | size=22796 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/_policybase.py | size=15535 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/iterators.py | size=2129 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/crypt.py | size=3913 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site.py | size=23198 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xdrlib.py | size=5942 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/this.py | size=1003 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zipfile/_path/__init__.py | size=10860 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zipfile/_path/glob.py | size=1158 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zipfile/__init__.py | size=89520 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zipfile/__main__.py | size=58 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/sharedctypes.py | size=6306 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/process.py | size=12139 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/resource_tracker.py | size=11077 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/pool.py | size=32760 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/spawn.py | size=9644 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/queues.py | size=12693 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/shared_memory.py | size=18458 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/__init__.py | size=916 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/popen_spawn_posix.py | size=2029 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/popen_forkserver.py | size=2230 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/reduction.py | size=9512 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/popen_spawn_win32.py | size=4515 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/heap.py | size=11626 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/dummy/__init__.py | size=3061 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/dummy/connection.py | size=1598 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/context.py | size=11673 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/forkserver.py | size=12202 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/connection.py | size=41398 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/managers.py | size=47893 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/resource_sharer.py | size=5145 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/synchronize.py | size=12272 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/util.py | size=14261 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/popen_fork.py | size=2377 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/antigravity.py | size=500 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tomllib/_parser.py | size=23117 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tomllib/__init__.py | size=308 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tomllib/_types.py | size=254 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tomllib/_re.py | size=2943 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/traceback.py | size=46393 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/cgitb.py | size=12421 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/webbrowser.py | size=24207 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/glob.py | size=8732 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/bisect.py | size=3423 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zipimport.py | size=27840 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_threading_local.py | size=7220 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ssl.py | size=51655 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/socket.py | size=37815 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/symtable.py | size=12477 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/stringprep.py | size=12917 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/netrc.py | size=6922 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/graphlib.py | size=9648 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sre_constants.py | size=232 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/getpass.py | size=5990 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/collections/abc.py | size=119 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/collections/__init__.py | size=52378 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/keyword.py | size=1073 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/linecache.py | size=5800 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib-dynload/_dbm.cpython-312-x86_64-linux-gnu.so | size=2376896 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib-dynload/_crypt.cpython-312-x86_64-linux-gnu.so | size=18560 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib-dynload/_tkinter.cpython-312-x86_64-linux-gnu.so | size=138832 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib-dynload/.empty | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_pydecimal.py | size=227283 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/plistlib.py | size=28582 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tempfile.py | size=32386 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/optparse.py | size=60369 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/configparser.py | size=54205 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tokenize.py | size=21570 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lzma.py | size=13277 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sqlite3/dbapi2.py | size=3631 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sqlite3/__init__.py | size=2501 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sqlite3/dump.py | size=3538 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sqlite3/__main__.py | size=3855 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/numbers.py | size=11467 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/charmap.py | size=2084 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/hz.py | size=1011 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/shift_jis.py | size=1039 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1256.py | size=12814 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_1.py | size=13176 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_7.py | size=12844 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/kz1048.py | size=13723 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/gb2312.py | size=1027 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1250.py | size=13686 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/big5hkscs.py | size=1039 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_11.py | size=12335 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/koi8_r.py | size=13779 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1253.py | size=13094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1026.py | size=13113 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp950.py | size=1023 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/hp_roman8.py | size=13475 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/mac_farsi.py | size=15170 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/johab.py | size=1023 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp861.py | size=34633 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1257.py | size=13374 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/raw_unicode_escape.py | size=1332 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp949.py | size=1023 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/mbcs.py | size=1211 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp500.py | size=13121 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_6.py | size=10833 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp866.py | size=34396 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/bz2_codec.py | size=2249 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/mac_latin2.py | size=14118 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1258.py | size=13364 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/utf_8.py | size=1005 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_5.py | size=13015 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/gb18030.py | size=1031 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp869.py | size=32965 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp424.py | size=12055 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp932.py | size=1023 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/quopri_codec.py | size=1525 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/big5.py | size=1019 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp864.py | size=33663 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/shift_jis_2004.py | size=1059 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/__init__.py | size=5884 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_14.py | size=13652 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/mac_cyrillic.py | size=13454 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/utf_16.py | size=5236 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso2022_jp.py | size=1053 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/utf_16_be.py | size=1037 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp860.py | size=34681 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp874.py | size=12595 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/euc_kr.py | size=1027 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/shift_jisx0213.py | size=1059 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp037.py | size=13121 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/mac_greek.py | size=13721 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_16.py | size=13557 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1251.py | size=13361 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso2022_jp_1.py | size=1061 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/latin_1.py | size=1264 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_4.py | size=13376 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso2022_jp_2004.py | size=1073 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp865.py | size=34618 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_8.py | size=11036 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_2.py | size=13404 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso2022_jp_3.py | size=1061 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso2022_jp_2.py | size=1061 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp862.py | size=33370 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/utf_32.py | size=5129 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp850.py | size=34105 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_13.py | size=13271 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_9.py | size=13156 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/euc_jisx0213.py | size=1051 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/mac_romanian.py | size=13661 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp858.py | size=34015 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/mac_iceland.py | size=13498 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/mac_croatian.py | size=13633 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp856.py | size=12423 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/undefined.py | size=1299 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/ptcp154.py | size=14015 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp855.py | size=33850 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/rot_13.py | size=2448 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1252.py | size=13511 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/mac_arabic.py | size=36467 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp863.py | size=34252 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/utf_16_le.py | size=1037 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp437.py | size=34564 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/uu_codec.py | size=2851 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/unicode_escape.py | size=1304 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp273.py | size=14132 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/utf_8_sig.py | size=4133 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp720.py | size=13686 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/zlib_codec.py | size=2204 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/oem.py | size=1019 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp737.py | size=34681 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_15.py | size=13212 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/gbk.py | size=1015 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/ascii.py | size=1248 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_10.py | size=13589 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/palmos.py | size=13519 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/idna.py | size=9710 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp852.py | size=35002 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1006.py | size=13568 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/hex_codec.py | size=1508 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1254.py | size=13502 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/aliases.py | size=15677 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso2022_kr.py | size=1053 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/euc_jis_2004.py | size=1051 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp775.py | size=34476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1255.py | size=12466 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/euc_jp.py | size=1027 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/base64_codec.py | size=1533 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/utf_32_be.py | size=930 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/koi8_u.py | size=13762 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/mac_turkish.py | size=13513 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp875.py | size=12854 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp857.py | size=33908 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/koi8_t.py | size=13193 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/utf_7.py | size=946 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1140.py | size=13105 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso2022_jp_ext.py | size=1069 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/cp1125.py | size=34597 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/punycode.py | size=6883 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/utf_32_le.py | size=930 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/tis_620.py | size=12300 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/mac_roman.py | size=13480 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings/iso8859_3.py | size=13089 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/profile.py | size=23093 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/venv/scripts/posix/activate.csh | size=934 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/venv/scripts/posix/activate.fish | size=2209 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/venv/scripts/common/activate | size=2170 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/venv/scripts/common/Activate.ps1 | size=9033 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/venv/__init__.py | size=26750 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/venv/__main__.py | size=145 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/string.py | size=11786 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/cmd.py | size=14873 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sched.py | size=6351 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/vendor.txt | size=317 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__init__.py | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/socks.py | size=7639 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/emscripten/__init__.py | size=870 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/emscripten/response.py | size=9719 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/emscripten/request.py | size=566 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/emscripten/connection.py | size=8960 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/emscripten/emscripten_fetch_worker.js | size=3677 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/emscripten/fetch.py | size=23520 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py | size=19760 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/_version.py | size=520 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/connectionpool.py | size=44164 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/_base_connection.py | size=5580 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/filepost.py | size=2388 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/proxy.py | size=1148 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/wait.py | size=4423 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/timeout.py | size=10363 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__init__.py | size=1001 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/response.py | size=3374 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/request.py | size=8086 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py | size=5479 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/ssltransport.py | size=8847 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/connection.py | size=4444 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/ssl_.py | size=17742 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/retry.py | size=19577 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/util.py | size=1146 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util/url.py | size=15256 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/py.typed | size=93 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/_request_methods.py | size=9931 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/__init__.py | size=6979 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/response.py | size=53031 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/http2/probe.py | size=3014 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/http2/__init__.py | size=1741 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/http2/connection.py | size=12578 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/_collections.py | size=17522 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/connection.py | size=42786 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/LICENSE.txt | size=1093 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/exceptions.py | size=9945 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/fields.py | size=10801 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/poolmanager.py | size=23929 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/msgpack/COPYING | size=614 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/msgpack/__init__.py | size=1109 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/msgpack/fallback.py | size=32390 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/msgpack/exceptions.py | size=1081 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/msgpack/ext.py | size=5726 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/bom.cdx.json | size=5319 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distro/distro.py | size=49430 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distro/py.typed | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distro/__init__.py | size=981 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distro/LICENSE | size=11325 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distro/__main__.py | size=64 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/t64-arm.exe | size=182784 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/compat.py | size=40605 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/w32.exe | size=91648 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/w64-arm.exe | size=168448 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/__init__.py | size=625 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/t64.exe | size=108032 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/resources.py | size=11350 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/scripts.py | size=18835 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/LICENSE.txt | size=14531 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/w64.exe | size=101888 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/util.py | size=68167 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib/t32.exe | size=97792 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/__init__.py | size=4907 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_impl.py | size=14936 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/py.typed | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/__init__.py | size=691 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/LICENSE | size=1081 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process/__init__.py | size=557 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py | size=12216 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pkg_resources/__init__.py | size=124451 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pkg_resources/LICENSE | size=1023 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/color.py | size=18211 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_null_file.py | size=1394 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/constrain.py | size=1288 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_extension.py | size=265 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_log_render.py | size=3225 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_pick.py | size=423 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/palette.py | size=3396 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/padding.py | size=4908 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_emoji_replace.py | size=1064 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/color_triplet.py | size=1054 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/style.py | size=26990 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/region.py | size=166 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/control.py | size=6487 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/tree.py | size=9451 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/syntax.py | size=36371 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/theme.py | size=3771 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/styled.py | size=1258 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_windows.py | size=1925 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_timer.py | size=417 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/repr.py | size=4431 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/abc.py | size=890 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/file_proxy.py | size=1683 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_inspect.py | size=9656 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/live_render.py | size=3521 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/layout.py | size=14004 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_stack.py | size=351 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_palettes.py | size=7063 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_wrap.py | size=3404 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_ratio.py | size=5325 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/progress_bar.py | size=8162 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/pretty.py | size=36391 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/terminal_theme.py | size=3370 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/py.typed | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/filesize.py | size=2484 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/__init__.py | size=6090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/traceback.py | size=35861 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/cells.py | size=5130 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/themes.py | size=102 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/rule.py | size=4602 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/LICENSE | size=1056 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/jupyter.py | size=3252 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/ansi.py | size=6921 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/pager.py | size=828 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/default_styles.py | size=8257 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/spinner.py | size=4214 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_fileno.py | size=799 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_windows_renderer.py | size=2783 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/bar.py | size=3263 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/measure.py | size=5305 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_emoji_codes.py | size=140235 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/highlighter.py | size=9586 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/emoji.py | size=2367 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/align.py | size=10324 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/diagnose.py | size=1025 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/errors.py | size=642 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/progress.py | size=60408 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/scope.py | size=2843 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_cell_widths.py | size=10209 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/table.py | size=40049 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_spinners.py | size=19919 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/segment.py | size=24743 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/markup.py | size=8451 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/columns.py | size=7131 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/prompt.py | size=12447 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/live.py | size=15180 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/protocol.py | size=1391 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/logging.py | size=12468 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/__main__.py | size=7896 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/console.py | size=100849 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/panel.py | size=11157 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/screen.py | size=1591 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/containers.py | size=5502 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_loop.py | size=1236 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/box.py | size=10686 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/status.py | size=4424 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_win32_console.py | size=22755 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/_export_format.py | size=2128 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/json.py | size=5031 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich/text.py | size=47552 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli_w/py.typed | size=26 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli_w/__init__.py | size=169 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli_w/LICENSE | size=1072 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli_w/_writer.py | size=6961 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/truststore/_windows.py | size=17993 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/truststore/py.typed | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/truststore/_api.py | size=11413 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/truststore/__init__.py | size=1320 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/truststore/LICENSE | size=1086 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/truststore/_ssl_constants.py | size=1130 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/truststore/_macos.py | size=20503 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/truststore/_openssl.py | size=2412 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/style.py | size=6423 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/modeline.py | size=1008 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/plugin.py | size=1928 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/_mapping.py | size=77934 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/__init__.py | size=12118 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/python.py | size=54250 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/_mapping.py | size=4176 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__init__.py | size=5388 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/lexer.py | size=35394 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/__init__.py | size=2986 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/LICENSE | size=1331 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/styles/_mapping.py | size=3312 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/styles/__init__.py | size=2045 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/formatter.py | size=4393 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/regexopt.py | size=3308 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/unistring.py | size=63211 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/filters/__init__.py | size=40397 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/token.py | size=6229 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/sphinxext.py | size=7984 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/__main__.py | size=356 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/console.py | size=1721 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/util.py | size=10046 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/scanner.py | size=3095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/filter.py | size=1913 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/compat.py | size=2035 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/sessions.py | size=34248 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/py.typed | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/__init__.py | size=5873 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/certs.py | size=442 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/cookies.py | size=21549 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/api.py | size=7152 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/help.py | size=4114 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/LICENSE | size=10142 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/_types.py | size=5838 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/utils.py | size=36334 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/adapters.py | size=28208 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/status_codes.py | size=4351 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/__version__.py | size=435 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/packages.py | size=1057 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/structures.py | size=4134 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/_internal_utils.py | size=1542 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/exceptions.py | size=4576 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/models.py | size=41848 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/auth.py | size=12233 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests/hooks.py | size=1138 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/README.rst | size=9222 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli/_parser.py | size=26440 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli/py.typed | size=26 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli/__init__.py | size=314 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli/LICENSE | size=1072 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli/_types.py | size=254 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli/_re.py | size=3396 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/_elffile.py | size=3211 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/pylock.py | size=33890 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/licenses/__init__.py | size=7293 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/licenses/_spdx.py | size=51122 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/_musllinux.py | size=2707 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/_parser.py | size=11698 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/markers.py | size=17067 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/_tokenizer.py | size=5391 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/py.typed | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/__init__.py | size=494 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/version.py | size=38393 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/LICENSE | size=197 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/utils.py | size=9848 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/dependency_groups.py | size=10218 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/metadata.py | size=38770 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/requirements.py | size=4395 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/specifiers.py | size=71550 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/_structures.py | size=1109 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/errors.py | size=2680 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/_manylinux.py | size=9559 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/LICENSE.BSD | size=1344 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/direct_url.py | size=10917 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/LICENSE.APACHE | size=10174 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/tags.py | size=34236 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/certifi/core.py | size=3442 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/certifi/py.typed | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/certifi/__init__.py | size=94 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/certifi/LICENSE | size=989 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/certifi/__main__.py | size=255 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs/windows.py | size=15798 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs/py.typed | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs/__init__.py | size=32389 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs/version.py | size=522 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs/api.py | size=14887 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs/android.py | size=11566 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs/LICENSE | size=1089 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs/_xdg.py | size=7894 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs/macos.py | size=9538 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs/__main__.py | size=1773 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs/unix.py | size=13317 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/serialize.py | size=5163 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/py.typed | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__init__.py | size=820 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/cache.py | size=1953 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/__init__.py | size=303 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py | size=4117 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py | size=1386 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/_cmd.py | size=1737 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/LICENSE.txt | size=558 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/controller.py | size=19102 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/adapter.py | size=6586 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/filewrapper.py | size=4354 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/wrapper.py | size=1417 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/heuristics.py | size=4881 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/package_data.py | size=21 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/compat.py | size=1353 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/core.py | size=24685 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/codec.py | size=5040 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/py.typed | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/__init__.py | size=868 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/idnadata.py | size=44862 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/cli.py | size=4139 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/uts46data.py | size=234325 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/LICENSE.md | size=1541 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/__main__.py | size=83 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna/intranges.py | size=1851 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/providers.py | size=8914 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/py.typed | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/__init__.py | size=541 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py | size=24212 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/resolvers/abstract.py | size=1543 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/resolvers/criterion.py | size=1768 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/resolvers/__init__.py | size=640 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py | size=1768 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/LICENSE | size=751 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/reporters.py | size=2037 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/structs.py | size=6420 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/py.typed | size=286 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/__init__.py | size=355 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/__pip-runner__.py | size=1451 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/network/__init__.py | size=49 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/network/session.py | size=19924 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/network/cache.py | size=4862 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/network/utils.py | size=8128 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/network/download.py | size=14618 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/network/lazy_wheel.py | size=7646 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/network/xmlrpc.py | size=1830 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/network/auth.py | size=21545 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/locations/base.py | size=2548 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/locations/__init__.py | size=14022 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/locations/_distutils.py | size=5975 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/locations/_sysconfig.py | size=7788 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/wheel_builder.py | size=9146 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/build/metadata_editable.py | size=1509 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/build/__init__.py | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/build/wheel.py | size=1136 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/build/build_tracker.py | size=4771 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/build/metadata.py | size=1421 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/build/wheel_editable.py | size=1478 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/prepare.py | size=35030 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/install/__init__.py | size=50 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/install/wheel.py | size=29078 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/__init__.py | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/freeze.py | size=9854 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/check.py | size=5891 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/build_env/noop.py | size=1001 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/build_env/base.py | size=3440 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/build_env/installer.py | size=13046 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/build_env/__init__.py | size=788 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/build_env/venv.py | size=5692 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/build_env/virtual.py | size=4858 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/__init__.py | size=511 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/configuration.py | size=14562 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/distributions/base.py | size=1907 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/distributions/__init__.py | size=858 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/distributions/sdist.py | size=7783 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/distributions/wheel.py | size=1429 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/distributions/installed.py | size=994 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cache.py | size=10457 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/self_outdated_check.py | size=8097 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/req_command.py | size=18952 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/parser.py | size=14147 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/autocompletion.py | size=7353 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/spinners.py | size=7362 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/command_context.py | size=817 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/__init__.py | size=131 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/index_command.py | size=7504 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/progress_bars.py | size=4706 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/main.py | size=3209 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/status_codes.py | size=136 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/main_parser.py | size=4368 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/cmdoptions.py | size=41180 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli/base_command.py | size=9431 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/main.py | size=338 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/search_scope.py | size=4461 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/installation_report.py | size=2846 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/link.py | size=23474 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/candidate.py | size=824 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/release_control.py | size=3365 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/__init__.py | size=62 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/wheel.py | size=2920 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/selection_prefs.py | size=1503 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/format_control.py | size=2471 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/target_python.py | size=4243 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/index.py | size=1030 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/scheme.py | size=558 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models/direct_url.py | size=944 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/metadata/base.py | size=25642 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/metadata/__init__.py | size=5824 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/metadata/_json.py | size=2711 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/metadata/importlib/__init__.py | size=135 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_compat.py | size=2804 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_dists.py | size=8717 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_envs.py | size=5590 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/metadata/pkg_resources.py | size=10544 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/_jaraco_text.py | size=3350 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/deprecation.py | size=4537 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/compat.py | size=2601 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/pylock.py | size=10290 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/egg_link.py | size=2459 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/compatibility_tags.py | size=6630 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/unpacking.py | size=14789 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/hashes.py | size=5040 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/misc.py | size=25408 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/__init__.py | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/wheel.py | size=4468 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/filetypes.py | size=689 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/glibc.py | size=3726 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/urls.py | size=1647 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/temp_dir.py | size=9303 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/entrypoints.py | size=3324 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/filesystem.py | size=6812 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/virtualenv.py | size=2272 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/subprocess.py | size=9001 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/packaging.py | size=1601 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/appdirs.py | size=1681 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/_log.py | size=1015 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/logging.py | size=13919 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/retry.py | size=1488 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/datetime.py | size=868 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils/direct_url_helpers.py | size=3363 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/index/collector.py | size=16578 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/index/sources.py | size=8621 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/index/__init__.py | size=29 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/index/package_finder.py | size=43149 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/exceptions.py | size=38302 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/vcs/git.py | size=19273 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/vcs/mercurial.py | size=5575 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/vcs/__init__.py | size=596 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/vcs/versioncontrol.py | size=22579 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/vcs/bazaar.py | size=3734 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/vcs/subversion.py | size=11787 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/pyproject.py | size=4555 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/req/req_install.py | size=32173 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/req/req_set.py | size=2828 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/req/__init__.py | size=3140 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/req/constructors.py | size=22276 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/req/req_file.py | size=20644 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/req/pep723.py | size=1242 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/req/req_dependency_group.py | size=3145 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/req/req_uninstall.py | size=24276 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/inspect.py | size=3185 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/uninstall.py | size=3868 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/install.py | size=33761 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/__init__.py | size=4026 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/wheel.py | size=6187 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/help.py | size=1108 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/freeze.py | size=3100 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/configuration.py | size=10132 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/lock.py | size=5987 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/show.py | size=8247 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/list.py | size=13908 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/cache.py | size=9251 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/hash.py | size=1679 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/search.py | size=5782 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/completion.py | size=4565 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/debug.py | size=6556 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/index.py | size=5608 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/download.py | size=5404 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands/check.py | size=2244 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/legacy/__init__.py | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/legacy/resolver.py | size=24110 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/base.py | size=573 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/__init__.py | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/base.py | size=5900 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/candidates.py | size=20848 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__init__.py | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/factory.py | size=36162 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/requirements.py | size=8239 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py | size=6005 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/reporter.py | size=3918 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/provider.py | size=12310 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/resolver.py | size=13849 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/__main__.py | size=874 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/README.txt | size=119 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/entry_points.txt | size=84 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/REQUESTED | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/AUTHORS.txt | size=12139 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/urllib3/LICENSE.txt | size=1093 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/msgpack/COPYING | size=614 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/distro/LICENSE | size=11325 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/distlib/LICENSE.txt | size=14531 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/pyproject_hooks/LICENSE | size=1081 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/pkg_resources/LICENSE | size=1023 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/rich/LICENSE | size=1056 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/tomli_w/LICENSE | size=1072 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/truststore/LICENSE | size=1086 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/pygments/LICENSE | size=1331 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/requests/LICENSE | size=10142 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/tomli/LICENSE | size=1072 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/packaging/LICENSE | size=197 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/packaging/LICENSE.BSD | size=1344 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/packaging/LICENSE.APACHE | size=10174 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/certifi/LICENSE | size=989 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/platformdirs/LICENSE | size=1089 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/cachecontrol/LICENSE.txt | size=558 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md | size=1541 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/resolvelib/LICENSE | size=751 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/LICENSE.txt | size=1093 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/WHEEL | size=82 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/METADATA | size=4617 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/direct_url.json | size=243 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/INSTALLER | size=4 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/RECORD | size=69068 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_collections_abc.py | size=32089 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/uuid.py | size=29656 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/enum.py | size=81540 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/dom/xmlbuilder.py | size=12420 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/dom/expatbuilder.py | size=35693 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/dom/__init__.py | size=4019 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/dom/NodeFilter.py | size=936 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/dom/minidom.py | size=67982 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/dom/minicompat.py | size=3367 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/dom/pulldom.py | size=11637 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/dom/domreg.py | size=3451 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/__init__.py | size=557 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/sax/saxutils.py | size=12255 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/sax/_exceptions.py | size=4699 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/sax/__init__.py | size=3238 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/sax/expatreader.py | size=16034 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/sax/handler.py | size=15617 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/sax/xmlreader.py | size=12624 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/parsers/expat.py | size=248 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/parsers/__init__.py | size=167 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/etree/cElementTree.py | size=82 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/etree/__init__.py | size=1605 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/etree/ElementTree.py | size=74017 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/etree/ElementPath.py | size=14228 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/etree/ElementInclude.py | size=6952 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/aifc.py | size=34211 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/secrets.py | size=1984 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/abc.py | size=7612 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/_bootstrap_external.py | size=69428 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/_abc.py | size=1354 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/__init__.py | size=4784 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/resources/_common.py | size=5486 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/resources/abc.py | size=5203 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/resources/_adapters.py | size=4482 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/resources/__init__.py | size=532 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/resources/_legacy.py | size=2949 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/resources/_itertools.py | size=1277 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/resources/simple.py | size=2584 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/resources/readers.py | size=4370 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/_bootstrap.py | size=57057 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/metadata/_meta.py | size=1590 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/metadata/_adapters.py | size=2406 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/metadata/__init__.py | size=28757 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/metadata/_text.py | size=2166 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/metadata/_collections.py | size=743 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/metadata/_functools.py | size=2895 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/metadata/_itertools.py | size=2068 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/util.py | size=10994 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/simple.py | size=354 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/machinery.py | size=880 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/readers.py | size=327 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/socketserver.py | size=28065 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/base64.py | size=20635 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/platform.py | size=43388 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/cProfile.py | size=6556 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/concurrent/__init__.py | size=38 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/concurrent/futures/_base.py | size=22833 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/concurrent/futures/process.py | size=35854 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/concurrent/futures/__init__.py | size=1583 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/concurrent/futures/thread.py | size=8946 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/imghdr.py | size=4398 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/smtplib.py | size=43532 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/subprocess.py | size=88747 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/modulefinder.py | size=23699 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/shutil.py | size=56198 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/code.py | size=10962 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/functools.py | size=37940 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pydoc.py | size=113508 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tty.py | size=2035 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/nntplib.py | size=41087 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/mimetypes.py | size=23037 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/threading.py | size=60200 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pyclbr.py | size=11396 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/weakref.py | size=21513 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/decimal.py | size=2805 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/py_compile.py | size=7837 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/copy.py | size=8412 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/wave.py | size=22769 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tarfile.py | size=114124 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/token.py | size=2511 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/heapq.py | size=23024 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pickle.py | size=66911 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/getopt.py | size=7488 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/LICENSE.txt | size=13936 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/types.py | size=10993 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/fileinput.py | size=15714 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/opcode.py | size=13174 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/__phello__/__init__.py | size=97 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/__phello__/spam.py | size=97 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/bz2.py | size=11847 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/calendar.py | size=25864 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/imaplib.py | size=54040 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ntpath.py | size=30404 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_pylong.py | size=10790 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/uu.py | size=7365 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/dbm/__init__.py | size=5882 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/dbm/dumb.py | size=11594 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/dbm/gnu.py | size=72 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/dbm/ndbm.py | size=70 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pydoc_data/topics.py | size=519590 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pydoc_data/__init__.py | size=0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pydoc_data/_pydoc.css | size=1325 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/codeop.py | size=5908 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/selectors.py | size=19671 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/macosx.py | size=9290 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/autocomplete_w.py | size=20863 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/percolator.py | size=3568 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/autocomplete.py | size=9354 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/multicall.py | size=18652 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/debugobj.py | size=4177 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/pathbrowser.py | size=3093 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/browser.py | size=8588 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/idle.pyw | size=570 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/tree.py | size=16773 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/config-keys.def | size=10910 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/CREDITS.txt | size=2148 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/redirector.py | size=6777 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/searchengine.py | size=7415 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/debugobj_r.py | size=1082 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/idle.py | size=454 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/scrolledlist.py | size=4478 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/grep.py | size=7521 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/hyperparser.py | size=12889 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/mainmenu.py | size=3938 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/editor.py | size=69561 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/undo.py | size=11016 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/ChangeLog | size=56360 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/config-main.def | size=3168 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/config-extensions.def | size=2266 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/README.txt | size=11653 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/pyparse.py | size=19864 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/__init__.py | size=396 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/replace.py | size=9841 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/TODO.txt | size=8477 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/filelist.py | size=3871 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/help.py | size=11843 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/run.py | size=21654 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/config-highlight.def | size=2864 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/sidebar.py | size=20338 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/dynoption.py | size=1993 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/zzdummy.py | size=2005 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/codecontext.py | size=11420 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/textview.py | size=6808 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/search.py | size=5567 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/calltip.py | size=7267 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/help.html | size=60566 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/config.py | size=38403 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/rpc.py | size=21078 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/history.py | size=4065 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/debugger.py | size=20991 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/delegator.py | size=1044 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/stackviewer.py | size=4016 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/query.py | size=15067 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/zoomheight.py | size=4203 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/calltip_w.py | size=7083 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/searchbase.py | size=7852 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/HISTORY.txt | size=10313 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/squeezer.py | size=12834 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/pyshell.py | size=62194 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/News3.txt | size=56500 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/tooltip.py | size=6665 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/format.py | size=15777 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/configdialog.py | size=105310 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/extend.txt | size=3632 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/iomenu.py | size=16159 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/parenmatch.py | size=7204 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/autoexpand.py | size=3216 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/colorizer.py | size=14783 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/help_about.py | size=9023 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/__main__.py | size=107 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/outwin.py | size=5705 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/util.py | size=1312 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/window.py | size=2616 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/statusbar.py | size=1474 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/runscript.py | size=8273 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/NEWS2x.txt | size=27172 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/idle.bat | size=177 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/config_key.py | size=15230 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/debugger_r.py | size=12115 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/idle_48.png | size=3977 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/idle_48.gif | size=1388 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/idle_32.gif | size=1019 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/idle_16.png | size=1031 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/README.txt | size=1935 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/python.gif | size=380 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/folder.gif | size=120 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/plusnode.gif | size=78 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/tk.gif | size=72 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/idle.ico | size=57746 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/idle_32.png | size=2036 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/minusnode.gif | size=75 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/idle_256.png | size=39205 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/openfolder.gif | size=125 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons/idle_16.gif | size=634 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/signal.py | size=2495 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/chunk.py | size=5500 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/contextlib.py | size=27637 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pty.py | size=6137 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/bdb.py | size=33573 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_aix_support.py | size=4021 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/cgi.py | size=34479 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_py_abc.py | size=6189 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/filecmp.py | size=10381 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/fnmatch.py | size=5999 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_strptime.py | size=28393 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/fractions.py | size=38147 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/PatternGrammar.txt | size=793 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/Grammar.txt | size=8696 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/refactor.py | size=27507 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/patcomp.py | size=7054 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pytree.py | size=27974 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixer_util.py | size=15206 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/__init__.py | size=156 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/btm_utils.py | size=9945 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/PatternGrammar3.12.14.final.0.pickle | size=1225 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/Grammar3.12.14.final.0.pickle | size=15313 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pygram.py | size=1305 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/main.py | size=11854 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/btm_matcher.py | size=6623 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/__main__.py | size=67 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixer_base.py | size=6690 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_intern.py | size=1144 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_set_literal.py | size=1697 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_metaclass.py | size=8197 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_ne.py | size=571 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_filter.py | size=2765 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_buffer.py | size=590 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_import.py | size=3256 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_xrange.py | size=2694 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_exitfunc.py | size=2495 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_reduce.py | size=837 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_nonzero.py | size=591 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_standarderror.py | size=449 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_except.py | size=3344 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_has_key.py | size=3196 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_methodattrs.py | size=606 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_operator.py | size=3426 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_ws_comma.py | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/__init__.py | size=47 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_funcattrs.py | size=644 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_itertools.py | size=1548 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_tuple_params.py | size=5565 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_exec.py | size=979 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_getcwdu.py | size=451 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_sys_exc.py | size=1034 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_urllib.py | size=8367 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_types.py | size=1774 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_future.py | size=547 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_throw.py | size=1582 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_dict.py | size=3760 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_long.py | size=476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_zip.py | size=1289 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_reload.py | size=1081 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_renames.py | size=2221 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_execfile.py | size=2048 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_numliterals.py | size=768 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_raise.py | size=2926 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_input.py | size=708 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_imports2.py | size=289 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_paren.py | size=1226 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_basestring.py | size=320 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_idioms.py | size=4876 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_print.py | size=2844 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_isinstance.py | size=1608 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_repr.py | size=613 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_next.py | size=3174 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_itertools_imports.py | size=2086 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_raw_input.py | size=454 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_map.py | size=3640 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_asserts.py | size=984 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_imports.py | size=5684 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_unicode.py | size=1256 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_apply.py | size=2346 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes/fix_xreadlines.py | size=689 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pgen2/pgen.py | size=13830 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pgen2/__init__.py | size=143 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pgen2/grammar.py | size=5552 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pgen2/conv.py | size=9642 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pgen2/tokenize.py | size=21119 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pgen2/parse.py | size=8155 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pgen2/token.py | size=1302 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pgen2/driver.py | size=5969 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pgen2/literals.py | size=1635 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/csv.py | size=17132 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/struct.py | size=257 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/random.py | size=34689 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pathlib.py | size=51052 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/codecs.py | size=36870 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zipapp.py | size=7543 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/nturl2path.py | size=2374 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/datetime.py | size=268 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/coroutines.py | size=3342 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/base_futures.py | size=1974 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/base_events.py | size=78567 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/windows_events.py | size=32587 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/queues.py | size=7974 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/timeouts.py | size=5321 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/format_helpers.py | size=2404 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/threads.py | size=790 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/proactor_events.py | size=33500 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/locks.py | size=18995 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/__init__.py | size=1220 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/unix_events.py | size=53124 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/trsock.py | size=2475 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/selector_events.py | size=48332 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/staggered.py | size=7077 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/base_tasks.py | size=2672 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/futures.py | size=14340 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/runners.py | size=7230 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/subprocess.py | size=7737 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/protocols.py | size=6957 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/sslproto.py | size=31899 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/tasks.py | size=37362 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/log.py | size=124 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/mixins.py | size=481 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/windows_utils.py | size=5060 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/exceptions.py | size=1752 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/constants.py | size=1413 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/base_subprocess.py | size=8869 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/transports.py | size=10722 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/__main__.py | size=3491 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/taskgroups.py | size=9559 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/streams.py | size=27619 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio/events.py | size=29339 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ast.py | size=64452 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/telnetlib.py | size=23334 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/textwrap.py | size=19718 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/hashlib.py | size=9349 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/curses/textpad.py | size=7754 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/curses/__init__.py | size=3369 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/curses/ascii.py | size=2543 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/curses/has_key.py | size=5634 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/curses/panel.py | size=87 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/queue.py | size=11496 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ipaddress.py | size=81414 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/difflib.py | size=83368 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/re/_compiler.py | size=26399 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/re/_constants.py | size=5930 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/re/_casefix.py | size=5444 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/re/_parser.py | size=41201 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/re/__init__.py | size=16315 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/logging/__init__.py | size=83437 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/logging/config.py | size=42798 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/logging/handlers.py | size=62596 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tracemalloc.py | size=18047 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/lindenmayer.py | size=2434 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/clock.py | size=3304 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/chaos.py | size=951 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/tree.py | size=1401 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/round_dance.py | size=1804 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/nim.py | size=6513 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/peace.py | size=1066 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/rosette.py | size=1361 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/forest.py | size=2966 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/__init__.py | size=314 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/minimal_hanoi.py | size=2051 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/sorting_animate.py | size=5053 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/colormixer.py | size=1339 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/two_canvases.py | size=1119 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/turtle.cfg | size=160 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/fractalcurves.py | size=3473 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/bytedesign.py | size=4248 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/paint.py | size=1291 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/planet_and_moon.py | size=2825 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/__main__.py | size=15384 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/penrose.py | size=3380 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo/yinyang.py | size=821 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sre_compile.py | size=231 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/simpledialog.py | size=11753 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/__init__.py | size=173168 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/scrolledtext.py | size=1816 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/commondialog.py | size=1289 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/font.py | size=7000 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/dnd.py | size=11644 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/ttk.py | size=56318 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/colorchooser.py | size=2660 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/constants.py | size=1493 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/filedialog.py | size=14939 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/__main__.py | size=148 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/tix.py | size=77032 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/dialog.py | size=1535 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter/messagebox.py | size=3861 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/_pydatetime.py | size=92087 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/__future__.py | size=5218 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/runpy.py | size=12885 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/libpython3.12.so.1.0 | size=32755768 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/pkgconfig/python-3.12-embed.pc | size=312 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/pkgconfig/python-3.12.pc | size=298 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/libtcl9.0.so | size=2347768 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/print.tcl | size=42536 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/scrlbar.tcl | size=14282 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/entry.tcl | size=18659 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/scaling.tcl | size=6496 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/safetk.tcl | size=7372 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/text.tcl | size=36150 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/megawidget.tcl | size=9570 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/scale.tcl | size=7928 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/dialog.tcl | size=5800 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/icons.tcl | size=2380 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/tclIndex | size=20142 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/tk.tcl | size=26717 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/spinbox.tcl | size=16029 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/tkAppInit.c | size=5543 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/comdlg.tcl | size=8355 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/bgerror.tcl | size=8924 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/choosedir.tcl | size=9681 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/fontchooser.tcl | size=15648 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/focus.tcl | size=4856 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/menu.tcl | size=38199 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/panedwindow.tcl | size=5162 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/logo.eps | size=32891 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/pwrdLogo200.gif | size=3491 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/pwrdLogo.eps | size=27800 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/pwrdLogo100.gif | size=1615 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/README | size=322 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/pwrdLogo150.gif | size=2489 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/pwrdLogo75.gif | size=1171 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/logoMed.gif | size=3889 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/pwrdLogo175.gif | size=2981 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/logo64.gif | size=1670 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/logo100.gif | size=2341 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/logoLarge.gif | size=11000 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images/tai-ku.gif | size=5473 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/palette.tcl | size=9491 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/button.tcl | size=20834 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/optMenu.tcl | size=1580 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/sizegrip.tcl | size=2353 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/combobox.tcl | size=15488 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/entry.tcl | size=18034 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/defaults.tcl | size=8025 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/scale.tcl | size=2580 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/menubutton.tcl | size=6202 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/spinbox.tcl | size=5309 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/notebook.tcl | size=7464 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/cursors.tcl | size=4439 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/ttk.tcl | size=6408 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/xpTheme.tcl | size=3299 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/panedwindow.tcl | size=2028 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/button.tcl | size=2916 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/treeview.tcl | size=11898 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/progress.tcl | size=1218 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/utils.tcl | size=7293 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/scrollbar.tcl | size=2956 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/clamTheme.tcl | size=6792 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/altTheme.tcl | size=5618 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/classicTheme.tcl | size=5285 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/winTheme.tcl | size=4054 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/fonts.tcl | size=5031 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/vistaTheme.tcl | size=9491 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk/aquaTheme.tcl | size=8137 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/tearoff.tcl | size=4439 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/clrpick.tcl | size=21550 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/iconbadges.tcl | size=13046 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/mkpsenc.tcl | size=29352 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/console.tcl | size=32084 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/tkfbox.tcl | size=37326 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/systray.tcl | size=14489 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/pkgIndex.tcl | size=220 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/msgbox.tcl | size=17249 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/iconlist.tcl | size=16403 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/listbox.tcl | size=13771 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/xmfbox.tcl | size=25855 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/libtcl9tk9.0.so | size=3123880 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9/9.0/http-2.10.2.tm | size=180243 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9/9.0/platform-1.1.0.tm | size=11052 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9/9.0/msgcat-1.7.1.tm | size=37407 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9/9.0/tcltest-2.5.11.tm | size=105217 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9/9.0/platform/shell-1.1.4.tm | size=5975 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/itcl4.3.8/libitclstub4.3.8.a | size=2308 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/itcl4.3.8/itclConfig.sh | size=2886 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/itcl4.3.8/itclWidget.tcl | size=12113 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/itcl4.3.8/libitclstub.a | size=2308 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/itcl4.3.8/itcl.tcl | size=5162 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/itcl4.3.8/pkgIndex.tcl | size=435 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/itcl4.3.8/libtcl9itcl4.3.8.so | size=301408 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/itcl4.3.8/itclHullCmds.tcl | size=19377 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/man/man1/python3.12.1 | size=20124 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rt6221-w | size=820 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rxvt-256color | size=2460 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rcons | size=972 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/regent40 | size=500 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rbcomm-nam | size=588 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/regent100 | size=490 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/regent | size=365 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rio | size=3763 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rbcomm | size=592 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rxvt | size=2234 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rxvt-cygwin-native | size=2266 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rio-direct | size=3709 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rbcomm-w | size=588 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/regent40+ | size=505 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rxvt-basic | size=2137 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rxvt-cygwin | size=2248 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rt6221 | size=816 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rtpc | size=587 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rca | size=209 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rxvt-xpm | size=2234 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/report+da2 | size=118 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rxvt-16color | size=2494 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rcons-color | size=1184 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rxvt-88color | size=2428 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/regent20 | size=394 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/report+version | size=159 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/regent60 | size=728 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/regent25 | size=404 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r/rxvt+pcfkeys | size=1194 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm+color | size=962 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibmapa8c | size=579 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm5081-c | size=615 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm6154 | size=1808 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibcs2 | size=1020 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibmpcx | size=1194 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ims950-b | size=862 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ifmr | size=403 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/iris-ansi | size=1128 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm8512 | size=1905 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/intext2 | size=644 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm8503 | size=1830 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm3101 | size=422 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm6155 | size=1225 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm8514-c | size=597 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm5154 | size=1784 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm327x | size=85 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/infoton | size=325 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibmmono | size=563 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/intertube2 | size=474 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibmapa8c-c | size=604 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm3164 | size=1345 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm6153 | size=1492 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ims950-rv | size=926 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/i100 | size=456 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibmaed | size=448 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/i400 | size=426 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/intext | size=563 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm3161 | size=1016 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ims-ansi | size=532 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibmega-c | size=609 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm5081 | size=1806 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm3161-C | size=1286 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibmega | size=561 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/iTerm.app | size=1857 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibmpc3 | size=1325 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm5151 | size=1251 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/iterm2-direct | size=2602 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/interix-nti | size=1470 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/intertube | size=410 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/iris-ansi-ap | size=1087 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/icl6404-w | size=717 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/infoton2 | size=362 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm3162 | size=1267 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm6153-40 | size=1239 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibmvga | size=551 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/icl6404 | size=719 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibmvga-c | size=575 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/iris-color | size=1433 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibmpc | size=804 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm6153-90 | size=1239 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm-apl | size=424 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm-system1 | size=376 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm3151 | size=1286 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ims950 | size=932 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm8514 | size=1829 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/interix | size=1486 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm-pc | size=399 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/ibm+16color | size=1098 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i/iTerm2.app | size=2545 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/alto-h19 | size=641 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att7300 | size=1011 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apollo_color | size=1308 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/altos2 | size=868 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/act4 | size=473 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/altos4 | size=1195 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5620-s | size=470 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-30-rv | size=1325 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+arrows | size=260 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att630 | size=1146 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4418-w | size=910 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/appleII | size=428 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+idl | size=294 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att2300 | size=1031 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4415-nl | size=1380 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4415-w-rv-n | size=1410 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4426 | size=807 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi-emx | size=1718 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/altos7pc | size=875 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+cpr | size=658 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apollo_19L | size=1308 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+erase | size=77 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-60-dec-rv | size=1432 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att615-w | size=1605 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att605-w | size=1379 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aixterm | size=1862 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4415-w-rv | size=1402 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4424 | size=775 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi77 | size=543 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avt | size=1226 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+local1 | size=110 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-s-ctxt | size=1372 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi-mtabs | size=464 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-24 | size=1257 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avt-ns | size=1143 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/alacritty-direct | size=3733 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aj510 | size=404 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-26 | size=1269 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/amiga-vnc | size=1456 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/act5 | size=498 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5410v1 | size=1129 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att505-22 | size=1179 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/absolute | size=2699 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4415-w | size=1390 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/altos7 | size=864 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4410 | size=1136 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ampex175-b | size=444 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att510a | size=1247 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5620-24 | size=632 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple-videx | size=466 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-60-s-rv | size=1344 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm3a | size=935 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avt+s | size=441 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm11 | size=1083 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/amiga-h | size=655 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att510d | size=1386 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att610 | size=1479 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa | size=1289 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4415-w-nl | size=1396 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ampex80 | size=481 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+idc | size=306 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4418 | size=906 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5410-w | size=1152 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+cup | size=101 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att610-103k | size=1697 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apollo | size=431 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple-videx2 | size=452 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att500 | size=1892 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi.sys | size=1570 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm5 | size=953 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att630-24 | size=1186 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-36-rv | size=1315 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att610+cvis0 | size=106 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-36 | size=1269 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-60 | size=1237 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att615-103k-w | size=1695 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+apparrows | size=268 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avt-rv | size=1247 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-30-rv-ctxt | size=1337 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi-color-3-emx | size=1713 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple-uterm | size=438 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aepro | size=199 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-30-s-rv | size=1410 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5420_2 | size=1638 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+csr | size=349 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avatar | size=697 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+sgr | size=368 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa+dec | size=526 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5620 | size=630 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/abm85h | size=571 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5310 | size=1865 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att700 | size=1716 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-rv-unk | size=484 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/atari-old | size=426 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4410v1-w | size=1135 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple80p | size=262 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-60-rv | size=1283 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi-color-2-emx | size=1716 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm20 | size=441 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+rep | size=308 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-30-s | size=1362 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4415 | size=1384 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ampex232w | size=508 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm3a+ | size=939 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ampex232 | size=502 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+rca2 | size=332 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-18-rv | size=1303 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att730r-24 | size=1913 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avatar0+ | size=660 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5425 | size=1606 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5420_2-w | size=1650 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att620-103k | size=1706 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avt-w | size=1226 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/awsc | size=1017 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att6386 | size=1420 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm+sgr | size=172 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi | size=1481 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm3 | size=342 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avatar0 | size=645 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/arm100 | size=1474 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/appleIIgs | size=461 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/amiga-8bit | size=719 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-40 | size=1269 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm36 | size=1171 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avt-w-ns | size=1166 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att730-24 | size=1898 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4424m | size=486 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att730 | size=1882 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm21 | size=1007 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+local | size=348 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5425-nl | size=1634 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-20 | size=1257 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+sgrbold | size=463 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+sgrul | size=143 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-60-s | size=1296 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avt-rv-ns | size=1190 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple-uterm-vb | size=498 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+sgrdim | size=463 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/addrinfo | size=351 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apollo+vt132 | size=1318 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att610-w | size=1477 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi-mini | size=418 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi-mr | size=377 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att610-103k-w | size=1695 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple-80 | size=207 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm31-old | size=470 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ampex219 | size=709 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm42 | size=459 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+sgrso | size=139 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+idl1 | size=166 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aas1901 | size=359 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aws | size=1071 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att730-41 | size=1898 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-48 | size=1269 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aterm | size=2192 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att505-24 | size=1147 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-24-rv | size=1303 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+pp | size=318 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/alacritty | size=3779 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/amiga | size=682 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4424-1 | size=796 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/abm85e | size=535 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ampex219w | size=696 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ampex175 | size=412 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple2e-p | size=431 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att605 | size=1353 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+tabs | size=322 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-s-rv-ctxt | size=1420 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/abm80 | size=253 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4415+nl | size=471 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm22 | size=502 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att620 | size=1616 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/abm85h-old | size=562 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm1a | size=350 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm42-ns | size=521 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apollo_15P | size=1308 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+inittabs | size=338 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+enq | size=685 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple2e | size=395 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm1178 | size=437 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-28 | size=1269 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/annarbor4080 | size=473 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple-videx3 | size=370 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aixterm-m-old | size=1530 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa+unk | size=1238 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+rca | size=350 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ampex210 | size=582 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aixterm-m | size=1538 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm2 | size=402 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4415-rv-nl | size=1404 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att610+cvis | size=134 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm31 | size=502 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-18 | size=1257 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi+idc1 | size=180 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att615 | size=1607 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aj830 | size=357 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi.sysk | size=1831 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5425-w | size=1634 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple-vm80 | size=203 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/arm100-w | size=1478 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4420 | size=543 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-22 | size=1257 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-db | size=1268 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att730r-41 | size=1913 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aixterm+sl | size=356 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att2350 | size=1012 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple-ae | size=421 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5620-1 | size=547 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att620-103k-w | size=1710 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att620-w | size=1620 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/abm85 | size=495 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/alacritty+common | size=3683 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi-m | size=1370 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avt-w-rv | size=1253 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adds980 | size=444 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi.sys-old | size=1256 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/altos3 | size=902 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-48-rv | size=1315 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/apple-soroc | size=382 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/adm12 | size=636 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att605-pc | size=1529 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi-generic | size=756 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att730r | size=1903 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-30-ctxt | size=1287 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att4415-rv | size=1396 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/ansi-nt | size=476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att5620-34 | size=632 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/avt-w-rv-ns | size=1203 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa-40-rv | size=1315 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att615-103k | size=1697 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aixterm-16color | size=1889 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/att505 | size=1183 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a/aaa+rv | size=477 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/M/MtxOrb204 | size=193 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/M/MtxOrb162 | size=193 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/M/MtxOrb | size=187 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b+2p | size=249 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti924-8 | size=585 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti926-8 | size=570 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/t3700 | size=352 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/t3800 | size=410 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4113-34 | size=498 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4025ex | size=681 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b-2p-mc | size=1183 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi924 | size=898 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ts100 | size=1251 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tws2103-sna | size=1439 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teken-sc+fkeys | size=562 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b-vb-unk | size=1171 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4023 | size=992 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi925 | size=561 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b+dim | size=418 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teraterm4.59 | size=1588 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teken-vt+fkeys | size=582 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b-vb-mc | size=1294 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4107 | size=691 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tmux-256color | size=3458 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti_ansi | size=1061 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/t10 | size=446 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi970 | size=685 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4205 | size=1885 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b-2p-unk | size=1148 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b+fn | size=620 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b-vb | size=1089 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b-unk | size=947 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4105-30 | size=1155 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti924-8w | size=591 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tws2103 | size=1452 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4113 | size=493 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti931 | size=533 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti924 | size=610 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tab132 | size=1196 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti924w | size=618 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b-vb-unk | size=1083 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teken-2018 | size=1525 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b+vb | size=274 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b-unk | size=1035 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4025-17-ws | size=725 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teraterm4.97 | size=1695 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4105a | size=969 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tw100 | size=1430 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b-vb-p | size=1178 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b | size=1071 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tandem653 | size=467 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tandem6510 | size=957 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi921 | size=652 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4014 | size=212 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti700 | size=412 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/termite | size=3181 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4112 | size=482 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi950-2p | size=1020 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b-2p-unk | size=1060 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4115 | size=751 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi950-4p | size=1020 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi970-2p | size=729 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tty40 | size=524 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi970-vb | size=714 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b-vb | size=1177 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tty43 | size=348 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/trs2 | size=451 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teken | size=1447 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teken-2022 | size=1254 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/terminology | size=3569 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek | size=214 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tab132-w-rv | size=1146 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tw52-m | size=897 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tty37 | size=369 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tws2102-sna | size=1441 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi925-hi | size=601 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi910 | size=555 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4025a | size=649 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4105 | size=640 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti916-132 | size=1456 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teraterm2.3 | size=1596 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/terminet1200 | size=384 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b-vb-mc | size=1206 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi955-w | size=1048 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4015-sm | size=429 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b+mc | size=507 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi92D | size=628 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi950-rv-4p | size=1032 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4106brl | size=920 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4015 | size=413 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tty33 | size=340 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tab132-rv | size=1138 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tmux-direct | size=3596 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tab132-w | size=1128 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4207-s | size=846 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4024 | size=669 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b-2p-p | size=1155 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b-2p | size=1064 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ts100-ctxt | size=1273 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4013 | size=411 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4404 | size=556 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/terminology-1.8.1 | size=3583 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi950 | size=978 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b | size=983 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teken-16color | size=1719 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti703 | size=386 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4207 | size=657 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tt | size=424 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi955-hb | size=1052 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tws-generic | size=1466 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti928-8 | size=1129 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi803 | size=984 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4112-5 | size=492 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teletec | size=362 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi910+ | size=577 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti916-8-132 | size=1442 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4113-nd | size=523 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4025-ex | size=683 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tt52 | size=1940 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b-p | size=958 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/trs16 | size=556 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b-2p-p | size=1067 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi955 | size=1034 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b-2p | size=1152 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b-2p-mc | size=1271 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi9065 | size=1560 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi950-rv | size=988 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti928 | size=1150 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/terminology-0.6.1 | size=2392 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/t16 | size=488 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912cc | size=918 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4025-cr | size=474 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti916 | size=1476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tw52 | size=1347 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4025-17 | size=661 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/t1061f | size=556 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912 | size=576 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4014-sm | size=228 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teraterm-256color | size=1853 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/terminology-1.0.0 | size=3185 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teken-sc | size=1324 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b-vb-p | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tmux | size=3316 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvipt | size=477 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4112-nd | size=489 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/terminator | size=1802 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi92B | size=640 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b-mc | size=1072 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b-mc | size=1160 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tek4125 | size=1099 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti926 | size=597 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi920b-p | size=1046 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/teraterm | size=1683 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti703-w | size=402 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi950-rv-2p | size=1034 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/t1061 | size=566 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/ti916-8 | size=1456 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t/tvi912b+printer | size=339 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun | size=1004 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-e-s | size=1031 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-bce.rxvt | size=2267 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-bce.Eterm | size=2261 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.linux-m1 | size=1971 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/soroc120 | size=959 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.putty-m2 | size=1709 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-16color-s | size=1907 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.linux-m1b | size=1941 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/st-direct | size=2705 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.mlterm | size=3221 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/scoansi | size=1575 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/st52-color | size=1966 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-16color-bce | size=1889 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-s | size=1019 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-12 | size=974 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.minitel1b-80 | size=1758 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-w | size=1623 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/swtp | size=400 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/synertek | size=161 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen | size=1607 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/stv52pc | size=848 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen+italics | size=702 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.rxvt | size=2251 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-c | size=1034 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/st-0.6 | size=2412 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sb1 | size=705 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.linux-m2 | size=1913 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/soroc140 | size=486 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.xterm-r6 | size=1607 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.putty-m1 | size=1765 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.linux | size=1754 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun+sl | size=349 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/st-0.8 | size=2637 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-color | size=1401 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-256color-bce-s | size=1789 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/scoansi-new | size=1821 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/st-0.7 | size=2731 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-s | size=1641 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.putty | size=2498 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-48 | size=974 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.Eterm | size=2255 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.minitel1b | size=1736 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.mlterm-256color | size=3391 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-bce.gnome | size=3154 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-bce.mrxvt | size=3139 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen5 | size=1623 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/st52-old | size=562 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/scoansi-old | size=1587 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-il | size=1004 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.minitel1-nb | size=1656 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-type4 | size=1014 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.xterm-256color | size=3681 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.teraterm | size=1700 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-bce | size=1619 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.konsole-256color | size=3477 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/superbrain | size=969 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-24 | size=974 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/simterm | size=398 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/superbeeic | size=511 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/stv52 | size=916 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.vte-256color | size=3672 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.putty-256color | size=2590 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-bce.konsole | size=3325 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/st52 | size=856 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-1 | size=994 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/st | size=2639 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/simpleterm | size=1301 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-256color | size=1747 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-17 | size=974 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-256color-bce | size=1759 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.xterm-xfree86 | size=3783 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.mrxvt | size=3125 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/superbee-xsb | size=508 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screwpoint | size=456 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-bce.linux | size=1754 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.minitel1b-nb | size=1720 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-cgsix | size=979 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/st-256color | size=2759 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen4 | size=1613 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-bce.xterm-new | size=3669 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.putty-m1b | size=1737 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/scanset | size=467 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen+fkeys | size=474 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/scrhp | size=1095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-base | size=1613 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen2 | size=591 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-e | size=1016 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.gnome | size=3146 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-16color-bce-s | size=1921 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/scrt | size=3468 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sbi | size=648 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sun-34 | size=974 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sb2 | size=628 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-16color | size=1877 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/st-16color | size=2799 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen3 | size=634 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen-256color-s | size=1775 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.vte | size=3520 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/sibo | size=415 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.minitel1 | size=1674 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s/screen.konsole | size=3319 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole-xf4x | size=3379 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole-vt420pc | size=2089 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole-256color | size=3507 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kterm-color | size=1681 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kermit | size=343 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kitty-direct | size=3571 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kitty+common | size=3316 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole+pcfkeys | size=1988 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/klone+koi8acs | size=461 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kaypro | size=404 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kon | size=1615 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/klone+sgr-dumb | size=585 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole-linux | size=2085 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kermit-am | size=377 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole-16color | size=3625 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kterm | size=1691 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole-xf3x | size=2105 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/klone+color | size=867 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kitty | size=3584 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole-vt100 | size=2095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/klone+sgr8 | size=1055 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kt7ix | size=877 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole-direct | size=3543 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole | size=3339 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kt7 | size=584 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kvt | size=1532 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole-solaris | size=2095 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/konsole-base | size=2009 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/klone+acs | size=437 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/kitty+setal | size=141 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k/klone+sgr | size=1027 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons30-m | size=1252 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/ct8500 | size=417 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/ctrm | size=1513 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cg7900 | size=523 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cyb110 | size=476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons30 | size=1496 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons60 | size=1496 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons50-m | size=1264 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons25r | size=1510 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons60-m | size=1252 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/c100 | size=832 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/c108-4p | size=933 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cops10 | size=370 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/citoh | size=431 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cit101e-rv | size=1352 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cbblit | size=554 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/c108-rv-4p | size=950 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cyb83 | size=414 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons25l1 | size=1510 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/c108-rv | size=940 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons60l1 | size=1518 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cad68-3 | size=170 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cs10-w | size=450 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cdc721-esc | size=655 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons25l1-m | size=1476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cit101e-132 | size=621 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cygwin | size=1518 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/contour | size=3275 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons50l1 | size=1522 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cygwinB19 | size=1625 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons25-debian | size=1519 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/c108-w | size=970 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cdc752 | size=395 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cit101e | size=613 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons43-m | size=1252 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/ca22851 | size=362 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons25 | size=1502 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/commodore | size=1032 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/citoh-elite | size=438 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cit80 | size=424 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/contel300 | size=560 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cs10 | size=440 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/contour-direct | size=3272 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/color_xterm | size=1608 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cci | size=527 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cdc721 | size=294 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons43 | size=1496 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons50r | size=1508 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/c100-rv | size=838 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cbunix | size=431 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons60l1-m | size=1270 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/c108 | size=950 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cit101 | size=592 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cdc721ll | size=312 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/crt | size=1585 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/citoh-prop | size=462 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cit101e-n | size=613 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cit101e-n132 | size=629 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/contel301 | size=551 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cygwinDBG | size=1530 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons60r | size=1508 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/citoh-6lpi | size=444 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/citoh-8lpi | size=444 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons60r-m | size=1298 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons50l1-m | size=1270 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cdc756 | size=570 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons25r-m | size=1524 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cit500 | size=887 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cad68-2 | size=338 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/coco3 | size=377 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons50 | size=1502 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/citoh-comp | size=462 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/citoh-pica | size=428 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons50r-m | size=1298 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons25-m | size=1478 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cdc456 | size=394 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c/cons25w | size=1459 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ndr9500-25-mc-nl | size=1064 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-m-7 | size=1132 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/northstar | size=181 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt200wpp | size=1822 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncrvt100wan | size=1509 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt300wan | size=1814 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-m-s | size=1272 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news-33-sjis | size=1214 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/newhpkeyboard | size=459 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm+mac | size=1230 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nansi.sys | size=1632 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vpwpp | size=1175 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt200pp | size=1814 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-16color | size=1952 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt200wan | size=1800 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt100wpp | size=1612 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news-33-euc | size=1212 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260wy50+wpp | size=1206 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260wy350pp | size=1612 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt300pp | size=1828 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ndr9500-25-nl | size=955 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncsa | size=1646 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt300wpp | size=1836 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160wy60wpp | size=1218 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-s-7 | size=1354 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vp+sl | size=355 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160wy60pp | size=1216 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncsa-m-ns | size=1458 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nextshell | size=339 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nwp512-a | size=1197 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm+c41 | size=841 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-7-c | size=1581 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt200an | size=1802 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt100pp | size=1606 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-build309 | size=1796 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt300an | size=1816 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ndr9500-mc | size=1108 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt200an | size=1802 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt300wpp | size=1850 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-c-acs | size=1671 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-build440 | size=1974 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt200wan | size=1800 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt100wan | size=1596 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt100wan | size=1596 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm+s | size=418 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260intwpp | size=2030 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nec5520 | size=382 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt300wan | size=1814 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncrvt100an | size=1488 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt+sl | size=366 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news-42-euc | size=1212 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160wy50+pp | size=1204 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm+c | size=1137 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt200wpp | size=1822 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260wy50+pp | size=1204 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-build326 | size=1868 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-c-s | size=1710 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncsa-ns | size=1652 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nwp517-w | size=1684 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-s-acs | size=1444 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr7901 | size=534 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news-old-unk | size=1152 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260wy325wpp | size=1621 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-build400 | size=1976 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-c | size=1661 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news-unk | size=1204 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-c-s-acs | size=1722 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-m | size=1212 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt100pp | size=1604 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ndr9500-25 | size=973 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt200pp | size=1816 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-acs | size=1381 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-m-s-7 | size=1194 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncsa-m | size=1464 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt100an | size=1590 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ndr9500-nl | size=949 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-build361 | size=1879 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vppp | size=1172 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-old | size=1387 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260wy60pp | size=1216 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news-29 | size=1208 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/netbsd6 | size=1606 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm+acs | size=1212 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260intwan | size=2008 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news-42-sjis | size=1214 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260intpp | size=2016 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vpwpp | size=1175 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm | size=1988 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt100an | size=1590 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news29 | size=1192 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news-42 | size=1200 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr7900iv | size=475 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/next | size=398 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nwp511 | size=599 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nwp513 | size=1268 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260wy60wpp | size=1218 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160vt300pp | size=1828 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-build343 | size=1868 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-direct | size=2024 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nwp517 | size=1652 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm+7 | size=1124 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news-29-euc | size=1220 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-7 | size=1293 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news-33 | size=1200 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nwp512 | size=1256 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vppp | size=1172 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr7900i | size=500 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr160wy50+wpp | size=1206 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-m-acs | size=1222 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ndr9500-mc-nl | size=1054 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ndr9500-25-mc | size=1070 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-c-s-7 | size=1632 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260wy325pp | size=1619 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt100wpp | size=1612 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news28 | size=1184 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ndr9500 | size=963 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncsa-vt220 | size=1670 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/no+brackets | size=86 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nwp513-a | size=1248 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260intan | size=2002 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nansi.sysk | size=1876 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-s | size=1434 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/news-29-sjis | size=1222 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260vt300an | size=1816 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-m-s-acs | size=1284 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/nsterm-bce | size=1970 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/newhp | size=967 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n/ncr260wy350wpp | size=1614 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-76-wm | size=1280 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gator-52t | size=421 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gnome | size=3029 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-76-s | size=1338 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gnome-2008 | size=3017 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru+s | size=402 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gnome-2012 | size=3039 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-rv | size=1278 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-24 | size=1252 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gnome-fc5 | size=2927 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gator | size=544 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-76-lp | size=1282 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gt42 | size=108 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-44 | size=1253 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gsi | size=352 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gnome-256color | size=3299 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gnome-rh80 | size=1653 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-76-w | size=1258 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/go225 | size=710 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gnome-rh72 | size=1618 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-44-s | size=1337 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/graphos | size=577 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gnome-2007 | size=2979 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru | size=1274 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/glasstty | size=407 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-s | size=1343 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-76-w-s | size=1345 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gator-52 | size=409 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru+rv | size=180 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gator-t | size=558 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gigi | size=615 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-76 | size=1259 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/go140w | size=648 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/graphos-30 | size=595 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/go140 | size=628 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/guru-nctxt | size=1281 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gs6300 | size=1142 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gnome-rh90 | size=2939 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gnome+pcfkeys | size=2064 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gt40 | size=108 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g/gnome-rh62 | size=1524 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy99f | size=1271 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy160-25-w | size=1361 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy99gt | size=1599 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325-43w | size=1209 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wezterm | size=4033 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wsvt25m | size=1616 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-epc-wvb | size=1792 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-48 | size=1694 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325-w-vb | size=1243 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-wvb | size=1748 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy60-43-w | size=1583 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wsiris | size=1175 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy60-42 | size=1593 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy160-43-w | size=1358 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-epc | size=1738 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325-43 | size=1207 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy85-vb | size=1674 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy100q | size=466 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325-42 | size=1207 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy370-vb | size=2060 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy50-wvb | size=1209 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-epc-vb | size=1780 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy160-43 | size=1353 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy99fa | size=1277 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-36w | size=1714 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy370 | size=2082 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy99a-ansi | size=1535 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy60-25 | size=1569 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy75 | size=1662 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy60 | size=1565 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy99gt-tek | size=967 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325 | size=1211 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy99gt-25-w | size=1605 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy60-43 | size=1573 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325-42w | size=1209 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-48pc | size=1734 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy99gt-w-vb | size=1637 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy75-vb | size=1684 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy350-w | size=1477 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-vb | size=1736 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325-42w-vb | size=1241 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy160-w | size=1367 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy60-42-w | size=1603 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy160-42 | size=1373 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy60-w | size=1579 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy370-EPC | size=2033 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325-43w-vb | size=1241 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325-vb | size=1233 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy99gt-vb | size=1615 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325-25 | size=1225 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy160-tek | size=965 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy50 | size=1187 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy120-25 | size=1269 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy185-wvb | size=1732 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy185-w | size=1734 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy350-vb | size=1487 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy120-vb | size=1281 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy75ap | size=1756 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy350-wvb | size=1491 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy120 | size=1257 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy185 | size=1710 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy160-42-w | size=1378 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy30-mc | size=1041 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy120-25-w | size=1267 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325-25w | size=1201 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy350 | size=1469 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy160-w-vb | size=1393 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-epc-w | size=1760 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy370-105k | size=2188 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy75-mc | size=1706 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-24 | size=1688 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy30-vb | size=912 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy50-vb | size=1203 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy99-ansi | size=1517 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy370-wvb | size=2077 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy85-8bit | size=1592 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy370-rv | size=2063 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy160-vb | size=1368 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wyse-vp | size=508 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-36wpc | size=1752 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-48wpc | size=1752 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy160 | size=1350 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy120-w-vb | size=1299 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy50-mc | size=1315 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy30 | size=896 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy370-tek | size=947 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy85 | size=1652 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-48w | size=1710 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy75-w | size=1684 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wsvt25 | size=1606 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy60-25-w | size=1575 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy370-w | size=2063 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520 | size=1692 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy99gt-25 | size=1603 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy60-w-vb | size=1605 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy60-vb | size=1581 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy370-nk | size=1921 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy185-vb | size=1720 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy85-wvb | size=1690 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy99gt-w | size=1609 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy50-w | size=1193 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy325-w | size=1229 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-epc-24 | size=1732 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy100 | size=471 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-36pc | size=1734 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy85-w | size=1676 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy120-w | size=1267 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy75-wvb | size=1698 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy160-25 | size=1356 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-w | size=1714 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy520-36 | size=1694 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wy185-24 | size=1700 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/wyse+sl | size=359 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w/winconsole | size=1828 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp70092 | size=678 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/ha8686 | size=873 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/ha8675 | size=709 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2641a | size=498 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hpsub | size=492 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621p | size=590 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621-ba | size=606 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hpterm-color | size=1475 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp150 | size=1221 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hmod1 | size=414 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621-nl | size=570 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621b-p | size=739 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2626-s | size=1358 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hazel | size=1234 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2624 | size=1265 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621b | size=716 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp+pfk+arrows | size=266 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp+pfk-cr | size=220 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp700-wy | size=637 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hz1510 | size=382 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hz1520-noesc | size=395 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621-nt | size=570 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hpgeneric | size=534 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2624b-10p-p | size=1302 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hz2000 | size=387 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hz1520 | size=435 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2626-x40 | size=1244 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2624-10p | size=1289 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp98550 | size=690 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hirez100-w | size=828 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2392 | size=559 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hz1000 | size=354 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hz1552-rv | size=891 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2627a-rev | size=635 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2626-ns | size=1298 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2645 | size=700 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/h19-us | size=633 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2623 | size=1195 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp+pfk+cr | size=230 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp+printer | size=333 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hz1420 | size=405 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621 | size=622 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2626-12-s | size=1376 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hterm | size=3697 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2397a | size=1779 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2626-12 | size=1242 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2622 | size=1195 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp110 | size=528 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2627c | size=639 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hpterm-color2 | size=1787 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp300h | size=538 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2627a | size=633 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hft-old | size=1214 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2382a | size=1115 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp9845 | size=970 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621-k45 | size=615 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp98550-color | size=1802 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2640a | size=658 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/h19k | size=629 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621-a | size=592 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2 | size=1365 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hpterm | size=1387 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp+color | size=965 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/h19-bs | size=609 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hpex | size=524 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/h19-u | size=599 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621-48 | size=577 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hpansi | size=1211 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hurd | size=1587 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/h19-a | size=671 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hds200 | size=1649 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2626-12x40 | size=1256 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hz1552 | size=867 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2624b-p | size=1298 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp9837 | size=562 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/h19-g | size=601 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hft-c-old | size=1789 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2626 | size=1232 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/h19 | size=627 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2640b | size=692 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hirez100 | size=806 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2648 | size=731 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp+labels | size=489 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hterm-256color | size=3959 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp+arrows | size=244 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp262x | size=506 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621b-kx | size=742 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hft-c | size=1800 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621p-a | size=598 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621-fl | size=566 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hz1500 | size=452 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp236 | size=271 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h/hp2621b-kx-p | size=781 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-50 | size=1462 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/oldxterm+sm+1006 | size=871 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/origpc3 | size=564 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/omron | size=388 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-60-w | size=1468 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-35-w | size=1468 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/ofcons | size=625 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opus3n1+ | size=1332 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/otek4115 | size=704 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/oldpc3 | size=447 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-100 | size=1466 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/oc100 | size=810 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/otek4112 | size=381 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-w-vt | size=1498 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-35-nti | size=1454 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/oblit | size=448 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-50-w | size=1468 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-35 | size=1462 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-w | size=1484 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/osborne-w | size=424 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/owl | size=546 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-50-nti | size=1454 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-100-nti | size=1458 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/oldsun | size=525 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-60 | size=1462 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/osborne | size=430 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/opennt-60-nti | size=1454 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o/osexec | size=1081 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+keypad | size=612 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-1006 | size=3957 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-80x25 | size=1213 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-x11mouse | size=3965 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-xf86-v32 | size=2006 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+basic | size=965 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+x11mouse | size=871 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+meta | size=276 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xerox1720 | size=356 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-basic | size=1828 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+acs | size=445 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+f | size=1013 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+f2 | size=1019 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-color | size=1551 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-b | size=1215 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-1003 | size=3978 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-noapp | size=3933 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+pce2 | size=1066 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-hp | size=2652 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+pcf0 | size=1011 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-vt52 | size=537 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-xi | size=1986 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-sco | size=2620 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-144x48 | size=1217 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-128x40 | size=1217 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+kbs | size=164 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+vt+edit | size=464 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+sm+1005 | size=883 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-128x40-m | size=987 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-144x48-m | size=987 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-x10mouse | size=3953 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+sl-alt | size=376 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-160x64-m | size=987 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-128x48 | size=1217 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/x10term+sl | size=387 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-direct256 | size=4158 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+200x64 | size=90 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-m-f | size=1025 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-xf86-v33 | size=1996 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-f | size=1227 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-m-b | size=1011 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+noalt | size=130 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-24 | size=1533 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+app+pc | size=398 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+focus | size=132 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+80x25 | size=86 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+nopcfkeys | size=808 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+alt+title | size=182 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+80x30 | size=86 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc | size=1195 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xfce | size=2995 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+256x96 | size=90 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-160x64 | size=1217 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-1002 | size=3980 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-m-f2 | size=1033 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+direct256 | size=1185 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xgterm | size=1572 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-x11hilite | size=3981 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-r6 | size=1491 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-vt220 | size=2476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+r6f2 | size=1094 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-p371 | size=3991 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-new | size=3971 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+256color | size=1098 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-88color | size=4039 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+90x30 | size=86 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xerox820 | size=355 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+direct2 | size=1065 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+c | size=847 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+256setaf | size=972 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xtermm | size=1477 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-90x30 | size=1213 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-utf8 | size=3994 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-nic | size=3987 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+alt47 | size=152 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-112x37 | size=1217 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+88color2 | size=1058 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+noapp | size=420 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterms-sun | size=2800 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-sun | size=2784 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xtalk | size=1033 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+titlestack | size=150 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+sm+1006 | size=869 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+256color2 | size=1090 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-80x30 | size=1213 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-200x64 | size=1217 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+200x75 | size=90 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-xf86-v333 | size=2006 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-200x64-m | size=987 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+sm+1003 | size=928 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+indirect | size=1064 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+pcc3 | size=902 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-f2 | size=1235 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+160x64 | size=90 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+b | size=991 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+x11hilite | size=903 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+tmux2 | size=162 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-m | size=965 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-direct | size=4028 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-256color | size=4071 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-200x75 | size=1217 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+pcc0 | size=824 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-80x30-m | size=985 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-200x75-m | size=987 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-90x30-m | size=985 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+sl | size=374 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-xfree86 | size=2240 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+sl-twm | size=402 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+128x40 | size=88 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+decedit | size=484 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-direct2 | size=4018 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-128x48-m | size=987 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-mono | size=1489 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+tmux | size=176 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-xf86-v43 | size=2226 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-100x37-m | size=987 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-xf86-v40 | size=2212 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+osc104 | size=660 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-100x37 | size=1217 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm1 | size=3961 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+alt1049 | size=144 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+direct | size=1063 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm | size=3977 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-bold | size=1592 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-8bit | size=1913 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xtermc | size=1644 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-16color | size=4217 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+144x48 | size=88 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+88color | size=1066 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+pcfkeys | size=2036 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-256x96-m | size=987 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+x10mouse | size=853 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+sm+1002 | size=930 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-xf86-v44 | size=2260 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-r5 | size=1301 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-80x25-m | size=985 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+pc+edit | size=404 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+128x48 | size=88 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/x10term | size=657 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+nofkeys | size=2420 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-256x96 | size=1217 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+app | size=422 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+100x37 | size=88 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+edit | size=418 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc-112x37-m | size=987 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-direct16 | size=4104 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-1005 | size=3971 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+pcc1 | size=824 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-old | size=1493 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+direct16 | size=1131 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/x68k | size=1401 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xiterm | size=1566 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xnuppc+112x37 | size=88 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-p370 | size=3957 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+pcc2 | size=876 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm+pcf2 | size=1049 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x/xterm-pcolor | size=1658 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/E/Eterm-256color | size=2464 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/E/Eterm-88color | size=2394 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/E/Eterm | size=2224 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/elks | size=417 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/excel62-w | size=1056 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/elks-ansi | size=429 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/excel62-rv | size=1043 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/eterm-color | size=1271 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/ecma+strikeout | size=97 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/emx-base | size=1556 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/ecma+color | size=871 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/ecma+sgr | size=1057 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/esprit | size=482 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/emu | size=1323 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/env230 | size=1008 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/ep48 | size=370 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/ex155 | size=554 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/elks-glasstty | size=385 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/emu-220 | size=1303 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/ergo4000 | size=638 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/eterm | size=908 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/ecma+italics | size=697 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/esprit-am | size=496 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/ep40 | size=370 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/ecma+index | size=292 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/elks-vt52 | size=419 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e/excel62 | size=1004 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/9/9term | size=850 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pckermit | size=362 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism9 | size=1145 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty-256color | size=2608 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pccon-m | size=1298 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcansi-25-m | size=737 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pccons | size=486 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism9-w | size=1136 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt50 | size=1281 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/psterm-90x28 | size=515 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt43 | size=1281 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pc3 | size=1286 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcansi-33 | size=1204 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty+fnkeys+vt100 | size=604 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcansi-43 | size=1204 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism4 | size=743 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt50w | size=1295 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcansi-25 | size=1204 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcix | size=204 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pccon+base | size=920 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism9-8-w | size=694 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pccon+sgr+acs | size=549 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty+fnkeys+vt400 | size=628 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism8-w | size=614 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism14 | size=1149 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty-vt100 | size=2510 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty+keypad | size=262 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pro350 | size=543 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pccon | size=1467 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/p19 | size=611 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pt250 | size=582 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pt250w | size=594 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt40 | size=1281 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/p8gl | size=754 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pc-coherent | size=456 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pccon0-m | size=1273 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pckermit120 | size=490 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty-noapp | size=2548 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pc6300plus | size=556 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pe7000c | size=502 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcansi-43-m | size=735 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvtXX | size=1264 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/psterm-80x24 | size=515 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt25 | size=1281 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism14-w | size=1140 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pccon+colors | size=873 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pt100w | size=631 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pc-minix | size=1218 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty-m1 | size=1895 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pccon+sgr+acs0 | size=511 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcmw | size=660 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty-screen | size=2600 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty+cursor | size=116 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty-m2 | size=1955 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty+fnkeys+xterm | size=622 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt28 | size=1281 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism12-m-w | size=694 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism12-m | size=666 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pty | size=437 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty+screen | size=116 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/psterm-fast | size=509 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt35w | size=1295 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty+fnkeys | size=616 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty-m1b | size=1837 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt35 | size=1281 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism12 | size=1149 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pccon+keys | size=704 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism5 | size=743 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcansi-33-m | size=737 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty+fnkeys+linux | size=623 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty-sco | size=2606 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism7 | size=553 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pt210 | size=336 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism9-8 | size=652 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/psterm | size=521 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty+fnkeys+esc | size=626 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt40w | size=1295 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pt100 | size=615 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pc-venix | size=412 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcansi-m | size=741 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt43w | size=1295 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pccon0 | size=1444 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism12-w | size=1140 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/ps300 | size=964 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt25-color | size=1553 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism2 | size=552 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty+fnkeys+sco | size=794 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcansi | size=1198 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt25w | size=1295 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/putty | size=2530 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism8 | size=582 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/psterm-96x48 | size=515 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pe7000m | size=484 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pilot | size=454 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcplot | size=1014 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pcvt28w | size=1295 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pmcons | size=368 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/pe1251 | size=459 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism14-m | size=666 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p/prism14-m-w | size=694 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-vt | size=1674 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/lpr | size=354 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-m1b | size=1767 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/lisaterm | size=732 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-nic | size=1772 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/luna | size=396 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux+decid | size=685 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux+kbs | size=166 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-m1 | size=1793 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-m | size=1730 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-c-nc | size=1708 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux2.6.26 | size=1728 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/ln03-w | size=393 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/lft | size=1295 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-koi8r | size=1774 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/lisaterm-w | size=720 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-16color | size=1818 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux | size=1740 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-m2 | size=1897 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-lat | size=1782 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-basic | size=1614 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/lisa | size=555 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/liswb | size=563 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-c | size=2062 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux2.6 | size=1724 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux+sfkeys | size=566 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-koi8 | size=1768 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux3.0 | size=1746 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/ln03 | size=375 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux2.2 | size=1730 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l/linux-s | size=1956 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt119+-25-w | size=595 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qansi | size=2007 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt102 | size=563 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qnxw | size=1464 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt203-25-w | size=855 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qansi-t | size=2013 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qdss | size=152 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt101 | size=584 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qnxt | size=1369 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt101+ | size=586 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt119+-25 | size=581 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qnxm | size=1474 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt103 | size=753 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qansi-g | size=1977 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qansi-m | size=2160 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qnx | size=1365 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt103-w | size=758 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qansi-w | size=2162 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt203 | size=855 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt119+-w | size=598 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt203-w | size=888 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qume5 | size=364 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qnxt2 | size=1280 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qnxtmono | size=1389 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt203-25 | size=883 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q/qvt119+ | size=585 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d800 | size=574 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg200 | size=434 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dgkeys+11 | size=733 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d414-unix-25 | size=1341 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d412-unix-25 | size=1371 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-unix-w | size=1748 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dec-vt100 | size=1278 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d400 | size=1154 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/diablo1740-lm | size=411 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d578-7b | size=1533 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dec-vt220 | size=1420 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dtc382 | size=396 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/djgpp204 | size=1227 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dw3 | size=473 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg+color | size=1396 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg+fixed | size=1045 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/diablo1620-m8 | size=417 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dw2 | size=354 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d555-7b-w | size=1564 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dec+pp | size=298 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d410-7b-w | size=1606 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dmterm | size=488 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dtterm | size=1557 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/ddr | size=749 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d216-dg | size=1031 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d211-dg | size=1005 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dmchat | size=471 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-unix-s-ccc | size=1809 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dvtm-256color | size=1875 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d210 | size=1333 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d220 | size=1981 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d412-unix-s | size=1423 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dgmode+color8 | size=1029 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/djgpp203 | size=377 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dtc300s | size=354 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d410-dg | size=1175 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d230c | size=2146 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dm2500 | size=467 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d217-unix-25 | size=1162 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d413-unix-s | size=1409 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d414-unix-sr | size=1395 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/digilog | size=354 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d414-unix-w | size=1341 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d230c-dg | size=1482 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d470c | size=2220 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dw1 | size=338 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/decid+cpr | size=682 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d577-7b | size=1539 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/domterm | size=3405 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d555-7b | size=1539 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d413-unix-w | size=1355 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d412-dg | size=1199 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-unix-ccc | size=1729 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dku7003 | size=470 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dgkeys+15 | size=806 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d412-unix-sr | size=1417 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dt110 | size=710 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d555-w | size=1507 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d220-7b | size=2054 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dgkeys+7b | size=1101 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d413-unix-25 | size=1355 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/diablo1640 | size=429 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dku7202 | size=1500 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dgunix+ccc | size=1026 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg460-ansi | size=1245 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d412-unix | size=1347 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-unix | size=1730 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg6053 | size=816 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg+ccc | size=1284 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dt100w | size=668 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d577-7b-w | size=1564 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dm1520 | size=414 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dku7003-dumb | size=402 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d211 | size=1283 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d410 | size=1502 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dumb-emacs-ansi | size=898 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d211-7b | size=1372 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d414-unix-s | size=1403 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dm80w | size=1024 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d470c-dg | size=1557 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dw4 | size=373 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dm80 | size=974 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d410-7b | size=1575 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d412-unix-w | size=1367 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dku7102-old | size=1449 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg211 | size=427 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d577-w | size=1507 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dvtm | size=1715 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d410-w | size=1541 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dt80-sas | size=580 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d555-dg | size=1145 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-dg-ccc | size=1821 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dumb | size=308 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/diablo1640-lm | size=425 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d470c-7b | size=2297 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dp3360 | size=371 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d578 | size=1470 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-unix-25 | size=1750 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d210-dg | size=990 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d577-dg | size=1159 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dm3045 | size=487 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dgunix+fixed | size=1053 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dgmode+color | size=1053 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/decansi | size=1523 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dgkeys+8b | size=1029 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dm3025 | size=476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg210 | size=957 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg450 | size=434 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d200 | size=960 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d413-unix-sr | size=1403 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg-generic | size=792 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dwk | size=542 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dt100 | size=654 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-unix-w-ccc | size=1749 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/diablo1620 | size=391 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d220-dg | size=1486 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/delta | size=430 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d413-unix | size=1335 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d132 | size=405 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d217-unix | size=1144 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg6053-old | size=992 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d414-unix | size=1321 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-dg | size=1552 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-unix-sr-ccc | size=1803 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dg+color8 | size=1232 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/djgpp | size=1378 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d555 | size=1476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-unix-sr | size=1804 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d216-unix | size=1170 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d577 | size=1476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-unix-25-ccc | size=1749 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dec+sl | size=363 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d216-unix-25 | size=1170 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/d430c-unix-s | size=1810 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d/dp8242 | size=547 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/z100bw | size=689 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/z29a | size=1424 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/z29 | size=1219 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/z39-a | size=1124 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/z340 | size=1562 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/z29a-kc-uc | size=1443 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/z100 | size=707 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/zen30 | size=446 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/z29a-nkc-uc | size=1452 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/ztx | size=549 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/z29a-nkc-bc | size=1446 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/zen50 | size=336 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z/z340-nam | size=1590 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vsc | size=427 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt102-nsgr | size=1255 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vc404 | size=414 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt340 | size=1066 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt520 | size=1745 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vanilla | size=336 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vte-2014 | size=3228 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vc415 | size=409 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100-vb | size=1302 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vscode-direct | size=3535 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vi50adm | size=417 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt320-w | size=1560 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt525 | size=1745 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vi50 | size=1018 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt320-k3 | size=1027 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt50 | size=700 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vip-H | size=1299 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220-8bit | size=1276 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt420pcdos | size=2141 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vte-2007 | size=2985 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/viewdata-rv | size=880 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/versaterm | size=688 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt420f | size=1842 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vip | size=1255 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vte-2017 | size=3267 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220-w | size=1426 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vi500 | size=551 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt52-basic | size=397 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100+enq | size=682 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vi603 | size=1121 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt132 | size=1300 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100nam | size=1282 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100 | size=1282 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220+cvis | size=104 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt400 | size=1076 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt50h | size=797 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220-nam | size=1468 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt52+arrows | size=234 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vte-2008 | size=3023 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vp3a+ | size=585 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt420+lrmm | size=851 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vp60 | size=520 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vip-w | size=1295 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220d | size=1559 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt420 | size=1711 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100+pfkeys | size=432 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220-old | size=1497 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt520ansi | size=1926 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vi200 | size=704 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt510pc | size=2160 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/v3220 | size=610 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100-s | size=1360 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100-nav-w | size=1181 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt320 | size=1550 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vi55 | size=470 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vi550 | size=613 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt125 | size=1278 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt420pc | size=2160 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt320nam | size=1462 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220-base | size=1400 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt102+enq | size=680 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt61 | size=432 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vc303 | size=309 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt131 | size=690 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt510pcdos | size=2139 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt200-js | size=678 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vscode | size=3499 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt320-w-nam | size=1578 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/viewpoint | size=471 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vte-direct | size=3744 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/viewdata | size=597 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vc404-s | size=436 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vte | size=3546 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vip-Hw | size=1293 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/viewdata-o | size=864 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100+noapp | size=420 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vremote | size=431 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/v5410 | size=1211 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt102-w | size=1298 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vwmterm | size=1304 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt102 | size=1276 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220+keypad | size=480 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vte+pcfkeys | size=2050 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vi200-f | size=735 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220 | size=1402 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100-putty | size=1291 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt320-nam | size=1588 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100-w-nam | size=1313 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vc414 | size=452 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vc303a | size=309 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vi300 | size=612 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100+4bsd | size=1004 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100+fnkeys | size=462 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220+cvis8 | size=108 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vte-256color | size=3796 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100+keypad | size=368 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt52 | size=839 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt320-k311 | size=959 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220+vtedit | size=488 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100+noapp+pc | size=402 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt220+pcedit | size=428 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vte-2012 | size=3027 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100-nav | size=1147 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vte-2018 | size=3538 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt52+keypad | size=391 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vi300-old | size=650 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vi200-rv | size=713 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vp90 | size=561 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt510 | size=1711 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/visa50 | size=979 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100-s-bot | size=1344 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v/vt100-w | size=1295 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minix-old | size=607 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minitel2-80 | size=1930 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mime3ax | size=989 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mintty+common | size=3926 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mm340 | size=422 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/msk22714 | size=603 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/microb | size=475 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minitel1b-nb | size=1917 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mach-bold | size=669 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mgterm | size=1138 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mosh | size=3480 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/msk227am | size=554 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/msk227 | size=531 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mgr | size=603 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mime3a | size=945 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minix-3.0 | size=1136 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/modgraph | size=1141 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minitel1 | size=1677 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mac-w | size=659 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mt4520-rv | size=836 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mac | size=629 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mime-hb | size=476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/m2-nam | size=1201 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mterm-ansi | size=761 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mime | size=493 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mai | size=617 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mime314 | size=360 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mt70 | size=842 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minix-1.7 | size=893 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/ms-vt100 | size=1207 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mime-fb | size=476 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/ms-vt-utf8 | size=1653 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/ms-vt100+ | size=1653 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mach | size=635 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minitel1-nb | size=1625 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mach-color | size=1113 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/modgraph2 | size=598 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mintty | size=4022 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mgt | size=1980 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mrxvt | size=3044 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/masscomp | size=478 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mgr-sun | size=900 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mlterm2 | size=2509 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/ms-vt100-color | size=1421 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mvterm | size=1419 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mosh-256color | size=3598 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minitel1b | size=1977 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mgr-linux | size=834 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mlterm+pcfkeys | size=982 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/masscomp1 | size=482 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/memhp | size=1080 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mach-gnu | size=1073 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mlterm3 | size=3271 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mach-gnu-color | size=1339 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mostlike | size=1539 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/megatek | size=80 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mono-emx | size=508 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/masscomp2 | size=482 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/ms-vt100-16color | size=1927 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/modgraph48 | size=1136 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minitel1b-80 | size=1929 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minitel12-80 | size=1833 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mlterm-direct | size=3470 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minix | size=1460 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mime2a-s | size=492 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mlterm | size=3265 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mime2a | size=505 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mrxvt-256color | size=3306 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mterm | size=393 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mlterm-256color | size=3513 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/minix-old-am | size=607 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/mintty-direct | size=4048 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/ms-terminal | size=3541 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m/morphos | size=836 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/fos | size=650 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/f100-rv | size=659 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/falco-p | size=513 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/f110-14 | size=665 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/foot-direct | size=3626 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/f110-w | size=670 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/foot+base | size=3363 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/falco | size=460 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/f200vi | size=677 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/f110-14w | size=673 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/f1720 | size=423 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/f200vi-w | size=691 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/f110 | size=668 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/f100 | size=653 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/f200-w | size=681 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/f200 | size=679 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/fox | size=445 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/fbterm | size=1754 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f/foot | size=3647 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/j/jaixterm-m | size=1495 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/j/jfbterm | size=1620 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/j/jaixterm | size=1811 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/u/uniterm | size=1442 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/u/unknown | size=320 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/u/uts30 | size=786 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/u/uwin | size=1253 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-w | size=1667 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-8w | size=1543 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bg1.25rv | size=572 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-w-rv | size=1683 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/beehive | size=509 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bsdos-ppc | size=1287 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/beehive4 | size=333 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bsdos-sparc | size=984 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-pc-w | size=1635 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-8-pc | size=1529 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300 | size=1685 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-pc | size=1635 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bantam | size=421 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/beacon | size=592 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bracketed+paste | size=120 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bsdos-pc-nobold | size=1300 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/beterm | size=1282 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bsdos-pc | size=1285 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-8-pc-rv | size=1533 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/beehive3 | size=422 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bobcat | size=516 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-pc-w-rv | size=1643 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-rv | size=1675 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bg2.0 | size=560 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-pc-rv | size=1639 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bterm | size=1155 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/basis | size=1011 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bg1.25 | size=523 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bsdos-pc-m | size=1249 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/blit | size=490 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bg2.0rv | size=591 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bg1.25nv | size=570 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-8rv | size=1556 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bitgraph | size=609 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-8-pc-w-rv | size=1531 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-w-8rv | size=1559 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-8-pc-w | size=1519 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b/bq300-8 | size=1548 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/gateway-descriptor.json | size=1719 | mtime=2026-09-29 03:54:20 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxgltbmeztsntemrrs2zbsgjtc2nbzgu2c2yrqgq3s2mbugy3danbtmztdqyjx.blob | size=346577 | mtime=2026-09-29 03:53:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltsn5zxizlsfzwgc43ufvzg643umvza.blob | size=8356 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltdn5wxa33tmvzc2zdsmfthi4zogm4wgnzsgnsdellcg4ydkljumzswgljzmy3tmllegq2ginjsgnrwkmdemm.blob | size=425 | mtime=2026-09-29 03:53:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sentry/session.json | size=315 | mtime=2026-09-29 03:53:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-session-marker.json | size=118 | mtime=2026-09-29 03:53:39 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/products/types/AFD/locations/HFO | mtime=2026-09-29 03:53:02 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/products/types/AFD/locations/HFO/archive | mtime=2026-09-29 03:53:02 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/products/types/AFD/locations/HFO/archive/09-29-2026 | mtime=2026-09-29 03:53:02 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/gridpoints/HFO/272,74 | mtime=2026-09-29 03:52:01 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/gridpoints/HFO/272,74/archive | mtime=2026-09-29 03:52:01 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/gridpoints/HFO/272,74/archive/09-29-2026 | mtime=2026-09-29 03:52:01 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/bin | mtime=2026-09-29 03:54:06 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages | mtime=2026-09-29 03:54:09 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/func | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/contrib | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/onnx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/onnx/ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/onnx/_internal | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/onnx/_internal/exporter | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/onnx/_internal/exporter/_torchlib | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/onnx/_internal/exporter/_torchlib/ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/onnx/_internal/torchscript_exporter | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/onnx/_internal/fx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/onnx/_internal/fx/passes | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/sparse | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/csrc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/csrc/inductor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/csrc/inductor/aoti_runtime | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_strobelight | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_C_flatbuffer | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/xpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/numa | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_prims | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/amp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/optim | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/optim/_multi_tensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/pybind11 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/pybind11/eigen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/pybind11/conduit | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/pybind11/detail | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/pybind11/stl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/functionalization | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/onnx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/stable | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/stable/c | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/xpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/acc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/functorch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/mtia | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/mtia/profiler | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/cpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/multiprocessing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/export | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/profiler | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/profiler/python | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/profiler/unwind | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/profiler/orchestration | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/profiler/stubs | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/profiler/standalone | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/profiler/cupti | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/monitor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/tensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/ucc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/symm_mem | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/quantization | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/hooks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/nccl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/gloo | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/store | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/lazy | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/py | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/nccl2 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d/control_plane | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/autograd | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/autograd/functions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/autograd/context | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/autograd/engine | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/autograd/rpc_messages | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/rpc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/rpc/profiler | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/rpc/testing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/rpc/metrics | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/instruction_counter | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_include | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/cpp_wrapper | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/cpp_wrapper/device_internal | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/static_launcher | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_runtime | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_package | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_runner | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_eager | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_torch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_torch/c | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_torch/generated | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/lazy | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/core | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/core/internal_ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/core/ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/ts_backend | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/ts_backend/ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/python | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/backend | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/generated | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/mps | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/codegen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/codegen/onednn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/codegen/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/codegen/fuser | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/codegen/fuser/cpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/codegen/fuser/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/operator_upgraders | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/serialization | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/python | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/frontend | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/passes | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/passes/onnx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/passes/onnx/pattern_conversion | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/passes/quantization | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/passes/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/passes/dbr_quantization | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/backends | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/backends/xnnpack | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/backends/xnnpack/serialization | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/backends/xnnpack/executor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/backends/xnnpack/compiler | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/backends/coreml | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/backends/coreml/objc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/backends/coreml/cpp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/ir | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/testing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/tensorexpr | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/tensorexpr/operators | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/mobile | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/mobile/nnc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/mobile/train | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/mobile/train/optim | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/mobile/compatibility | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/mobile/model_tracer | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/runtime | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/runtime/interpreter | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/runtime/static | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/jit/api | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/dynamo | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/autograd | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/functions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/generated | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/fx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data/datasets | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data/transforms | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data/samplers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data/dataloader | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data/detail | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/optim | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/optim/schedulers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/functional | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/parallel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/options | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/python | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/detail | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nativert | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/serialize | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/headeronly | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/headeronly/core | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/headeronly/util | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/headeronly/cpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/headeronly/cpu/vec | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/headeronly/macros | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/headeronly/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/torch/headeronly/cuda/detail | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/fbgemm | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/xpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/xpu/detail | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/core | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/core/dispatch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/core/boxing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/core/boxing/impl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/core/op_registration | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/functorch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/hip | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/hip/impl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cpu/vec | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cpu/vec/sve | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cpu/vec/vec512 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cpu/vec/vec128 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cpu/vec/vec256 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cpu/vec/vec256/vsx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cpu/vec/vec256/zarch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/detail | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/hip | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/hip/bgemm_kernels | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/cpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/xpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/hip | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/hip/flash_attn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/hip/flash_attn/ck | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/cuda/flash_attn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/cuda/mem_eff_attention | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/cuda/mem_eff_attention/iterators | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/cuda/mem_eff_attention/transform | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/cuda/mem_eff_attention/gemm | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/cuda/mem_eff_attention/epilogue | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/transformers/cuda/mem_eff_attention/kernels | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/ao_sparse | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/ao_sparse/quantized | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/ao_sparse/quantized/cpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/mps | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/mps/operations | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/mps/kernels | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/kleidiai | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/quantized | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/quantized/cpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/quantized/cudnn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/native/nested | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cudnn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cuda/detail | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/cuda/tunable | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/accelerator | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/miopen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/mps | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/metal | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/ATen/quantized | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/legacy | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf/util | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf/compiler | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf/compiler/python | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf/compiler/ruby | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf/compiler/cpp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf/compiler/csharp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf/compiler/php | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf/compiler/java | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf/compiler/objectivec | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf/stubs | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/google/protobuf/io | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/xpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/xpu/impl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/xpu/test | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/xpu/test/impl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/core | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/core/impl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/util | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/macros | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/cuda/impl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/test | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/test/util | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/metal | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/c10/mobile | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/oneapi | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/oneapi/dnnl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/caffe2 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/caffe2/core | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/caffe2/perfkernels | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/caffe2/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/caffe2/utils/threadpool | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/caffe2/serialize | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/fp16 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe/core | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe/channel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe/channel/mpt | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe/channel/xth | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe/channel/cma | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe/channel/basic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe/transport | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe/transport/uv | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe/transport/ibv | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe/transport/shm | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/tensorpipe/common | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/fmt | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/include/kineto | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/mtia | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_lazy | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/parallel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/intrinsic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/intrinsic/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/intrinsic/qat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/intrinsic/qat/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/intrinsic/quantized | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/dynamic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/dynamic/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/backends | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/attention | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/attention/experimental | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/utils/_expanded_weights | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/quantizable | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/quantizable/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/qat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/qat/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/qat/dynamic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/qat/dynamic/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/quantized | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/quantized/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/quantized/dynamic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/quantized/dynamic/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/quantized/_reference | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nn/quantized/_reference/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/quantization | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/quantization/fx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_vendor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_vendor/quack | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_vendor/quack/cache | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_vendor/quack/bench | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_vendor/packaging | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/signal | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/signal/windows | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/cpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/cpu/amp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_subclasses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_subclasses/complex_tensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_subclasses/complex_tensor/_ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_decomp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/package | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/package/analyze | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/multiprocessing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/futures | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_prims_common | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/export | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/export/passes | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/export/pt2_archive | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/export/experimental | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_export | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_export/passes | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_export/pass_infra | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_export/db | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_export/db/examples | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_export/serde | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/profiler | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/profiler/_cupti | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/profiler/_cupti/observers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/bin | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/bin/upgrader_models | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/mha | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/python_native | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/openmp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/xnnpack | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/cpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/nnpack | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/mkldnn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/cudnn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/opt_einsum | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/xeon | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/miopen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/mps | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/cusparselt | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/kleidiai | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/_coreml | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/mkl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/_nnapi | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/backends/quantized | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/monitor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/cuda/amp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/lib | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/lib/libshm | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/lib/libshm_windows | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/masked | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/masked/maskedtensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_higher_order_ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_higher_order_ops/passes | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/special | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_shard | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_shard/sharding_plan | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_shard/sharded_optim | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_shard/sharding_spec | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_shard/sharding_spec/chunk_sharding_spec_ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_shard/sharded_tensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_shard/sharded_tensor/_ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_shard/checkpoint | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_sharding_spec | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/algorithms | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/algorithms/_quantization | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/algorithms/ddp_comm_hooks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/algorithms/_comm_hooks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/algorithms/model_averaging | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/algorithms/_optimizer_overlap | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/algorithms/_checkpoint | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/subprocess_handler | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/errors | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic/events | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic/utils/data | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic/metrics | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic/timer | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic/rendezvous | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic/agent | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/elastic/agent/server | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/pipelining | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_pycute | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/optim | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/nn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/nn/jit | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/nn/jit/templates | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/nn/api | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/flight_recorder | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/flight_recorder/components | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_symmetric_memory | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_composable | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_composable/fsdp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/debug | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/launcher | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/tensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/tensor/parallel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/tensor/debug | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/tensor/_ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/tensor/experimental | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/tensor/experimental/_context_parallel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/checkpoint | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/checkpoint/_experimental | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_local_tensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/fsdp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/fsdp/_fully_shard | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/autograd | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_sharded_tensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_tools | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/rpc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/rpc/_testing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/distributed/_tensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/template_heuristics | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/xpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/mtia | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/aoti_runtime | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/cutlass | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/cutlass/lib_extensions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/cutlass/lib_extensions/cutlass_mock_imports | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/cutlass/lib_extensions/cutlass_mock_imports/pydot | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/cutlass/lib_extensions/cutlass_mock_imports/scipy | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/cutlass/lib_extensions/cutlass_mock_imports/cuda | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/rocm | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/cutedsl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/codegen/nv_universal_gemm | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/lookup_table | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/analysis | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/kernel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/kernel/vendored_templates | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/kernel/vendored_templates/cutedsl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/kernel/vendored_templates/cutedsl/wrappers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/kernel/vendored_templates/cutedsl/kernels | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/kernel/flex | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/kernel/flex/templates | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/kernel/templates | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/kernel/flex_gemm | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/package | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/autoheuristic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/autoheuristic/artifacts | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/compile_worker | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/fx_passes | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/fx_passes/auto_chunker | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/fx_passes/serialized_patterns | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/runtime | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/runtime/caching | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/heuristics | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/heuristics/triton_codegen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_inductor/heuristics/template | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/codegen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/opinfo | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/opinfo/definitions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/data | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/test_module | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/distributed | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/distributed/_shard | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/distributed/_shard/sharded_tensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/distributed/nn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/distributed/nn/api | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/distributed/rpc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/distributed/rpc/examples | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/distributed/rpc/jit | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/distributed/_tensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/optests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/testing/_internal/generated | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_C | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_C/_export | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_C/_acc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_C/_dynamo | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/ns | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/ns/fx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/sparse | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/sparse/quantized | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/sparse/quantized/dynamic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/intrinsic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/intrinsic/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/intrinsic/qat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/intrinsic/qat/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/dynamic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/dynamic/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/quantizable | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/quantizable/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/qat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/qat/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/qat/dynamic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/qat/dynamic/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/quantized | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/quantized/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/quantized/dynamic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/quantized/dynamic/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/quantized/reference | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/nn/quantized/reference/modules | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/quantization | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/quantization/backend_config | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/quantization/fx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/quantization/fx/_model_report | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/pruning | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/pruning/_experimental | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/pruning/_experimental/pruner | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_sparsifier | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_sparsifier/lightning | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_sparsifier/lightning/callbacks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_scheduler | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/pruning/_experimental/activation_sparsifier | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/pruning/scheduler | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/ao/pruning/sparsifier | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/accelerator | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_logging | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/compiler | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/_strobelight | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/backcompat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/data | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/data/_utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/data/datapipes | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/data/datapipes/iter | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/data/datapipes/dataframe | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/data/datapipes/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/data/datapipes/map | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/_debug_mode | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/serialization | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/benchmark | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/benchmark/examples | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/benchmark/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/benchmark/utils/valgrind_wrapper | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/benchmark/op_fuzzers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/hipify | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/viz | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/model_dump | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/_sympy | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/jit | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/utils/tensorboard | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/mps | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/test | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/jit | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/jit/_passes | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/jit/mobile | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fft | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/share | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/share/cmake | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/share/cmake/ATen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/share/cmake/Torch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/share/cmake/Tensorpipe | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/share/cmake/Caffe2 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/share/cmake/Caffe2/Modules_CUDA_fix | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/share/cmake/Caffe2/Modules_CUDA_fix/upstream | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/share/cmake/Caffe2/Modules_CUDA_fix/upstream/FindCUDA | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/share/cmake/Caffe2/public | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_dispatch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/linalg | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_awaits | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nativert | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nativert/backends | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/autograd | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/autograd/_functions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx/passes | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx/passes/infra | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx/passes/backends | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx/passes/dialect | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx/passes/dialect/common | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx/passes/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx/passes/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx/experimental | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx/experimental/migrate_gradual_types | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx/experimental/unification | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/fx/experimental/unification/multipledispatch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_refs | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_refs/nn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_refs/nn/functional | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_refs/special | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_refs/linalg | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_native | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_native/ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_native/ops/bmm_outer_product | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_native/ops/norm | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_native/ops/topk | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_native/ops/sum | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_native/ops/scatter_add | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_native/ops/foreach_mm | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_native/ops/polar | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_native/triton | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_dynamo | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_dynamo/repro | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_dynamo/backends | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_dynamo/polyfills | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_dynamo/variables | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_custom_op | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nested | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/nested/_internal | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_numpy | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_numpy/testing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_functorch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_functorch/_aot_autograd | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_functorch/_activation_checkpointing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_functorch/_activation_offloading | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch/_library | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/markupsafe-3.0.3.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/licenses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/typing_extensions-4.16.0.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/typing_extensions-4.16.0.dist-info/licenses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/functorch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/functorch/dim | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/functorch/einops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/functorch/_src | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/functorch/_src/aot_autograd | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/functorch/_src/vmap | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/functorch/_src/eager_transforms | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/functorch/_src/make_functional | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/functorch/compile | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/functorch/experimental | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/filelock | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/filelock/_soft_rw | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/config | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/config/_validate_pyproject | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/zipp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/zipp/compat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/jaraco | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/jaraco/functools | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/jaraco/collections | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/jaraco/text | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/backports | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/backports/tarfile | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/backports/tarfile/compat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/platformdirs-4.2.2.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/platformdirs-4.2.2.dist-info/licenses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/more_itertools | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/typeguard-4.3.0.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/packaging-24.2.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/jaraco.text-3.12.1.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/typing_extensions-4.12.2.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/wheel-0.45.1.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/typeguard | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/autocommand | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/wheel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/wheel/vendored | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/wheel/vendored/packaging | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/wheel/cli | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/jaraco.functools-4.0.1.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/more_itertools-10.3.0.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/inflect | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/inflect/compat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/zipp-3.19.2.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/jaraco.context-5.3.0.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/tomli | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/jaraco.collections-5.1.0.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/packaging | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/packaging/licenses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/tomli-2.0.1.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/inflect-7.3.1.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/backports.tarfile-1.2.0.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/platformdirs | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_vendor/autocommand-2.2.2.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/compat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/command | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/tests/config | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/tests/config/downloads | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/tests/integration | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/tests/compat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/tests/indexes | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/tests/indexes/test_links_priority | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/tests/indexes/test_links_priority/simple | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/tests/indexes/test_links_priority/simple/foobar | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_distutils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_distutils/compat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_distutils/compilers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_distutils/compilers/C | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_distutils/compilers/C/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_distutils/command | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_distutils/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools/_distutils/tests/compat | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/readwrite | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/readwrite/json_graph | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/readwrite/json_graph/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/readwrite/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/minors | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/minors/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/isomorphism | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/isomorphism/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/tree | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/tree/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/operators | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/operators/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/flow | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/flow/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/bipartite | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/bipartite/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/shortest_paths | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/shortest_paths/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/community | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/community/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/connectivity | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/connectivity/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/coloring | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/coloring/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/traversal | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/traversal/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/link_analysis | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/link_analysis/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/approximation | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/approximation/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/assortativity | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/assortativity/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/centrality | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/centrality/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/components | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/algorithms/components/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/generators | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/generators/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/classes | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/classes/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/drawing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/drawing/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/drawing/tests/baseline | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/utils | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/utils/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/linalg | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/linalg/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/jinja2-3.1.6.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/jinja2-3.1.6.dist-info/licenses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/algebras | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/algebras/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/assumptions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/assumptions/predicates | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/assumptions/handlers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/assumptions/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/assumptions/relation | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/stats | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/stats/sampling | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/stats/sampling/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/stats/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/integrals | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/integrals/benchmarks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/integrals/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/codegen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/codegen/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/sandbox | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/sandbox/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/diffgeom | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/diffgeom/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/strategies | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/strategies/branch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/strategies/branch/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/strategies/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/solvers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/solvers/benchmarks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/solvers/ode | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/solvers/ode/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/solvers/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/solvers/diophantine | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/solvers/diophantine/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/unify | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/unify/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/core | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/core/benchmarks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/core/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/interactive | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/interactive/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/crypto | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/crypto/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/benchmarks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/functions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/functions/elementary | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/functions/elementary/benchmarks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/functions/elementary/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/functions/special | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/functions/special/benchmarks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/functions/special/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/functions/combinatorial | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/functions/combinatorial/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/plotting | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/plotting/intervalmath | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/plotting/intervalmath/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/plotting/backends | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/plotting/backends/textbackend | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/plotting/backends/matplotlibbackend | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/plotting/pygletplot | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/plotting/pygletplot/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/plotting/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/calculus | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/calculus/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/ntheory | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/ntheory/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/printing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/printing/pretty | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/printing/pretty/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/printing/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/geometry | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/geometry/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/sets | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/sets/handlers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/sets/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/polys | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/polys/benchmarks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/polys/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/polys/matrices | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/polys/matrices/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/polys/numberfields | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/polys/numberfields/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/polys/agca | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/polys/agca/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/polys/domains | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/polys/domains/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/vector | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/vector/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing/latex | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing/latex/_antlr | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing/latex/lark | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing/latex/lark/grammar | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing/c | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing/autolev | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing/autolev/_antlr | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing/autolev/test-examples | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing/autolev/test-examples/pydy-example-repo | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing/fortran | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/parsing/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/discrete | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/discrete/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/multipledispatch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/multipledispatch/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/series | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/series/benchmarks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/series/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/holonomic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/holonomic/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/optics | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/optics/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/quantum | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/quantum/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/control | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/control/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/mechanics | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/mechanics/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/continuum_mechanics | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/continuum_mechanics/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/vector | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/vector/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/units | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/units/definitions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/units/systems | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/units/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/hep | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/hep/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/biomechanics | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/physics/biomechanics/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/tensor | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/tensor/array | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/tensor/array/expressions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/tensor/array/expressions/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/tensor/array/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/tensor/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/simplify | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/simplify/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/external | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/external/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/testing | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/testing/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/logic | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/logic/algorithms | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/logic/utilities | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/logic/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/categories | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/categories/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/utilities | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/utilities/_compilation | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/utilities/_compilation/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/utilities/mathml | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/utilities/mathml/data | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/utilities/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/liealgebras | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/liealgebras/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/matrices | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/matrices/benchmarks | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/matrices/expressions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/matrices/expressions/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/matrices/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/combinatorics | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/combinatorics/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/concrete | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy/concrete/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/pkg_resources | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/pkg_resources/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/pkg_resources/tests/data | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package_zipped-egg | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package-zip | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package-source | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/mpmath-1.3.0.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx-3.6.1.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/networkx-3.6.1.dist-info/licenses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools-78.1.0.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/setuptools-78.1.0.dist-info/licenses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/mpmath | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/mpmath/libmp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/mpmath/functions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/mpmath/calculus | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/mpmath/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/mpmath/matrices | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/_distutils_hack | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/dest | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/aoti | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/packaged | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/packaged/ATen | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/packaged/ATen/native | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/packaged/ATen/templates | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/packaged/autograd | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/packaged/autograd/templates | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/selective_build | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/static_runtime | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/operator_versions | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/api | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torchgen/api/types | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/jinja2 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy-1.14.0.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/sympy-1.14.0.dist-info/licenses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/fsspec-2026.7.0.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/fsspec-2026.7.0.dist-info/licenses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/markupsafe | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/fsspec | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/fsspec/implementations | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/fsspec/tests | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/fsspec/tests/abstract | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/ideep | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/ideep/mkl-dnn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/ideep/mkl-dnn/third_party | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/ideep/mkl-dnn/third_party/opencl | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/ideep/mkl-dnn/third_party/gtest | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/onnx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/onnx/third_party | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/onnx/third_party/pybind11 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/pthreadpool | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/pybind11 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/psimd | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/fbgemm_gpu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/fbgemm_gpu/src | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/fbgemm_gpu/src/quantize_ops | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/fbgemm_gpu/src/quantize_ops/mx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/fbgemm_gpu/test | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/fbgemm_gpu/test/quantize | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/fbgemm_gpu/test/quantize/mx | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/fbgemm_gpu/experimental | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/fbgemm_gpu/experimental/hstu | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/external | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/external/hipify_torch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/external/composable_kernel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/external/cpuinfo | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/external/cpuinfo/deps | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/external/cpuinfo/deps/clog | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/external/googletest | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/external/cutlass | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fbgemm/external/cutlass/python | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flash-attention | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flash-attention/flash_attn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flash-attention/flash_attn/cute | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flash-attention/csrc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flash-attention/csrc/composable_kernel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flash-attention/csrc/cutlass | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flash-attention/csrc/cutlass/python | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flash-attention/third_party | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flash-attention/third_party/aiter | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flash-attention/third_party/aiter/3rdparty | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flash-attention/third_party/aiter/3rdparty/composable_kernel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/composable_kernel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/mslk | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/mslk/mslk | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/mslk/mslk/attention | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/mslk/mslk/attention/flash_attn | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/mslk/external | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/mslk/external/hipify_torch | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/mslk/external/composable_kernel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/mslk/external/googletest | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/mslk/external/cutlass | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/mslk/external/cutlass/python | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/llvm-openmp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flatbuffers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flatbuffers/swift | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/flatbuffers/dart | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/benchmark | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/cpuinfo | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/cpuinfo/deps | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/cpuinfo/deps/clog | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/googletest | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/python-peachpy | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/gloo | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/protobuf | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/protobuf/third_party | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/protobuf/third_party/utf8_range | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/protobuf/third_party/benchmark | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/protobuf/third_party/googletest | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/protobuf/third_party/googletest/googletest | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/protobuf/third_party/googletest/googlemock | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/protobuf/third_party/googletest/googlemock/scripts | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/protobuf/third_party/googletest/googlemock/scripts/generator | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/VulkanMemoryAllocator | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/miniz-3.0.2 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/cutlass | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/cutlass/python | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/NNPACK | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/aiter | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/aiter/3rdparty | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/aiter/3rdparty/composable_kernel | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/cpp-httplib | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/FXdiv | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/XNNPACK | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/perfetto | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/NVTX | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/NVTX/python | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/NVTX/docs | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/NVTX/rust | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/sleef | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/cudnn_frontend | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/tensorpipe | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/tensorpipe/third_party | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/tensorpipe/third_party/pybind11 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/tensorpipe/third_party/googletest | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/tensorpipe/third_party/googletest/googletest | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/tensorpipe/third_party/googletest/googlemock | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/tensorpipe/third_party/googletest/googlemock/scripts | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/tensorpipe/third_party/googletest/googlemock/scripts/generator | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/tensorpipe/third_party/libuv | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/tensorpipe/third_party/libnop | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/mimalloc | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/fmt | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/kineto | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/kineto/libkineto | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/kineto/libkineto/third_party | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/kineto/libkineto/third_party/googletest | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/kineto/libkineto/third_party/dynolog_headers | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/kineto/libkineto/third_party/fmt | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/gemmlowp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/gemmlowp/gemmlowp | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/torch-2.14.0+cpu.dist-info/licenses/third_party/FP16 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/filelock-3.32.3.dist-info | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/lib/python3.12/site-packages/filelock-3.32.3.dist-info/licenses | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/share | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/share/man | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/.venv/share/man/man1 | mtime=2026-09-29 03:53:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/bin | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv | mtime=2026-09-29 03:53:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/.temp | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/cpython | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/include/python3.12/internal | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/bin | mtime=2026-09-29 03:53:17 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/cookiejar0.2 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/encoding | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9.0/opt0.4 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/thread3.0.6 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12 | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/json | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/unittest | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ctypes/macholib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/wsgiref | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/html | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ensurepip | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/ensurepip/_bundled | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/http | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/config-3.12-x86_64-linux-gnu | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/urllib | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zoneinfo | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xmlrpc | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/email/mime | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zipfile | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/zipfile/_path | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/dummy | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tomllib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/collections | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib-dynload | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/sqlite3 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/encodings | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/venv | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/venv/scripts | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/venv/scripts/posix | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/venv/scripts/common | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/emscripten | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/util | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/urllib3/http2 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/msgpack | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distro | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/distlib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pkg_resources | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/rich | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli_w | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/truststore | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/lexers | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/formatters | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/styles | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/pygments/filters | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/requests | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/tomli | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/packaging/licenses | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/certifi | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/platformdirs | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/idna | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_vendor/resolvelib/resolvers | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/network | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/locations | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/build | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/operations/install | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/build_env | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/distributions | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/cli | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/models | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/metadata | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/metadata/importlib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/utils | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/index | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/vcs | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/req | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/commands | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/legacy | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/urllib3 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/msgpack | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/distro | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/distlib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/pyproject_hooks | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/pkg_resources | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/rich | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/tomli_w | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/truststore | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/pygments | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/requests | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/tomli | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/packaging | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/certifi | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/platformdirs | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/cachecontrol | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/idna | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/site-packages/pip-26.2.1.dist-info/licenses/src/pip/_vendor/resolvelib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/dom | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/sax | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/parsers | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/xml/etree | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/resources | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/importlib/metadata | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/concurrent | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/concurrent/futures | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/__phello__ | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/dbm | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/pydoc_data | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/idlelib/Icons | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/fixes | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/lib2to3/pgen2 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/asyncio | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/curses | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/re | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/logging | mtime=2026-09-29 03:53:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/turtledemo | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/tkinter | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/pkgconfig | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/images | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tk9.0/ttk | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9/9.0 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/tcl9/9.0/platform | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/itcl4.3.8 | mtime=2026-09-29 03:53:18 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/man | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/man/man1 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/r | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/i | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/a | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/M | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/6 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/t | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/4 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/s | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/X | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/N | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/7 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/k | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/3 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/c | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/n | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/g | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/w | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/h | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/o | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/1 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/x | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/E | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/e | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/5 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/9 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/p | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/l | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/L | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/q | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/d | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/8 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/z | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/Q | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/2 | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/P | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/v | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/A | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/m | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/f | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/j | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/u | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/share/terminfo/b | mtime=2026-09-29 03:53:19 | source_job=worklog_scan
+
