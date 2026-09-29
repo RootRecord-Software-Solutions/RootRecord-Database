@@ -37,10 +37,11 @@ That separation makes migrations easier to reason about and gives agents a stabl
 | `Logs/` | Domain-aligned current logs and archived history |
 | `Media/` | Persistent media such as images, audio, notifications & timelapses |
 | `Worklog/` | Runtime worklog data |
-| `System/` | System-oriented persistent data |
+| `System/` | System-oriented persistent data; `uptime/` desk up/down events (2026-09-29) |
 | `Weather/` | Weather-domain data |
 | `Github/` | Git / synchronization data |
-| `Energy/` | EcoFlow samples, SOC and watts last-files (BLE/API reads) |
+| `Energy/` | EcoFlow samples, SOC and watts last-files (BLE/API reads); `sun/sun-times-last.json` sunrise/sunset (2026-09-29) |
+| `Geology/` | USGS earthquakes (Hawaiʻi + global) and HVO volcano status last-files + Daily JSONL, Kīlauea cam stills — see [`Geology/README.md`](./Geology/README.md) (2026-09-29) |
 | `RootRecord/` | Energy SQLite store (`rootrecord.db` + layers; git-ignored) |
 | `Intake/` | Relay/intake runtime state |
 | Domain stores | Persistent domain-specific state as documented |
