@@ -1912,12 +1912,9 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022146.json|819|1790684506
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022019.json|820|1790684419
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022104.json|819|1790684464
-/home/rootrecord/.local/share/gnome-shell/application_state|1626|1790684443
 /home/rootrecord/.local/share/gvfs-metadata/home|4336|1790684472
 /home/rootrecord/.local/share/org.gnome.TextEditor/session.gvariant|1758|1790684453
 /home/rootrecord/.local/share/org.gnome.TextEditor/recently-used.xbel|7522|1790684453
-/home/rootrecord/.local/share/recently-used.xbel|113226|1790684481
-/home/rootrecord/.local/state/wireplumber/stream-properties|720|1790684482
 /home/rootrecord/.config/Grok Bot/sand-statsig-bootstrap.json|850037|1790684496
 /home/rootrecord/.grokbot/local-exec-backend-return.json|20|1790684548
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/GitHub_Catalog_Hygiene_Work_Order_WO-GH-2026-09-27.md|6291|1790684648
@@ -2082,16 +2079,11 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-022308.json|943|1790684588
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-022229.json|943|1790684549
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-022353.json|1536|1790684633
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/river2pro-last.json|72|1790684588
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/river2pro-last.json|194|1790684588
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022309.json|820|1790684589
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022230.json|820|1790684550
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022353.json|819|1790684633
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Github/scripts/push-repo-once.sh|7368|1790684612
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/reports/README.md|242108|1790684570
-/home/rootrecord/.grokbot/local-exec-supervisor.json|33|1790684748
-/home/rootrecord/.grokbot/local-exec-daemon.json|156|1790684751
-/home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790684749
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T122521Z.jpg|12330|1790684722
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T122519Z.jpg|12315|1790684721
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T122510Z.jpg|314675|1790684714
@@ -2100,27 +2092,59 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T122441Z.jpg|12248|1790684683
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T122515Z.jpg|352683|1790684719
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T122435Z.jpg|353724|1790684679
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WORKLOG/worklog_current.md|242968|1790684671
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-022444.json|1536|1790684684
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-022524.json|1536|1790684724
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/delta2-last.json|73|1790684724
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/delta2-last.json|193|1790684724
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/last/host-last.json|819|1790684724
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/mem/host-last.json|162|1790684724
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022524.json|819|1790684724
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022444.json|820|1790684684
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/cpu/host-last.json|85|1790684724
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/load/host-last.json|113|1790684724
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1min.db|147456|1790684724
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1sec.db|1392640|1790684724
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/5min.db|61440|1790684724
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/system.db|184320|1790684724
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/status/system-status.json|2484|1790684724
-/home/rootrecord/.config/Grok Bot/gateway-descriptor.json|1719|1790684749
 /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltsn5zxizlsfzwgc43ufvzg643umvza.blob|8241|1790684701
 /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxglrthfrtomrtmqzc2yrxga2s2ndgmvrs2olgg43c2zbugrsdkmrtmnstazdd.blob|189536|1790684703
-/home/rootrecord/.config/Grok Bot/sentry/session.json|316|1790684699
-/home/rootrecord/.config/Grok Bot/DawnWebGPUCache/data_1|270336|1790684676
-/home/rootrecord/.config/Grok Bot/DawnGraphiteCache/data_1|270336|1790684676
-/home/rootrecord/.config/Grok Bot/sand-session-marker.json|120|1790684702
-/home/rootrecord/.config/Grok Bot/GPUCache/data_1|270336|1790684676
+/home/rootrecord/.grokbot/local-exec-supervisor.json|33|1790684873
+/home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790684874
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T122603Z.jpg|12372|1790684765
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T122646Z.jpg|12301|1790684807
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T122559Z.jpg|353302|1790684763
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T122647Z.jpg|12329|1790684809
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T122723Z.jpg|353681|1790684847
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T122641Z.jpg|353828|1790684806
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T122733Z.jpg|12403|1790684854
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T122605Z.jpg|12440|1790684766
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T122718Z.jpg|315125|1790684843
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T122727Z.jpg|12245|1790684852
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T122554Z.jpg|314959|1790684759
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T122637Z.jpg|315092|1790684801
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WORKLOG/worklog_current.md|248965|1790684754
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-022608.json|943|1790684768
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-022650.json|943|1790684810
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-022735.json|943|1790684855
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/river2pro-last.json|72|1790684855
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/river2pro-last.json|194|1790684855
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/last/host-last.json|820|1790684856
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/mem/host-last.json|162|1790684856
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022608.json|820|1790684768
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022736.json|820|1790684856
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022651.json|819|1790684811
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/cpu/host-last.json|85|1790684856
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/load/host-last.json|114|1790684856
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1min.db|147456|1790684856
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1sec.db|1421312|1790684856
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/system.db|184320|1790684856
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/status/system-status.json|2485|1790684856
+/home/rootrecord/.local/share/gnome-shell/session.gvdb|32|1790684875
+/home/rootrecord/.local/share/gnome-shell/session-active-history.json|1513|1790684875
+/home/rootrecord/.local/share/gnome-shell/application_state|1626|1790684762
+/home/rootrecord/.local/share/recently-used.xbel|113226|1790684874
+/home/rootrecord/.local/state/gnome-session@ubuntu.state|70|1790684872
+/home/rootrecord/.local/state/wireplumber/stream-properties|720|1790684875
+/home/rootrecord/.config/Grok Bot/gateway-descriptor.json|1719|1790684874
+/home/rootrecord/.config/Grok Bot/sentry/session.json|316|1790684819
+/home/rootrecord/.config/Grok Bot/DawnWebGPUCache/data_1|270336|1790684874
+/home/rootrecord/.config/Grok Bot/DawnWebGPUCache/index|262512|1790684874
+/home/rootrecord/.config/Grok Bot/DawnGraphiteCache/data_1|270336|1790684874
+/home/rootrecord/.config/Grok Bot/DawnGraphiteCache/index|262512|1790684874
+/home/rootrecord/.config/Grok Bot/sand-session-marker.json|120|1790684822
+/home/rootrecord/.config/Grok Bot/GPUCache/data_1|270336|1790684874
+/home/rootrecord/.config/Grok Bot/GPUCache/index|262512|1790684874
+/home/rootrecord/.bash_history|85387|1790684874
