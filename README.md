@@ -36,10 +36,13 @@ That separation makes migrations easier to reason about and gives agents a stabl
 | --- | --- |
 | `Logs/` | Domain-aligned current logs and archived history |
 | `Media/` | Persistent media such as images, audio, notifications & timelapses |
-| `WORKLOG/` | Runtime worklog data |
-| `SYSTEM/` | System-oriented persistent data |
-| `WEATHER/` | Weather-domain data |
-| `GITHUB/` | Git / synchronization data |
+| `Worklog/` | Runtime worklog data |
+| `System/` | System-oriented persistent data |
+| `Weather/` | Weather-domain data |
+| `Github/` | Git / synchronization data |
+| `Energy/` | EcoFlow samples, SOC and watts last-files (BLE/API reads) |
+| `RootRecord/` | Energy SQLite store (`rootrecord.db` + layers; git-ignored) |
+| `Intake/` | Relay/intake runtime state |
 | Domain stores | Persistent domain-specific state as documented |
 
 ### Logs
