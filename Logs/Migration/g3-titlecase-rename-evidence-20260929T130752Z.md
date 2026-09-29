@@ -41,3 +41,12 @@ Edits are staged and syntax-checked first, then applied in one window:
 5. Relaunch the read-only dashboard only.
 
 BLE owner (`ava-ecoflow-ble`, separate unit) is not restarted: it writes its PID only at start and unlinks it with `missing_ok`. Rollback: move the folders back, restore the backups, one restart.
+
+## 4. Result (03:24 HST)
+- **Rename:** the stack stopped at 03:09:36 (the first stop at 03:08:56 was interrupted; the old poller was SIGKILLed at TimeoutStopSec). The 7 moves were done at 03:09:39, 27 staged files were installed, and the poller started at 03:09:39 (PID 94145).
+- **OOM restart loop:** at each boot, `flm_npu_warmup` → `flm serve llama3.2:3b` (about 10 GB) OOM-killed the unit (NRestarts 11). Warmup was made opt-in at 03:13 (Pacific `ff298b2`). The poller has been stable since 03:13:28 (PID 105444).
+- **Services (single instance):** relay 105964 (replies OFF), cam 106033, weather 106159, cloudflared 105450, globe 94778, BLE owner 3195 (not restarted), dashboard 111257 (relaunched 03:16:34).
+- **Git:** Database `92bd69c` has 455 renames (`R`). `git ls-files` shows 0 paths under the old names. check-ignore holds `/Weather/`, `/RootRecord/`, `/Github/logs/`, `/Energy/state/`, `/Energy/ports/`. No `git rm --cached` was needed. Pacific code: `1368822`.
+- **Fresh data (new names):** `Energy/soc` 03:21–03:22 (BLE), `System/samples/sys-20260929-032425.json`, 147 Weather files written in the last 3 min, `Worklog/worklog_current.md` 03:18:48.
+- **Old names:** none recreated at 03:15 or at 03:24.
+- **Docs:** Pacific READMEs (Energy, Energy/db/SKILL, Weather, Reports, System), Database README, and Library WO-SRV/retirement table/checklist/runbook were updated (new-root path forms only; old-root and archive paths unchanged). Backup: `/home/rootrecord/Database/GITHUB/g3-titlecase-docs.bak-20260929-032352/`.
