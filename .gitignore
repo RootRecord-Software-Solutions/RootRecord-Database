@@ -47,6 +47,7 @@
 *.lock
 
 # Live high-churn log streams (BLE heartbeat, poller current). Archives stay tracked. Added 2026-09-29 (WO-ECO/WO-SRV).
-# NOTE: both files were already tracked when added; rule is inert until untracked (git rm --cached needs owner approval).
+# Untracked via owner-approved git rm --cached 2026-09-29 ~01:25 HST; files stay on disk.
 /Logs/Energy/ava-ecoflow-ble.log
 /Logs/Automations/automations_current.log
+/Logs/Communications/council-relay.log
