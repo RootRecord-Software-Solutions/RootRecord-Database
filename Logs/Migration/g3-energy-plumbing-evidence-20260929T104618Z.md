@@ -21,11 +21,11 @@ WAITING
 No data - solar gate state not written yet
 rc=2
 --- plumbing modes now
-plumbing/flm-warmup.sh
-plumbing/ollama-warmup.sh
-plumbing/run-infer.sh
-plumbing/run-ollama.sh
-plumbing/single-flight.sh
+775 plumbing/flm-warmup.sh
+775 plumbing/ollama-warmup.sh
+775 plumbing/run-infer.sh
+775 plumbing/run-ollama.sh
+775 plumbing/single-flight.sh
 --- single-flight test output (10:45:00Z)
 [ok] single-flight RUN ollama:qwen2.5:1.5b-instruct-q8_0:20260929-004500
 Ok
