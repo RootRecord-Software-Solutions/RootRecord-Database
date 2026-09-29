@@ -1,0 +1,41 @@
+# Generated / binary media — keep out of Git history
+# Text, source, configuration, documentation, and other human-readable artifacts remain trackable.
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tif
+*.tiff
+*.heic
+*.heif
+*.avif
+
+# Audio
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.oga
+*.m4a
+*.aac
+*.opus
+*.wma
+
+# Video
+*.mp4
+*.m4v
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wmv
+*.mpeg
+*.mpg
+
+# Other common binary media / archives
+*.ico
+*.pdf
