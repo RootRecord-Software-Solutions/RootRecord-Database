@@ -671,3 +671,74 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/archive | mtime=2026-09-29 02:09:04 | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/archive/09-29-2026 | mtime=2026-09-29 02:09:04 | source_job=worklog_scan
 
+### 2026-09-29 02:12:45 HST
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-supervisor.json | size=33 | mtime=2026-09-29 02:12:19 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon.json | size=156 | mtime=2026-09-29 02:12:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon-connection.json | size=1666 | mtime=2026-09-29 02:12:20 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/02_current.gif | size=90035 | mtime=2026-09-29 02:11:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/08_current.gif | size=91638 | mtime=2026-09-29 02:11:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/07/07_current.gif | size=87949 | mtime=2026-09-29 02:11:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/04/04_current.gif | size=88340 | mtime=2026-09-29 02:11:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/01_current.gif | size=83631 | mtime=2026-09-29 02:11:15 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/06/06_current.gif | size=81383 | mtime=2026-09-29 02:11:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/03_current.gif | size=90562 | mtime=2026-09-29 02:11:19 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/00_current.gif | size=89647 | mtime=2026-09-29 02:11:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif | size=84191 | mtime=2026-09-29 02:11:32 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif | size=81918 | mtime=2026-09-29 02:11:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif | size=91526 | mtime=2026-09-29 02:11:23 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/_manifest.json | size=70502 | mtime=2026-09-29 02:12:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T121137Z.jpg | size=12200 | mtime=2026-09-29 02:11:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T121056Z.jpg | size=12241 | mtime=2026-09-29 02:10:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T121218Z.jpg | size=12189 | mtime=2026-09-29 02:12:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T121135Z.jpg | size=12079 | mtime=2026-09-29 02:11:37 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T121131Z.jpg | size=352781 | mtime=2026-09-29 02:11:35 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T121046Z.jpg | size=308807 | mtime=2026-09-29 02:10:50 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T121207Z.jpg | size=313409 | mtime=2026-09-29 02:12:11 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T121055Z.jpg | size=12251 | mtime=2026-09-29 02:10:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T121216Z.jpg | size=12203 | mtime=2026-09-29 02:12:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T121050Z.jpg | size=353033 | mtime=2026-09-29 02:10:55 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T121127Z.jpg | size=313962 | mtime=2026-09-29 02:11:31 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T121211Z.jpg | size=351250 | mtime=2026-09-29 02:12:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WORKLOG/worklog_current.md | size=135487 | mtime=2026-09-29 02:12:47 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-021101.json | size=943 | mtime=2026-09-29 02:11:01 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-021220.json | size=943 | mtime=2026-09-29 02:12:20 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-021140.json | size=943 | mtime=2026-09-29 02:11:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/river2pro-last.json | size=72 | mtime=2026-09-29 02:12:20 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/river2pro-last.json | size=194 | mtime=2026-09-29 02:12:20 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/last/host-last.json | size=820 | mtime=2026-09-29 02:12:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/mem/host-last.json | size=162 | mtime=2026-09-29 02:12:21 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-021141.json | size=821 | mtime=2026-09-29 02:11:41 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-021221.json | size=820 | mtime=2026-09-29 02:12:21 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-021101.json | size=821 | mtime=2026-09-29 02:11:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/cpu/host-last.json | size=85 | mtime=2026-09-29 02:12:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/load/host-last.json | size=114 | mtime=2026-09-29 02:12:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1min.db | size=139264 | mtime=2026-09-29 02:12:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1sec.db | size=1224704 | mtime=2026-09-29 02:12:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/system.db | size=163840 | mtime=2026-09-29 02:12:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/status/system-status.json | size=2492 | mtime=2026-09-29 02:12:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/gateway-descriptor.json | size=1719 | mtime=2026-09-29 02:12:20 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sentry/session.json | size=316 | mtime=2026-09-29 02:11:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-session-marker.json | size=120 | mtime=2026-09-29 02:12:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/archive | mtime=2026-09-29 02:11:18 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/archive/09-29-2026 | mtime=2026-09-29 02:11:18 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/archive | mtime=2026-09-29 02:11:29 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/archive/09-29-2026 | mtime=2026-09-29 02:11:29 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/07/archive | mtime=2026-09-29 02:11:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/07/archive/09-29-2026 | mtime=2026-09-29 02:11:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/04/archive | mtime=2026-09-29 02:11:21 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/04/archive/09-29-2026 | mtime=2026-09-29 02:11:21 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/archive | mtime=2026-09-29 02:11:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/archive/09-29-2026 | mtime=2026-09-29 02:11:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/06/archive | mtime=2026-09-29 02:11:25 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/06/archive/09-29-2026 | mtime=2026-09-29 02:11:25 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/archive | mtime=2026-09-29 02:11:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/archive/09-29-2026 | mtime=2026-09-29 02:11:19 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/archive | mtime=2026-09-29 02:11:13 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/archive/09-29-2026 | mtime=2026-09-29 02:11:13 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/archive | mtime=2026-09-29 02:11:32 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/archive/09-29-2026 | mtime=2026-09-29 02:11:32 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/archive | mtime=2026-09-29 02:11:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/archive/09-29-2026 | mtime=2026-09-29 02:11:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/archive | mtime=2026-09-29 02:11:23 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/archive/09-29-2026 | mtime=2026-09-29 02:11:23 | source_job=worklog_scan
+
