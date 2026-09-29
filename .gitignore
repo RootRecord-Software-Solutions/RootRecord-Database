@@ -38,3 +38,10 @@
 
 # Other common binary media
 *.ico
+
+# Volatile runtime state: never commit (privacy + 5 s auto-sync churn). Added 2026-09-29 (WO-ECO).
+/ENERGY/state/
+/ENERGY/ports/
+/GITHUB/plumbing/state/
+*.pid
+*.lock
