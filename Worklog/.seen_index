@@ -1815,7 +1815,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T122554Z.jpg|314959|1790684759
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T122637Z.jpg|315092|1790684801
 /home/rootrecord/.local/share/gnome-shell/session.gvdb|32|1790684875
-/home/rootrecord/.local/share/gnome-shell/session-active-history.json|1513|1790684875
 /home/rootrecord/.local/state/gnome-session@ubuntu.state|70|1790684872
 /home/rootrecord/.local/share/keyrings/login.keyring|2498|1790684918
 /home/rootrecord/.local/share/nautilus/tags/meta.db|167936|1790684905
@@ -1950,7 +1949,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T124520Z.jpg|12317|1790685921
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T124509Z.jpg|313956|1790685914
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T124600Z.jpg|12381|1790685962
-/home/rootrecord/.config/Grok Bot/sand-statsig-bootstrap.json|850037|1790685934
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/WO-WXG-001-Weather-Geology-Import.md|2180|1790686061
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T124711Z.jpg|317028|1790686035
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T124715Z.jpg|350715|1790686040
@@ -2048,7 +2046,6 @@
 /home/rootrecord/.config/flm/models/Llama-3.2-3B-NPU2/tokenizer.json|9085657|1790686759
 /home/rootrecord/.config/flm/models/Llama-3.2-3B-NPU2/model.q4nx|2796243472|1790686742
 /home/rootrecord/.config/flm/models/Llama-3.2-3B-NPU2/tokenizer_config.json|4331|1790686759
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/Ecosystem_Migration_Work_Order_WO-ECO-2026-09-27.md|13256|1790686836
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T130051Z.jpg|318769|1790686856
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T130135Z.jpg|349247|1790686899
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T130130Z.jpg|317197|1790686894
@@ -2100,7 +2097,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T130704Z.jpg|12405|1790687225
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T130747Z.jpg|12336|1790687268
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T130655Z.jpg|317201|1790687219
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Migration/g3-titlecase-rename-evidence-20260929T130752Z.md|4098|1790687272
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T130829Z.jpg|12328|1790687311
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T130900Z.jpg|349351|1790687344
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T130856Z.jpg|317962|1790687340
@@ -3534,33 +3530,19 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/rain_summary/rain_summary_current.txt|68285|1790687912
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/rain_summary/raw/rain_summary_raw_current.html|68285|1790687912
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-032031.json|818|1790688031
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/5min.db|86016|1790688031
 /home/rootrecord/.local/share/recently-used.xbel|113751|1790688026
 /home/rootrecord/.config/dconf/user|10884|1790688026
-/home/rootrecord/.config/Grok Bot/DawnWebGPUCache/data_1|270336|1790688039
-/home/rootrecord/.config/Grok Bot/DawnGraphiteCache/data_1|270336|1790688039
-/home/rootrecord/.config/Grok Bot/GPUCache/data_1|270336|1790688039
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|1191936|1790688087
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T132110Z.jpg|12341|1790688072
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T132108Z.jpg|12391|1790688070
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T132059Z.jpg|319807|1790688064
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T132104Z.jpg|347446|1790688068
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-delta2-20260929-032127.json|350|1790688087
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json|74|1790688087
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json|186|1790688087
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-032128.json|817|1790688088
 /home/rootrecord/.local/share/gnome-shell/application_state|1784|1790688065
 /home/rootrecord/.local/share/gvfs-metadata/root|64|1790688091
-/home/rootrecord/.grokbot/local-exec-supervisor.json|31|1790688226
-/home/rootrecord/.grokbot/local-exec-daemon.json|154|1790688233
-/home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790688227
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/Servers_Cutover_Work_Order_WO-SRV-2026-09-27.md|49939|1790688232
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Residual-Path-Retirement-Table-2026-09-28.md|13551|1790688232
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G3-Runtime-Verification-Checklist-2026-09-28.md|8233|1790688232
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G3-Runtime-Verification-Runbook-2026-09-28.md|18435|1790688232
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|3739648|1790688200
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|5464064|1790688201
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|297349120|1790688201
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T132204Z.jpg|12475|1790688125
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T132200Z.jpg|347504|1790688124
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T132155Z.jpg|320870|1790688119
@@ -3571,8 +3553,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T132258Z.jpg|349543|1790688182
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-river2pro-20260929-032321.json|357|1790688201
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-river2pro-20260929-032223.json|357|1790688143
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|73|1790688201
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|137|1790688201
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif|1254272|1790688176
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md|1520|1790688176
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/wa0_airmets_current.md|777|1790688176
@@ -3719,24 +3699,56 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json|5021|1790688208
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json|4501|1790688209
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/README.md|242177|1790688176
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|820|1790688201
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790688201
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-032223.json|820|1790688143
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-032321.json|820|1790688201
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790688201
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790688201
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1min.db|200704|1790688201
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1sec.db|2146304|1790688201
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|241664|1790688201
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2424|1790688201
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|666806|1790688115
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/README.md|3318|1790688232
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/db/SKILL.md|3047|1790688232
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/README.md|1310|1790688232
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/reports/README.md|241985|1790688176
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/README.md|3641|1790688232
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/README.md|3312|1790688232
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/README.md|1448|1790688232
-/home/rootrecord/.config/Grok Bot/gateway-descriptor.json|1719|1790688227
-/home/rootrecord/.config/Grok Bot/sentry/session.json|315|1790688216
-/home/rootrecord/.config/Grok Bot/sand-session-marker.json|118|1790688219
+/home/rootrecord/.grokbot/local-exec-supervisor.json|31|1790688350
+/home/rootrecord/.grokbot/local-exec-daemon.json|154|1790688357
+/home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790688351
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/Ecosystem_Migration_Work_Order_WO-ECO-2026-09-27.md|13686|1790688304
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/Servers_Cutover_Work_Order_WO-SRV-2026-09-27.md|51846|1790688304
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|3760128|1790688326
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|5484544|1790688327
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|298508288|1790688327
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|1204224|1790688327
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T132357Z.jpg|323019|1790688241
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T132500Z.jpg|320403|1790688304
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T132406Z.jpg|12439|1790688247
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T132508Z.jpg|12467|1790688310
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T132401Z.jpg|348669|1790688245
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T132510Z.jpg|12406|1790688312
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T132407Z.jpg|12389|1790688249
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T132504Z.jpg|348498|1790688308
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-delta2-20260929-032527.json|350|1790688327
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-river2pro-20260929-032425.json|357|1790688265
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json|74|1790688327
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|73|1790688265
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json|186|1790688327
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|137|1790688265
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Migration/g3-titlecase-rename-evidence-20260929T130752Z.md|5635|1790688304
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|820|1790688328
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790688328
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-032425.json|820|1790688265
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-032528.json|820|1790688328
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790688328
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790688328
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1min.db|200704|1790688328
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1sec.db|2179072|1790688328
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/5min.db|86016|1790688328
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|241664|1790688328
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2420|1790688328
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|713670|1790688237
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/README.md|3515|1790688242
+/home/rootrecord/.local/share/gnome-shell/session-active-history.json|1621|1790688352
+/home/rootrecord/.config/Grok Bot/gateway-descriptor.json|1719|1790688351
+/home/rootrecord/.config/Grok Bot/sentry/session.json|315|1790688336
+/home/rootrecord/.config/Grok Bot/DawnWebGPUCache/data_1|270336|1790688340
+/home/rootrecord/.config/Grok Bot/DawnGraphiteCache/data_1|270336|1790688340
+/home/rootrecord/.config/Grok Bot/sand-session-marker.json|118|1790688339
+/home/rootrecord/.config/Grok Bot/sand-statsig-bootstrap.json|850036|1790688299
+/home/rootrecord/.config/Grok Bot/GPUCache/data_1|270336|1790688340
