@@ -10798,3 +10798,162 @@
 2026-09-28T06:11:36-10:00Starting cloudflared mode=token public_host=rootserver.rootrecord.cloud
 2026-09-28T06:11:36-10:00Waiting for tunnel register (timeout=45s)…
 2026-09-28T06:11:37-10:00tunnel starting
+2026-09-28T16:16:04-10:00HTTP listening on http://127.0.0.1:8799 (open access on bind)
+2026-09-28T16:16:04-10:00boot:start  jobs=10
+2026-09-28T16:16:04-10:00boot:run  priority=0  id=self_terminal
+2026-09-28T16:16:04-10:00boot:p0 self_process pid=1322814
+2026-09-28T16:16:04-10:00boot:run  priority=1  id=cloudflare_tunnel
+2026-09-28T16:16:05-10:00boot:p1 cloudflare_tunnel host=rootserver.rootrecord.cloud
+2026-09-28T16:16:05-10:00internet OK at boot — starting tunnel
+2026-09-28T16:16:05-10:00Starting cloudflared mode=token public_host=rootserver.rootrecord.cloud
+2026-09-28T16:16:05-10:00Waiting for tunnel register (timeout=45s)…
+2026-09-28T16:16:05-10:00tunnel starting
+2026-09-28T16:16:06-10:00tunnel connected  conn=0  edge=lax08
+2026-09-28T16:16:06-10:00Tunnel READY — first connection registered.
+2026-09-28T16:16:06-10:00boot:run  priority=2  id=github_setup_remotes
+2026-09-28T16:16:06-10:00tunnel ingress  rootserver.rootrecord.cloud → 127.0.0.1:8799
+2026-09-28T16:16:06-10:00boot:run  priority=3  id=ollama_warmup
+2026-09-28T16:16:06-10:00job:ollama_warmup RUN  bash /home/rootrecord/.ollama/skills/plumbing/scripts/ollama-warmup.sh
+2026-09-28T16:16:06-10:00tunnel connected  conn=1  edge=lax01
+2026-09-28T16:16:06-10:00job:ollama_warmup | [ok] ollama up
+2026-09-28T16:16:06-10:00boot:run  priority=4  id=flm_npu_warmup
+2026-09-28T16:16:06-10:00job:flm_npu_warmup RUN  bash /home/rootrecord/.ollama/skills/plumbing/scripts/flm-warmup.sh
+2026-09-28T16:16:06-10:00job:flm_npu_warmup | [skip] FLM binary not found (NPU path optional; Ollama remains fallback)
+2026-09-28T16:16:06-10:00boot:run  priority=5  id=council_relay
+2026-09-28T16:16:06-10:00job:council_relay RUN  bash /home/rootrecord/.ollama/skills/coms/telegram/scripts/ensure-relay.sh
+2026-09-28T16:16:07-10:00job:council_relay | [ok] council-relay started pid=1323136 → /home/rootrecord/Database/GITHUB/logs/council-relay.log
+2026-09-28T16:16:07-10:00boot:run  priority=6  id=a_eyes_cam_server
+2026-09-28T16:16:07-10:00job:a_eyes_cam_server RUN  bash /home/rootrecord/.ollama/skills/a-eyes/scripts/ensure_cam_server.sh
+2026-09-28T16:16:07-10:00job:a_eyes_cam_server | a-eyes cam server started
+2026-09-28T16:16:07-10:00boot:run  priority=7  id=a_eyes_timelapse_catchup
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup RUN  bash /home/rootrecord/.ollama/skills/a-eyes/scripts/timelapse_catchup.sh
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  catchup: checking 20260928, now=16:16 HST
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  hour 05 has no frames yet, skipping
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  hour 06 has no frames yet, skipping
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  hour 07 has no frames yet, skipping
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  hour 08 has no frames yet, skipping
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  hour 09 has no frames yet, skipping
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  hour 10 has no frames yet, skipping
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  hour 11 has no frames yet, skipping
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  hour 12 has no frames yet, skipping
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  hour 13 has no frames yet, skipping
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  hour 14 has no frames yet, skipping
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  hour 15 already compiled, skipping
+2026-09-28T16:16:07-10:00job:a_eyes_timelapse_catchup | 16:16:07  🎬  a-eyes-timelapse  catchup: window still open today, skipping daily render
+2026-09-28T16:16:07-10:00boot:run  priority=8  id=weather_poller
+2026-09-28T16:16:07-10:00job:weather_poller RUN  bash /home/rootrecord/.ollama/skills/automations/scripts/ensure-weather-poller.sh
+2026-09-28T16:16:07-10:00tunnel connected  conn=2  edge=lax08
+2026-09-28T16:16:09-10:00job:weather_poller FAIL code=-15
+2026-09-28T16:16:09-10:00job:weather_poller ! [ensure-weather-poller] starting -- entry=/home/rootrecord/.ollama/skills/weather/scripts/run_poller.py log=/home/rootrecord/Database/WEATHER/Hawai'i/logs/weather-poller.log
+2026-09-28T16:16:09-10:00boot:run  priority=9  id=network_globe_hawaii
+2026-09-28T16:16:09-10:00job:network_globe_hawaii RUN  bash /home/rootrecord/.ollama/skills/automations/scripts/ensure-network-globe-hawaii.sh
+2026-09-28T16:16:10-10:00job:network_globe_hawaii | [ensure-network-globe-hawaii] starting network-globe-hawaii.service
+2026-09-28T16:16:10-10:00job:network_globe_hawaii | [ensure-network-globe-hawaii] verify: network-globe-hawaii.service is active
+2026-09-28T16:16:10-10:00boot:done
+2026-09-28T16:16:30-10:00HTTP listening on http://127.0.0.1:8799 (open access on bind)
+2026-09-28T16:16:30-10:00boot:start  jobs=10
+2026-09-28T16:16:30-10:00boot:run  priority=0  id=self_terminal
+2026-09-28T16:16:30-10:00boot:p0 self_process pid=1323596
+2026-09-28T16:16:30-10:00boot:run  priority=1  id=cloudflare_tunnel
+2026-09-28T16:16:31-10:00boot:p1 cloudflare_tunnel host=rootserver.rootrecord.cloud
+2026-09-28T16:16:31-10:00internet OK at boot — starting tunnel
+2026-09-28T16:16:31-10:00Starting cloudflared mode=token public_host=rootserver.rootrecord.cloud
+2026-09-28T16:16:31-10:00Waiting for tunnel register (timeout=45s)…
+2026-09-28T16:16:31-10:00tunnel starting
+2026-09-28T16:16:31-10:00tunnel connected  conn=0  edge=lax05
+2026-09-28T16:16:31-10:00Tunnel READY — first connection registered.
+2026-09-28T16:16:31-10:00boot:run  priority=2  id=github_setup_remotes
+2026-09-28T16:16:31-10:00tunnel ingress  rootserver.rootrecord.cloud → 127.0.0.1:8799
+2026-09-28T16:16:31-10:00boot:run  priority=3  id=ollama_warmup
+2026-09-28T16:16:31-10:00job:ollama_warmup RUN  bash /home/rootrecord/.ollama/skills/plumbing/scripts/ollama-warmup.sh
+2026-09-28T16:16:31-10:00job:ollama_warmup | [ok] ollama up
+2026-09-28T16:16:31-10:00boot:run  priority=4  id=flm_npu_warmup
+2026-09-28T16:16:31-10:00job:flm_npu_warmup RUN  bash /home/rootrecord/.ollama/skills/plumbing/scripts/flm-warmup.sh
+2026-09-28T16:16:32-10:00tunnel connected  conn=1  edge=sjc11
+2026-09-28T16:16:32-10:00job:flm_npu_warmup | [skip] FLM binary not found (NPU path optional; Ollama remains fallback)
+2026-09-28T16:16:32-10:00boot:run  priority=5  id=council_relay
+2026-09-28T16:16:32-10:00job:council_relay RUN  bash /home/rootrecord/.ollama/skills/coms/telegram/scripts/ensure-relay.sh
+2026-09-28T16:16:32-10:00job:council_relay | [ok] council-relay started pid=1323935 → /home/rootrecord/Database/GITHUB/logs/council-relay.log
+2026-09-28T16:16:32-10:00boot:run  priority=6  id=a_eyes_cam_server
+2026-09-28T16:16:32-10:00job:a_eyes_cam_server RUN  bash /home/rootrecord/.ollama/skills/a-eyes/scripts/ensure_cam_server.sh
+2026-09-28T16:16:32-10:00job:a_eyes_cam_server | a-eyes cam server started
+2026-09-28T16:16:32-10:00boot:run  priority=7  id=a_eyes_timelapse_catchup
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup RUN  bash /home/rootrecord/.ollama/skills/a-eyes/scripts/timelapse_catchup.sh
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  catchup: checking 20260928, now=16:16 HST
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  hour 05 has no frames yet, skipping
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  hour 06 has no frames yet, skipping
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  hour 07 has no frames yet, skipping
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  hour 08 has no frames yet, skipping
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  hour 09 has no frames yet, skipping
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  hour 10 has no frames yet, skipping
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  hour 11 has no frames yet, skipping
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  hour 12 has no frames yet, skipping
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  hour 13 has no frames yet, skipping
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  hour 14 has no frames yet, skipping
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  hour 15 already compiled, skipping
+2026-09-28T16:16:32-10:00job:a_eyes_timelapse_catchup | 16:16:32  🎬  a-eyes-timelapse  catchup: window still open today, skipping daily render
+2026-09-28T16:16:32-10:00boot:run  priority=8  id=weather_poller
+2026-09-28T16:16:32-10:00job:weather_poller RUN  bash /home/rootrecord/.ollama/skills/automations/scripts/ensure-weather-poller.sh
+2026-09-28T16:16:32-10:00tunnel connected  conn=2  edge=lax11
+2026-09-28T16:16:33-10:00job:weather_poller | [ensure-weather-poller] starting -- entry=/home/rootrecord/.ollama/skills/weather/scripts/run_poller.py log=/home/rootrecord/Database/WEATHER/Hawai'i/logs/weather-poller.log
+2026-09-28T16:16:33-10:00job:weather_poller | [ensure-weather-poller] verify: weather poller is running
+2026-09-28T16:16:33-10:00boot:run  priority=9  id=network_globe_hawaii
+2026-09-28T16:16:33-10:00job:network_globe_hawaii RUN  bash /home/rootrecord/.ollama/skills/automations/scripts/ensure-network-globe-hawaii.sh
+2026-09-28T16:16:33-10:00job:network_globe_hawaii | [ensure-network-globe-hawaii] already running -- nothing to do
+2026-09-28T16:16:33-10:00boot:done
+2026-09-28T16:16:34-10:00tunnel connected  conn=3  edge=sjc05
+2026-09-28T16:18:05-10:00  ▸  SUMMARY=delta2 soc=41.09% solar=15W ac_out=— usbc=0W src=ble db=ok
+2026-09-28T16:18:05-10:00scheduler  every_seconds=6  every_minute=1  every_hour=1  on_at=1
+2026-09-28T16:18:05-10:00ENERGY  status=live  B2=41.1%  B1=98.9%  solar=15 W  ac=41 W  usbc=0 W  src=sqlite
+2026-09-28T16:18:19-10:00  ▸  SUMMARY=river2pro soc=98.88% solar=— ac_out=56W usbc=0W src=ble db=ok
+2026-09-28T16:18:19-10:00job:sys_stats_cycle RUN  bash /home/rootrecord/.ollama/skills/system-stats/scripts/sys-sample.sh
+2026-09-28T16:18:54-10:00job:sys_stats_cycle | SYSTEM  cpu=4%  load=0.97  mem=72%  src=sqlite
+2026-09-28T16:18:54-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/Database/SYSTEM/samples/sys-20260928-161819.json
+2026-09-28T16:19:19-10:00job:github_sync_all | ↑ [skills] committed 1 local file(s)
+2026-09-28T16:19:19-10:00job:github_sync_all | ↓ [skills] fetching origin/main
+2026-09-28T16:19:19-10:00job:github_sync_all | From github.com:rootrecordsoftwaresolutions/Solar-Pacific-RootRecord-Server
+2026-09-28T16:19:19-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-09-28T16:19:19-10:00job:github_sync_all | * [new branch]      main       -> origin/main
+2026-09-28T16:19:19-10:00job:github_sync_all | ↑ [skills] local is ahead of GitHub
+2026-09-28T16:19:19-10:00job:github_sync_all | To github.com:rootrecordsoftwaresolutions/Solar-Pacific-RootRecord-Server.git
+2026-09-28T16:19:19-10:00job:github_sync_all | d60fef1..5717161  HEAD -> main
+2026-09-28T16:19:19-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-09-28T16:19:19-10:00job:github_sync_all | ↑ [skills] 1 files → rootrecordsoftwaresolutions/Solar-Pacific-RootRecord-Server (main)
+2026-09-28T16:19:19-10:00job:github_sync_all | ↻ [website] sync retry 1/3
+2026-09-28T16:19:19-10:00job:github_sync_all | ↻ [website] sync retry 2/3
+2026-09-28T16:19:19-10:00job:github_sync_all | ↻ [website] sync retry 3/3
+2026-09-28T16:19:19-10:00job:github_sync_all | ✗ [website] sync failed after 3 attempts (continuing)
+2026-09-28T16:19:19-10:00job:github_sync_all | ↻ [mainland] sync retry 1/3
+2026-09-28T16:19:19-10:00job:github_sync_all | ↻ [mainland] sync retry 2/3
+2026-09-28T16:19:19-10:00job:github_sync_all | ↻ [mainland] sync retry 3/3
+2026-09-28T16:19:19-10:00job:github_sync_all | ✗ [mainland] sync failed after 3 attempts (continuing)
+2026-09-28T16:19:19-10:00job:github_sync_all | — [library] no local changes
+2026-09-28T16:19:19-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-09-28T16:19:19-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-09-28T16:19:19-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-09-28T16:19:19-10:00job:github_sync_all | * [new branch]      main       -> origin/main
+2026-09-28T16:19:19-10:00job:github_sync_all | ↓ [library] GitHub has changes; merging origin/main
+2026-09-28T16:19:19-10:00job:github_sync_all | Updating 11b2a41..5ea9217
+2026-09-28T16:19:19-10:00job:github_sync_all | Fast-forward
+2026-09-28T16:19:19-10:00job:github_sync_all | Documentation/06-development/Work Orders/README.md | 11 ++++--
+2026-09-28T16:19:19-10:00job:github_sync_all | ...Servers_Cutover_Work_Order_WO-SRV-2026-09-27.md | 28 ++++++++------
+2026-09-28T16:19:19-10:00job:github_sync_all | .../Work-Orders/WO-ECO-001-Action-Plan.md          | 45 ++++++++++++++--------
+2026-09-28T16:19:19-10:00job:github_sync_all | .../Work-Orders/WO-ECO-001-Energy-Domain-Import.md | 16 ++++----
+2026-09-28T16:19:19-10:00job:github_sync_all | 4 files changed, 60 insertions(+), 40 deletions(-)
+2026-09-28T16:19:19-10:00job:github_sync_all | ✓ [library] GitHub changes merged into local main
+2026-09-28T16:19:19-10:00job:github_sync_all | — [library] nothing to push
+2026-09-28T16:19:19-10:00job:worklog_scan RUN  bash /home/rootrecord/.ollama/skills/reports/scripts/worklog_once.sh
+2026-09-28T16:19:21-10:00job:worklog_scan FAIL code=-15
+2026-09-28T16:19:21-10:00job:a_eyes_frame_grab RUN  bash /home/rootrecord/.ollama/skills/a-eyes/scripts/grab_all.sh
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | 16:19:21  ✗  a-eyes  ch1 FAILED: [tcp @ 0x610387b46940] Connection to tcp://192.168.1.33:554?timeout=0 failed: No route to host
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | [in#0 @ 0x610387b43c40] Error opening input: No route t
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | a-eyes: ch1 grab failed
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | 16:19:24  ✗  a-eyes  ch2 FAILED: [tcp @ 0x5e468aa55940] Connection to tcp://192.168.1.33:554?timeout=0 failed: No route to host
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | [in#0 @ 0x5e468aa52c40] Error opening input: No route t
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | a-eyes: ch2 grab failed
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | 16:19:27  ✗  a-eyes  ch3 FAILED: [tcp @ 0x631a44b92940] Connection to tcp://192.168.1.33:554?timeout=0 failed: No route to host
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | [in#0 @ 0x631a44b8fc40] Error opening input: No route t
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | a-eyes: ch3 grab failed
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | 16:19:31  ✗  a-eyes  ch4 FAILED: [tcp @ 0x5b63258e0940] Connection to tcp://192.168.1.33:554?timeout=0 failed: No route to host
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | [in#0 @ 0x5b63258ddc40] Error opening input: No route t
+2026-09-28T16:19:34-10:00job:a_eyes_frame_grab | a-eyes: ch4 grab failed
