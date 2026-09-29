@@ -1,11 +1,25 @@
-###ALL LOGS MUST COMPRESS DAILY AT THE START OF EACH BOOT BEFORE ANY PROCESSES BEGIN OR AT 00:00
+# Automation Log Archive
 
-A DAILY CHECK MUST START BEFORE POWERING ANY AUTOMATION
+This directory stores rotated automation/poller logs.
 
-ALL FILES INSIDE EACH AUTOMATION LOG TYPE WILL MOVE INTO ITS ARCHIVE FOLDER AND BE RENAMED TO THAT LOG TYPE AS SUCH: <LOGTYPE>_<DATE>.LOG
+## Hourly policy
 
-A NEW _CURRENT.LOG WILL BEGIN IN THE PRIMARY TYPE FOLDER.
+`automations_current.log` is cut **once per hour** by:
 
-AT THE END OF THE WEEK ON SUNDAY INTO MONDAY AT 00:00 ALL DATED LOG FILES WILL BE COMPRESSED INTO A SINGLE ZIP FILE AS SUCH: <LOGTYPE>_<WEEK>.ZIP
+```text
+Automations/scripts/archive_automations_log_hourly.sh
+```
 
-AT THE BEGINNING OF THE 1ST OF EACH MONTH AT 00:00 ALL WEEKLY DATED ZIP FILES WILL BE COMPRESSED INTO A SINGLE ZIP FILE AS SUCH: <LOGTYPE>_<MONTH>_<YEAR>.ZIP
+Archive names:
+
+```text
+automations_YYYY-MM-DD_HH00.log
+```
+
+The script copies the current log into the archive and then truncates the current file so `poller-watch.py` can continue tailing the same path.
+
+A non-empty current log is archived only once per hourly run; an empty current file is left untouched.
+
+## Retention
+
+No automatic deletion/compaction policy is defined here yet. Archives are retained as operational history until a separate retention policy is approved.
