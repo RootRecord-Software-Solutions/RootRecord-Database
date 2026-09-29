@@ -75,3 +75,11 @@
 /Github/logs/
 /Logs/AI/FLM/*
 !/Logs/AI/FLM/.gitkeep
+
+# G3 voice + AI processing (added 2026-09-29 04:00 HST, g3-voice-ailog). Model weights/voice packs local only;
+# voice WAVs already covered by *.wav; live inference JSONL is high-churn (daily Archive/ stays tracked).
+/AI/Kokoro/Kokoro-82M/
+*.pth
+*.pt
+/Logs/AI/Inference/inference_current.jsonl
+/Media/Audio/Voice/Archive/
