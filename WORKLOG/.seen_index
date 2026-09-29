@@ -1616,7 +1616,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-015858.json|821|1790683138
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-015939.json|821|1790683179
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-020022.json|820|1790683222
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1hour.db|49152|1790683223
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T120134Z.jpg|308132|1790683298
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T120220Z.jpg|345193|1790683344
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T120215Z.jpg|309928|1790683340
@@ -1981,7 +1980,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-023235.json|820|1790685155
 /home/rootrecord/.local/share/org.gnome.TextEditor/session.gvariant|1734|1790685109
 /home/rootrecord/.local/share/org.gnome.TextEditor/recently-used.xbel|6993|1790685109
-/home/rootrecord/.local/state/wireplumber/stream-properties|706|1790685088
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/hfo/HRS_archive/raw/HRS_archive_raw_current.html|59414|1790685182
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/hfo/RR5_archive/raw/RR5_archive_raw_current.html|59379|1790685186
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T123357Z.jpg|12381|1790685239
@@ -2120,7 +2118,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-024604.json|1536|1790685964
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-024605.json|821|1790685965
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-024523.json|820|1790685923
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/15min.db|57344|1790685923
 /home/rootrecord/.config/Grok Bot/sand-statsig-bootstrap.json|850037|1790685934
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/WO-WXG-001-Weather-Geology-Import.md|2180|1790686061
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/hfo/aviation/raw/aviation_raw_current.html|67602|1790685997
@@ -2212,151 +2209,9 @@
 /home/rootrecord/.config/flm/models/Llama-3.2-1B-NPU2/model.q4nx|1297830152|1790686295
 /home/rootrecord/.config/flm/models/Llama-3.2-1B-NPU2/tokenizer_config.json|4331|1790686304
 /home/rootrecord/.grokbot/local-exec-daemon-credential.json|962|1790686414
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/Ecosystem_Migration_Work_Order_WO-ECO-2026-09-27.md|13073|1790686469
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/Servers_Cutover_Work_Order_WO-SRV-2026-09-27.md|49308|1790686469
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G3-Runtime-Verification-Checklist-2026-09-28.md|8233|1790686469
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif|1276206|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md|1520|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/wa0_airmets_current.md|777|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/hfo_rra_direct_current.md|17022|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_LIH_current.md|3505|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_HNL_current.md|3655|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/zfp_zone_forecast_current.md|85489|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/oso_hourly_obs_current.md|14542|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/ftm_radar_status_current.md|909|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_OGG_current.md|3180|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/cwf_coastal_waters_current.md|29172|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_HNL_current.md|3165|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/afd_area_forecast_discussion_current.md|7602|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/surfreports_statewide_observations_current.md|3036|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_OGG_current.md|3664|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/solar_calculation_table_current.md|12358|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_ITO_current.md|3449|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_7day_current.md|1527|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/sfp_state_forecast_current.md|3134|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_7day_current.md|1527|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/hfo_surf_reports_direct_current.md|3077|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_LIH_current.md|3189|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/hsf_high_seas_npac_current.md|3203|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/Hawaii_State_Weather_Report_current.md|238219|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_2day_current.md|1527|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/hfo_tib_reference_current.md|12991|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/off_offshore_forecast_current.md|3375|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_2day_current.md|1527|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_ITO_current.md|3150|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_homepage_current.md|9485|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_2day_current.md|1520|1790686444
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NOAA-GML/solar_calculation_table_current.md|12698|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_7day_current.md|1850|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_7day_current.md|1857|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_7day_current.md|1857|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_2day_current.md|1857|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_2day_current.md|1857|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_homepage_current.md|9809|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_2day_current.md|1850|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/wa0_airmets_current.md|1104|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/hfo_rra_direct_current.md|17352|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_LIH_current.md|3852|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_HNL_current.md|4002|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/zfp_zone_forecast_current.md|85822|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/oso_hourly_obs_current.md|14872|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/ftm_radar_status_current.md|1241|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_OGG_current.md|3525|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/cwf_coastal_waters_current.md|29506|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_HNL_current.md|3510|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/afd_area_forecast_discussion_current.md|7946|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/surfreports_statewide_observations_current.md|3386|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_OGG_current.md|4011|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_ITO_current.md|3796|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/sfp_state_forecast_current.md|3468|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/hfo_surf_reports_direct_current.md|3416|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_LIH_current.md|3534|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/hsf_high_seas_npac_current.md|3537|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/hfo_tib_reference_current.md|13324|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/off_offshore_forecast_current.md|3712|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_ITO_current.md|3495|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_7day_current.md|1793|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_7day_current.md|1800|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_7day_current.md|1800|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_2day_current.md|1800|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/hfo_tib_reference_current.md|13263|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_2day_current.md|1800|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_2day_current.md|1793|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/wa0_airmets_current.md|1046|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/hfo_rra_direct_current.md|17298|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/zfp_zone_forecast_current.md|85782|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/oso_hourly_obs_current.md|14814|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/cwf_coastal_waters_current.md|29448|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/afd_area_forecast_discussion_current.md|7888|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/surfreports_statewide_observations_current.md|3346|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/clm_monthly_climate_summary_ITO_current.md|3742|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/sfp_state_forecast_current.md|3428|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/hfo_surf_reports_direct_current.md|3351|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/hsf_high_seas_npac_current.md|3479|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/off_offshore_forecast_current.md|3654|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/cli_daily_climate_summary_ITO_current.md|3441|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/wa0_airmets_current.md|1044|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/hfo_rra_direct_current.md|17296|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/zfp_zone_forecast_current.md|85780|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/oso_hourly_obs_current.md|14812|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/ftm_radar_status_current.md|1185|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/cwf_coastal_waters_current.md|29446|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/afd_area_forecast_discussion_current.md|7886|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/surfreports_statewide_observations_current.md|3344|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/sfp_state_forecast_current.md|3426|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/hfo_surf_reports_direct_current.md|3349|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/hsf_high_seas_npac_current.md|3477|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/off_offshore_forecast_current.md|3652|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/wa0_airmets_current.md|1042|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/hfo_rra_direct_current.md|17294|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/zfp_zone_forecast_current.md|85778|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/oso_hourly_obs_current.md|14810|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/ftm_radar_status_current.md|1183|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/cli_daily_climate_summary_OGG_current.md|3467|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/cwf_coastal_waters_current.md|29444|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/afd_area_forecast_discussion_current.md|7884|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/surfreports_statewide_observations_current.md|3342|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/clm_monthly_climate_summary_OGG_current.md|3953|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/hfo_surf_reports_direct_current.md|3347|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/hsf_high_seas_npac_current.md|3475|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/off_offshore_forecast_current.md|3650|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii_County_Weather_Report_current.md|175795|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/wa0_airmets_current.md|1048|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/oso_hourly_obs_current.md|14816|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/cwf_coastal_waters_current.md|29450|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/afd_area_forecast_discussion_current.md|7890|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/hsf_high_seas_npac_current.md|3481|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/off_offshore_forecast_current.md|3656|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai_County_Weather_Report_current.md|170212|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu_County_Weather_Report_current.md|214750|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui_County_Weather_Report_current.md|173795|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao_County_Weather_Report_current.md|58316|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/wa0_airmets_current.md|1050|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/hfo_rra_direct_current.md|17302|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_LIH_current.md|3802|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_HNL_current.md|3952|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/zfp_zone_forecast_current.md|85786|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/oso_hourly_obs_current.md|14818|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/ftm_radar_status_current.md|1191|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_OGG_current.md|3475|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/cwf_coastal_waters_current.md|29452|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_HNL_current.md|3460|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/afd_area_forecast_discussion_current.md|7892|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/surfreports_statewide_observations_current.md|3350|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_OGG_current.md|3961|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/solar_calculation_table_current.md|12647|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_ITO_current.md|3746|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/hfo_surf_reports_direct_current.md|3355|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_LIH_current.md|3484|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/hsf_high_seas_npac_current.md|3483|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/off_offshore_forecast_current.md|3658|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_ITO_current.md|3445|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/nhc_homepage_current.md|9763|1790686445
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/nhc.noaa.gov/index/index_current.html|190651|1790686443
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/nhc.noaa.gov/index/raw/index_raw_current.html|190651|1790686443
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json|5179|1790686476
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json|4647|1790686477
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/README.md|242300|1790686445
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T125246Z.jpg|12381|1790686367
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T125402Z.jpg|350203|1790686446
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T125241Z.jpg|350946|1790686366
@@ -2371,15 +2226,12 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T125321Z.jpg|350402|1790686405
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/.gitignore|1848|1790686416
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/AI/FLM/.gitkeep|0|1790686416
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Migration/g3-npu-flm-evidence-20260929T125429Z.md|3340|1790686469
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-025410.json|1536|1790686450
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-025330.json|943|1790686410
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-025250.json|1536|1790686370
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-025411.json|820|1790686451
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-025251.json|821|1790686371
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-025330.json|821|1790686410
-/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/reports/README.md|242108|1790686445
-/home/rootrecord/.local/share/gnome-shell/application_state|1702|1790686462
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/surfreports_raw_current.html|65531|1790686522
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html|65531|1790686522
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/forecast.weather.gov/product_types/raw/product_types_raw_current.html|74397|1790686504
@@ -2398,10 +2250,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-025543.json|1536|1790686543
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-025543.json|819|1790686543
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-025503.json|821|1790686503
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/5min.db|73728|1790686503
-/home/rootrecord/.config/Grok Bot/DawnWebGPUCache/data_1|270336|1790686539
-/home/rootrecord/.config/Grok Bot/DawnGraphiteCache/data_1|270336|1790686539
-/home/rootrecord/.config/Grok Bot/GPUCache/data_1|270336|1790686539
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T125619Z.jpg|12358|1790686581
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T125654Z.jpg|351055|1790686618
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T125732Z.jpg|351999|1790686657
@@ -2421,13 +2269,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-025703.json|821|1790686623
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-025624.json|819|1790686584
 /home/rootrecord/.config/flm/models/Llama-3.2-3B-NPU2/config.json|1019|1790686667
-/home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxgltbmeztsntemrrs2zbsgjtc2nbzgu2c2yrqgq3s2mbugy3danbtmztdqyjx.blob|346540|1790686636
-/home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltsn5zxizlsfzwgc43ufvzg643umvza.blob|8320|1790686649
-/home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxglrthfrtomrtmqzc2yrxga2s2ndgmvrs2olgg43c2zbugrsdkmrtmnstazdd.blob|217716|1790686669
-/home/rootrecord/.grokbot/local-exec-supervisor.json|31|1790686804
-/home/rootrecord/.grokbot/local-exec-daemon.json|154|1790686804
-/home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790686774
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/_manifest.json|70502|1790686776
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T125817Z.jpg|12305|1790686698
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T125845Z.jpg|318458|1790686730
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T125935Z.jpg|12365|1790686776
@@ -2440,32 +2281,210 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T125924Z.jpg|318085|1790686769
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T125809Z.jpg|320589|1790686693
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T125819Z.jpg|12316|1790686700
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WORKLOG/worklog_current.md|119|1790686804
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WORKLOG/20260929-020048-20260929-030004.md|504483|1790686688
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-025938.json|943|1790686778
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-025858.json|943|1790686738
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-025821.json|1536|1790686701
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/delta2-last.json|73|1790686701
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/river2pro-last.json|72|1790686778
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/delta2-last.json|193|1790686701
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/river2pro-last.json|194|1790686778
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/last/host-last.json|821|1790686778
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/mem/host-last.json|162|1790686778
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-025858.json|821|1790686738
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-025822.json|820|1790686702
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-025938.json|821|1790686778
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/cpu/host-last.json|86|1790686778
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/load/host-last.json|114|1790686778
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1min.db|188416|1790686778
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1sec.db|1851392|1790686778
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/system.db|229376|1790686778
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/status/system-status.json|2481|1790686778
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts/ensure-relay.sh|1772|1790686710
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts/council-relay.py|9413|1790686710
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/plumbing/flm-warmup.sh|1298|1790686710
 /home/rootrecord/.config/flm/models/Llama-3.2-3B-NPU2/tokenizer.json|9085657|1790686759
 /home/rootrecord/.config/flm/models/Llama-3.2-3B-NPU2/model.q4nx|2796243472|1790686742
 /home/rootrecord/.config/flm/models/Llama-3.2-3B-NPU2/tokenizer_config.json|4331|1790686759
-/home/rootrecord/.config/Grok Bot/gateway-descriptor.json|1719|1790686774
-/home/rootrecord/.config/Grok Bot/sentry/session.json|315|1790686774
-/home/rootrecord/.config/Grok Bot/sand-session-marker.json|118|1790686779
+/home/rootrecord/.grokbot/local-exec-supervisor.json|31|1790686928
+/home/rootrecord/.grokbot/local-exec-daemon.json|154|1790686929
+/home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790686929
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/Ecosystem_Migration_Work_Order_WO-ECO-2026-09-27.md|13256|1790686836
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/Servers_Cutover_Work_Order_WO-SRV-2026-09-27.md|49939|1790686836
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif|1276206|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md|1520|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/wa0_airmets_current.md|777|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/hfo_rra_direct_current.md|17023|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_LIH_current.md|3505|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_HNL_current.md|3655|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/zfp_zone_forecast_current.md|85489|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/oso_hourly_obs_current.md|14542|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/ftm_radar_status_current.md|909|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_OGG_current.md|3180|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/cwf_coastal_waters_current.md|29172|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_HNL_current.md|3165|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/afd_area_forecast_discussion_current.md|7602|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/surfreports_statewide_observations_current.md|3036|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_OGG_current.md|3664|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/solar_calculation_table_current.md|12358|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_ITO_current.md|3449|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_7day_current.md|1527|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/sfp_state_forecast_current.md|3134|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_7day_current.md|1527|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/hfo_surf_reports_direct_current.md|3077|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_LIH_current.md|3189|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/hsf_high_seas_npac_current.md|3203|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/Hawaii_State_Weather_Report_current.md|238220|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_2day_current.md|1527|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/hfo_tib_reference_current.md|12991|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/off_offshore_forecast_current.md|3375|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_2day_current.md|1527|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_ITO_current.md|3150|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_homepage_current.md|9485|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_2day_current.md|1520|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NOAA-GML/solar_calculation_table_current.md|12698|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_7day_current.md|1850|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_7day_current.md|1857|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_7day_current.md|1857|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_2day_current.md|1857|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_2day_current.md|1857|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_homepage_current.md|9809|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_2day_current.md|1850|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/wa0_airmets_current.md|1104|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/hfo_rra_direct_current.md|17353|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_LIH_current.md|3852|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_HNL_current.md|4002|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/zfp_zone_forecast_current.md|85822|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/oso_hourly_obs_current.md|14872|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/ftm_radar_status_current.md|1241|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_OGG_current.md|3525|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/cwf_coastal_waters_current.md|29506|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_HNL_current.md|3510|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/afd_area_forecast_discussion_current.md|7946|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/surfreports_statewide_observations_current.md|3386|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_OGG_current.md|4011|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_ITO_current.md|3796|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/sfp_state_forecast_current.md|3468|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/hfo_surf_reports_direct_current.md|3416|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_LIH_current.md|3534|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/hsf_high_seas_npac_current.md|3537|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/hfo_tib_reference_current.md|13324|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/off_offshore_forecast_current.md|3712|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_ITO_current.md|3495|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_7day_current.md|1793|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_7day_current.md|1800|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_7day_current.md|1800|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_2day_current.md|1800|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/hfo_tib_reference_current.md|13263|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_2day_current.md|1800|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_2day_current.md|1793|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/wa0_airmets_current.md|1046|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/hfo_rra_direct_current.md|17299|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/zfp_zone_forecast_current.md|85782|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/oso_hourly_obs_current.md|14814|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/cwf_coastal_waters_current.md|29448|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/afd_area_forecast_discussion_current.md|7888|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/surfreports_statewide_observations_current.md|3346|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/clm_monthly_climate_summary_ITO_current.md|3742|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/sfp_state_forecast_current.md|3428|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/hfo_surf_reports_direct_current.md|3351|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/hsf_high_seas_npac_current.md|3479|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/off_offshore_forecast_current.md|3654|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii/cli_daily_climate_summary_ITO_current.md|3441|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/wa0_airmets_current.md|1044|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/hfo_rra_direct_current.md|17297|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/zfp_zone_forecast_current.md|85780|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/oso_hourly_obs_current.md|14812|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/ftm_radar_status_current.md|1185|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/cwf_coastal_waters_current.md|29446|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/afd_area_forecast_discussion_current.md|7886|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/surfreports_statewide_observations_current.md|3344|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/sfp_state_forecast_current.md|3426|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/hfo_surf_reports_direct_current.md|3349|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/hsf_high_seas_npac_current.md|3477|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai/off_offshore_forecast_current.md|3652|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/wa0_airmets_current.md|1042|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/hfo_rra_direct_current.md|17295|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/zfp_zone_forecast_current.md|85778|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/oso_hourly_obs_current.md|14810|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/ftm_radar_status_current.md|1183|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/cli_daily_climate_summary_OGG_current.md|3467|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/cwf_coastal_waters_current.md|29444|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/afd_area_forecast_discussion_current.md|7884|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/surfreports_statewide_observations_current.md|3342|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/clm_monthly_climate_summary_OGG_current.md|3953|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/hfo_surf_reports_direct_current.md|3347|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/hsf_high_seas_npac_current.md|3475|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui/off_offshore_forecast_current.md|3650|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/hawaii_County_Weather_Report_current.md|175796|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/wa0_airmets_current.md|1048|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/oso_hourly_obs_current.md|14816|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/cwf_coastal_waters_current.md|29450|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/afd_area_forecast_discussion_current.md|7890|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/hsf_high_seas_npac_current.md|3481|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao/off_offshore_forecast_current.md|3656|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kauai_County_Weather_Report_current.md|170213|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu_County_Weather_Report_current.md|214751|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/maui_County_Weather_Report_current.md|173796|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/kalawao_County_Weather_Report_current.md|58316|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/wa0_airmets_current.md|1050|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/hfo_rra_direct_current.md|17303|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_LIH_current.md|3802|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_HNL_current.md|3952|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/zfp_zone_forecast_current.md|85786|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/oso_hourly_obs_current.md|14818|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/ftm_radar_status_current.md|1191|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_OGG_current.md|3475|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/cwf_coastal_waters_current.md|29452|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_HNL_current.md|3460|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/afd_area_forecast_discussion_current.md|7892|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/surfreports_statewide_observations_current.md|3350|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_OGG_current.md|3961|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/solar_calculation_table_current.md|12647|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_ITO_current.md|3746|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/hfo_surf_reports_direct_current.md|3355|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_LIH_current.md|3484|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/hsf_high_seas_npac_current.md|3483|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/off_offshore_forecast_current.md|3658|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_ITO_current.md|3445|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/reports/1 County Processing/honolulu/nhc_homepage_current.md|9763|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/nhc.noaa.gov/index/index_current.html|190651|1790686923
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/nhc.noaa.gov/index/raw/index_raw_current.html|190651|1790686923
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/_manifest.json|70502|1790686924
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/README.md|242301|1790686925
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T130051Z.jpg|318769|1790686856
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T130135Z.jpg|349247|1790686899
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T130130Z.jpg|317197|1790686894
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T130011Z.jpg|350202|1790686815
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T130006Z.jpg|315050|1790686810
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T130056Z.jpg|350060|1790686860
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T130015Z.jpg|12360|1790686816
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T130017Z.jpg|12334|1790686818
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T130141Z.jpg|12220|1790686902
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T130102Z.jpg|12299|1790686863
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T130100Z.jpg|12305|1790686862
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T130139Z.jpg|12314|1790686901
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WORKLOG/worklog_current.md|7828|1790686806
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Migration/g3-npu-flm-evidence-20260929T125429Z.md|4630|1790686836
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-030144.json|1536|1790686904
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-030105.json|1536|1790686865
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-030021.json|943|1790686821
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/delta2-last.json|73|1790686904
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/river2pro-last.json|72|1790686821
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/delta2-last.json|193|1790686904
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/river2pro-last.json|194|1790686821
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/last/host-last.json|821|1790686904
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/mem/host-last.json|162|1790686904
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-030021.json|821|1790686821
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-030144.json|821|1790686904
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-030105.json|821|1790686865
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/cpu/host-last.json|86|1790686904
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/load/host-last.json|114|1790686904
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1hour.db|49152|1790686821
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/15min.db|57344|1790686821
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1min.db|188416|1790686865
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1sec.db|1875968|1790686904
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/5min.db|73728|1790686821
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/system.db|229376|1790686904
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/status/system-status.json|2444|1790686904
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/reports/README.md|242109|1790686925
+/home/rootrecord/.local/share/gnome-shell/application_state|1702|1790686816
+/home/rootrecord/.local/state/wireplumber/stream-properties|706|1790686852
+/home/rootrecord/.local/state/lesshst|20|1790686832
+/home/rootrecord/.config/Grok Bot/gateway-descriptor.json|1719|1790686929
+/home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxgltbmeztsntemrrs2zbsgjtc2nbzgu2c2yrqgq3s2mbugy3danbtmztdqyjx.blob|346577|1790686904
+/home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltsn5zxizlsfzwgc43ufvzg643umvza.blob|8356|1790686903
+/home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxglrthfrtomrtmqzc2yrxga2s2ndgmvrs2olgg43c2zbugrsdkmrtmnstazdd.blob|219320|1790686902
+/home/rootrecord/.config/Grok Bot/sentry/session.json|315|1790686894
+/home/rootrecord/.config/Grok Bot/DawnWebGPUCache/data_1|270336|1790686839
+/home/rootrecord/.config/Grok Bot/DawnGraphiteCache/data_1|270336|1790686839
+/home/rootrecord/.config/Grok Bot/sand-session-marker.json|118|1790686899
+/home/rootrecord/.config/Grok Bot/GPUCache/data_1|270336|1790686839
