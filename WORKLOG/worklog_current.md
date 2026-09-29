@@ -429,3 +429,62 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/GITHUB/plumbing | mtime=2026-09-29 00:56:46 | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/GITHUB/plumbing/state | mtime=2026-09-29 00:56:46 | source_job=worklog_scan
 
+### 2026-09-29 00:59:11 HST
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-supervisor.json | size=33 | mtime=2026-09-29 00:59:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon.json | size=156 | mtime=2026-09-29 00:59:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon-connection.json | size=1666 | mtime=2026-09-29 00:59:04 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.ollama/skills/plumbing/scripts/MIGRATED.md | size=954 | mtime=2026-09-29 00:58:45 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.ollama/skills/energy/scripts/actions/MIGRATED.md | size=1056 | mtime=2026-09-29 00:58:45 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T105709Z.jpg | size=12105 | mtime=2026-09-29 00:57:11 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T105700Z.jpg | size=299514 | mtime=2026-09-29 00:57:04 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T105836Z.jpg | size=12109 | mtime=2026-09-29 00:58:37 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T105825Z.jpg | size=297687 | mtime=2026-09-29 00:58:30 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T105837Z.jpg | size=12054 | mtime=2026-09-29 00:58:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T105743Z.jpg | size=299670 | mtime=2026-09-29 00:57:47 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T105752Z.jpg | size=12048 | mtime=2026-09-29 00:57:53 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T105747Z.jpg | size=377484 | mtime=2026-09-29 00:57:52 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T105711Z.jpg | size=12013 | mtime=2026-09-29 00:57:12 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T105754Z.jpg | size=12086 | mtime=2026-09-29 00:57:55 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T105704Z.jpg | size=377127 | mtime=2026-09-29 00:57:09 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T105831Z.jpg | size=377502 | mtime=2026-09-29 00:58:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WORKLOG/worklog_current.md | size=70382 | mtime=2026-09-29 00:59:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Migration/g3-dbroot-realign-evidence-20260929T105845Z.md | size=9903 | mtime=2026-09-29 00:58:58 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-005714.json | size=1536 | mtime=2026-09-29 00:57:14 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-005756.json | size=943 | mtime=2026-09-29 00:57:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-005841.json | size=1536 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/delta2-last.json | size=73 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/river2pro-last.json | size=72 | mtime=2026-09-29 00:57:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/delta2-last.json | size=193 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/river2pro-last.json | size=194 | mtime=2026-09-29 00:57:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/state/ava-ecoflow-ble.pid | size=6 | mtime=2026-09-29 00:57:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/last/host-last.json | size=821 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/mem/host-last.json | size=162 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-005841.json | size=821 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-005757.json | size=820 | mtime=2026-09-29 00:57:57 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-005714.json | size=821 | mtime=2026-09-29 00:57:14 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/cpu/host-last.json | size=86 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/load/host-last.json | size=114 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1min.db | size=57344 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1sec.db | size=249856 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/system.db | size=57344 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/status/system-status.json | size=2490 | mtime=2026-09-29 00:58:41 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/scripts/actions/solar-gate-arm.sh | size=509 | mtime=2026-09-29 00:57:05 | domain=Energy | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/scripts/actions/solar-gate-status.sh | size=378 | mtime=2026-09-29 00:57:05 | domain=Energy | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/scripts/actions/solar-gate-disarm.sh | size=428 | mtime=2026-09-29 00:57:05 | domain=Energy | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/scripts/ble/ble-owner.py | size=2658 | mtime=2026-09-29 00:57:05 | domain=Energy | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/config/devices.conf | size=4719 | mtime=2026-09-29 00:57:05 | domain=Energy | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/plumbing/single-flight.sh | size=2117 | mtime=2026-09-29 00:57:05 | domain=System | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/plumbing/flm-warmup.sh | size=1166 | mtime=2026-09-29 00:57:05 | domain=System | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/gvfs-metadata/home | size=4336 | mtime=2026-09-29 00:58:23 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/org.gnome.TextEditor/session.gvariant | size=3526 | mtime=2026-09-29 00:57:25 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/org.gnome.TextEditor/recently-used.xbel | size=7521 | mtime=2026-09-29 00:57:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sentry/session.json | size=316 | mtime=2026-09-29 00:58:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-session-marker.json | size=120 | mtime=2026-09-29 00:59:01 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/Database/ENERGY/state | mtime=2026-09-29 00:57:25 | domain=Database | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/master | mtime=2026-09-29 00:57:23 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Energy | mtime=2026-09-29 00:57:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/scripts/ble | mtime=2026-09-29 00:57:05 | domain=Energy | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/gvfs-metadata | mtime=2026-09-29 00:58:23 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/org.gnome.TextEditor | mtime=2026-09-29 00:57:25 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/org.gnome.TextEditor/drafts | mtime=2026-09-29 00:57:23 | source_job=worklog_scan
+

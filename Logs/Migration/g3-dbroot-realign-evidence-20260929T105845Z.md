@@ -23,7 +23,42 @@ The Database repo's `.gitignore` only covered binary media. Appended:
 ## 3. Source changes (Pacific, env-default convention as in `worklog_lib.sh`)
 
 ```diff
-(already auto-committed; see Pacific commit)
+# Pacific commit(s): 87a6469
++++ b/Energy/config/devices.conf
+-energy_data=/home/rootrecord/Database/ENERGY
+-samples=/home/rootrecord/Database/ENERGY/samples
+-ports=/home/rootrecord/Database/ENERGY/ports
+-soc=/home/rootrecord/Database/ENERGY/soc
+-watts=/home/rootrecord/Database/ENERGY/watts
++energy_data=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY
++samples=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples
++ports=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/ports
++soc=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc
++watts=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts
+-ble_log=/home/rootrecord/Database/Logs/Energy/ava-ecoflow-ble.log
++ble_log=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Energy/ava-ecoflow-ble.log
++++ b/Energy/scripts/actions/solar-gate-arm.sh
+-STATE="/home/rootrecord/Database/ENERGY/ports/solar-gate-state.json"
++STATE="${SOLAR_GATE_STATE:-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/ports/solar-gate-state.json}"
++++ b/Energy/scripts/actions/solar-gate-disarm.sh
+-STATE="/home/rootrecord/Database/ENERGY/ports/solar-gate-state.json"
++STATE="${SOLAR_GATE_STATE:-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/ports/solar-gate-state.json}"
++++ b/Energy/scripts/actions/solar-gate-status.sh
+-STATE="/home/rootrecord/Database/ENERGY/ports/solar-gate-state.json"
++STATE="${SOLAR_GATE_STATE:-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/ports/solar-gate-state.json}"
++++ b/Energy/scripts/ble/ble-owner.py
+-# Pacific copy (staged 2026-09-29): log/pid moved off the G2 skills tree to the Database; override via env.
+-LOG = Path(os.environ.get("ENERGY_BLE_LOG", "/home/rootrecord/Database/Logs/Energy/ava-ecoflow-ble.log"))
+-PID = Path(os.environ.get("ENERGY_BLE_PID", "/home/rootrecord/Database/ENERGY/state/ava-ecoflow-ble.pid"))
++# Pacific copy: log/pid live under the canonical RootRecord Database (2026-09-29); override via env.
++LOG = Path(os.environ.get("ENERGY_BLE_LOG", "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Energy/ava-ecoflow-ble.log"))
++PID = Path(os.environ.get("ENERGY_BLE_PID", "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/state/ava-ecoflow-ble.pid"))
++++ b/System/scripts/plumbing/flm-warmup.sh
+-LOG="/home/rootrecord/Database/GITHUB/logs/flm.log"
++LOG="${FLM_LOG:-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/GITHUB/logs/flm.log}"
++++ b/System/scripts/plumbing/single-flight.sh
+-STATE_DIR="${RR_PLUMBING_STATE:-/home/rootrecord/Database/GITHUB/plumbing/state}"
++STATE_DIR="${RR_PLUMBING_STATE:-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/GITHUB/plumbing/state}"
 ```
 
 `bash -n` and `py_compile` OK; modes unchanged (775, `ble-owner.py` 755). Nothing in the Pacific source reads the `devices.conf` `[paths]` keys (`read_runner.py` skips that section; Python uses `Energy/lib/paths.py`), so that edit is for consistency only. Still on G2 paths and not in scope: `[paths]` `log_dir`, `state_dir`, `skill_root`.
