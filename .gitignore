@@ -40,9 +40,9 @@
 *.ico
 
 # Volatile runtime state: never commit (privacy + 5 s auto-sync churn). Added 2026-09-29 (WO-ECO).
-/ENERGY/state/
-/ENERGY/ports/
-/GITHUB/plumbing/state/
+/Energy/state/
+/Energy/ports/
+/Github/plumbing/state/
 *.pid
 *.lock
 
@@ -56,9 +56,9 @@
 /Archive/Previous-Datasets/*/*
 !/Archive/Previous-Datasets/*/README.md
 # Weather daemon data tree (intended as the separate RootRecord-Weather-Database working tree) — never in this repo.
-/WEATHER/
+/Weather/
 # Energy sqlite store (binary).
-/ROOTRECORD/
+/RootRecord/
 
 # Ollama runtime/error/pull logs (volatile, may hold prompts): contents local only; .gitkeep preserves the layout. Builds + Modelfiles stay tracked. Added 2026-09-29.
 /Logs/AI/Ollama/Runtime/*
@@ -72,6 +72,6 @@
 /Logs/Migration/*.png
 
 # FLM server logs record full prompts/requests — local only. Added 2026-09-29.
-/GITHUB/logs/
+/Github/logs/
 /Logs/AI/FLM/*
 !/Logs/AI/FLM/.gitkeep
