@@ -40,3 +40,10 @@ State: **PASS**. The NPU inference gate was run once through the Pacific plumbin
   - Offline test (fake Telegram API, `/tmp` state dir, no tokens read): off → `getUpdates` only, 0 infer, 0 `sendMessage`; on → 2 infer, 2 `sendMessage` to the fake API.
 - Approved `git rm --cached -- GITHUB/logs/flm.log` run once: deletion committed by auto-sync (Database `4331c0f`). The file is still on disk (2809 B) and matched by `.gitignore:75 /GITHUB/logs/`.
 
+
+## Addendum 03:29 HST — llama3.2:1b on demand (Alexander)
+- Defaults 3b → **1b**: `flm-warmup.sh` (still opt-in via `FLM_WARMUP_RESIDENT=1`), `run-infer.sh`, jobs.py warmup description/comment. 3b stays installed, unused.
+- On demand in `run-infer.sh`: if FLM is down and single-flight is IDLE, it runs `setsid nice -n 10 flm serve $FLM_MODEL --pmode balanced --ctx-len 4096 --port 52625` and waits up to 45 s for `/v1/models`. The existing gated chat then runs, and an EXIT trap stops the server (TERM, then KILL after 10 s). If the chat fails, the server is stopped before the Ollama fallback.
+- ONE test at 03:29:00: `run-infer.sh ava "Reply with exactly one word: ready"` → `[ok] FLM/NPU llama3.2:1b`, reply "RootRecord", **4.8 s total including the cold start**. FLM peak RSS was 1884 MB; MemAvailable was 7.7 GB before and 6.0 GB minimum during the test (threshold 2 GB, not hit). Load was 2.00 before and 1.92 after.
+- After the test: 0 flm processes, :52625 closed, lock IDLE, and the FLM RSS sample was 0 within 1 s of the reply.
+- Note: the test script exited with rc=1 without printing its stop line. flm had exited, but the shell likely died during the trap because it shared a process group with flm. Hardened with `setsid` so that flm runs in its own session; this was dry-verified with a stand-in process. No second model load was done (one-test rule). The relay ignores run-infer's rc (it reads stdout only).
