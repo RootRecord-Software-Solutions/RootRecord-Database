@@ -67,3 +67,6 @@
 !/Logs/AI/Ollama/Errors/.gitkeep
 /Logs/AI/Ollama/Pulls/*
 !/Logs/AI/Ollama/Pulls/.gitkeep
+
+# Desk screenshots (may show private desktop info) — local only. Added 2026-09-29.
+/Logs/Migration/*.png
