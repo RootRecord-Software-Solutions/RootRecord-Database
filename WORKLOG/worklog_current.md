@@ -248,3 +248,43 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/state | mtime=2026-09-29 00:48:28 | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/poller | mtime=2026-09-29 00:47:55 | domain=Automations | source_job=worklog_scan
 
+### 2026-09-29 00:50:29 HST
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-supervisor.json | size=33 | mtime=2026-09-29 00:50:15 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon.json | size=156 | mtime=2026-09-29 00:50:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon-connection.json | size=1666 | mtime=2026-09-29 00:50:16 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T104953Z.jpg | size=376239 | mtime=2026-09-29 00:49:57 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T104958Z.jpg | size=12061 | mtime=2026-09-29 00:49:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T104914Z.jpg | size=12035 | mtime=2026-09-29 00:49:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T104905Z.jpg | size=296666 | mtime=2026-09-29 00:49:09 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T104915Z.jpg | size=11973 | mtime=2026-09-29 00:49:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T104949Z.jpg | size=301435 | mtime=2026-09-29 00:49:53 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T104909Z.jpg | size=376729 | mtime=2026-09-29 00:49:13 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T104959Z.jpg | size=12052 | mtime=2026-09-29 00:50:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WORKLOG/worklog_current.md | size=40254 | mtime=2026-09-29 00:50:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Migration/g3-energy-plumbing-evidence-20260929T104618Z.md | size=5529 | mtime=2026-09-29 00:49:33 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-005003.json | size=1536 | mtime=2026-09-29 00:50:03 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-004918.json | size=943 | mtime=2026-09-29 00:49:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/delta2-last.json | size=73 | mtime=2026-09-29 00:50:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/river2pro-last.json | size=72 | mtime=2026-09-29 00:49:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/delta2-last.json | size=193 | mtime=2026-09-29 00:50:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/river2pro-last.json | size=194 | mtime=2026-09-29 00:49:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/last/host-last.json | size=821 | mtime=2026-09-29 00:50:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/mem/host-last.json | size=162 | mtime=2026-09-29 00:50:03 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-004919.json | size=819 | mtime=2026-09-29 00:49:19 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-005003.json | size=821 | mtime=2026-09-29 00:50:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/cpu/host-last.json | size=86 | mtime=2026-09-29 00:50:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/load/host-last.json | size=114 | mtime=2026-09-29 00:50:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1min.db | size=49152 | mtime=2026-09-29 00:50:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1sec.db | size=139264 | mtime=2026-09-29 00:50:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/5min.db | size=49152 | mtime=2026-09-29 00:50:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/system.db | size=49152 | mtime=2026-09-29 00:50:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/status/system-status.json | size=2494 | mtime=2026-09-29 00:50:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/gateway-descriptor.json | size=1719 | mtime=2026-09-29 00:50:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sentry/session.json | size=316 | mtime=2026-09-29 00:49:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/DawnWebGPUCache/data_1 | size=270336 | mtime=2026-09-29 00:49:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/DawnGraphiteCache/data_1 | size=270336 | mtime=2026-09-29 00:49:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-session-marker.json | size=120 | mtime=2026-09-29 00:50:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/GPUCache/data_1 | size=270336 | mtime=2026-09-29 00:49:33 | source_job=worklog_scan
+- DELETED /home/rootrecord/.ollama/skills/energy/scripts/actions/MIGRATED.md | source_job=worklog_scan
+- DELETED /home/rootrecord/.ollama/skills/plumbing/scripts/MIGRATED.md | source_job=worklog_scan
+
