@@ -1,12 +1,3 @@
-/home/rootrecord/Database/ENERGY/samples
-/home/rootrecord/Database/SYSTEM
-/home/rootrecord/Database/SYSTEM/last
-/home/rootrecord/Database/SYSTEM/mem
-/home/rootrecord/Database/SYSTEM/samples
-/home/rootrecord/Database/SYSTEM/cpu
-/home/rootrecord/Database/SYSTEM/load
-/home/rootrecord/Database/SYSTEM/layers
-/home/rootrecord/Database/SYSTEM/status
 /home/rootrecord/.grokbot
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images
@@ -50,7 +41,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/GITHUB/logs
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/GITHUB/plumbing
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/GITHUB/plumbing/state
-/home/rootrecord/Database/ENERGY/state
 /home/rootrecord/master
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Energy
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/scripts/ble
@@ -60,8 +50,6 @@
 /home/rootrecord/terminals
 /home/rootrecord/Pictures/Screenshots
 /home/rootrecord/.local/share
-/home/rootrecord/Database/intake
-/home/rootrecord/Database/intake/council-relay
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/intake
 /home/rootrecord/.ollama/skills/coms/telegram/scripts
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts
@@ -75,3 +63,7 @@
 /home/rootrecord/.config/dconf
 /home/rootrecord/.config/Grok Bot/Code Cache/js
 /home/rootrecord/.config/Grok Bot/Code Cache/js/index-dir
+/home/rootrecord/Database
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Archive
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Archive/Previous-Datasets
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Archive/Previous-Datasets/G2-old-root-20260929
