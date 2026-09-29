@@ -70,3 +70,8 @@
 
 # Desk screenshots (may show private desktop info) — local only. Added 2026-09-29.
 /Logs/Migration/*.png
+
+# FLM server logs record full prompts/requests — local only. Added 2026-09-29.
+/GITHUB/logs/
+/Logs/AI/FLM/*
+!/Logs/AI/FLM/.gitkeep
