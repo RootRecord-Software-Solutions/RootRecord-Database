@@ -28,3 +28,15 @@ State: **PASS**. The NPU inference gate was run once through the Pacific plumbin
   - `flm-warmup.sh` now defaults to git-ignored `Logs/AI/FLM/flm.log`.
   - Database `.gitignore` adds `/GITHUB/logs/` and `/Logs/AI/FLM/*` (`.gitkeep` kept).
   - The already-tracked `GITHUB/logs/flm.log` stays tracked until an approved `git rm --cached -- GITHUB/logs/flm.log`. It no longer changes.
+
+## Addendum — 03:02 HST (Alexander's choices)
+- `flm pull llama3.2:3b` **PASS**: 2666.7 MB, 4/4 files verified; `flm check llama3.2:3b` OK. `flm list --filter installed` now shows llama3.2:1b and llama3.2:3b (1.3 G + 2.7 G in `~/.config/flm/models/`). The next poller start's warmup will not download anything.
+- Defaults unchanged at `llama3.2:3b` (`flm-warmup.sh`, `run-infer.sh`, `jobs.py` description). Warmup power mode is now `--pmode "${FLM_PMODE:-balanced}"`.
+- Relay quiet mode (Pacific `ebc32a7`, next relay start):
+  - `ensure-relay.sh` exports `RR_RELAY_REPLIES=${RR_RELAY_REPLIES:-0}`.
+  - With the flag at 0, `council-relay.py` logs `[quiet] update N consumed — replies OFF`, then skips inference and posting.
+  - `post_as()` also refuses with `[quiet] … not posting`. The startup line shows `replies=OFF (quiet; set RR_RELAY_REPLIES=1 to opt in)`.
+  - Login and getUpdates polling are unchanged.
+  - Offline test (fake Telegram API, `/tmp` state dir, no tokens read): off → `getUpdates` only, 0 infer, 0 `sendMessage`; on → 2 infer, 2 `sendMessage` to the fake API.
+- Approved `git rm --cached -- GITHUB/logs/flm.log` run once: deletion committed by auto-sync (Database `4331c0f`). The file is still on disk (2809 B) and matched by `.gitignore:75 /GITHUB/logs/`.
+
