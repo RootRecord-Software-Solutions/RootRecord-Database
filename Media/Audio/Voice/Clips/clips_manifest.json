@@ -1,6 +1,2060 @@
 {
   "format": "24 kHz 16-bit PCM mono WAV",
   "clips": {
+    "Ava/boot_all_systems_running": {
+      "slug": "boot_all_systems_running",
+      "persona": "Ava",
+      "kinds": [
+        "boot"
+      ],
+      "text": "All systems running.",
+      "spoken": "All systems running.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "c92f4092ff82459b445490f88aa6e989107a5d51b687a0da9239451ada2cc218",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.393,
+      "peak_dbfs": -5.19,
+      "rms_dbfs": -20.13,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 363,
+        "tail": 544
+      },
+      "render_s": 0.82,
+      "rendered": "2026-09-29T04:07:22-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "origin kokoro_tts _TOKEN_WORDS phrase_all_systems_running",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "All systems running.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/boot_satellite_restored": {
+      "slug": "boot_satellite_restored",
+      "persona": "Ava",
+      "kinds": [
+        "boot"
+      ],
+      "text": "Satellite connection restored.",
+      "spoken": "Satellite connection restored.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "3c034c17fca524d26d6085a09e745a394ff843017fba53cba971d2d161692ce5",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.853,
+      "peak_dbfs": -5.11,
+      "rms_dbfs": -20.31,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 312,
+        "tail": 535
+      },
+      "render_s": 0.86,
+      "rendered": "2026-09-29T04:07:23-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "origin kokoro_tts _TOKEN_WORDS satellite_connection",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "Satellite Connection Restored.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0000": {
+      "slug": "chime_0000",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's midnight.",
+      "spoken": "It's midnight.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "e82107ea99f9f66701b1588abef9fbff58b8512589f53bdc1c8bf07938d1fa50",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 0.921,
+      "peak_dbfs": -4.96,
+      "rms_dbfs": -20.1,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 366,
+        "tail": 513
+      },
+      "render_s": 0.61,
+      "rendered": "2026-09-29T04:07:24-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's midnight.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0030": {
+      "slug": "chime_0030",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's twelve thirty a.m.",
+      "spoken": "It's twelve thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "d7356be580f8342446c80b37e4ea520bf9e3ae374e8b020e884d70b0a30ccd45",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.588,
+      "peak_dbfs": -4.99,
+      "rms_dbfs": -20.06,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 335,
+        "tail": 502
+      },
+      "render_s": 0.73,
+      "rendered": "2026-09-29T04:07:25-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 1230 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0100": {
+      "slug": "chime_0100",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's one a.m.",
+      "spoken": "It's one a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "d25b32c2843f7481700886d0667f7c20d62da96e6c12d422e3b5578e5c6ad86f",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.093,
+      "peak_dbfs": -4.59,
+      "rms_dbfs": -20.25,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 387,
+        "tail": 544
+      },
+      "render_s": 0.61,
+      "rendered": "2026-09-29T04:07:25-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 1 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0130": {
+      "slug": "chime_0130",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's one thirty a.m.",
+      "spoken": "It's one thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "8b8c752dae1e50f0506474a0b069a17204b23902260876ec9dc79ad93e938b45",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.533,
+      "peak_dbfs": -3.33,
+      "rms_dbfs": -20.12,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 341,
+        "tail": 501
+      },
+      "render_s": 0.73,
+      "rendered": "2026-09-29T04:07:26-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 130 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0200": {
+      "slug": "chime_0200",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's two a.m.",
+      "spoken": "It's two a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "072fbb133c0df8deeafbf73f9a4e536202d8e6a0c723c02707ba14e9627ce60e",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.17,
+      "peak_dbfs": -4.64,
+      "rms_dbfs": -20.16,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 387,
+        "tail": 568
+      },
+      "render_s": 0.73,
+      "rendered": "2026-09-29T04:07:27-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It gets to AM.",
+        "score": 0.286,
+        "verdict": "review"
+      }
+    },
+    "Ava/chime_0230": {
+      "slug": "chime_0230",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's two thirty a.m.",
+      "spoken": "It's two thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "293f966960e7a6a1cc8316c7a784bfa406953fc33b19607e93e43482effa8af5",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.441,
+      "peak_dbfs": -4.15,
+      "rms_dbfs": -20.2,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 337,
+        "tail": 496
+      },
+      "render_s": 0.73,
+      "rendered": "2026-09-29T04:07:27-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 230 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0300": {
+      "slug": "chime_0300",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's three a.m.",
+      "spoken": "It's three a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "cc930ddf92ebc46ac55defa23740b759430eac7394a068d930340766ed8ead80",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.074,
+      "peak_dbfs": -5.12,
+      "rms_dbfs": -20.09,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 383,
+        "tail": 543
+      },
+      "render_s": 0.72,
+      "rendered": "2026-09-29T04:07:28-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 3am.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0330": {
+      "slug": "chime_0330",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's three thirty a.m.",
+      "spoken": "It's three thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "df84c9a45724274987a553d8f331d9b9e9c28fa608b71112bfa5d3186a9580a2",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.554,
+      "peak_dbfs": -3.44,
+      "rms_dbfs": -20.31,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 337,
+        "tail": 484
+      },
+      "render_s": 0.79,
+      "rendered": "2026-09-29T04:07:29-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 330 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0400": {
+      "slug": "chime_0400",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's four a.m.",
+      "spoken": "It's four a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "765f2c26bf75f3f45852f87555532ac856f39311ce8c403759da54a0e61bc538",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.121,
+      "peak_dbfs": -5.28,
+      "rms_dbfs": -20.08,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 384,
+        "tail": 545
+      },
+      "render_s": 0.66,
+      "rendered": "2026-09-29T04:07:30-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 4 a.m.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0430": {
+      "slug": "chime_0430",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's four thirty a.m.",
+      "spoken": "It's four thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "b96fad592e1e3ff8d6d56a3aba6dd20b1651de906dcb19bd78f459bd1b197d59",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.493,
+      "peak_dbfs": -3.56,
+      "rms_dbfs": -20.26,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 337,
+        "tail": 494
+      },
+      "render_s": 0.77,
+      "rendered": "2026-09-29T04:07:30-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 430 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0500": {
+      "slug": "chime_0500",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's five a.m.",
+      "spoken": "It's five a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "56c1bd3e06a1da474224bdb81eb87ec4b7ad3a7201ea482ba693fc130c639df7",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.143,
+      "peak_dbfs": -3.71,
+      "rms_dbfs": -20.08,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 387,
+        "tail": 544
+      },
+      "render_s": 0.64,
+      "rendered": "2026-09-29T04:07:31-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 5am.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0530": {
+      "slug": "chime_0530",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's five thirty a.m.",
+      "spoken": "It's five thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "9c69ba77848ad0c3cbbc6e197560f0de6ea9bdb5f265b61de300b5ebc272d48e",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.504,
+      "peak_dbfs": -4.1,
+      "rms_dbfs": -20.18,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 337,
+        "tail": 484
+      },
+      "render_s": 0.63,
+      "rendered": "2026-09-29T04:07:32-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 530 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0600": {
+      "slug": "chime_0600",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's six a.m.",
+      "spoken": "It's six a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "10e5f7d03712856ffeebcb15732ea7ded0daeba3d061b1ed3527a58fc0fb2fef",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.151,
+      "peak_dbfs": -3.85,
+      "rms_dbfs": -20.16,
+      "lead_silence_ms": 22,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 380,
+        "tail": 519
+      },
+      "render_s": 0.57,
+      "rendered": "2026-09-29T04:07:32-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 6 a.m.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0630": {
+      "slug": "chime_0630",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's six thirty a.m.",
+      "spoken": "It's six thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "12e9df7df363344fac65b5f41479dcc652a65174e8b29c5771d16b4c7e9b8c98",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.42,
+      "peak_dbfs": -3.48,
+      "rms_dbfs": -20.2,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 336,
+        "tail": 494
+      },
+      "render_s": 0.68,
+      "rendered": "2026-09-29T04:07:33-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 630 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0700": {
+      "slug": "chime_0700",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's seven a.m.",
+      "spoken": "It's seven a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "7819a373b9b954bf13536f208538bb368892609f662c1007b180216fcd1992de",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.216,
+      "peak_dbfs": -6.24,
+      "rms_dbfs": -20.15,
+      "lead_silence_ms": 19,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 383,
+        "tail": 526
+      },
+      "render_s": 0.71,
+      "rendered": "2026-09-29T04:07:34-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 7am.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0730": {
+      "slug": "chime_0730",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's seven thirty a.m.",
+      "spoken": "It's seven thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "efea3444f8928146331c0c1327c2615b849e000535202146471249f983a0a7c3",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.58,
+      "peak_dbfs": -4.72,
+      "rms_dbfs": -20.06,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 338,
+        "tail": 482
+      },
+      "render_s": 0.75,
+      "rendered": "2026-09-29T04:07:34-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 730 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0800": {
+      "slug": "chime_0800",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's eight a.m.",
+      "spoken": "It's eight a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "48ff55f7f99031968e22348cf6f4c44aaa34c64f085167f3f19a65529fe44927",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.045,
+      "peak_dbfs": -4.46,
+      "rms_dbfs": -20.0,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 387,
+        "tail": 543
+      },
+      "render_s": 0.62,
+      "rendered": "2026-09-29T04:07:35-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 8 am.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0830": {
+      "slug": "chime_0830",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's eight thirty a.m.",
+      "spoken": "It's eight thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "1af67e3895b90ea64b27523a3fb5188ca31cbe33f7128ff1515fe288f141e40f",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.491,
+      "peak_dbfs": -3.06,
+      "rms_dbfs": -20.27,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 337,
+        "tail": 496
+      },
+      "render_s": 0.65,
+      "rendered": "2026-09-29T04:07:36-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 830 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0900": {
+      "slug": "chime_0900",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's nine a.m.",
+      "spoken": "It's nine a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "60d26e655469eadf045b6116f27032bc25631dda3dd731f5bd89879092cfa8d9",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.195,
+      "peak_dbfs": -5.83,
+      "rms_dbfs": -20.08,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 411,
+        "tail": 569
+      },
+      "render_s": 0.7,
+      "rendered": "2026-09-29T04:07:36-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 9am.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_0930": {
+      "slug": "chime_0930",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's nine thirty a.m.",
+      "spoken": "It's nine thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "0847ddb1ddd0725978ac6fce70ebf5015012eb31eb9512f169d042879a6da06f",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.556,
+      "peak_dbfs": -4.53,
+      "rms_dbfs": -20.24,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 350,
+        "tail": 494
+      },
+      "render_s": 0.68,
+      "rendered": "2026-09-29T04:07:37-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 930 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1000": {
+      "slug": "chime_1000",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's ten a.m.",
+      "spoken": "It's ten a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "51b0be904fc5aa333fdd4007577338f04ee71f527d2b90826db1d5506ac4e0bb",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.074,
+      "peak_dbfs": -6.34,
+      "rms_dbfs": -20.0,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 382,
+        "tail": 569
+      },
+      "render_s": 0.55,
+      "rendered": "2026-09-29T04:07:37-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 10 a.m.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1030": {
+      "slug": "chime_1030",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's ten thirty a.m.",
+      "spoken": "It's ten thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "0d971068e8947c12db2ec65e6a685e1d705a697d3eec4a8b83a9196783a3c153",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.455,
+      "peak_dbfs": -4.96,
+      "rms_dbfs": -20.19,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 338,
+        "tail": 482
+      },
+      "render_s": 0.62,
+      "rendered": "2026-09-29T04:07:38-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 1030 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1100": {
+      "slug": "chime_1100",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's eleven a.m.",
+      "spoken": "It's eleven a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "0bb67772fca6627989d4f7ab3b8ff71c6cc686a305cd77d3aeda35121d28c3c1",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.272,
+      "peak_dbfs": -6.35,
+      "rms_dbfs": -20.07,
+      "lead_silence_ms": 23,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 377,
+        "tail": 601
+      },
+      "render_s": 0.68,
+      "rendered": "2026-09-29T04:07:39-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 11am.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1130": {
+      "slug": "chime_1130",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's eleven thirty a.m.",
+      "spoken": "It's eleven thirty a.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "ee9083c1652f16dc4ca77f3312d8ac7cff4e7482c97e9bca7efafb190474f54d",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.672,
+      "peak_dbfs": -4.52,
+      "rms_dbfs": -20.11,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 340,
+        "tail": 513
+      },
+      "render_s": 0.79,
+      "rendered": "2026-09-29T04:07:40-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 1130 AM.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1200": {
+      "slug": "chime_1200",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's noon.",
+      "spoken": "It's noon.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "f6492ab5898368bdc0615570e1349aaf41981fc6de0c1883cc947c13da61a7f7",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 0.774,
+      "peak_dbfs": -5.85,
+      "rms_dbfs": -20.24,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 388,
+        "tail": 588
+      },
+      "render_s": 0.68,
+      "rendered": "2026-09-29T04:07:40-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's new, huh?",
+        "score": 0.4,
+        "verdict": "review"
+      }
+    },
+    "Ava/chime_1230": {
+      "slug": "chime_1230",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's twelve thirty p.m.",
+      "spoken": "It's twelve thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "0ac5f7186a9e7a212cf848bc271f0e8ace31bf9bfadb3342745a6816540b3003",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.59,
+      "peak_dbfs": -5.48,
+      "rms_dbfs": -20.12,
+      "lead_silence_ms": 23,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 327,
+        "tail": 482
+      },
+      "render_s": 0.72,
+      "rendered": "2026-09-29T04:07:41-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 1230pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1300": {
+      "slug": "chime_1300",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's one p.m.",
+      "spoken": "It's one p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "2411257516654e7987f4959cb5850658176d033a8859d4b9a8619f2a7d791e05",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.144,
+      "peak_dbfs": -4.03,
+      "rms_dbfs": -20.0,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 387,
+        "tail": 544
+      },
+      "render_s": 0.62,
+      "rendered": "2026-09-29T04:07:42-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 1pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1330": {
+      "slug": "chime_1330",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's one thirty p.m.",
+      "spoken": "It's one thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "401e5c16a54ece68073f812773d3c37cd2500843b49e07f3a35a5644527b87b3",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.494,
+      "peak_dbfs": -4.42,
+      "rms_dbfs": -20.13,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 335,
+        "tail": 496
+      },
+      "render_s": 0.67,
+      "rendered": "2026-09-29T04:07:42-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 130pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1400": {
+      "slug": "chime_1400",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's two p.m.",
+      "spoken": "It's two p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "66d457d78bfb9696e198c5d962c80099e8d87a297d7b0a7fd7bb6da0207c93a3",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.175,
+      "peak_dbfs": -4.19,
+      "rms_dbfs": -20.16,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 382,
+        "tail": 543
+      },
+      "render_s": 0.61,
+      "rendered": "2026-09-29T04:07:43-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 2pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1430": {
+      "slug": "chime_1430",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's two thirty p.m.",
+      "spoken": "It's two thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "ca40ff9165f2b441312fd7f6df0653a557db34cd76d9bddd4a0446c140eba2ef",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.496,
+      "peak_dbfs": -4.11,
+      "rms_dbfs": -20.19,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 334,
+        "tail": 494
+      },
+      "render_s": 0.7,
+      "rendered": "2026-09-29T04:07:44-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 230pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1500": {
+      "slug": "chime_1500",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's three p.m.",
+      "spoken": "It's three p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "126add881bc8aa39f8f9e034430d028a6c0289892936bdf90c9cd5338e91ae81",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.18,
+      "peak_dbfs": -4.14,
+      "rms_dbfs": -20.08,
+      "lead_silence_ms": 23,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 382,
+        "tail": 538
+      },
+      "render_s": 0.56,
+      "rendered": "2026-09-29T04:07:44-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 3pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1530": {
+      "slug": "chime_1530",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's three thirty p.m.",
+      "spoken": "It's three thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "b9d4a84a161395abe23ff2be953a186b7fbe03da135cefe6b312261b7843168f",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.523,
+      "peak_dbfs": -3.72,
+      "rms_dbfs": -20.19,
+      "lead_silence_ms": 20,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 333,
+        "tail": 494
+      },
+      "render_s": 0.71,
+      "rendered": "2026-09-29T04:07:45-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 330pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1600": {
+      "slug": "chime_1600",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's four p.m.",
+      "spoken": "It's four p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "0f2156eebfd8ec2149226d31edce1f3b7a6fea4ecae5cea9d6b61e2dc57fe8f9",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.158,
+      "peak_dbfs": -4.74,
+      "rms_dbfs": -20.16,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 375,
+        "tail": 542
+      },
+      "render_s": 0.64,
+      "rendered": "2026-09-29T04:07:46-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 4pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1630": {
+      "slug": "chime_1630",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's four thirty p.m.",
+      "spoken": "It's four thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "17ce0437112b68087b359c77dd06fc0dd2cc7ce25048eafaf80c96144494a325",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.474,
+      "peak_dbfs": -4.85,
+      "rms_dbfs": -20.07,
+      "lead_silence_ms": 21,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 332,
+        "tail": 494
+      },
+      "render_s": 0.71,
+      "rendered": "2026-09-29T04:07:46-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 430pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1700": {
+      "slug": "chime_1700",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's five p.m.",
+      "spoken": "It's five p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "1ac67c54543562a6eaf35ffd14ea4e458d3f328eea1ae8e6d4b469c5fdadaafc",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.249,
+      "peak_dbfs": -4.87,
+      "rms_dbfs": -20.08,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 382,
+        "tail": 544
+      },
+      "render_s": 0.69,
+      "rendered": "2026-09-29T04:07:47-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 5pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1730": {
+      "slug": "chime_1730",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's five thirty p.m.",
+      "spoken": "It's five thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "617d9499dd5e5c5b56e425b88937b24b97ef1473392fd2b08d3455aed9ad8981",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.49,
+      "peak_dbfs": -4.6,
+      "rms_dbfs": -20.19,
+      "lead_silence_ms": 20,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 333,
+        "tail": 502
+      },
+      "render_s": 0.67,
+      "rendered": "2026-09-29T04:07:48-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 530pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1800": {
+      "slug": "chime_1800",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's six p.m.",
+      "spoken": "It's six p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "1da11dc7641d5792adfe031ab0c46df38e041754f921bab3cf458c7886ecc41f",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.18,
+      "peak_dbfs": -3.62,
+      "rms_dbfs": -20.16,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 362,
+        "tail": 533
+      },
+      "render_s": 0.58,
+      "rendered": "2026-09-29T04:07:48-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 6 p.m.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1830": {
+      "slug": "chime_1830",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's six thirty p.m.",
+      "spoken": "It's six thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "e79b8e5a6dca47a9d91e12a8394577dc38ae1d83ecd13dfcc39831fa85f95f77",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.491,
+      "peak_dbfs": -3.32,
+      "rms_dbfs": -20.13,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 315,
+        "tail": 494
+      },
+      "render_s": 0.66,
+      "rendered": "2026-09-29T04:07:49-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 630pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1900": {
+      "slug": "chime_1900",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's seven p.m.",
+      "spoken": "It's seven p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "24ab4b810ea56f1dd48078a39c2ce8ad545a5d287b8d072119c1e0c40823e7f9",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.208,
+      "peak_dbfs": -5.53,
+      "rms_dbfs": -20.08,
+      "lead_silence_ms": 19,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 373,
+        "tail": 544
+      },
+      "render_s": 0.59,
+      "rendered": "2026-09-29T04:07:49-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 7pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_1930": {
+      "slug": "chime_1930",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's seven thirty p.m.",
+      "spoken": "It's seven thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "71ec3f03054dad5ffc47ee7ff94f793a43978d4ed600af2bdf7815c9cbf95ca7",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.583,
+      "peak_dbfs": -5.3,
+      "rms_dbfs": -20.12,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 333,
+        "tail": 484
+      },
+      "render_s": 0.7,
+      "rendered": "2026-09-29T04:07:50-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 730pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_2000": {
+      "slug": "chime_2000",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's eight p.m.",
+      "spoken": "It's eight p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "3608de2abe8a43e82ddd16471011113948e51ef2d4ab40f51eafe7b041cdf994",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.133,
+      "peak_dbfs": -2.43,
+      "rms_dbfs": -20.17,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 380,
+        "tail": 538
+      },
+      "render_s": 0.6,
+      "rendered": "2026-09-29T04:07:51-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 8pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_2030": {
+      "slug": "chime_2030",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's eight thirty p.m.",
+      "spoken": "It's eight thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "da451153129db9c3e5313121a93ef0ad7212d82ddcf060801c2fa8685dc30b3a",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.455,
+      "peak_dbfs": -2.15,
+      "rms_dbfs": -20.34,
+      "lead_silence_ms": 21,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 332,
+        "tail": 488
+      },
+      "render_s": 0.66,
+      "rendered": "2026-09-29T04:07:51-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 830pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_2100": {
+      "slug": "chime_2100",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's nine p.m.",
+      "spoken": "It's nine p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "4261719fce901de23c80d59c0de95a023e0c478a5038d1ae3ba4dbb74bfaf81a",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.205,
+      "peak_dbfs": -6.2,
+      "rms_dbfs": -20.08,
+      "lead_silence_ms": 10,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 402,
+        "tail": 568
+      },
+      "render_s": 0.61,
+      "rendered": "2026-09-29T04:07:52-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 9pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_2130": {
+      "slug": "chime_2130",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's nine thirty p.m.",
+      "spoken": "It's nine thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "837667b11a0d7c610e7797caadf4eef269fb33b719582f0eddc6a62ec99a1dee",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.563,
+      "peak_dbfs": -2.45,
+      "rms_dbfs": -20.12,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 340,
+        "tail": 496
+      },
+      "render_s": 0.71,
+      "rendered": "2026-09-29T04:07:53-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 930pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_2200": {
+      "slug": "chime_2200",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's ten p.m.",
+      "spoken": "It's ten p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "3a721e52a8a6ce0b99d44b4a08bfa81db52d3e7297df6f5fc092a7fc1cf8b3a6",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.159,
+      "peak_dbfs": -5.13,
+      "rms_dbfs": -20.08,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 378,
+        "tail": 563
+      },
+      "render_s": 0.6,
+      "rendered": "2026-09-29T04:07:53-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 10pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_2230": {
+      "slug": "chime_2230",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's ten thirty p.m.",
+      "spoken": "It's ten thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "ac11111659fd391cd8ac84a0e9ed00e97af988dcd70e6e821af364817b48b7ec",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.503,
+      "peak_dbfs": -4.2,
+      "rms_dbfs": -20.06,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 328,
+        "tail": 494
+      },
+      "render_s": 0.65,
+      "rendered": "2026-09-29T04:07:54-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 1030pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_2300": {
+      "slug": "chime_2300",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's eleven p.m.",
+      "spoken": "It's eleven p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "1f54e6fcf1524e5d99e9490274c7f6cba438fdaa5fad8fde014479f4da1751ec",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.316,
+      "peak_dbfs": -5.43,
+      "rms_dbfs": -20.07,
+      "lead_silence_ms": 22,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 371,
+        "tail": 563
+      },
+      "render_s": 0.62,
+      "rendered": "2026-09-29T04:07:55-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 11pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/chime_2330": {
+      "slug": "chime_2330",
+      "persona": "Ava",
+      "kinds": [
+        "chime"
+      ],
+      "text": "It's eleven thirty p.m.",
+      "spoken": "It's eleven thirty p.m.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "ded44fe4597757dd7d4fa94c861cd9d5b01b4415527908ed758e72a89b933f6a",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 1.721,
+      "peak_dbfs": -5.79,
+      "rms_dbfs": -20.34,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 337,
+        "tail": 493
+      },
+      "render_s": 0.77,
+      "rendered": "2026-09-29T04:07:55-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/hourly-chime + local_tts.build_time_announcement (:00/:30)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's 1130pm.",
+        "score": 1.0,
+        "verdict": "match"
+      }
+    },
+    "Ava/nws_by_county": {
+      "slug": "nws_by_county",
+      "persona": "Ava",
+      "kinds": [
+        "nws"
+      ],
+      "text": "NWS Hawaii by county.",
+      "spoken": "National Weather Service hah wye ee by county.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "d606375152910be9bc52024adaca123268e6d19a504b8bb331cd7be861c08bfd",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 2.914,
+      "peak_dbfs": -4.48,
+      "rms_dbfs": -20.13,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 340,
+        "tail": 595
+      },
+      "render_s": 1.14,
+      "rendered": "2026-09-29T04:07:18-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "weather/nws-hawaii/scripts/nws_hawaii.py",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "National Weather Service, Hawaii by County.",
+        "score": 0.714,
+        "verdict": "review"
+      }
+    },
+    "Ava/nws_no_active_alerts": {
+      "slug": "nws_no_active_alerts",
+      "persona": "Ava",
+      "kinds": [
+        "nws",
+        "alerts"
+      ],
+      "text": "No active HI alerts from the API sample.",
+      "spoken": "No active hah wye ee alerts from the API sample.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "6b13bbb3d3e5676d00b2b3223c3461ad82ce6f77fc5b6cec876e9141b7811dce",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 3.241,
+      "peak_dbfs": -2.03,
+      "rms_dbfs": -20.09,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 352,
+        "tail": 557
+      },
+      "render_s": 1.16,
+      "rendered": "2026-09-29T04:07:20-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "weather/nws-hawaii/scripts/nws_hawaii.py",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "No active Hawaii e- alerts from the API sample.",
+        "score": 0.824,
+        "verdict": "match"
+      }
+    },
+    "Ava/nws_report_intro": {
+      "slug": "nws_report_intro",
+      "persona": "Ava",
+      "kinds": [
+        "nws",
+        "weather"
+      ],
+      "text": "NWS Hawaii Report.",
+      "spoken": "National Weather Service hah wye ee Report.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "abe20d39b4bf1b5b14084535cc48c919520d38089c3dd225871a1ee9513f7f29",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 2.81,
+      "peak_dbfs": -5.81,
+      "rms_dbfs": -20.14,
+      "lead_silence_ms": 24,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 335,
+        "tail": 530
+      },
+      "render_s": 4.72,
+      "rendered": "2026-09-29T04:07:17-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "media/voice/plugins/nws_weather.py title line (time part live)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "National Weather Service, Hawaii Report.",
+        "score": 0.667,
+        "verdict": "review"
+      }
+    },
+    "Ava/official_no_hurricane_statement": {
+      "slug": "official_no_hurricane_statement",
+      "persona": "Ava",
+      "kinds": [
+        "official"
+      ],
+      "text": "Honolulu National Weather Service has no local hurricane statement in effect.",
+      "spoken": "hoh noh loo loo National Weather Service has no local hurricane statement in effect.",
+      "voice": "af_heart",
+      "speed": 0.82,
+      "sha256": "cdf086193d5d15d8d5090978e43df239d4b026a3f420c139d7c36f3524048cfb",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 5.79,
+      "peak_dbfs": -3.1,
+      "rms_dbfs": -20.05,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 328,
+        "tail": 556
+      },
+      "render_s": 1.93,
+      "rendered": "2026-09-29T04:07:22-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "weather/official-weather-media/scripts/official_weather_media.py",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "Hono-lu-lu National Weather Service has no local hurricane statement in effect.",
+        "score": 0.833,
+        "verdict": "match"
+      }
+    },
     "Bruce/remaining_intro": {
       "slug": "remaining_intro",
       "persona": "Bruce",
@@ -31,7 +2085,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "origin kokoro_tts _TOKEN_WORDS phrase_remaining_tasks"
+      "source": "origin kokoro_tts _TOKEN_WORDS phrase_remaining_tasks",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "remaining tasks.",
+        "score": 1.0,
+        "verdict": "match"
+      }
     },
     "Bruce/solar_ecoflow_offline": {
       "slug": "solar_ecoflow_offline",
@@ -63,7 +2123,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "origin kokoro_tts _TOKEN_WORDS phrase_ecoflow_down"
+      "source": "origin kokoro_tts _TOKEN_WORDS phrase_ecoflow_down",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "Ecoflow is offline.",
+        "score": 1.0,
+        "verdict": "match"
+      }
     },
     "Bruce/solar_hourly_intro": {
       "slug": "solar_hourly_intro",
@@ -96,7 +2162,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "origin kokoro_tts _TOKEN_WORDS phrase_hourly_solar"
+      "source": "origin kokoro_tts _TOKEN_WORDS phrase_hourly_solar",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "hourly solar report.",
+        "score": 1.0,
+        "verdict": "match"
+      }
     },
     "Bruce/system_intro": {
       "slug": "system_intro",
@@ -128,7 +2200,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "G3 system_perf template"
+      "source": "G3 system_perf template",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "System Performance Report.",
+        "score": 1.0,
+        "verdict": "match"
+      }
     },
     "Bruce/system_outro": {
       "slug": "system_outro",
@@ -160,7 +2238,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "G3 system_perf template"
+      "source": "G3 system_perf template",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "and of system report.",
+        "score": 0.75,
+        "verdict": "review"
+      }
     },
     "Carly/energy_ecoflow_offline": {
       "slug": "energy_ecoflow_offline",
@@ -192,7 +2276,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "origin kokoro_tts _TOKEN_WORDS phrase_ecoflow_down"
+      "source": "origin kokoro_tts _TOKEN_WORDS phrase_ecoflow_down",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "Ecoflow is offline.",
+        "score": 1.0,
+        "verdict": "match"
+      }
     },
     "Carly/hurricane_intro": {
       "slug": "hurricane_intro",
@@ -224,7 +2314,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "weather/hurricane-desk/scripts/hurricane_desk.py"
+      "source": "weather/hurricane-desk/scripts/hurricane_desk.py",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "A hurricane global desk Pacific Root Server.",
+        "score": 0.923,
+        "verdict": "match"
+      }
     },
     "Carly/hurricane_outro": {
       "slug": "hurricane_outro",
@@ -256,7 +2352,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "weather/hurricane-desk/scripts/hurricane_desk.py"
+      "source": "weather/hurricane-desk/scripts/hurricane_desk.py",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "Stay with National Weather Service, hone no Lulu for watches and warnings.",
+        "score": 0.72,
+        "verdict": "review"
+      }
     },
     "Carly/hurricane_quiet": {
       "slug": "hurricane_quiet",
@@ -288,7 +2390,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "weather/hurricane-desk/scripts/hurricane_desk.py"
+      "source": "weather/hurricane-desk/scripts/hurricane_desk.py",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "It's around the world right now, the tropical boards are quiet.",
+        "score": 0.952,
+        "verdict": "match"
+      }
     },
     "Carly/kilauea_hvo_notice": {
       "slug": "kilauea_hvo_notice",
@@ -320,7 +2428,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "media/voice/plugins/kilauea_report.py"
+      "source": "media/voice/plugins/kilauea_report.py",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "Here is the latest Hawi Unvolcano Observatory notice, unedited for honesty.",
+        "score": 0.818,
+        "verdict": "match"
+      }
     },
     "Carly/kilauea_intro": {
       "slug": "kilauea_intro",
@@ -352,7 +2466,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "media/voice/plugins/kilauea_report.py title line (time part live)"
+      "source": "media/voice/plugins/kilauea_report.py title line (time part live)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "Kill our way of report.",
+        "score": 0.6,
+        "verdict": "review"
+      }
     },
     "Carly/quake_global_none": {
       "slug": "quake_global_none",
@@ -384,7 +2504,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "earthquakes/earthquake-hourly/scripts/earthquake_hourly.py"
+      "source": "earthquakes/earthquake-hourly/scripts/earthquake_hourly.py",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "No new global earthquakes since the last report.",
+        "score": 1.0,
+        "verdict": "match"
+      }
     },
     "Carly/quake_hi_intro": {
       "slug": "quake_hi_intro",
@@ -416,7 +2542,13 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "media/voice/plugins/earthquake_hawaii.py title line (time part live)"
+      "source": "media/voice/plugins/earthquake_hawaii.py title line (time part live)",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "How why E earthquake report?",
+        "score": 0.5,
+        "verdict": "review"
+      }
     },
     "Carly/quake_hi_none": {
       "slug": "quake_hi_none",
@@ -448,8 +2580,14 @@
         "misaki": "0.9.4",
         "torch": "2.14.0+cpu"
       },
-      "source": "earthquakes/earthquake-hourly/scripts/earthquake_hourly.py"
+      "source": "earthquakes/earthquake-hourly/scripts/earthquake_hourly.py",
+      "asr": {
+        "engine": "whisper-tiny",
+        "heard": "No new Haw-Wi-E earthquakes since the last report.",
+        "score": 0.778,
+        "verdict": "review"
+      }
     }
   },
-  "updated": "2026-09-29T04:06:57-10:00"
+  "updated": "2026-09-29T04:09:35-10:00"
 }
