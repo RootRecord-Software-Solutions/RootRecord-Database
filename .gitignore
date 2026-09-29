@@ -59,3 +59,11 @@
 /WEATHER/
 # Energy sqlite store (binary).
 /ROOTRECORD/
+
+# Ollama runtime/error/pull logs (volatile, may hold prompts): contents local only; .gitkeep preserves the layout. Builds + Modelfiles stay tracked. Added 2026-09-29.
+/Logs/AI/Ollama/Runtime/*
+!/Logs/AI/Ollama/Runtime/.gitkeep
+/Logs/AI/Ollama/Errors/*
+!/Logs/AI/Ollama/Errors/.gitkeep
+/Logs/AI/Ollama/Pulls/*
+!/Logs/AI/Ollama/Pulls/.gitkeep
