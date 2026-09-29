@@ -14,3 +14,5 @@ No secrets. Backup of every edited file: `/home/rootrecord/Database/GITHUB/g3-ar
 Restart side effects: in-flight `github_sync_all` killed (code -15, no index.lock left); relay 821015 (desk session) is gone and the boot job started relay **880530** under the poller unit (single); cam_server re-started (single).
 
 Open: dormant G2 code (27 files) still names the moved old-root paths; `WEATHER/` is not yet its own RootRecord-Weather-Database git repo, so weather data is local only; weather first pass grows disk fast (~200 MB in 4 min).
+
+- **Relay crash finding (01:57 HST):** relay 821015 died 01:39:21 HST on an unhandled `TimeoutError` in getUpdates (network read timeout, not auth); relay was down until the 01:50 boot job. Fix: `council-relay.py` now retries on URLError/TimeoutError/OSError (Pacific `b3754fb`; takes effect at the next relay start, running PID 880530 not restarted).
