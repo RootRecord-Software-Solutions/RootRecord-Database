@@ -3397,3 +3397,50 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - MOD_FILE /home/rootrecord/.config/Grok Bot/sand-statsig-bootstrap.json | size=850036 | mtime=2026-09-29 03:24:59 | source_job=worklog_scan
 - MOD_FILE /home/rootrecord/.config/Grok Bot/GPUCache/data_1 | size=270336 | mtime=2026-09-29 03:25:40 | source_job=worklog_scan
 
+### 2026-09-29 03:27:47 HST
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon-credential.json | size=962 | mtime=2026-09-29 03:27:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-supervisor.json | size=31 | mtime=2026-09-29 03:27:22 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon.json | size=154 | mtime=2026-09-29 03:27:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon-connection.json | size=1666 | mtime=2026-09-29 03:27:23 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db | size=3764224 | mtime=2026-09-29 03:27:22 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db | size=5509120 | mtime=2026-09-29 03:27:23 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db | size=299794432 | mtime=2026-09-29 03:27:23 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T132601Z.jpg | size=320298 | mtime=2026-09-29 03:26:06 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T132706Z.jpg | size=12441 | mtime=2026-09-29 03:27:07 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch4-20260929T132612Z.jpg | size=12402 | mtime=2026-09-29 03:26:13 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch1-20260929T132656Z.jpg | size=322049 | mtime=2026-09-29 03:27:00 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T132700Z.jpg | size=350081 | mtime=2026-09-29 03:27:04 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T132610Z.jpg | size=12460 | mtime=2026-09-29 03:26:12 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch3-20260929T132704Z.jpg | size=12440 | mtime=2026-09-29 03:27:06 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/ch2-20260929T132606Z.jpg | size=349249 | mtime=2026-09-29 03:26:10 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-river2pro-20260929-032723.json | size=357 | mtime=2026-09-29 03:27:23 | domain=Energy | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/read-delta2-20260929-032629.json | size=350 | mtime=2026-09-29 03:26:29 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json | size=74 | mtime=2026-09-29 03:26:29 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json | size=73 | mtime=2026-09-29 03:27:23 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json | size=186 | mtime=2026-09-29 03:26:29 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json | size=137 | mtime=2026-09-29 03:27:23 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=820 | mtime=2026-09-29 03:27:23 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=162 | mtime=2026-09-29 03:27:23 | domain=System | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-032629.json | size=820 | mtime=2026-09-29 03:26:29 | domain=System | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20260929-032723.json | size=820 | mtime=2026-09-29 03:27:23 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=85 | mtime=2026-09-29 03:27:23 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=114 | mtime=2026-09-29 03:27:23 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1min.db | size=204800 | mtime=2026-09-29 03:27:23 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/layers/1sec.db | size=2203648 | mtime=2026-09-29 03:27:23 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=241664 | mtime=2026-09-29 03:27:23 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2420 | mtime=2026-09-29 03:27:23 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=726872 | mtime=2026-09-29 03:27:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/nautilus/tags/meta.db-shm | size=32768 | mtime=2026-09-29 03:26:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/nautilus/tags/meta.db | size=167936 | mtime=2026-09-29 03:26:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/nautilus/tags/meta.db-wal | size=8272 | mtime=2026-09-29 03:26:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gnome-shell/session-active-history.json | size=1675 | mtime=2026-09-29 03:26:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gvfs-metadata/root | size=64 | mtime=2026-09-29 03:27:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/dconf/user | size=10884 | mtime=2026-09-29 03:26:13 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/tiling-assistant/tiledSessionRestore2.json | size=962 | mtime=2026-09-29 03:26:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/gateway-descriptor.json | size=1719 | mtime=2026-09-29 03:27:23 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltsn5zxizlsfzwgc43ufvzg643umvza.blob | size=8356 | mtime=2026-09-29 03:27:26 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxglrthfrtomrtmqzc2yrxga2s2ndgmvrs2olgg43c2zbugrsdkmrtmnstazdd.blob | size=228271 | mtime=2026-09-29 03:27:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sentry/session.json | size=315 | mtime=2026-09-29 03:27:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-session-marker.json | size=118 | mtime=2026-09-29 03:27:39 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.config/tiling-assistant | mtime=2026-09-29 03:26:02 | source_job=worklog_scan
+
