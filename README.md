@@ -1,59 +1,116 @@
-# RootRecord-Database
+# 🗄️ RootRecord Database
 
-**Official source of truth for data and log layout** inside the RootRecord Pacific node (desk path: `/home/rootrecord/Database`).
+> **Official source of truth for persistent data, media, and log layout.**
+>
+> The Database repository defines **where bytes go**. Runtime code lives elsewhere.
 
-Owned by org **[RootRecord-Software-Solutions](https://github.com/RootRecord-Software-Solutions)**.
-
-Code and domain scripts live in server repos (especially [RootRecord-Pacific-Solar-Server](https://github.com/RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server)). **This repo owns where bytes go** — not application logic.
+<p align="center">
+  <a href="https://github.com/RootRecord-Software-Solutions"><strong>RootRecord Software Solutions</strong></a>
+  ·
+  <a href="https://github.com/RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server"><strong>Runtime</strong></a>
+  ·
+  <a href="https://github.com/RootRecord-Software-Solutions/RootRecord-Library"><strong>Library</strong></a>
+  ·
+  <a href="https://rootrecord.cloud"><strong>rootrecord.cloud</strong></a>
+</p>
 
 ---
 
-## Top level
+## 🧭 Purpose
+
+**RootRecord-Database** is the persistent data-layout layer for the RootRecord Pacific node.
+
+It is deliberately separate from application logic:
+
+- **Runtime repositories** decide what the system does.
+- **This repository** defines where persistent data, media, and logs belong.
+- **RootRecord-Library** records architecture, work orders, operational context, and verification.
+
+That separation makes migrations easier to reason about and gives agents a stable map of the filesystem.
+
+---
+
+## 📁 Top-level layout
 
 | Path | Role |
-|------|------|
-| `Logs/` | Domain-aligned log streams + Archive rotation |
-| `Media/` | Audio / notifications / voice reports |
-| *(existing desk dirs)* | `SYSTEM/`, `WORKLOG/`, `WEATHER/`, `GITHUB/`, Energy stores, etc. may live on disk even if not all mirrored here yet |
+| --- | --- |
+| `Logs/` | Domain-aligned current logs and archived history |
+| `Media/` | Persistent media such as images, audio, notifications & timelapses |
+| `WORKLOG/` | Runtime worklog data |
+| `SYSTEM/` | System-oriented persistent data |
+| `WEATHER/` | Weather-domain data |
+| `GITHUB/` | Git / synchronization data |
+| Domain stores | Persistent domain-specific state as documented |
 
-## Logs layout
+### Logs
 
 ```text
 Logs/
-  Automations/     automations_current.log  (+ Archive/)
-  Energy/
-  Communications/
-  Network/
-  System/
-  Weather/
-  Github/
-  Security/
+├─ Automations/
+├─ Energy/
+├─ Communications/
+├─ Network/
+├─ System/
+├─ Weather/
+├─ Github/
+└─ Security/
 ```
 
-Each domain: current log(s) in the folder; dated files and zips under `Archive/` (see each `Archive/README.md` when present).
+Current logs live in their domain directory; dated history belongs under the corresponding `Archive/` structure when present.
 
-## Pacific poller wiring
-
-Default live stream:
+### Security media
 
 ```text
-/home/rootrecord/Database/Logs/Automations/automations_current.log
+Media/
+├─ Images/
+└─ Timelapses/
 ```
 
-Set by Pacific `Automations/scripts/poller/*` and stack scripts (`POLLER_LOG` / `STACK_RELOAD_LOG` overrides).
+Security camera runtime writes captured media to the canonical Database media tree rather than keeping application data inside the runtime repository.
 
 ---
 
-## Related canonical repos
+## 🔗 Canonical ecosystem
 
 | Repository | Role |
 | --- | --- |
-| [RootRecord-Pacific-Solar-Server](https://github.com/RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server) | Primary desk runtime |
-| [RootRecord-Library](https://github.com/RootRecord-Software-Solutions/RootRecord-Library) | Docs, agent context, work orders |
-| [US-Mainland-Server](https://github.com/rootrecordsoftwaresolutions/US-Mainland-Server) | Continuity node |
-
-Migration and domain-import status: Library → `Documentation/06-development/`.
+| **[RootRecord-Pacific-Solar-Server](https://github.com/RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server)** | Primary executable runtime |
+| **[RootRecord-Library](https://github.com/RootRecord-Software-Solutions/RootRecord-Library)** | Docs, agent context & work orders |
+| **[US-Mainland-Server](https://github.com/rootrecordsoftwaresolutions/US-Mainland-Server)** | Continuity node |
 
 ---
 
-**Docs-only updates** to this README do not change on-disk layout or poller behavior.
+## 📍 Pacific database path
+
+```text
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database
+```
+
+> **Docs-only updates to this README do not change the on-disk layout or poller behavior.**
+
+---
+
+## 🧱 Data boundary
+
+```text
+Application / domain code
+          │
+          ▼
+   RootRecord runtime
+          │
+          ▼
+  RootRecord-Database
+          │
+     ┌────┴────┐
+     ▼         ▼
+   Logs      Media / data
+```
+
+Persistent data placement should be changed deliberately and recorded in the appropriate work order or architecture document.
+
+---
+
+<p align="center">
+  <strong>Root Record Software Solutions</strong><br/>
+  <em>Persistent data with a clear home.</em>
+</p>
