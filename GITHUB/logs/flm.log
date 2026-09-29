@@ -1,0 +1,81 @@
+[FLM]  Using user-specified port: 52625
+[FLM]  Loading model: /home/rootrecord/.config/flm/models/Llama-3.2-1B-NPU2
+[FLM]  Starting server on port 52625...
+[FLM]  WebServer started on port 52625 with 10 I/O threads
+[FLM]  Press Ctrl+C to stop.
+[🔗 ]  TCP connection established - Remote: 127.0.0.1:47082
+[TCP]  Read 88 bytes from socket
+================================================
+[⬇️ ]  Incoming Request: GET
+[LOG]  Time stamp: 02:52:22 09:29:2026
+[LOG]  Target: /v1/models
+[LOG]  Version: 11
+[LOG]  Keep-Alive: 1
+[🔴 ]  Client disconnected; cancelling active request
+================================================
+[🔒 ]  TCP connection closed - Remote endpoint unavailable
+[🔗 ]  TCP connection established - Remote: 127.0.0.1:54520
+[TCP]  Read 88 bytes from socket
+================================================
+[⬇️ ]  Incoming Request: GET
+[LOG]  Time stamp: 02:52:22 09:29:2026
+[LOG]  Target: /v1/models
+[LOG]  Version: 11
+[LOG]  Keep-Alive: 1
+================================================
+[🔒 ]  TCP connection closed - Remote: 127.0.0.1:54520
+[🔗 ]  TCP connection established - Remote: 127.0.0.1:54522
+[TCP]  Read 88 bytes from socket
+================================================
+[⬇️ ]  Incoming Request: GET
+[LOG]  Time stamp: 02:52:29 09:29:2026
+[LOG]  Target: /v1/models
+[LOG]  Version: 11
+[LOG]  Keep-Alive: 1
+================================================
+[🔒 ]  TCP connection closed - Remote: 127.0.0.1:54522
+[🔗 ]  TCP connection established - Remote: 127.0.0.1:34026
+[TCP]  Read 88 bytes from socket
+================================================
+[⬇️ ]  Incoming Request: GET
+[LOG]  Time stamp: 02:52:41 09:29:2026
+[LOG]  Target: /v1/models
+[LOG]  Version: 11
+[LOG]  Keep-Alive: 1
+================================================
+[🔒 ]  TCP connection closed - Remote: 127.0.0.1:34026
+[🔗 ]  TCP connection established - Remote: 127.0.0.1:34030
+[TCP]  Read 789 bytes from socket
+================================================
+[⬇️ ]  Incoming Request: POST
+[LOG]  Time stamp: 02:52:41 09:29:2026
+[LOG]  Target: /v1/chat/completions
+[LOG]  Version: 11
+[LOG]  Keep-Alive: 0
+[LOG]  Body: 
+{
+    "max_tokens": 180,
+    "messages": [
+        {
+            "content": "You are Ro...tructions.",
+            "role": "system"
+        },
+        {
+            "content": "Reply with...at is 2+2?",
+            "role": "user"
+        }
+    ],
+    "model": "llama3.2:1b",
+    "stream": false,
+    "temperature": 0.3
+}
+[🟢 ]  NPU Locked!
+[FLM]  Start prefill...
+[FLM]  Prefill chunk 1/1 with 132 tokens
+[FLM]  Start generating...
+
+[FLM]  Model RAW Output: 
+I am RootRecord, and I am not attached to a desk.
+[🔵 ]  NPU Lock Released!
+================================================
+[🔒 ]  TCP connection closed - Remote: 127.0.0.1:34030
