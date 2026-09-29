@@ -1357,3 +1357,91 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/.local/state | mtime=2026-09-29 02:27:52 | source_job=worklog_scan
 - DELETED /home/rootrecord/.grokbot/local-exec-daemon.json | source_job=worklog_scan
 
+### 2026-09-29 02:28:59 HST
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon-credential.json | size=962 | mtime=2026-09-29 02:28:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-supervisor.json | size=31 | mtime=2026-09-29 02:28:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.grokbot/local-exec-daemon.json | size=154 | mtime=2026-09-29 02:29:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon-connection.json | size=1626 | mtime=2026-09-29 02:28:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR_loop/Hawaii_IR_loop_current.gif | size=966271 | mtime=2026-09-29 02:28:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR/Hawaii_IR_current.gif | size=88713 | mtime=2026-09-29 02:28:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/hfo/TAFPA/raw/TAFPA_raw_current.html | size=58311 | mtime=2026-09-29 02:28:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/hfo/FTM/raw/FTM_raw_current.html | size=57349 | mtime=2026-09-29 02:28:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/gis/publiczones/raw/publiczones_raw_current.html | size=28656 | mtime=2026-09-29 02:28:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/gis/publiczones/publiczones_current.html | size=28656 | mtime=2026-09-29 02:28:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/gis/Counties/Counties_current.html | size=30080 | mtime=2026-09-29 02:28:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/weather.gov/gis/Counties/raw/Counties_raw_current.html | size=30080 | mtime=2026-09-29 02:28:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/AirMass/GOES19-EEP-AirMass-900x540/GOES19-EEP-AirMass-900x540_current.gif | size=13883556 | mtime=2026-09-29 02:28:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/_manifest.json | size=70502 | mtime=2026-09-29 02:28:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/radar.weather.gov/ridge/standard/HAWAII_loop/HAWAII_loop_current.gif | size=226434 | mtime=2026-09-29 02:28:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json | size=5179 | mtime=2026-09-29 02:28:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json | size=4647 | mtime=2026-09-29 02:28:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/forecast.weather.gov/product.php/off_offshore_forecast/raw/off_offshore_forecast_raw_current.html | size=26317 | mtime=2026-09-29 02:28:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/forecast.weather.gov/product.php/hsf_high_seas_npac/raw/hsf_high_seas_npac_raw_current.html | size=26195 | mtime=2026-09-29 02:28:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hurricanes/tracking/Nolo_20260929T015012.2909271000/track.json | size=707 | mtime=2026-09-29 02:28:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WORKLOG/worklog_current.md | size=260769 | mtime=2026-09-29 02:29:07 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-022831.json | size=1536 | mtime=2026-09-29 02:28:31 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-river2pro-20260929-022832.json | size=943 | mtime=2026-09-29 02:28:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/samples/read-delta2-20260929-022832.json | size=1536 | mtime=2026-09-29 02:28:32 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/delta2-last.json | size=73 | mtime=2026-09-29 02:28:32 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/soc/river2pro-last.json | size=72 | mtime=2026-09-29 02:28:32 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/delta2-last.json | size=193 | mtime=2026-09-29 02:28:32 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/watts/river2pro-last.json | size=194 | mtime=2026-09-29 02:28:32 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ENERGY/state/ava-ecoflow-ble.pid | size=4 | mtime=2026-09-29 02:28:22 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/last/host-last.json | size=820 | mtime=2026-09-29 02:28:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/mem/host-last.json | size=163 | mtime=2026-09-29 02:28:33 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/samples/sys-20260929-022833.json | size=820 | mtime=2026-09-29 02:28:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/cpu/host-last.json | size=85 | mtime=2026-09-29 02:28:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/load/host-last.json | size=113 | mtime=2026-09-29 02:28:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1min.db | size=151552 | mtime=2026-09-29 02:28:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/layers/1sec.db | size=1437696 | mtime=2026-09-29 02:28:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/system.db | size=184320 | mtime=2026-09-29 02:28:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/SYSTEM/status/system-status.json | size=2485 | mtime=2026-09-29 02:28:33 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/keyrings/login.keyring | size=2498 | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/nautilus/tags/meta.db | size=167936 | mtime=2026-09-29 02:28:25 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/icc/edid-6561450aec6d3373e94d50803e44063f.icc | size=1592 | mtime=2026-09-29 02:28:24 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/icc/edid-e0f98deca80381a27d182c0b59d99b43.icc | size=1664 | mtime=2026-09-29 02:28:24 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/share/evolution/addressbook/system/contacts.db | size=94208 | mtime=2026-09-29 02:28:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/wireplumber/stream-properties | size=706 | mtime=2026-09-29 02:28:52 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/dconf/user | size=10700 | mtime=2026-09-29 02:28:25 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/mimeapps.list | size=308 | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/gtk-3.0/bookmarks | size=204 | mtime=2026-09-29 02:28:24 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/Partitions/sand-forever-box/Local Storage/leveldb/LOG | size=334 | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/gateway-descriptor.json | size=1719 | mtime=2026-09-29 02:28:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/Code Cache/js/index-dir/the-real-index | size=2184 | mtime=2026-09-29 02:29:00 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxgltbmeztsntemrrs2zbsgjtc2nbzgu2c2yrqgq3s2mbugy3danbtmztdqyjx.blob | size=346577 | mtime=2026-09-29 02:28:42 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltsn5zxizlsfzwgc43ufvzg643umvza.blob | size=8242 | mtime=2026-09-29 02:28:42 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzuglttmvwgky3unfxw4ltmmfzxillbm5sw45a.blob | size=78 | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4ztjojzxillsovxc4zdfozuwgzjnn5xge33bojsgkza.blob | size=46 | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxglrzge2dcmbrgezc2zbymqzs2ndcmjrs2ojvg42c2nzugmydoy3chfswimlg.blob | size=162063 | mtime=2026-09-29 02:28:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxglrthfrtomrtmqzc2yrxga2s2ndgmvrs2olgg43c2zbugrsdkmrtmnstazdd.blob | size=189608 | mtime=2026-09-29 02:28:42 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxglrqme4tqnztmiys2njrme4c2nbxgrrs2yryg5ss2ytdgntdgmzwgy2dozte.blob | size=24774 | mtime=2026-09-29 02:28:42 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/sand-client-persistence/onqw4zbomnwgszlooqxhg3djmnss4yldmnxxk3tufztw633hnrss233bov2gqmrfg5bxk43fojptamkljbatqqshiqzemmktgjaukuztgvnfgtjsiyzugltuojqw443dojuxa5boojsxa3djmnqxglrymeywgmtgmqys2yrsmy3s2nbwmjss2yrxha2s2yrug5tgmolehe2gkmzx.blob | size=18459 | mtime=2026-09-29 02:28:43 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/desktop-status.json | size=90 | mtime=2026-09-29 02:28:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sentry/session.json | size=265 | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/sentry/scope_v3.json | size=1408 | mtime=2026-09-29 02:28:40 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/sentry/queue/queue-v2.json | size=2 | mtime=2026-09-29 02:28:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/DawnWebGPUCache/index | size=262512 | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/DawnGraphiteCache/index | size=262512 | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/sand-session-marker.json | size=118 | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/sand-secrets.json | size=1857 | mtime=2026-09-29 02:28:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/Local Storage/leveldb/LOG | size=278 | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/Grok Bot/Crashpad/settings.dat | size=40 | mtime=2026-09-29 02:28:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.config/Grok Bot/GPUCache/index | size=262512 | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.config/ibus/bus/79b09800b3d842cb94c609987aa5188c-unix-wayland-0 | size=380 | mtime=2026-09-29 02:28:24 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/AirMass/GOES19-EEP-AirMass-900x540/archive | mtime=2026-09-29 02:28:59 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/WEATHER/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/AirMass/GOES19-EEP-AirMass-900x540/archive/09-29-2026 | mtime=2026-09-29 02:28:59 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/keyrings | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/nautilus/tags | mtime=2026-09-29 02:28:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/icc | mtime=2026-09-29 02:28:24 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/share/evolution/addressbook/system | mtime=2026-09-29 02:28:24 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.config | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.config/gtk-3.0 | mtime=2026-09-29 02:28:24 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.config/Grok Bot/Partitions/sand-forever-box/Local Storage/leveldb | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.config/Grok Bot/Partitions/sand-forever-box/blob_storage | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.config/Grok Bot/Partitions/sand-forever-box/blob_storage/041c8702-c8fc-42fc-bd9b-ed18aa60069e | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.config/Grok Bot/attachment-image-cache | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.config/Grok Bot/Local Storage/leveldb | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.config/Grok Bot/blob_storage | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.config/Grok Bot/blob_storage/dff6a06e-b374-4f3f-a47a-3ddae8e72f7b | mtime=2026-09-29 02:28:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.config/ibus/bus | mtime=2026-09-29 02:28:24 | source_job=worklog_scan
+
