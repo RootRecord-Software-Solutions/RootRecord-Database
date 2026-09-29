@@ -1,8 +1,12 @@
 # RootRecord-Database
 
-Canonical **data and log layout** for the RootRecord Pacific node (desk path: `/home/rootrecord/Database`).
+**Official source of truth for data and log layout** inside the RootRecord Pacific node (desk path: `/home/rootrecord/Database`).
 
-Code lives in domain server repos (e.g. `RootRecord-Pacific-Solar-Server`). This repo owns **where bytes go**.
+Owned by org **[RootRecord-Software-Solutions](https://github.com/RootRecord-Software-Solutions)**.
+
+Code and domain scripts live in server repos (especially [RootRecord-Pacific-Solar-Server](https://github.com/RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server)). **This repo owns where bytes go** — not application logic.
+
+---
 
 ## Top level
 
@@ -26,7 +30,7 @@ Logs/
   Security/
 ```
 
-Each domain: current log(s) in the folder; dated files and zips under `Archive/` (see each `Archive/README.md`).
+Each domain: current log(s) in the folder; dated files and zips under `Archive/` (see each `Archive/README.md` when present).
 
 ## Pacific poller wiring
 
@@ -38,7 +42,18 @@ Default live stream:
 
 Set by Pacific `Automations/scripts/poller/*` and stack scripts (`POLLER_LOG` / `STACK_RELOAD_LOG` overrides).
 
-## Related
+---
 
-- Server code: `RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server`
-- Docs index: `RootRecord-Software-Solutions/RootRecord-Library`
+## Related canonical repos
+
+| Repository | Role |
+| --- | --- |
+| [RootRecord-Pacific-Solar-Server](https://github.com/RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server) | Primary desk runtime |
+| [RootRecord-Library](https://github.com/RootRecord-Software-Solutions/RootRecord-Library) | Docs, agent context, work orders |
+| [US-Mainland-Server](https://github.com/rootrecordsoftwaresolutions/US-Mainland-Server) | Continuity node |
+
+Migration and domain-import status: Library → `Documentation/06-development/`.
+
+---
+
+**Docs-only updates** to this README do not change on-disk layout or poller behavior.
