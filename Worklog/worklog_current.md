@@ -448,3 +448,2179 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/lib | mtime=2026-09-30 00:03:15 | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/staged | mtime=2026-09-30 00:02:34 | source_job=worklog_scan
 
+### 2026-09-30 00:12:53 HST
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/881602.txt | size=1494 | mtime=2026-09-30 00:04:23 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/628482.txt | size=8247 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/353250.txt | size=3134 | mtime=2026-09-30 00:06:53 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/444654.txt | size=300 | mtime=2026-09-30 00:13:05 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/883974.txt | size=2269 | mtime=2026-09-30 00:10:21 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/881603.txt | size=97251 | mtime=2026-09-30 00:08:37 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/791189.txt | size=3790 | mtime=2026-09-30 00:05:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/883973.txt | size=3457 | mtime=2026-09-30 00:13:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md | size=205 | mtime=2026-09-30 00:06:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-09-30 00:06:06 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/canvases/migration-agent-prompts.canvas.status.json | size=21 | mtime=? | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/agent-tools/39a370dc-bc12-466b-9f7b-cd97c80a5b51.txt | size=732767 | mtime=2026-09-30 00:11:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/agent-tools/39b95591-b69c-4348-9b58-92a63685d370.txt | size=94909 | mtime=2026-09-30 00:08:37 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/agent-tools/4d9f67ef-50a1-464b-a954-a352ed74117d.txt | size=48251 | mtime=2026-09-30 00:05:42 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/agent-tools/b2ded03a-36ef-43b6-908a-f973171d8385.txt | size=46269 | mtime=2026-09-30 00:10:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md | size=205 | mtime=2026-09-30 00:06:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-09-30 00:06:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/.sync-manifest.json | size=1714 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/usage-bar.d.ts | size=2318 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/swatch.d.ts | size=1313 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/index.d.ts | size=4244 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/dag-layout.d.ts | size=3384 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/chart-primitives.d.ts | size=10547 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/collapsible-section.d.ts | size=2460 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/callout-tone-icons.d.ts | size=586 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/hooks.d.ts | size=6765 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.test.d.ts | size=59 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/form-primitives.d.ts | size=6663 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/todo-list.d.ts | size=1543 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/diff-view.d.ts | size=4916 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/canvas-tokens.d.ts | size=10435 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.d.ts | size=20332 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/theme.d.ts | size=3520 | mtime=2026-09-30 00:05:45 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/sandbox-policies/sandbox-policy-5299ae74a4f2ef5f | size=12992 | mtime=2026-09-30 00:04:23 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/sandbox-policies/sandbox-policy-24d8e88ea3b93200 | size=13242 | mtime=2026-09-30 00:08:04 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/sandbox-policies/sandbox-policy-21ccf78cfb962409 | size=13242 | mtime=2026-09-30 00:05:20 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/sandbox-policies/sandbox-policy-3c1d9680300e0d02 | size=12992 | mtime=2026-09-30 00:04:26 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/sandbox-policies/sandbox-policy-37697e45542beba3 | size=12992 | mtime=2026-09-30 00:04:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/sandbox-policies/sandbox-policy-c94cddf81d0a0256 | size=13242 | mtime=2026-09-30 00:06:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/plans/rammb_storm_tracks_387c1ac4.plan.md | size=6336 | mtime=2026-09-30 00:04:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db | size=3022848 | mtime=2026-09-30 00:12:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/Complete/README.md | size=2605 | mtime=2026-09-30 00:12:23 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/GitHub_Catalog_Hygiene_Work_Order_WO-GH-2026-09-27.md | size=11022 | mtime=2026-09-30 00:06:20 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Cloudflare_workers_Work_Order_WO-MIG-09-2026-09-29.md | size=14025 | mtime=2026-09-30 00:07:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Sunrise_restore_Work_Order_WO-MIG-17-2026-09-29.md | size=14454 | mtime=2026-09-30 00:07:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/US_all_states_weather_dataset_Work_Order_WO-MIG-11-2026-09-29.md | size=14199 | mtime=2026-09-30 00:10:14 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Site_Cloudflare_config_and_thumbnails_Work_Order_WO-MIG-08-2026-09-29.md | size=14758 | mtime=2026-09-30 00:09:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Morning_boot_replay_Work_Order_WO-MIG-16-2026-09-29.md | size=11720 | mtime=2026-09-30 00:12:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Public_website_checkout_Work_Order_WO-MIG-07-2026-09-29.md | size=14680 | mtime=2026-09-30 00:10:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/State_and_global_news_builders_Work_Order_WO-MIG-12-2026-09-29.md | size=18316 | mtime=2026-09-30 00:07:15 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/RAMMB_per_storm_tracks_and_plot_Work_Order_WO-MIG-04-2026-09-29.md | size=10296 | mtime=2026-09-30 00:04:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Report_playback_Work_Order_WO-MIG-15-2026-09-29.md | size=13707 | mtime=2026-09-30 00:08:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Governance_and_origin_session_archive_Work_Order_WO-MIG-06-2026-09-29.md | size=13804 | mtime=2026-09-30 00:12:22 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/README.md | size=8411 | mtime=2026-09-30 00:06:23 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Repository-Ownership-Model.md | size=2268 | mtime=2026-09-30 00:06:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Residual-Path-Retirement-Table-2026-09-28.md | size=19342 | mtime=2026-09-30 00:07:08 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Website-RootRecord-Cloud-Staging.md | size=8124 | mtime=2026-09-30 00:09:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Old-Repo-Migration-Matrix.md | size=42995 | mtime=2026-09-30 00:11:09 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Solar-Pacific-Old-Inventory-Map-2026-09-28.md | size=8852 | mtime=2026-09-30 00:11:14 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G1-Scheduler-To-G3-Jobs-Map-2026-09-29.md | size=7332 | mtime=2026-09-30 00:10:19 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Governance/README.md | size=2267 | mtime=2026-09-30 00:11:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Voice-Reports-G3.md | size=21407 | mtime=2026-09-30 00:07:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Solar-Pacific-Old-Full-TopLevel-Catalog-2026-09-28.md | size=5492 | mtime=2026-09-30 00:11:11 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/index.html | size=3937 | mtime=2026-09-30 00:04:33 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/wiki/index.html | size=1524 | mtime=2026-09-30 00:04:37 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/system/index.html | size=1915 | mtime=2026-09-30 00:04:36 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/context/index.html | size=3786 | mtime=2026-09-30 00:04:34 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/directory/directory.css | size=6164 | mtime=2026-09-30 00:04:33 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/directory/index.html | size=3864 | mtime=2026-09-30 00:04:34 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/uptime/index.html | size=2109 | mtime=2026-09-30 00:04:36 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/status/index.html | size=1873 | mtime=2026-09-30 00:04:35 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/css/dashboard.css | size=4916 | mtime=2026-09-30 00:04:30 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/css/earthquakes.css | size=1741 | mtime=2026-09-30 00:04:30 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/css/context.css | size=1696 | mtime=2026-09-30 00:04:29 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/css/news.css | size=3179 | mtime=2026-09-30 00:04:31 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/css/geography.css | size=1547 | mtime=2026-09-30 00:04:30 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/css/site.css | size=2926 | mtime=2026-09-30 00:04:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/css/weather.css | size=3603 | mtime=2026-09-30 00:04:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/css/home.css | size=2782 | mtime=2026-09-30 00:04:31 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/energy/index.html | size=1872 | mtime=2026-09-30 00:04:35 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/README.md | size=289 | mtime=2026-09-30 00:05:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/it/italy/rome/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/it/italy/rome/location.json | size=323 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pr/puerto-rico/san-juan/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pr/puerto-rico/san-juan/location.json | size=345 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pn/pitcairn-islands/adamstown/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pn/pitcairn-islands/adamstown/location.json | size=359 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/do/dominican-republic/santo-domingo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/do/dominican-republic/santo-domingo/location.json | size=374 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/aw/aruba/oranjestad/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/aw/aruba/oranjestad/location.json | size=339 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/et/ethiopia/addis-ababa/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/et/ethiopia/addis-ababa/location.json | size=349 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dz/algeria/algiers/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dz/algeria/algiers/location.json | size=336 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ne/niger/niamey/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ne/niger/niamey/location.json | size=328 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mc/monaco/monaco/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mc/monaco/monaco/location.json | size=330 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cd/democratic-republic-of-the-congo/kinshasa/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cd/democratic-republic-of-the-congo/kinshasa/location.json | size=388 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ve/venezuela/caracas/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ve/venezuela/caracas/location.json | size=342 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cf/central-african-republic/bangui/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cf/central-african-republic/bangui/location.json | size=365 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/my/malaysia/kuala-lumpur/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/my/malaysia/kuala-lumpur/location.json | size=355 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mr/mauritania/nouakchott/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mr/mauritania/nouakchott/location.json | size=352 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cr/costa-rica/san-jos/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cr/costa-rica/san-jos/location.json | size=347 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sa/saudi-arabia/riyadh/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sa/saudi-arabia/riyadh/location.json | size=339 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mw/malawi/lilongwe/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mw/malawi/lilongwe/location.json | size=338 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/md/moldova/chi-in-u/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/md/moldova/chi-in-u/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lv/latvia/riga/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lv/latvia/riga/location.json | size=326 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nu/niue/alofi/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nu/niue/alofi/location.json | size=323 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bw/botswana/gaborone/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bw/botswana/gaborone/location.json | size=343 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/th/thailand/bangkok/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/th/thailand/bangkok/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/la/laos/vientiane/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/la/laos/vientiane/location.json | size=339 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bj/benin/porto-novo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bj/benin/porto-novo/location.json | size=339 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tm/turkmenistan/ashgabat/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tm/turkmenistan/ashgabat/location.json | size=345 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/uy/uruguay/montevideo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/uy/uruguay/montevideo/location.json | size=348 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gl/greenland/nuuk/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gl/greenland/nuuk/location.json | size=336 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kz/kazakhstan/astana/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kz/kazakhstan/astana/location.json | size=334 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nf/norfolk-island/kingston/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nf/norfolk-island/kingston/location.json | size=366 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lc/saint-lucia/castries/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lc/saint-lucia/castries/location.json | size=345 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/az/azerbaijan/baku/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/az/azerbaijan/baku/location.json | size=329 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kg/kyrgyzstan/bishkek/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kg/kyrgyzstan/bishkek/location.json | size=338 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ug/uganda/kampala/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ug/uganda/kampala/location.json | size=333 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lu/luxembourg/luxembourg/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lu/luxembourg/luxembourg/location.json | size=350 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bn/brunei/bandar-seri-begawan/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bn/brunei/bandar-seri-begawan/location.json | size=372 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gn/guinea/conakry/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gn/guinea/conakry/location.json | size=333 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tr/turkey/ankara/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tr/turkey/ankara/location.json | size=327 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gp/guadeloupe/basse-terre/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gp/guadeloupe/basse-terre/location.json | size=352 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/al/albania/tirana/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/al/albania/tirana/location.json | size=334 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pe/peru/lima/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pe/peru/lima/location.json | size=324 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/np/nepal/kathmandu/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/np/nepal/kathmandu/location.json | size=335 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tj/tajikistan/dushanbe/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tj/tajikistan/dushanbe/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vu/vanuatu/port-vila/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vu/vanuatu/port-vila/location.json | size=340 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ky/cayman-islands/george-town/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ky/cayman-islands/george-town/location.json | size=359 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kn/saint-kitts-and-nevis/basseterre/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kn/saint-kitts-and-nevis/basseterre/location.json | size=371 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ls/lesotho/maseru/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ls/lesotho/maseru/location.json | size=335 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gm/the-gambia/banjul/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gm/the-gambia/banjul/location.json | size=340 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ms/montserrat/plymouth/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ms/montserrat/plymouth/location.json | size=342 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/au/australia/canberra/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/au/australia/canberra/location.json | size=357 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/eg/egypt/cairo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/eg/egypt/cairo/location.json | size=327 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pw/palau/ngerulmud/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pw/palau/ngerulmud/location.json | size=335 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cz/czech-republic/prague/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cz/czech-republic/prague/location.json | size=347 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tn/tunisia/tunis/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tn/tunisia/tunis/location.json | size=330 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/am/armenia/yerevan/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/am/armenia/yerevan/location.json | size=332 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/br/brazil/bras-lia/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/br/brazil/bras-lia/location.json | size=336 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jm/jamaica/kingston/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jm/jamaica/kingston/location.json | size=337 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ci/ivory-coast/yamoussoukro/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ci/ivory-coast/yamoussoukro/location.json | size=358 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/td/chad/n-djamena/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/td/chad/n-djamena/location.json | size=335 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fi/finland/helsinki/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fi/finland/helsinki/location.json | size=339 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tk/tokelau/fakaofo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tk/tokelau/fakaofo/location.json | size=334 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mt/malta/valletta/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mt/malta/valletta/location.json | size=336 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nl/netherlands/amsterdam/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nl/netherlands/amsterdam/location.json | size=348 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sr/suriname/paramaribo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sr/suriname/paramaribo/location.json | size=348 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ma/morocco/rabat/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ma/morocco/rabat/location.json | size=331 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/rw/rwanda/kigali/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/rw/rwanda/kigali/location.json | size=330 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fk/falkland-islands/stanley/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fk/falkland-islands/stanley/location.json | size=357 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hu/hungary/budapest/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hu/hungary/budapest/location.json | size=339 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sy/syria/damascus/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sy/syria/damascus/location.json | size=330 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bh/bahrain/manama/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bh/bahrain/manama/location.json | size=329 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/es/spain/madrid/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/es/spain/madrid/location.json | size=330 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/er/eritrea/asmara/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/er/eritrea/asmara/location.json | size=333 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sk/slovakia/bratislava/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sk/slovakia/bratislava/location.json | size=347 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lt/lithuania/vilnius/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lt/lithuania/vilnius/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dm/dominica/roseau/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dm/dominica/roseau/location.json | size=333 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ki/kiribati/south-tarawa/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ki/kiribati/south-tarawa/location.json | size=350 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/qa/qatar/doha/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/qa/qatar/doha/location.json | size=319 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/in/india/new-delhi/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/in/india/new-delhi/location.json | size=335 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gf/french-guiana/cayenne/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gf/french-guiana/cayenne/location.json | size=349 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/li/liechtenstein/vaduz/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/li/liechtenstein/vaduz/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sc/seychelles/victoria/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sc/seychelles/victoria/location.json | size=346 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ae/united-arab-emirates/abu-dhabi/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ae/united-arab-emirates/abu-dhabi/location.json | size=364 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cn/china/beijing/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cn/china/beijing/location.json | size=329 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ml/mali/bamako/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ml/mali/bamako/location.json | size=327 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ng/nigeria/abuja/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ng/nigeria/abuja/location.json | size=327 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/rs/serbia/belgrade/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/rs/serbia/belgrade/location.json | size=337 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mq/martinique/fort-de-france/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mq/martinique/fort-de-france/location.json | size=361 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mz/mozambique/maputo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mz/mozambique/maputo/location.json | size=339 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pt/portugal/lisbon/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pt/portugal/lisbon/location.json | size=336 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fo/faroe-islands/t-rshavn/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fo/faroe-islands/t-rshavn/location.json | size=347 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hn/honduras/tegucigalpa/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hn/honduras/tegucigalpa/location.json | size=354 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mh/marshall-islands/majuro/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mh/marshall-islands/majuro/location.json | size=348 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pl/poland/warsaw/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pl/poland/warsaw/location.json | size=331 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nc/new-caledonia/noum-a/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nc/new-caledonia/noum-a/location.json | size=344 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/eh/western-sahara/el-aai-n/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/eh/western-sahara/el-aai-n/location.json | size=356 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sg/singapore/singapore/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sg/singapore/singapore/location.json | size=348 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/de/germany/berlin/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/de/germany/berlin/location.json | size=332 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sz/swaziland/lobamba/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sz/swaziland/lobamba/location.json | size=342 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mk/republic-of-macedonia/skopje/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mk/republic-of-macedonia/skopje/location.json | size=361 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cm/cameroon/yaound/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cm/cameroon/yaound/location.json | size=335 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sn/senegal/dakar/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sn/senegal/dakar/location.json | size=331 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tl/east-timor/dili/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tl/east-timor/dili/location.json | size=335 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bg/bulgaria/sofia/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bg/bulgaria/sofia/location.json | size=332 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lb/lebanon/beirut/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lb/lebanon/beirut/location.json | size=327 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ca/canada/ottawa/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ca/canada/ottawa/location.json | size=336 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hr/croatia/zagreb/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hr/croatia/zagreb/location.json | size=334 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mu/mauritius/port-louis/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mu/mauritius/port-louis/location.json | size=350 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/as/american-samoa/pago-pago/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/as/american-samoa/pago-pago/location.json | size=354 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ht/haiti/port-au-prince/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ht/haiti/port-au-prince/location.json | size=351 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ai/anguilla/the-valley/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ai/anguilla/the-valley/location.json | size=345 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tv/tuvalu/funafuti/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tv/tuvalu/funafuti/location.json | size=333 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ar/argentina/buenos-aires/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ar/argentina/buenos-aires/location.json | size=358 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/tennessee/nashville/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/tennessee/nashville/location.json | size=362 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/illinois/springfield/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/illinois/springfield/location.json | size=365 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-jersey/trenton/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-jersey/trenton/location.json | size=361 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/kentucky/frankfort/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/kentucky/frankfort/location.json | size=359 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/louisiana/baton-rouge/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/louisiana/baton-rouge/location.json | size=369 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/florida/tallahassee/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/florida/tallahassee/location.json | size=361 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/south-carolina/columbia/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/south-carolina/columbia/location.json | size=380 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kihei/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kihei/location.json | size=358 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/haleiwa/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/haleiwa/location.json | size=380 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/lihue/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/lihue/location.json | size=364 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kahului/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kahului/location.json | size=364 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/waimea/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/waimea/location.json | size=364 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/poipu/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/poipu/location.json | size=378 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kalaupapa/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kalaupapa/location.json | size=375 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/lanai-city/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/lanai-city/location.json | size=380 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kapolei/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kapolei/location.json | size=365 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kailua/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kailua/location.json | size=373 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/princeville/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/princeville/location.json | size=379 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kaunakakai/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kaunakakai/location.json | size=378 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/hoolehua/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/hoolehua/location.json | size=373 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/maunaloa/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/maunaloa/location.json | size=372 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kailua-kona/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kailua-kona/location.json | size=380 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/makawao/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/makawao/location.json | size=376 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/hanalei/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/hanalei/location.json | size=365 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/mountain-view/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/mountain-view/location.json | size=386 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/lahaina/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/lahaina/location.json | size=364 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/pahoa/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/pahoa/location.json | size=363 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/volcano-village/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/volcano-village/location.json | size=391 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/hilo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/hilo/location.json | size=357 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/waianae/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/waianae/location.json | size=377 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/waikiki/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/waikiki/location.json | size=377 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kaneohe/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kaneohe/location.json | size=366 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kualapuu/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kualapuu/location.json | size=374 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kaanapali/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kaanapali/location.json | size=373 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/honolulu/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/honolulu/location.json | size=349 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/missouri/jefferson-city/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/missouri/jefferson-city/location.json | size=374 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-hampshire/concord/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-hampshire/concord/location.json | size=373 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/maryland/annapolis/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/maryland/annapolis/location.json | size=359 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/virginia/richmond/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/virginia/richmond/location.json | size=355 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/nevada/carson-city/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/nevada/carson-city/location.json | size=358 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/oregon/salem/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/oregon/salem/location.json | size=340 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/north-carolina/raleigh/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/north-carolina/raleigh/location.json | size=376 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/indiana/indianapolis/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/indiana/indianapolis/location.json | size=364 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/wisconsin/madison/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/wisconsin/madison/location.json | size=357 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/idaho/boise/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/idaho/boise/location.json | size=336 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/washington/olympia/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/washington/olympia/location.json | size=362 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/arkansas/little-rock/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/arkansas/little-rock/location.json | size=365 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/california/sacramento/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/california/sacramento/location.json | size=371 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/south-dakota/pierre/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/south-dakota/pierre/location.json | size=367 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/ohio/columbus/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/ohio/columbus/location.json | size=340 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/montana/helena/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/montana/helena/location.json | size=347 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-mexico/santa-fe/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-mexico/santa-fe/location.json | size=364 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/alabama/montgomery/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/alabama/montgomery/location.json | size=358 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/connecticut/hartford/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/connecticut/hartford/location.json | size=368 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/massachusetts/boston/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/massachusetts/boston/location.json | size=370 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/wyoming/cheyenne/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/wyoming/cheyenne/location.json | size=353 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/arizona/phoenix/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/arizona/phoenix/location.json | size=350 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/mississippi/jackson/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/mississippi/jackson/location.json | size=365 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/utah/salt-lake-city/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/utah/salt-lake-city/location.json | size=359 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/oklahoma/oklahoma-city/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/oklahoma/oklahoma-city/location.json | size=371 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/texas/austin/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/texas/austin/location.json | size=337 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/iowa/des-moines/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/iowa/des-moines/location.json | size=346 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/kansas/topeka/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/kansas/topeka/location.json | size=342 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/delaware/dover/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/delaware/dover/location.json | size=347 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/michigan/lansing/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/michigan/lansing/location.json | size=353 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/vermont/montpelier/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/vermont/montpelier/location.json | size=358 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/maine/augusta/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/maine/augusta/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/west-virginia/charleston/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/west-virginia/charleston/location.json | size=382 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/georgia/atlanta/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/georgia/atlanta/location.json | size=349 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-york/albany/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-york/albany/location.json | size=350 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/rhode-island/providence/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/rhode-island/providence/location.json | size=378 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/nebraska/lincoln/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/nebraska/lincoln/location.json | size=353 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/alaska/juneau/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/alaska/juneau/location.json | size=343 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/colorado/denver/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/colorado/denver/location.json | size=351 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/minnesota/saint-paul/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/minnesota/saint-paul/location.json | size=366 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/pennsylvania/harrisburg/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/pennsylvania/harrisburg/location.json | size=378 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/north-dakota/bismarck/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/north-dakota/bismarck/location.json | size=372 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mp/northern-mariana-islands/saipan/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mp/northern-mariana-islands/saipan/location.json | size=365 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/co/colombia/bogot/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/co/colombia/bogot/location.json | size=334 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bi/burundi/bujumbura/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bi/burundi/bujumbura/location.json | size=342 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/il/israel/jerusalem/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/il/israel/jerusalem/location.json | size=336 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sb/solomon-islands/honiara/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sb/solomon-islands/honiara/location.json | size=349 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pg/papua-new-guinea/port-moresby/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pg/papua-new-guinea/port-moresby/location.json | size=364 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cu/cuba/havana/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cu/cuba/havana/location.json | size=325 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nz/new-zealand/wellington/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nz/new-zealand/wellington/location.json | size=367 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gu/guam/hag-t-a/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gu/guam/hag-t-a/location.json | size=330 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ir/iran/tehran/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ir/iran/tehran/location.json | size=324 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pk/pakistan/islamabad/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pk/pakistan/islamabad/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ru/russia/moscow/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ru/russia/moscow/location.json | size=331 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cv/cape-verde/praia/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cv/cape-verde/praia/location.json | size=337 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gy/guyana/georgetown/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gy/guyana/georgetown/location.json | size=344 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/is/iceland/reykjavik/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/is/iceland/reykjavik/location.json | size=344 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ua/ukraine/kiev/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ua/ukraine/kiev/location.json | size=327 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cl/chile/santiago/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cl/chile/santiago/location.json | size=336 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sh/saint-helena/jamestown/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sh/saint-helena/jamestown/location.json | size=353 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ch/switzerland/bern/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ch/switzerland/bern/location.json | size=334 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ao/angola/luanda/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ao/angola/luanda/location.json | size=329 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gq/equatorial-guinea/malabo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gq/equatorial-guinea/malabo/location.json | size=350 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bo/bolivia/sucre/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bo/bolivia/sucre/location.json | size=333 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gh/ghana/accra/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gh/ghana/accra/location.json | size=325 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bf/burkina-faso/ouagadougou/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bf/burkina-faso/ouagadougou/location.json | size=358 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mv/maldives/mal/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mv/maldives/mal/location.json | size=325 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ws/samoa/apia/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ws/samoa/apia/location.json | size=322 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/yt/mayotte/mamoudzou/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/yt/mayotte/mamoudzou/location.json | size=343 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ro/romania/bucharest/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ro/romania/bucharest/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/uz/uzbekistan/tashkent/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/uz/uzbekistan/tashkent/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sd/sudan/khartoum/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sd/sudan/khartoum/location.json | size=335 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pa/panama/panama-city/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pa/panama/panama-city/location.json | size=348 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kw/kuwait/kuwait-city/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kw/kuwait/kuwait-city/location.json | size=342 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/no/norway/oslo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/no/norway/oslo/location.json | size=324 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vn/vietnam/hanoi/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vn/vietnam/hanoi/location.json | size=332 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ke/kenya/nairobi/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ke/kenya/nairobi/location.json | size=332 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ck/cook-islands/avarua/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ck/cook-islands/avarua/location.json | size=342 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/st/s-o-tom-and-pr-ncipe/s-o-tom/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/st/s-o-tom-and-pr-ncipe/s-o-tom/location.json | size=366 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bz/belize/belmopan/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bz/belize/belmopan/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/si/slovenia/ljubljana/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/si/slovenia/ljubljana/location.json | size=343 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/py/paraguay/asunci-n/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/py/paraguay/asunci-n/location.json | size=345 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ga/gabon/libreville/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ga/gabon/libreville/location.json | size=338 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tt/trinidad-and-tobago/port-of-spain/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tt/trinidad-and-tobago/port-of-spain/location.json | size=376 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lr/liberia/monrovia/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lr/liberia/monrovia/location.json | size=339 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nr/nauru/yaren/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nr/nauru/yaren/location.json | size=322 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bb/barbados/bridgetown/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bb/barbados/bridgetown/location.json | size=345 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/by/belarus/minsk/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/by/belarus/minsk/location.json | size=330 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mx/mexico/mexico-city/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mx/mexico/mexico-city/location.json | size=349 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gt/guatemala/guatemala-city/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gt/guatemala/guatemala-city/location.json | size=365 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sv/el-salvador/san-salvador/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sv/el-salvador/san-salvador/location.json | size=363 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/je/jersey/saint-helier/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/je/jersey/saint-helier/location.json | size=349 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/be/belgium/brussels/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/be/belgium/brussels/location.json | size=338 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ye/yemen/sana-a/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ye/yemen/sana-a/location.json | size=325 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fj/fiji/suva/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fj/fiji/suva/location.json | size=319 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gd/grenada/st-george-s/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gd/grenada/st-george-s/location.json | size=345 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dj/djibouti/djibouti/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dj/djibouti/djibouti/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ie/ireland/dublin/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ie/ireland/dublin/location.json | size=334 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ee/estonia/tallinn/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ee/estonia/tallinn/location.json | size=337 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bt/bhutan/thimphu/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bt/bhutan/thimphu/location.json | size=331 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sj/svalbard-and-jan-mayen/longyearbyen/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sj/svalbard-and-jan-mayen/longyearbyen/location.json | size=382 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/om/oman/muscat/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/om/oman/muscat/location.json | size=322 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hk/hong-kong/city-of-victoria/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hk/hong-kong/city-of-victoria/location.json | size=364 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jo/jordan/amman/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jo/jordan/amman/location.json | size=324 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sl/sierra-leone/freetown/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sl/sierra-leone/freetown/location.json | size=348 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/im/isle-of-man/douglas/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/im/isle-of-man/douglas/location.json | size=346 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mn/mongolia/ulan-bator/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mn/mongolia/ulan-bator/location.json | size=344 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sm/san-marino/city-of-san-marino/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sm/san-marino/city-of-san-marino/location.json | size=374 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/za/south-africa/pretoria/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/za/south-africa/pretoria/location.json | size=351 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fr/france/paris/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fr/france/paris/location.json | size=327 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kr/south-korea/seoul/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kr/south-korea/seoul/location.json | size=335 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ph/philippines/manila/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ph/philippines/manila/location.json | size=343 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gs/south-georgia/king-edward-point/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gs/south-georgia/king-edward-point/location.json | size=381 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/at/austria/vienna/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/at/austria/vienna/location.json | size=333 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bm/bermuda/hamilton/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bm/bermuda/hamilton/location.json | size=343 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tw/taiwan/taipei/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tw/taiwan/taipei/location.json | size=326 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fm/federated-states-of-micronesia/palikir/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fm/federated-states-of-micronesia/palikir/location.json | size=379 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/to/tonga/nuku-alofa/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/to/tonga/nuku-alofa/location.json | size=339 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ec/ecuador/quito/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ec/ecuador/quito/location.json | size=332 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pf/french-polynesia/papeete/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pf/french-polynesia/papeete/location.json | size=354 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cc/cocos-keeling-islands/west-island/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cc/cocos-keeling-islands/west-island/location.json | size=391 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/zm/zambia/lusaka/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/zm/zambia/lusaka/location.json | size=332 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kh/cambodia/phnom-penh/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kh/cambodia/phnom-penh/location.json | size=350 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vc/saint-vincent-and-the-grenadines/kingstown/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vc/saint-vincent-and-the-grenadines/kingstown/location.json | size=390 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gb/united-kingdom/london/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gb/united-kingdom/london/location.json | size=348 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lk/sri-lanka/colombo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lk/sri-lanka/colombo/location.json | size=336 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ly/libya/tripoli/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ly/libya/tripoli/location.json | size=333 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tg/togo/lom/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tg/togo/lom/location.json | size=318 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dk/denmark/copenhagen/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dk/denmark/copenhagen/location.json | size=346 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/iq/iraq/baghdad/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/iq/iraq/baghdad/location.json | size=326 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/io/british-indian-ocean-territory/diego-garcia/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/io/british-indian-ocean-territory/diego-garcia/location.json | size=397 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tz/tanzania/dodoma/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tz/tanzania/dodoma/location.json | size=335 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jp/japan/tokyo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jp/japan/tokyo/location.json | size=323 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ag/antigua-and-barbuda/saint-john-s/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ag/antigua-and-barbuda/saint-john-s/location.json | size=373 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kp/north-korea/pyongyang/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kp/north-korea/pyongyang/location.json | size=347 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tf/french-southern-and-antarctic-lands/port-aux-fran-ais/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tf/french-southern-and-antarctic-lands/port-aux-fran-ais/location.json | size=410 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mg/madagascar/antananarivo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mg/madagascar/antananarivo/location.json | size=358 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ni/nicaragua/managua/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ni/nicaragua/managua/location.json | size=344 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ge/georgia/tbilisi/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ge/georgia/tbilisi/location.json | size=331 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bs/the-bahamas/nassau/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bs/the-bahamas/nassau/location.json | size=339 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/na/namibia/windhoek/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/na/namibia/windhoek/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bd/bangladesh/dhaka/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bd/bangladesh/dhaka/location.json | size=333 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cg/republic-of-the-congo/brazzaville/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cg/republic-of-the-congo/brazzaville/location.json | size=375 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gg/guernsey/st-peter-port/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gg/guernsey/st-peter-port/location.json | size=358 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/so/somalia/mogadishu/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/so/somalia/mogadishu/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/id/indonesia/jakarta/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/id/indonesia/jakarta/location.json | size=343 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/se/sweden/stockholm/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/se/sweden/stockholm/location.json | size=341 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/re/r-union/saint-denis/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/re/r-union/saint-denis/location.json | size=348 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cy/cyprus/nicosia/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cy/cyprus/nicosia/location.json | size=334 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gi/gibraltar/gibraltar/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gi/gibraltar/gibraltar/location.json | size=346 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gr/greece/athens/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gr/greece/athens/location.json | size=332 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ss/south-sudan/juba/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ss/south-sudan/juba/location.json | size=333 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/zw/zimbabwe/harare/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/zw/zimbabwe/harare/location.json | size=336 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pm/saint-pierre-and-miquelon/saint-pierre/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pm/saint-pierre-and-miquelon/saint-pierre/location.json | size=390 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/wf/wallis-and-futuna/mata-utu/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/wf/wallis-and-futuna/mata-utu/location.json | size=358 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/af/afghanistan/kabul/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/af/afghanistan/kabul/location.json | size=335 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ba/bosnia-and-herzegovina/sarajevo/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ba/bosnia-and-herzegovina/sarajevo/location.json | size=370 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/km/comoros/moroni/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/km/comoros/moroni/location.json | size=334 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gw/guinea-bissau/bissau/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gw/guinea-bissau/bissau/location.json | size=346 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cx/christmas-island/flying-fish-cove/poller.py | size=3925 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cx/christmas-island/flying-fish-cove/location.json | size=395 | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/weather/fetch_us_weather.py | size=21633 | mtime=2026-09-30 00:05:26 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/weather/README.md | size=928 | mtime=2026-09-30 00:05:26 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/since-last-fire/every-hour/fetch-us-weather.py | size=248 | mtime=2026-09-30 00:05:27 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/since-last-fire/every-hour/build-state-news.py | size=203 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/since-last-fire/every-10-minutes/global-news.py | size=225 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/since-last-fire/every-10-minutes/all-states-news.py | size=528 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/since-last-fire/every-10-minutes/README.md | size=488 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/since-last-fire/every-5-minutes/global-news.py | size=181 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/05:00/connecticut-news.py | size=180 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/05:00/colorado-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/05:00/delaware-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/05:00/california-news.py | size=179 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/45:00/rhode-island-news.py | size=181 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/45:00/south-carolina-news.py | size=183 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/45:00/oregon-news.py | size=175 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/45:00/pennsylvania-news.py | size=181 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/20:00/kentucky-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/20:00/maine-news.py | size=174 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/20:00/maryland-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/20:00/louisiana-news.py | size=178 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/25:00/mississippi-news.py | size=180 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/25:00/massachusetts-news.py | size=182 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/25:00/minnesota-news.py | size=178 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/25:00/michigan-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/15:00/iowa-news.py | size=173 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/15:00/illinois-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/15:00/indiana-news.py | size=176 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/15:00/kansas-news.py | size=175 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/40:00/north-dakota-news.py | size=181 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/40:00/north-carolina-news.py | size=183 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/40:00/oklahoma-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/40:00/ohio-news.py | size=173 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/10:00/georgia-news.py | size=176 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/10:00/idaho-news.py | size=174 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/10:00/florida-news.py | size=176 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/35:00/new-jersey-news.py | size=179 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/35:00/new-hampshire-news.py | size=182 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/35:00/new-york-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/35:00/new-mexico-news.py | size=179 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/30:00/montana-news.py | size=176 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/30:00/missouri-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/30:00/nevada-news.py | size=175 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/30:00/nebraska-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/00:00/arizona-news.py | size=176 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/00:00/arkansas-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/00:00/alabama-news.py | size=176 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/00:00/alaska-news.py | size=175 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/50:00/utah-news.py | size=173 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/50:00/texas-news.py | size=174 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/50:00/vermont-news.py | size=176 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/50:00/south-dakota-news.py | size=181 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/50:00/tennessee-news.py | size=178 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/55:00/wisconsin-news.py | size=178 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/55:00/west-virginia-news.py | size=182 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/55:00/virginia-news.py | size=177 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/55:00/wyoming-news.py | size=176 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/55:00/washington-news.py | size=179 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/tennessee/news.py | size=668 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/illinois/news.py | size=668 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/new-jersey/news.py | size=670 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/kentucky/news.py | size=668 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/louisiana/news.py | size=668 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/florida/news.py | size=669 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/south-carolina/news.py | size=674 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/missouri/news.py | size=666 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/new-hampshire/news.py | size=676 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/build_state_news.py | size=7169 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/maryland/news.py | size=672 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/virginia/news.py | size=672 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/nevada/news.py | size=658 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/news_tree.txt | size=9404 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/state_event_sources.json | size=365 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/oregon/news.py | size=666 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/north-carolina/news.py | size=678 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/indiana/news.py | size=664 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/wisconsin/news.py | size=675 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/idaho/news.py | size=659 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/washington/news.py | size=666 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/build_global_news.py | size=8061 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/arkansas/news.py | size=672 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/california/news.py | size=670 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/south-dakota/news.py | size=670 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/ohio/news.py | size=656 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/state_portals.json | size=1719 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/news.txt | size=37915 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/montana/news.py | size=660 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/new-mexico/news.py | size=670 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/alabama/news.py | size=669 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/connecticut/news.py | size=675 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/massachusetts/news.py | size=678 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/wyoming/news.py | size=665 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/arizona/news.py | size=660 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/mississippi/news.py | size=672 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/utah/news.py | size=656 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/oklahoma/news.py | size=668 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/texas/news.py | size=663 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/iowa/news.py | size=656 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/kansas/news.py | size=666 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/delaware/news.py | size=668 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/michigan/news.py | size=672 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/vermont/news.py | size=665 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/maine/news.py | size=663 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/west-virginia/news.py | size=676 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/georgia/news.py | size=665 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/new-york/news.py | size=666 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/rhode-island/news.py | size=670 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/nebraska/news.py | size=668 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/alaska/news.py | size=662 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/colorado/news.py | size=671 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/minnesota/news.py | size=664 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/pennsylvania/news.py | size=674 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/north-dakota/news.py | size=674 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/cloudflare-avaivy.ingress.yml | size=273 | mtime=2026-09-30 00:04:37 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/index.html | size=3937 | mtime=2026-09-30 00:04:33 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/wiki/index.html | size=1524 | mtime=2026-09-30 00:04:37 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/system/index.html | size=1915 | mtime=2026-09-30 00:04:36 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/context/index.html | size=3786 | mtime=2026-09-30 00:04:34 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/directory/directory.css | size=6164 | mtime=2026-09-30 00:04:33 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/directory/index.html | size=3864 | mtime=2026-09-30 00:04:34 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/uptime/index.html | size=2109 | mtime=2026-09-30 00:04:36 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/status/index.html | size=1873 | mtime=2026-09-30 00:04:35 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/css/dashboard.css | size=4916 | mtime=2026-09-30 00:04:30 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/css/earthquakes.css | size=1741 | mtime=2026-09-30 00:04:30 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/css/context.css | size=1696 | mtime=2026-09-30 00:04:29 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/css/news.css | size=3179 | mtime=2026-09-30 00:04:31 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/css/geography.css | size=1547 | mtime=2026-09-30 00:04:30 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/css/site.css | size=2926 | mtime=2026-09-30 00:04:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/css/weather.css | size=3603 | mtime=2026-09-30 00:04:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/css/home.css | size=2782 | mtime=2026-09-30 00:04:31 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/energy/index.html | size=1872 | mtime=2026-09-30 00:04:35 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/cloudflare/cloudflare_tree.txt | size=634 | mtime=2026-09-30 00:04:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/cloudflare/avaivy.cloud/README.txt | size=325 | mtime=2026-09-30 00:04:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/cloudflare/avaivy.cloud/token-run.yml | size=223 | mtime=2026-09-30 00:04:40 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/cloudflare/avaivy.cloud/deploy-dns.sh | size=399 | mtime=2026-09-30 00:04:40 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/cloudflare/avaivy.cloud/config.yml | size=392 | mtime=2026-09-30 00:04:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/cloudflare/config.yml | size=872 | mtime=2026-09-30 00:04:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/cloudflare-config.yml | size=1030 | mtime=2026-09-30 00:04:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/image (1).jpg | size=461324 | mtime=2026-09-30 00:04:47 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/image (8).jpg | size=353284 | mtime=2026-09-30 00:04:52 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/thumb-rootmc-villagers-love.jpg | size=492429 | mtime=2026-09-30 00:05:10 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/cities skylines2.jpg | size=583598 | mtime=2026-09-30 00:04:43 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/yes.jpg | size=300860 | mtime=2026-09-30 00:05:11 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/image (6).jpg | size=300860 | mtime=2026-09-30 00:04:50 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/thumb-dev-update-ops-desk.jpg | size=166577 | mtime=2026-09-30 00:05:00 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/thumb-dev-update-live-ops-v2.jpg | size=224787 | mtime=2026-09-30 00:04:58 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/thumb-rootmc-blockfort-lmao.jpg | size=493925 | mtime=2026-09-30 00:05:08 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/.gitignore | size=72 | mtime=2026-09-30 00:06:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/kilaueaold | size=433943 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/thumb-main-hey-celestial.jpg | size=174867 | mtime=2026-09-30 00:05:01 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/thumb-main-hey.jpg | size=352380 | mtime=2026-09-30 00:05:03 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/cities skylines.jpg | size=517484 | mtime=2026-09-30 00:04:42 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/image (7).jpg | size=350269 | mtime=2026-09-30 00:04:51 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/grok-image-64f80084-dd1a-408c-9677-ea2988568ef0.jpg | size=431632 | mtime=2026-09-30 00:04:45 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/image.jpg | size=446873 | mtime=2026-09-30 00:04:53 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/goalsreportslive.jpg | size=661812 | mtime=2026-09-30 00:04:44 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/thumb-dev-update-live-ops.jpg | size=461886 | mtime=2026-09-30 00:04:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/grok-image-fc0fbc50-a4ae-44f3-80b9-959e4db1f592.jpg | size=433231 | mtime=2026-09-30 00:04:46 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/lala2 | size=412911 | mtime=2026-09-30 00:04:57 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/thumb-main-hologram-wave.jpg | size=152781 | mtime=2026-09-30 00:05:04 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/thumb-rootmc-live.jpg | size=428858 | mtime=2026-09-30 00:05:09 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/image (2).jpg | size=461324 | mtime=2026-09-30 00:04:49 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails/lala1 | size=554925 | mtime=2026-09-30 00:04:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db | size=315392 | mtime=2026-09-30 00:07:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db | size=471040 | mtime=2026-09-30 00:07:52 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db | size=23179264 | mtime=2026-09-30 00:07:52 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db | size=143360 | mtime=2026-09-30 00:07:52 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/Pantry/.gitkeep | size=0 | mtime=2026-09-30 00:05:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/Companions/.gitkeep | size=0 | mtime=2026-09-30 00:05:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/ProductPrices/.gitkeep | size=0 | mtime=2026-09-30 00:05:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/FinanceDesk/.gitkeep | size=0 | mtime=2026-09-30 00:05:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/Look/.gitkeep | size=0 | mtime=2026-09-30 00:05:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/Site/routes-last.json | size=138 | mtime=2026-09-30 00:05:52 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json | size=74 | mtime=2026-09-30 00:07:52 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json | size=186 | mtime=2026-09-30 00:07:52 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/.gitignore | size=4372 | mtime=2026-09-30 00:06:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/US-States/us-last.json | size=378 | mtime=2026-09-30 00:04:29 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/US-States/weather.db | size=45056 | mtime=2026-09-30 00:04:29 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif | size=4252967 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md | size=1161 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/wa0_airmets_current.md | size=1002 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_rra_direct_current.md | size=16953 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/oso_hourly_obs_current.md | size=14544 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_OGG_current.md | size=3123 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_HNL_current.md | size=3072 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/afd_area_forecast_discussion_current.md | size=6033 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/surfreports_statewide_observations_current.md | size=3030 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_7day_current.md | size=1168 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_7day_current.md | size=1168 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_surf_reports_direct_current.md | size=3071 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_LIH_current.md | size=3211 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/Hawaii_State_Weather_Report_current.md | size=86459 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_2day_current.md | size=1168 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_tib_reference_current.md | size=12991 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/off_offshore_forecast_current.md | size=2425 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_2day_current.md | size=1168 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_ITO_current.md | size=3236 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_homepage_current.md | size=9316 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_2day_current.md | size=1161 | mtime=2026-09-30 00:11:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_7day_current.md | size=1491 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_7day_current.md | size=1498 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_7day_current.md | size=1498 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_2day_current.md | size=1498 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_2day_current.md | size=1498 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_homepage_current.md | size=9640 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_2day_current.md | size=1491 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/wa0_airmets_current.md | size=1329 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_rra_direct_current.md | size=17283 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/oso_hourly_obs_current.md | size=14874 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_OGG_current.md | size=3468 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_HNL_current.md | size=3417 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/afd_area_forecast_discussion_current.md | size=6377 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/surfreports_statewide_observations_current.md | size=3380 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_surf_reports_direct_current.md | size=3410 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_LIH_current.md | size=3556 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_tib_reference_current.md | size=13324 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/off_offshore_forecast_current.md | size=2762 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_ITO_current.md | size=3581 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_7day_current.md | size=1434 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_7day_current.md | size=1441 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_7day_current.md | size=1441 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_2day_current.md | size=1441 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/hfo_tib_reference_current.md | size=13263 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_2day_current.md | size=1441 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_2day_current.md | size=1434 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/wa0_airmets_current.md | size=1271 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/hfo_rra_direct_current.md | size=17229 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/oso_hourly_obs_current.md | size=14816 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/afd_area_forecast_discussion_current.md | size=6319 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/surfreports_statewide_observations_current.md | size=3322 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/hfo_surf_reports_direct_current.md | size=3331 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/off_offshore_forecast_current.md | size=2704 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/cli_daily_climate_summary_ITO_current.md | size=3527 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/wa0_airmets_current.md | size=1269 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/hfo_rra_direct_current.md | size=17227 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/oso_hourly_obs_current.md | size=14814 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/afd_area_forecast_discussion_current.md | size=6317 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/surfreports_statewide_observations_current.md | size=3320 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/hfo_surf_reports_direct_current.md | size=3329 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/off_offshore_forecast_current.md | size=2702 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/wa0_airmets_current.md | size=1267 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/hfo_rra_direct_current.md | size=17225 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/oso_hourly_obs_current.md | size=14812 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/cli_daily_climate_summary_OGG_current.md | size=3410 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/afd_area_forecast_discussion_current.md | size=6315 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/surfreports_statewide_observations_current.md | size=3318 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/hfo_surf_reports_direct_current.md | size=3327 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/off_offshore_forecast_current.md | size=2700 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii_County_Weather_Report_current.md | size=49672 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/wa0_airmets_current.md | size=1273 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/oso_hourly_obs_current.md | size=14818 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/afd_area_forecast_discussion_current.md | size=6321 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/surfreports_statewide_observations_current.md | size=3324 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/off_offshore_forecast_current.md | size=2706 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai_County_Weather_Report_current.md | size=46559 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu_County_Weather_Report_current.md | size=67885 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui_County_Weather_Report_current.md | size=49555 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao_County_Weather_Report_current.md | size=26835 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/wa0_airmets_current.md | size=1275 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/hfo_rra_direct_current.md | size=17233 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/oso_hourly_obs_current.md | size=14820 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_OGG_current.md | size=3418 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_HNL_current.md | size=3367 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/afd_area_forecast_discussion_current.md | size=6323 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/surfreports_statewide_observations_current.md | size=3326 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/hfo_surf_reports_direct_current.md | size=3335 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_LIH_current.md | size=3506 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/off_offshore_forecast_current.md | size=2708 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_ITO_current.md | size=3531 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/nhc_homepage_current.md | size=9594 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/02_current.gif | size=89354 | mtime=2026-09-30 00:06:42 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/08_current.gif | size=93308 | mtime=2026-09-30 00:06:54 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/07/07_current.gif | size=89575 | mtime=2026-09-30 00:06:52 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/04/04_current.gif | size=92451 | mtime=2026-09-30 00:06:46 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/01_current.gif | size=92882 | mtime=2026-09-30 00:06:40 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/06/06_current.gif | size=101617 | mtime=2026-09-30 00:06:50 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/03_current.gif | size=93436 | mtime=2026-09-30 00:06:44 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/00_current.gif | size=95907 | mtime=2026-09-30 00:06:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif | size=93535 | mtime=2026-09-30 00:06:56 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif | size=93399 | mtime=2026-09-30 00:06:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif | size=92373 | mtime=2026-09-30 00:06:48 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/RWR/raw/RWR_raw_current.html | size=120195 | mtime=2026-09-30 00:07:09 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/HRS_archive/raw/HRS_archive_raw_current.html | size=59394 | mtime=2026-09-30 00:07:11 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/aviation/raw/aviation_raw_current.html | size=67622 | mtime=2026-09-30 00:04:08 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/RR5_archive/raw/RR5_archive_raw_current.html | size=59379 | mtime=2026-09-30 00:07:15 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/MFM/raw/MFM_raw_current.html | size=148618 | mtime=2026-09-30 00:04:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/surfreports_raw_current.html | size=65492 | mtime=2026-09-30 00:12:29 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/archive/09-30-2026/surfreports_raw_20260930T001229-1000.html | size=65492 | mtime=2026-09-30 00:04:42 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html | size=65492 | mtime=2026-09-30 00:12:29 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/archive/09-30-2026/surfreports_20260930T000510-1000.html | size=65492 | mtime=2026-09-30 00:05:10 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/rain_summary/rain_summary_current.txt | size=68285 | mtime=2026-09-30 00:07:13 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/rain_summary/raw/rain_summary_raw_current.html | size=68285 | mtime=2026-09-30 00:07:13 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/SRF/raw/SRF_raw_current.html | size=68142 | mtime=2026-09-30 00:04:40 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/index_current.html | size=167809 | mtime=2026-09-30 00:11:11 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/raw/index_raw_current.html | size=167809 | mtime=2026-09-30 00:11:11 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/08/GOES18-HI-08-600x600/GOES18-HI-08-600x600_current.gif | size=7000461 | mtime=2026-09-30 00:06:22 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/07/GOES18-HI-07-600x600/GOES18-HI-07-600x600_current.gif | size=5825176 | mtime=2026-09-30 00:06:07 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/AirMass/GOES18-HI-AirMass-600x600/GOES18-HI-AirMass-600x600_current.gif | size=6259203 | mtime=2026-09-30 00:05:07 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json | size=73428 | mtime=2026-09-30 00:12:11 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json | size=204 | mtime=2026-09-30 00:12:10 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/archive/09-30-2026/area=HI_20260930T000238-1000.json | size=204 | mtime=2026-09-30 00:02:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json | size=2 | mtime=2026-09-30 00:12:11 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/rtp_temp_precip_summary/raw/rtp_temp_precip_summary_raw_current.html | size=19324 | mtime=2026-09-30 00:07:08 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_HNL/raw/clm_monthly_climate_summary_HNL_raw_current.html | size=24195 | mtime=2026-09-30 00:05:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_ITO/raw/cli_daily_climate_summary_ITO_raw_current.html | size=28118 | mtime=2026-09-30 00:04:53 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_LIH/raw/clm_monthly_climate_summary_LIH_raw_current.html | size=24159 | mtime=2026-09-30 00:05:53 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/rra_hawaii_rainfall_summary/raw/rra_hawaii_rainfall_summary_raw_current.html | size=41832 | mtime=2026-09-30 00:06:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/oso_hourly_obs/oso_hourly_obs_current.txt | size=14148 | mtime=2026-09-30 00:06:53 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/oso_hourly_obs/raw/oso_hourly_obs_raw_current.html | size=39410 | mtime=2026-09-30 00:06:53 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_ITO/raw/clm_monthly_climate_summary_ITO_raw_current.html | size=24103 | mtime=2026-09-30 00:06:23 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_OGG/raw/clm_monthly_climate_summary_OGG_raw_current.html | size=24204 | mtime=2026-09-30 00:06:08 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/README.md | size=90083 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=819 | mtime=2026-09-30 00:07:52 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=162 | mtime=2026-09-30 00:07:52 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=85 | mtime=2026-09-30 00:07:52 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=113 | mtime=2026-09-30 00:07:52 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=237568 | mtime=2026-09-30 00:07:52 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2450 | mtime=2026-09-30 00:07:53 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=292900 | mtime=2026-09-30 00:13:23 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/README.md | size=564 | mtime=2026-09-30 00:07:30 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/.gitignore | size=173 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/package-lock.json | size=31894 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/media/banner.jpg | size=176992 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/next-env.d.ts | size=262 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/scripts/auto-push.py | size=2183 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/AGENTS.md | size=732 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.gitignore | size=67 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/package.json | size=446 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/.gitkeep | size=0 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/lib/desk-api.ts | size=1686 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/lib/resize-goal-image.ts | size=2379 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/lib/blogPosts.ts | size=658781 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/lib/goals-api.ts | size=3735 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/SiteChrome.tsx | size=1754 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/BlogIndex.tsx | size=5678 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/DataCard.module.css | size=672 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/AuthBar.tsx | size=5486 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/StatTile.tsx | size=670 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/DataCard.tsx | size=1086 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/goals/MonetaryGoalArticle.tsx | size=2972 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/goals/DonatePanel.tsx | size=2806 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/GuestChat.tsx | size=3111 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/DashboardClient.tsx | size=5027 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/GuestChat.module.css | size=1620 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/StatTile.module.css | size=493 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/AuthBar.module.css | size=1605 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/timeline/page.tsx | size=1341 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/blog/[slug]/page.tsx | size=3010 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/blog/blog.module.css | size=3071 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/blog/page.tsx | size=1250 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/page.module.css | size=1835 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/dev/page.tsx | size=4425 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/globals.css | size=1668 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/login/page.tsx | size=3227 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/reports/page.tsx | size=3454 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/goals/goals.module.css | size=5879 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/goals/[id]/page.tsx | size=3416 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/goals/layout.tsx | size=754 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/goals/page.tsx | size=758 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/goals/new/page.tsx | size=7538 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/layout.tsx | size=1173 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/status/page.tsx | size=1408 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/page.tsx | size=647 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/api/auth/session/route.ts | size=1402 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/api/chat/route.ts | size=1063 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/api/[...path]/route.ts | size=2437 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/next.config.ts | size=275 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/vercel.json | size=24 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/README.md | size=941 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/tsconfig.json | size=670 | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/README.md | size=6731 | mtime=2026-09-30 00:06:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/jobs.py | size=31172 | mtime=2026-09-30 00:04:07 | domain=Automations | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/Pantry/pantry.py | size=7989 | mtime=2026-09-30 00:05:42 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/Companions/NOT-RUNNING.md | size=249 | mtime=2026-09-30 00:05:50 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/ProductPrices/product_prices.py | size=28852 | mtime=2026-09-30 00:05:44 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/FinanceDesk/NOT-RUNNING.md | size=306 | mtime=2026-09-30 00:05:52 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/Look/NOT-RUNNING.md | size=275 | mtime=2026-09-30 00:05:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/README.md | size=1263 | mtime=2026-09-30 00:05:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/SunriseRestore/scripts/sunrise_restore.py | size=3804 | mtime=2026-09-30 00:04:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/SunriseRestore/proposed-job-block.txt | size=763 | mtime=2026-09-30 00:03:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Playback/README.md | size=894 | mtime=2026-09-30 00:08:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/README.md | size=5093 | mtime=2026-09-30 00:08:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/website/README.md | size=2218 | mtime=2026-09-30 00:10:03 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Site/scripts/site_check.py | size=5447 | mtime=2026-09-30 00:05:43 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Site/README.md | size=1186 | mtime=2026-09-30 00:04:10 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/package-lock.json | size=1367 | mtime=2026-09-30 00:04:58 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/dist/envload.js | size=969 | mtime=2026-09-30 00:07:43 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/dist/publicPaths.js | size=2366 | mtime=2026-09-30 00:07:43 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/dist/proxy.js | size=1765 | mtime=2026-09-30 00:07:43 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/dist/worker.js | size=1546 | mtime=2026-09-30 00:07:43 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/dist/check.js | size=1994 | mtime=2026-09-30 00:07:43 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/package.json | size=403 | mtime=2026-09-30 00:04:45 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/tsconfig.check.json | size=266 | mtime=2026-09-30 00:04:43 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/src/check.ts | size=2039 | mtime=2026-09-30 00:04:40 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/src/worker.ts | size=1669 | mtime=2026-09-30 00:04:40 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/config/wrangler.toml | size=531 | mtime=2026-09-30 00:07:06 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/.gitignore | size=55 | mtime=2026-09-30 00:04:41 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/README.md | size=3214 | mtime=2026-09-30 00:09:47 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Github/repositories/README.md | size=337 | mtime=2026-09-30 00:06:27 | domain=Github | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/reports/README.md | size=89891 | mtime=2026-09-30 00:11:39 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/News/README.md | size=6944 | mtime=2026-09-30 00:07:03 | domain=Reports | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/README.md | size=3841 | mtime=2026-09-30 00:06:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/README.md | size=2360 | mtime=2026-09-30 00:07:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gnome-shell/application_state | size=1953 | mtime=2026-09-30 00:12:10 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gvfs-metadata/root | size=64 | mtime=2026-09-30 00:11:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/org.gnome.TextEditor/session.gvariant | size=2174 | mtime=2026-09-30 00:12:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/org.gnome.TextEditor/recently-used.xbel | size=10999 | mtime=2026-09-30 00:12:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/recently-used.xbel | size=146364 | mtime=2026-09-30 00:12:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:23 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:12:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:04:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:23 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:05:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:10 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:23 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:08:00 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:12:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:23 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:05:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:10 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:06:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:12:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:06:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/index.sqlite-wal | size=4099432 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:23 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:09:07 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:06:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:10 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/index.sqlite-wal | size=626272 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/index.sqlite | size=4096 | mtime=2026-09-30 00:08:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/mount.json | size=111 | mtime=2026-09-30 00:08:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:12:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:11:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:12:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:06:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:12:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:05:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/sync.lock | size=148 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:12:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:12:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:12:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock | size=148 | mtime=2026-09-30 00:13:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:12:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:10 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/index.sqlite-wal | size=3320752 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:07:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:10:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite | size=36864 | mtime=2026-09-30 00:06:42 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/index.sqlite-wal | size=3543232 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/sync.lock | size=152 | mtime=2026-09-30 00:13:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:13:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/wireplumber/stream-properties | size=730 | mtime=2026-09-30 00:13:16 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud | mtime=2026-09-30 00:04:37 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/wiki | mtime=2026-09-30 00:04:37 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/system | mtime=2026-09-30 00:04:36 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/context | mtime=2026-09-30 00:04:34 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/directory | mtime=2026-09-30 00:04:34 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/uptime | mtime=2026-09-30 00:04:36 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/status | mtime=2026-09-30 00:04:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/css | mtime=2026-09-30 00:04:32 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/energy | mtime=2026-09-30 00:04:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old/ecosystem-history/scripts/windows | mtime=2026-09-30 00:04:20 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old/ecosystem-history/references/windows-ava-core | mtime=2026-09-30 00:04:20 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old/origin | mtime=2026-09-30 00:06:13 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old/origin/ns | mtime=2026-09-30 00:06:13 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old/origin/ns/apps | mtime=2026-09-30 00:06:13 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old/origin/ns/apps/core | mtime=2026-09-30 00:06:13 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old/origin/ns/apps/core/crons | mtime=2026-09-30 00:06:13 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old/origin/ns/apps/core/crons/since_last_fire | mtime=2026-09-30 00:06:13 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old | mtime=2026-09-30 00:05:25 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations | mtime=2026-09-30 00:07:29 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/it | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/it/italy | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/it/italy/rome | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pr | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pr/puerto-rico | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pr/puerto-rico/san-juan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pn/pitcairn-islands | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pn/pitcairn-islands/adamstown | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/do | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/do/dominican-republic | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/do/dominican-republic/santo-domingo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/aw | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/aw/aruba | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/aw/aruba/oranjestad | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/et | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/et/ethiopia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/et/ethiopia/addis-ababa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dz | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dz/algeria | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dz/algeria/algiers | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ne | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ne/niger | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ne/niger/niamey | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mc | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mc/monaco | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mc/monaco/monaco | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cd | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cd/democratic-republic-of-the-congo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cd/democratic-republic-of-the-congo/kinshasa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ve | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ve/venezuela | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ve/venezuela/caracas | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cf | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cf/central-african-republic | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cf/central-african-republic/bangui | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/my | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/my/malaysia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/my/malaysia/kuala-lumpur | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mr | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mr/mauritania | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mr/mauritania/nouakchott | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cr | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cr/costa-rica | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cr/costa-rica/san-jos | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sa/saudi-arabia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sa/saudi-arabia/riyadh | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mw | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mw/malawi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mw/malawi/lilongwe | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/md | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/md/moldova | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/md/moldova/chi-in-u | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lv | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lv/latvia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lv/latvia/riga | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nu/niue | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nu/niue/alofi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bw | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bw/botswana | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bw/botswana/gaborone | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/th | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/th/thailand | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/th/thailand/bangkok | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/la | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/la/laos | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/la/laos/vientiane | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bj | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bj/benin | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bj/benin/porto-novo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tm | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tm/turkmenistan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tm/turkmenistan/ashgabat | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/uy | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/uy/uruguay | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/uy/uruguay/montevideo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gl | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gl/greenland | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gl/greenland/nuuk | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kz | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kz/kazakhstan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kz/kazakhstan/astana | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nf | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nf/norfolk-island | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nf/norfolk-island/kingston | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lc | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lc/saint-lucia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lc/saint-lucia/castries | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/az | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/az/azerbaijan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/az/azerbaijan/baku | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kg/kyrgyzstan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kg/kyrgyzstan/bishkek | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ug | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ug/uganda | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ug/uganda/kampala | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lu/luxembourg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lu/luxembourg/luxembourg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bn/brunei | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bn/brunei/bandar-seri-begawan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gn/guinea | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gn/guinea/conakry | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tr | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tr/turkey | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tr/turkey/ankara | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gp | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gp/guadeloupe | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gp/guadeloupe/basse-terre | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/al | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/al/albania | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/al/albania/tirana | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pe | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pe/peru | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pe/peru/lima | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/np | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/np/nepal | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/np/nepal/kathmandu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tj | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tj/tajikistan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tj/tajikistan/dushanbe | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vu/vanuatu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vu/vanuatu/port-vila | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ky | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ky/cayman-islands | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ky/cayman-islands/george-town | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kn/saint-kitts-and-nevis | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kn/saint-kitts-and-nevis/basseterre | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ls | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ls/lesotho | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ls/lesotho/maseru | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gm | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gm/the-gambia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gm/the-gambia/banjul | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ms | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ms/montserrat | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ms/montserrat/plymouth | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/au | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/au/australia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/au/australia/canberra | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/eg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/eg/egypt | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/eg/egypt/cairo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pw | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pw/palau | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pw/palau/ngerulmud | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cz | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cz/czech-republic | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cz/czech-republic/prague | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tn/tunisia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tn/tunisia/tunis | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/am | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/am/armenia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/am/armenia/yerevan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/br | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/br/brazil | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/br/brazil/bras-lia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jm | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jm/jamaica | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jm/jamaica/kingston | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ci | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ci/ivory-coast | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ci/ivory-coast/yamoussoukro | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/td | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/td/chad | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/td/chad/n-djamena | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fi/finland | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fi/finland/helsinki | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tk | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tk/tokelau | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tk/tokelau/fakaofo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mt | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mt/malta | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mt/malta/valletta | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nl | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nl/netherlands | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nl/netherlands/amsterdam | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sr | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sr/suriname | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sr/suriname/paramaribo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ma | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ma/morocco | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ma/morocco/rabat | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/rw | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/rw/rwanda | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/rw/rwanda/kigali | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fk | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fk/falkland-islands | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fk/falkland-islands/stanley | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hu/hungary | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hu/hungary/budapest | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sy | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sy/syria | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sy/syria/damascus | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bh | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bh/bahrain | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bh/bahrain/manama | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/es | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/es/spain | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/es/spain/madrid | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/er | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/er/eritrea | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/er/eritrea/asmara | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sk | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sk/slovakia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sk/slovakia/bratislava | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lt | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lt/lithuania | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lt/lithuania/vilnius | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dm | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dm/dominica | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dm/dominica/roseau | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ki | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ki/kiribati | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ki/kiribati/south-tarawa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/qa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/qa/qatar | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/qa/qatar/doha | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/in | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/in/india | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/in/india/new-delhi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gf | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gf/french-guiana | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gf/french-guiana/cayenne | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/li | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/li/liechtenstein | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/li/liechtenstein/vaduz | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sc | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sc/seychelles | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sc/seychelles/victoria | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ae | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ae/united-arab-emirates | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ae/united-arab-emirates/abu-dhabi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cn/china | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cn/china/beijing | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ml | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ml/mali | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ml/mali/bamako | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ng | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ng/nigeria | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ng/nigeria/abuja | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/rs | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/rs/serbia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/rs/serbia/belgrade | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mq | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mq/martinique | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mq/martinique/fort-de-france | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mz | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mz/mozambique | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mz/mozambique/maputo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pt | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pt/portugal | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pt/portugal/lisbon | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fo/faroe-islands | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fo/faroe-islands/t-rshavn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hn/honduras | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hn/honduras/tegucigalpa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mh | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mh/marshall-islands | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mh/marshall-islands/majuro | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pl | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pl/poland | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pl/poland/warsaw | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nc | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nc/new-caledonia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nc/new-caledonia/noum-a | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/eh | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/eh/western-sahara | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/eh/western-sahara/el-aai-n | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sg/singapore | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sg/singapore/singapore | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/de | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/de/germany | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/de/germany/berlin | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sz | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sz/swaziland | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sz/swaziland/lobamba | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mk | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mk/republic-of-macedonia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mk/republic-of-macedonia/skopje | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cm | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cm/cameroon | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cm/cameroon/yaound | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sn/senegal | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sn/senegal/dakar | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tl | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tl/east-timor | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tl/east-timor/dili | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bg/bulgaria | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bg/bulgaria/sofia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lb | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lb/lebanon | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lb/lebanon/beirut | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ca | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ca/canada | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ca/canada/ottawa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hr | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hr/croatia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hr/croatia/zagreb | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mu/mauritius | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mu/mauritius/port-louis | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/as | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/as/american-samoa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/as/american-samoa/pago-pago | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ht | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ht/haiti | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ht/haiti/port-au-prince | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ai | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ai/anguilla | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ai/anguilla/the-valley | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tv | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tv/tuvalu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tv/tuvalu/funafuti | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ar | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ar/argentina | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ar/argentina/buenos-aires | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/tennessee | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/tennessee/nashville | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/illinois | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/illinois/springfield | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-jersey | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-jersey/trenton | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/kentucky | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/kentucky/frankfort | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/louisiana | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/louisiana/baton-rouge | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/florida | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/florida/tallahassee | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/south-carolina | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/south-carolina/columbia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kihei | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/haleiwa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/lihue | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kahului | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/waimea | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/poipu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kalaupapa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/lanai-city | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kapolei | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kailua | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/princeville | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kaunakakai | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/hoolehua | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/maunaloa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kailua-kona | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/makawao | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/hanalei | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/mountain-view | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/lahaina | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/pahoa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/volcano-village | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/hilo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/waianae | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/waikiki | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kaneohe | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kualapuu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/kaanapali | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/hawaii/honolulu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/missouri | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/missouri/jefferson-city | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-hampshire | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-hampshire/concord | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/maryland | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/maryland/annapolis | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/virginia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/virginia/richmond | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/nevada | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/nevada/carson-city | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/oregon | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/oregon/salem | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/north-carolina | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/north-carolina/raleigh | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/indiana | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/indiana/indianapolis | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/wisconsin | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/wisconsin/madison | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/idaho | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/idaho/boise | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/washington | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/washington/olympia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/arkansas | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/arkansas/little-rock | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/california | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/california/sacramento | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/south-dakota | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/south-dakota/pierre | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/ohio | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/ohio/columbus | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/montana | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/montana/helena | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-mexico | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-mexico/santa-fe | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/alabama | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/alabama/montgomery | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/connecticut | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/connecticut/hartford | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/massachusetts | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/massachusetts/boston | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/wyoming | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/wyoming/cheyenne | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/arizona | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/arizona/phoenix | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/mississippi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/mississippi/jackson | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/utah | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/utah/salt-lake-city | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/oklahoma | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/oklahoma/oklahoma-city | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/texas | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/texas/austin | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/iowa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/iowa/des-moines | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/kansas | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/kansas/topeka | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/delaware | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/delaware/dover | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/michigan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/michigan/lansing | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/vermont | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/vermont/montpelier | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/maine | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/maine/augusta | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/west-virginia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/west-virginia/charleston | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/georgia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/georgia/atlanta | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-york | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/new-york/albany | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/rhode-island | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/rhode-island/providence | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/nebraska | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/nebraska/lincoln | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/alaska | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/alaska/juneau | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/colorado | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/colorado/denver | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/minnesota | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/minnesota/saint-paul | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/pennsylvania | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/pennsylvania/harrisburg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/north-dakota | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/us/north-dakota/bismarck | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mp | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mp/northern-mariana-islands | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mp/northern-mariana-islands/saipan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/co | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/co/colombia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/co/colombia/bogot | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bi/burundi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bi/burundi/bujumbura | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/il | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/il/israel | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/il/israel/jerusalem | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sb | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sb/solomon-islands | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sb/solomon-islands/honiara | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pg/papua-new-guinea | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pg/papua-new-guinea/port-moresby | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cu/cuba | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cu/cuba/havana | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nz | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nz/new-zealand | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nz/new-zealand/wellington | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gu/guam | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gu/guam/hag-t-a | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ir | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ir/iran | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ir/iran/tehran | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pk | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pk/pakistan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pk/pakistan/islamabad | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ru | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ru/russia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ru/russia/moscow | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cv | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cv/cape-verde | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cv/cape-verde/praia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gy | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gy/guyana | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gy/guyana/georgetown | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/is | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/is/iceland | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/is/iceland/reykjavik | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ua | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ua/ukraine | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ua/ukraine/kiev | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cl | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cl/chile | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cl/chile/santiago | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sh | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sh/saint-helena | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sh/saint-helena/jamestown | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ch | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ch/switzerland | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ch/switzerland/bern | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ao | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ao/angola | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ao/angola/luanda | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gq | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gq/equatorial-guinea | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gq/equatorial-guinea/malabo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bo/bolivia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bo/bolivia/sucre | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gh | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gh/ghana | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gh/ghana/accra | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bf | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bf/burkina-faso | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bf/burkina-faso/ouagadougou | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mv | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mv/maldives | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mv/maldives/mal | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ws | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ws/samoa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ws/samoa/apia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/yt | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/yt/mayotte | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/yt/mayotte/mamoudzou | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ro | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ro/romania | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ro/romania/bucharest | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/uz | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/uz/uzbekistan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/uz/uzbekistan/tashkent | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sd | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sd/sudan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sd/sudan/khartoum | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pa/panama | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pa/panama/panama-city | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kw | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kw/kuwait | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kw/kuwait/kuwait-city | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/no | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/no/norway | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/no/norway/oslo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vn/vietnam | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vn/vietnam/hanoi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ke | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ke/kenya | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ke/kenya/nairobi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ck | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ck/cook-islands | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ck/cook-islands/avarua | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/st | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/st/s-o-tom-and-pr-ncipe | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/st/s-o-tom-and-pr-ncipe/s-o-tom | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bz | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bz/belize | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bz/belize/belmopan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/si | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/si/slovenia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/si/slovenia/ljubljana | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/py | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/py/paraguay | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/py/paraguay/asunci-n | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ga | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ga/gabon | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ga/gabon/libreville | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tt | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tt/trinidad-and-tobago | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tt/trinidad-and-tobago/port-of-spain | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lr | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lr/liberia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lr/liberia/monrovia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nr | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nr/nauru | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/nr/nauru/yaren | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bb | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bb/barbados | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bb/barbados/bridgetown | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/by | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/by/belarus | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/by/belarus/minsk | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mx | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mx/mexico | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mx/mexico/mexico-city | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gt | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gt/guatemala | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gt/guatemala/guatemala-city | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sv | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sv/el-salvador | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sv/el-salvador/san-salvador | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/je | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/je/jersey | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/je/jersey/saint-helier | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/be | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/be/belgium | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/be/belgium/brussels | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ye | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ye/yemen | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ye/yemen/sana-a | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fj | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fj/fiji | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fj/fiji/suva | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gd | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gd/grenada | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gd/grenada/st-george-s | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dj | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dj/djibouti | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dj/djibouti/djibouti | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ie | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ie/ireland | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ie/ireland/dublin | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ee | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ee/estonia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ee/estonia/tallinn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bt | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bt/bhutan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bt/bhutan/thimphu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sj | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sj/svalbard-and-jan-mayen | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sj/svalbard-and-jan-mayen/longyearbyen | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/om | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/om/oman | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/om/oman/muscat | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hk | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hk/hong-kong | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/hk/hong-kong/city-of-victoria | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jo/jordan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jo/jordan/amman | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sl | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sl/sierra-leone | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sl/sierra-leone/freetown | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/im | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/im/isle-of-man | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/im/isle-of-man/douglas | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mn | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mn/mongolia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mn/mongolia/ulan-bator | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sm | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sm/san-marino | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/sm/san-marino/city-of-san-marino | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/za | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/za/south-africa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/za/south-africa/pretoria | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fr | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fr/france | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fr/france/paris | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kr | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kr/south-korea | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kr/south-korea/seoul | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ph | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ph/philippines | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ph/philippines/manila | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gs | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gs/south-georgia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gs/south-georgia/king-edward-point | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/at | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/at/austria | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/at/austria/vienna | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bm | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bm/bermuda | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bm/bermuda/hamilton | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tw | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tw/taiwan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tw/taiwan/taipei | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fm | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fm/federated-states-of-micronesia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/fm/federated-states-of-micronesia/palikir | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/to | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/to/tonga | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/to/tonga/nuku-alofa | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ec | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ec/ecuador | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ec/ecuador/quito | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pf | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pf/french-polynesia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pf/french-polynesia/papeete | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cc | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cc/cocos-keeling-islands | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cc/cocos-keeling-islands/west-island | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/zm | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/zm/zambia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/zm/zambia/lusaka | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kh | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kh/cambodia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kh/cambodia/phnom-penh | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vc | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vc/saint-vincent-and-the-grenadines | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/vc/saint-vincent-and-the-grenadines/kingstown | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gb | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gb/united-kingdom | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gb/united-kingdom/london | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lk | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lk/sri-lanka | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/lk/sri-lanka/colombo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ly | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ly/libya | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ly/libya/tripoli | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tg/togo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tg/togo/lom | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dk | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dk/denmark | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/dk/denmark/copenhagen | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/iq | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/iq/iraq | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/iq/iraq/baghdad | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/io | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/io/british-indian-ocean-territory | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/io/british-indian-ocean-territory/diego-garcia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tz | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tz/tanzania | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tz/tanzania/dodoma | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jp | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jp/japan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/jp/japan/tokyo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ag | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ag/antigua-and-barbuda | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ag/antigua-and-barbuda/saint-john-s | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kp | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kp/north-korea | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/kp/north-korea/pyongyang | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tf | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tf/french-southern-and-antarctic-lands | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/tf/french-southern-and-antarctic-lands/port-aux-fran-ais | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mg/madagascar | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/mg/madagascar/antananarivo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ni | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ni/nicaragua | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ni/nicaragua/managua | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ge | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ge/georgia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ge/georgia/tbilisi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bs | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bs/the-bahamas | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bs/the-bahamas/nassau | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/na | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/na/namibia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/na/namibia/windhoek | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bd | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bd/bangladesh | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/bd/bangladesh/dhaka | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cg/republic-of-the-congo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cg/republic-of-the-congo/brazzaville | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gg | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gg/guernsey | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gg/guernsey/st-peter-port | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/so | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/so/somalia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/so/somalia/mogadishu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/id | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/id/indonesia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/id/indonesia/jakarta | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/se | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/se/sweden | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/se/sweden/stockholm | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/re | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/re/r-union | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/re/r-union/saint-denis | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cy | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cy/cyprus | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cy/cyprus/nicosia | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gi | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gi/gibraltar | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gi/gibraltar/gibraltar | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gr | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gr/greece | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gr/greece/athens | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ss | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ss/south-sudan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ss/south-sudan/juba | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/zw | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/zw/zimbabwe | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/zw/zimbabwe/harare | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pm | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pm/saint-pierre-and-miquelon | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pm/saint-pierre-and-miquelon/saint-pierre | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/wf | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/wf/wallis-and-futuna | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/wf/wallis-and-futuna/mata-utu | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/af | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/af/afghanistan | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/af/afghanistan/kabul | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ba | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ba/bosnia-and-herzegovina | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/ba/bosnia-and-herzegovina/sarajevo | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/km | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/km/comoros | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/km/comoros/moroni | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gw | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gw/guinea-bissau | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/gw/guinea-bissau/bissau | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cx | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cx/christmas-island | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/cx/christmas-island/flying-fish-cove | mtime=2026-09-30 00:06:27 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/weather | mtime=2026-09-30 00:05:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/since-last-fire | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/since-last-fire/every-hour | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/since-last-fire/every-10-minutes | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/since-last-fire/every-5-minutes | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/05:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/45:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/20:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/25:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/15:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/40:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/10:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/35:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/30:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/00:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/50:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/on-time/55:00 | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/tennessee | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/illinois | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/new-jersey | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/kentucky | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/louisiana | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/florida | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/south-carolina | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/missouri | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/new-hampshire | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/maryland | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/virginia | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/nevada | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/oregon | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/north-carolina | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/indiana | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/wisconsin | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/idaho | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/washington | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/arkansas | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/california | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/south-dakota | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/ohio | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/montana | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/new-mexico | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/alabama | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/connecticut | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/massachusetts | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/wyoming | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/arizona | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/mississippi | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/utah | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/oklahoma | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/texas | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/iowa | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/kansas | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/delaware | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/michigan | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/vermont | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/maine | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/west-virginia | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/georgia | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/new-york | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/rhode-island | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/nebraska | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/alaska | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/colorado | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/minnesota | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/pennsylvania | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/news/north-dakota | mtime=2026-09-30 00:05:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web | mtime=2026-09-30 00:04:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites | mtime=2026-09-30 00:04:29 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud | mtime=2026-09-30 00:04:37 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/wiki | mtime=2026-09-30 00:04:37 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/system | mtime=2026-09-30 00:04:36 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/context | mtime=2026-09-30 00:04:34 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/directory | mtime=2026-09-30 00:04:34 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/uptime | mtime=2026-09-30 00:04:36 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/status | mtime=2026-09-30 00:04:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/css | mtime=2026-09-30 00:04:32 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/energy | mtime=2026-09-30 00:04:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/cloudflare | mtime=2026-09-30 00:04:39 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/cloudflare/avaivy.cloud | mtime=2026-09-30 00:04:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/Thumbnails | mtime=2026-09-30 00:06:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/Site | mtime=2026-09-30 00:05:52 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/US-States | mtime=2026-09-30 00:04:29 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/archive/09-30-2026 | mtime=2026-09-30 00:06:42 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/archive/09-30-2026 | mtime=2026-09-30 00:06:54 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/07/archive/09-30-2026 | mtime=2026-09-30 00:06:52 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/04/archive/09-30-2026 | mtime=2026-09-30 00:06:46 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/archive/09-30-2026 | mtime=2026-09-30 00:06:40 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/06/archive/09-30-2026 | mtime=2026-09-30 00:06:50 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/archive/09-30-2026 | mtime=2026-09-30 00:06:44 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/archive/09-30-2026 | mtime=2026-09-30 00:06:38 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/archive/09-30-2026 | mtime=2026-09-30 00:06:56 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/archive/09-30-2026 | mtime=2026-09-30 00:06:58 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/archive/09-30-2026 | mtime=2026-09-30 00:06:48 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/RWR/raw/archive/09-30-2026 | mtime=2026-09-30 00:07:09 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/HRS_archive/raw/archive/09-30-2026 | mtime=2026-09-30 00:07:11 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/aviation/raw/archive/09-30-2026 | mtime=2026-09-30 00:04:08 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/RR5_archive/raw/archive/09-30-2026 | mtime=2026-09-30 00:07:15 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/MFM/raw/archive/09-30-2026 | mtime=2026-09-30 00:04:38 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/archive/09-30-2026 | mtime=2026-09-30 00:12:29 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/archive/09-30-2026 | mtime=2026-09-30 00:12:29 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/rain_summary/raw/archive/09-30-2026 | mtime=2026-09-30 00:07:13 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/SRF/raw/archive/09-30-2026 | mtime=2026-09-30 00:04:40 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/raw/archive/09-30-2026 | mtime=2026-09-30 00:11:11 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/archive/09-30-2026 | mtime=2026-09-30 00:12:10 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/rtp_temp_precip_summary/raw/archive/09-30-2026 | mtime=2026-09-30 00:07:08 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_HNL/raw/archive/09-30-2026 | mtime=2026-09-30 00:05:38 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_ITO/raw/archive/09-30-2026 | mtime=2026-09-30 00:04:53 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_LIH/raw/archive/09-30-2026 | mtime=2026-09-30 00:05:53 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/rra_hawaii_rainfall_summary/raw/archive/09-30-2026 | mtime=2026-09-30 00:06:38 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/oso_hourly_obs/raw/archive/09-30-2026 | mtime=2026-09-30 00:06:53 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_ITO/raw/archive/09-30-2026 | mtime=2026-09-30 00:06:23 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_OGG/raw/archive/09-30-2026 | mtime=2026-09-30 00:06:08 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/media | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/scripts | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/lib | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/components/goals | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/timeline | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/blog | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/blog/[slug] | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/dev | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/login | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/reports | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/goals | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/goals/[id] | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/goals/new | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/status | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/api | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/api/auth | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/api/auth/session | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/api/chat | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/api/[...path] | mtime=2026-09-30 00:06:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/Companions | mtime=2026-09-30 00:05:50 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Site/scripts | mtime=2026-09-30 00:04:06 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/dist | mtime=2026-09-30 00:05:01 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd | mtime=2026-09-30 00:08:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync | mtime=2026-09-30 00:08:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/tmp | mtime=2026-09-30 00:08:38 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/files | mtime=2026-09-30 00:08:38 | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Migration Agents/19-hurricane-radio.md | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/package-lock.json | source_job=worklog_scan
+
