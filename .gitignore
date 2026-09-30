@@ -172,6 +172,10 @@
 /Logs/ContextSession/*
 !/Logs/ContextSession/README.md
 
+# Code review pack (WO-MIG-34): generated packs and the run log are runtime. Stay out of git.
+/CodeReview/
+/Logs/CodeReview/
+
 # River car DC drive (WO-MIG-39): state, lock, and log are runtime. Stay out of git.
 /Energy/River-Car/
 /Logs/Energy/River-Car/
