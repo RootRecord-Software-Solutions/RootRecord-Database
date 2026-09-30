@@ -2,7 +2,7 @@ can_launch=false do_not=enable gates,launch programs,restart poller,start a seco
 drift=configuration_drift
 configured_model=llama3.2:1b observed_model=llama3.2:3b
 fallback_configured=ollama fallback_observed=disabled
-services=ollama=running council_relay=running desk_live=present root_monitor=stopped github_sync=scheduled rootserver_poller=running flm=idle cloudflared=stopped
+services=ollama=running council_relay=running desk_live=present root_monitor=stopped github_sync=scheduled rootserver_poller=running flm=idle cloudflared=running
 health_failed=none
 health_unknown=incidents,root_monitor
 agent_launchable=none execution_broker=not_built
