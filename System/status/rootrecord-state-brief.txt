@@ -1,24 +1,9 @@
-generated_at=2026-09-30T13:47:03-10:00
-secrets=none
-empty_incident_list_is_not_all_clear=true
-host_resources={"cpu_percent":8.63,"mem_used_percent":57.95,"load1":1.96,"load5":1.94,"load15":1.79}
-power_delta2_soc=16.99 at=2026-09-30T13:40:58-10:00 confidence=recent
-power_river2pro_soc=66.35 at=2026-09-30T13:46:54-10:00 confidence=recent
-service_ollama=running confidence=live
-service_council_relay=running confidence=live
-service_desk_live=present confidence=live
-service_root_monitor=stopped confidence=live
-service_github_sync=scheduled confidence=configured
-service_rootserver_poller=running confidence=live
-service_flm=idle confidence=live
-agent_launchable=none
-agent_launch_kind=not_implemented
-do_not=enable gates, launch programs, restart the poller, start a second relay, invent numbers
-gated_live_council_replies=RR_RELAY_REPLIES (gated)
-gated_private_dm_replies=RR_RELAY_REPLIES (gated)
-gated_quake_telegram_send=RR_COUNCIL_QUAKE_SEND (gated)
-gated_bruce_stats_send=RR_BRUCE_STATS_SEND (gated)
-gated_agent_program_launch=agent_execution_layer (not_implemented)
+can_launch=false do_not=enable gates,launch programs,restart poller,start a second relay,invent numbers,treat a commit as a deploy
+drift=configuration_drift
+configured_model=llama3.2:1b observed_model=llama3.2:3b
+fallback_configured=ollama fallback_observed=disabled
+services=ollama=running council_relay=running desk_live=present root_monitor=stopped github_sync=scheduled rootserver_poller=running flm=idle cloudflared=stopped
 health_failed=none
-health_degraded=none
 health_unknown=incidents,root_monitor
+agent_launchable=none execution_broker=not_built
+unknown_is_not_broken=true

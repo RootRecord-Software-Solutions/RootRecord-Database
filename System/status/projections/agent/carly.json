@@ -1,0 +1,28 @@
+{
+  "voice": "carly",
+  "role": "replies when addressed or in a room round",
+  "can_launch": false,
+  "visibility": "agent",
+  "slices": {
+    "safety": "can_launch=false do_not=enable gates,launch programs,restart poller,start a second relay,invent numbers,treat a commit as a deploy",
+    "energy": "delta2 state=observed soc=17.99 age_min=2\nriver2pro state=observed soc=64.76 age_min=0",
+    "scope": "can_launch=false do_not=enable gates,launch programs,restart poller,start a second relay,invent numbers,treat a commit as a deploy\ndrift=configuration_drift\nconfigured_model=llama3.2:1b observed_model=llama3.2:3b\nfallback_configured=ollama fallback_observed=disabled\nservices=ollama=running council_relay=running desk_live=present root_monitor=stopped github_sync=scheduled rootserver_poller=running flm=idle cloudflared=stopped\nhealth_failed=none\nhealth_unknown=incidents,root_monitor\nagent_launchable=none execution_broker=not_built\nunknown_is_not_broken=true",
+    "index": "generated_at=2026-09-30T13:53:12-10:00 health_failed=none"
+  },
+  "drift": [
+    {
+      "id": "ai.inference",
+      "state": "configuration_drift",
+      "configured_model": "llama3.2:1b",
+      "configured_source": "Automations/scripts/jobs.py",
+      "observed_model": "llama3.2:3b",
+      "observed_source": "Communications/telegram/scripts/ensure-relay.sh",
+      "fallback_configured": "ollama",
+      "fallback_observed": "disabled",
+      "action": "documentation review required",
+      "confidence": "configured",
+      "visibility": "agent",
+      "observed_at": "2026-09-30T13:53:12-10:00"
+    }
+  ]
+}
