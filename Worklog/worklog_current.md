@@ -149,3 +149,302 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/NightSleep | mtime=2026-09-29 23:58:40 | domain=System | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/NightSleep/scripts | mtime=2026-09-29 23:59:26 | domain=System | source_job=worklog_scan
 
+### 2026-09-30 00:03:54 HST
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/881602.txt | size=1229 | mtime=2026-09-30 00:03:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/303512.txt | size=865 | mtime=2026-09-30 00:03:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/883973.txt | size=3457 | mtime=2026-09-30 00:03:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/85603.txt | size=1367 | mtime=2026-09-30 00:01:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/.sync-manifest.json | size=1714 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/usage-bar.d.ts | size=2318 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/swatch.d.ts | size=1313 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/index.d.ts | size=4244 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/dag-layout.d.ts | size=3384 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/chart-primitives.d.ts | size=10547 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/collapsible-section.d.ts | size=2460 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/callout-tone-icons.d.ts | size=586 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/hooks.d.ts | size=6765 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.test.d.ts | size=59 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/form-primitives.d.ts | size=6663 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/todo-list.d.ts | size=1543 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/diff-view.d.ts | size=4916 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/canvas-tokens.d.ts | size=10435 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.d.ts | size=20332 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/theme.d.ts | size=3520 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/deploy-with-vercel/SKILL.md | size=8069 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/plans/website_checkout_draft_055bcf1c.plan.md | size=6067 | mtime=2026-09-30 00:02:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/plans/desk_product_apps_af512830.plan.md | size=7815 | mtime=2026-09-30 00:01:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/plans/late_final_report_471afe04.plan.md | size=5278 | mtime=2026-09-30 00:01:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/plans/night_sleep_gate_0dc15ca2.plan.md | size=4951 | mtime=2026-09-30 00:01:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/plans/sunrise_restore_draft_550544ad.plan.md | size=5705 | mtime=2026-09-30 00:00:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db | size=2740224 | mtime=2026-09-30 00:03:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.ollama/cache/model-recommendations.json | size=1816 | mtime=2026-09-30 00:02:31 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/package-lock.json | size=99 | mtime=2026-09-30 00:02:24 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Country_location_pollers_Work_Order_WO-MIG-13-2026-09-29.md | size=13159 | mtime=2026-09-30 00:03:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/All_time_radar_zip_Work_Order_WO-MIG-05-2026-09-29.md | size=14129 | mtime=2026-09-30 00:02:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Sunrise_restore_Work_Order_WO-MIG-17-2026-09-29.md | size=12687 | mtime=2026-09-30 00:00:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Night_sleep_scheduler_gate_Work_Order_WO-MIG-01-2026-09-29.md | size=12015 | mtime=2026-09-30 00:03:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Stripe_Vercel_and_live_data_pages_Work_Order_WO-MIG-10-2026-09-29.md | size=15916 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Public_website_checkout_Work_Order_WO-MIG-07-2026-09-29.md | size=13028 | mtime=2026-09-30 00:02:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/23_30_late_final_report_Work_Order_WO-MIG-02-2026-09-29.md | size=10077 | mtime=2026-09-30 00:03:08 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/07-testing/2026-09-29-old-repo-ports-breadth-batch5.md | size=14073 | mtime=2026-09-30 00:03:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/07-testing/README.md | size=17209 | mtime=2026-09-30 00:03:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Old-Repo-Migration-Matrix.md | size=39781 | mtime=2026-09-30 00:03:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G1-Scheduler-To-G3-Jobs-Map-2026-09-29.md | size=6721 | mtime=2026-09-30 00:03:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Voice-Reports-G3.md | size=21104 | mtime=2026-09-30 00:00:22 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/late_report_current.md | size=305 | mtime=2026-09-30 00:02:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db | size=315392 | mtime=2026-09-30 00:03:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1hour.db | size=40960 | mtime=2026-09-30 00:03:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/day.db | size=40960 | mtime=2026-09-30 00:03:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/15min.db | size=81920 | mtime=2026-09-30 00:03:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db | size=450560 | mtime=2026-09-30 00:03:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db | size=22102016 | mtime=2026-09-30 00:03:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db | size=143360 | mtime=2026-09-30 00:03:03 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/FernForest/facts.json | size=636 | mtime=2026-09-30 00:03:24 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/Clients/gigs.json | size=210 | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Playback/play.lock | size=0 | mtime=2026-09-30 00:01:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Playback/last-play.json | size=260 | mtime=2026-09-30 00:01:47 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/Cloudflare-Workers/.gitkeep | size=0 | mtime=2026-09-30 00:02:18 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json | size=72 | mtime=2026-09-30 00:03:14 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json | size=74 | mtime=2026-09-30 00:03:03 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json | size=193 | mtime=2026-09-30 00:03:14 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json | size=186 | mtime=2026-09-30 00:03:03 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/.gitignore | size=4061 | mtime=2026-09-30 00:02:34 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/status-last.json | size=132 | mtime=2026-09-30 00:02:15 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/02_current.gif | size=92882 | mtime=2026-09-30 00:01:51 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/08_current.gif | size=89575 | mtime=2026-09-30 00:02:03 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/07/07_current.gif | size=101617 | mtime=2026-09-30 00:02:01 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/04/04_current.gif | size=93436 | mtime=2026-09-30 00:01:55 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/01_current.gif | size=95907 | mtime=2026-09-30 00:01:49 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/06/06_current.gif | size=92373 | mtime=2026-09-30 00:01:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/03_current.gif | size=89354 | mtime=2026-09-30 00:01:53 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/00_current.gif | size=91258 | mtime=2026-09-30 00:01:47 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif | size=93308 | mtime=2026-09-30 00:02:05 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif | size=93535 | mtime=2026-09-30 00:02:07 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif | size=92451 | mtime=2026-09-30 00:01:57 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR_loop/Hawaii_IR_loop_current.gif | size=1027716 | mtime=2026-09-30 00:02:50 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR/Hawaii_IR_current.gif | size=93399 | mtime=2026-09-30 00:02:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/TAFPA/raw/TAFPA_raw_current.html | size=58291 | mtime=2026-09-30 00:02:40 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/FTM/raw/FTM_raw_current.html | size=57369 | mtime=2026-09-30 00:02:53 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/MarineZones/raw/MarineZones_raw_current.html | size=31388 | mtime=2026-09-30 00:03:53 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/MarineZones/MarineZones_current.html | size=31388 | mtime=2026-09-30 00:03:53 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/publiczones/raw/publiczones_raw_current.html | size=28656 | mtime=2026-09-30 00:03:05 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/publiczones/publiczones_current.html | size=28656 | mtime=2026-09-30 00:03:05 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/CWABounds/raw/CWABounds_raw_current.html | size=28972 | mtime=2026-09-30 00:03:29 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/CWABounds/CWABounds_current.html | size=28972 | mtime=2026-09-30 00:03:29 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/Counties/Counties_current.html | size=30100 | mtime=2026-09-30 00:02:53 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/Counties/raw/Counties_raw_current.html | size=30100 | mtime=2026-09-30 00:02:53 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/Sandwich/GOES19-EEP-Sandwich-900x540/GOES19-EEP-Sandwich-900x540_current.gif | size=15417200 | mtime=2026-09-30 00:03:22 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json | size=73423 | mtime=2026-09-30 00:03:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/radar.weather.gov/ridge/standard/HAWAII_loop/HAWAII_loop_current.gif | size=227895 | mtime=2026-09-30 00:02:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json | size=204 | mtime=2026-09-30 00:02:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json | size=2 | mtime=2026-09-30 00:02:46 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_HNL/raw/cli_daily_climate_summary_HNL_raw_current.html | size=27954 | mtime=2026-09-30 00:02:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_LIH/raw/cli_daily_climate_summary_LIH_raw_current.html | size=28093 | mtime=2026-09-30 00:03:08 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_OGG/raw/cli_daily_climate_summary_OGG_raw_current.html | size=28005 | mtime=2026-09-30 00:03:53 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hurricanes/tracking/Nolo_20260929T220441.9291071000/track.json | size=1541 | mtime=2026-09-30 00:02:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Reports/Late-Final/last.json | size=379 | mtime=2026-09-30 00:02:40 | domain=Reports | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=821 | mtime=2026-09-30 00:03:15 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=162 | mtime=2026-09-30 00:03:15 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=86 | mtime=2026-09-30 00:03:15 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/NightSleep/last-skip.json | size=84 | mtime=2026-09-30 00:02:28 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=114 | mtime=2026-09-30 00:03:15 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=237568 | mtime=2026-09-30 00:03:15 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2440 | mtime=2026-09-30 00:03:15 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=48910 | mtime=2026-09-30 00:03:58 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/stripe-snapshot.json | size=111 | mtime=2026-09-30 00:03:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/kilauea.json | size=363 | mtime=2026-09-30 00:03:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/power.json | size=932 | mtime=2026-09-30 00:03:15 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/weather.json | size=271 | mtime=2026-09-30 00:03:15 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/poller/run-poller.sh | size=1680 | mtime=2026-09-30 00:02:22 | domain=Automations | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/jobs.py | size=30450 | mtime=2026-09-30 00:03:06 | domain=Automations | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/FernForest/facts.py | size=984 | mtime=2026-09-30 00:03:29 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/Clients/gigs.py | size=1123 | mtime=2026-09-30 00:03:33 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/SunriseRestore/scripts/sunrise_restore.py | size=3565 | mtime=2026-09-30 00:03:50 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/SunriseRestore/__init__.py | size=59 | mtime=2026-09-30 00:03:37 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/SunriseRestore/README.md | size=902 | mtime=2026-09-30 00:03:53 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Playback/scripts/play.py | size=5429 | mtime=2026-09-30 00:01:03 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/MorningBootReplay/scripts/replay.py | size=8518 | mtime=2026-09-30 00:03:46 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/MorningBootReplay/scripts/__init__.py | size=33 | mtime=2026-09-30 00:03:47 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/MorningBootReplay/__init__.py | size=159 | mtime=2026-09-30 00:03:47 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/MorningBootReplay/README.md | size=999 | mtime=2026-09-30 00:03:52 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/MorningBootReplay/__main__.py | size=144 | mtime=2026-09-30 00:03:48 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Site/config/routes.yml | size=513 | mtime=2026-09-30 00:03:49 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/package.json | size=368 | mtime=2026-09-30 00:01:47 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/src/proxy.ts | size=1849 | mtime=2026-09-30 00:02:03 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/src/envload.ts | size=899 | mtime=2026-09-30 00:02:12 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/src/check.ts | size=2039 | mtime=2026-09-30 00:02:18 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/src/worker.ts | size=1663 | mtime=2026-09-30 00:02:08 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/src/publicPaths.ts | size=2352 | mtime=2026-09-30 00:01:57 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/tsconfig.json | size=330 | mtime=2026-09-30 00:01:49 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/config/wrangler.toml | size=503 | mtime=2026-09-30 00:01:46 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/.gitignore | size=41 | mtime=2026-09-30 00:01:43 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/CountryLocations/scripts/poll_locations.py | size=4067 | mtime=2026-09-30 00:01:57 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/CountryLocations/config/allowlist.json | size=3 | mtime=2026-09-30 00:01:41 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/CountryLocations/__init__.py | size=99 | mtime=2026-09-30 00:01:41 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/CountryLocations/README.md | size=801 | mtime=2026-09-30 00:01:45 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/US-States/scripts/fetch_us_states.py | size=21306 | mtime=2026-09-30 00:03:30 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/US-States/site/us-states.html | size=3066 | mtime=2026-09-30 00:03:42 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/US-States/lib/envload.py | size=992 | mtime=2026-09-30 00:02:28 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/hurricanes/SKILL.md | size=1435 | mtime=2026-09-30 00:03:42 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/News/scripts/build_state_news.py | size=6916 | mtime=2026-09-30 00:01:52 | domain=Reports | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/News/scripts/build_global_news.py | size=8322 | mtime=2026-09-30 00:02:19 | domain=Reports | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/News/scripts/state_news.py | size=3237 | mtime=2026-09-30 00:01:33 | domain=Reports | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/News/config/state_event_sources.json | size=412 | mtime=2026-09-30 00:01:22 | domain=Reports | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/News/config/state_portals.json | size=1918 | mtime=2026-09-30 00:01:21 | domain=Reports | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/News/README.md | size=6627 | mtime=2026-09-30 00:02:50 | domain=Reports | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/stripe_poll.py | size=6758 | mtime=2026-09-30 00:02:29 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/__init__.py | size=70 | mtime=2026-09-30 00:01:29 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py | size=4189 | mtime=2026-09-30 00:02:18 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/vercel_builds.py | size=4797 | mtime=2026-09-30 00:02:05 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/__init__.py | size=94 | mtime=2026-09-30 00:01:29 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/lib/envload.py | size=1432 | mtime=2026-09-30 00:02:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/lib/__init__.py | size=57 | mtime=2026-09-30 00:01:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/staged/cards.css | size=752 | mtime=2026-09-30 00:02:22 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/staged/live-data.html | size=1504 | mtime=2026-09-30 00:02:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal | size=2344312 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/index.sqlite-wal | size=3802792 | mtime=2026-09-30 00:03:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/index.sqlite-wal | size=3605032 | mtime=2026-09-30 00:03:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/index.sqlite-wal | size=2937592 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/index.sqlite-wal | size=3703912 | mtime=2026-09-30 00:03:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/index.sqlite-wal | size=3160072 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal | size=3122992 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/index.sqlite-wal | size=2270152 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal | size=2727472 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/index.sqlite-wal | size=3197152 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal | size=2480272 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/index.sqlite-wal | size=3394912 | mtime=2026-09-30 00:03:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/index.sqlite-wal | size=3444352 | mtime=2026-09-30 00:03:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/sync.lock | size=148 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:03:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/index.sqlite-wal | size=2369032 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock | size=148 | mtime=2026-09-30 00:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:03:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/index.sqlite-wal | size=3518512 | mtime=2026-09-30 00:03:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/index.sqlite-wal | size=1553272 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite-wal | size=3036472 | mtime=2026-09-30 00:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-wal | size=2591512 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite-wal | size=3172432 | mtime=2026-09-30 00:03:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/index.sqlite-wal | size=1763392 | mtime=2026-09-30 00:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/sync.lock | size=152 | mtime=2026-09-30 00:03:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:03:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:03:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/wireplumber/stream-properties | size=730 | mtime=2026-09-30 00:01:20 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes | mtime=2026-09-30 00:03:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/holding | mtime=2026-09-30 00:03:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/companions | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/companions/dev-desk | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/companions/dev-desk/renderer | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/clients | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/clients/gigs | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/test-reports | mtime=2026-09-30 00:02:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/test-reports/Voice | mtime=2026-09-30 00:02:40 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old | mtime=2026-09-30 00:00:31 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server/weather/hurricane-desk | mtime=2026-09-30 00:00:48 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server/weather/hurricane-desk/scripts | mtime=2026-09-30 00:00:48 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server/weather/hurricane-tracker | mtime=2026-09-30 00:00:48 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server/weather/hurricane-tracker/scripts | mtime=2026-09-30 00:00:48 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server/reports | mtime=2026-09-30 00:02:01 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server/reports/sort | mtime=2026-09-30 00:02:01 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/Pantry | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/FernForest | mtime=2026-09-30 00:03:24 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/Companions | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/Clients | mtime=2026-09-30 00:03:25 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/ProductPrices | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/FinanceDesk | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/Look | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Playback | mtime=2026-09-30 00:01:28 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications | mtime=2026-09-30 00:02:18 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/Cloudflare-Workers | mtime=2026-09-30 00:02:18 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations | mtime=2026-09-30 00:02:15 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/TAFPA/raw/archive/09-30-2026 | mtime=2026-09-30 00:02:40 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/FTM/raw/archive/09-30-2026 | mtime=2026-09-30 00:02:53 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/MarineZones/raw/archive/09-30-2026 | mtime=2026-09-30 00:03:53 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/MarineZones/archive | mtime=2026-09-30 00:03:53 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/MarineZones/archive/09-29-2026 | mtime=2026-09-30 00:03:53 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/publiczones/raw/archive/09-30-2026 | mtime=2026-09-30 00:03:05 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/CWABounds/raw/archive/09-30-2026 | mtime=2026-09-30 00:03:29 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/Counties/raw/archive | mtime=2026-09-30 00:02:53 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/Counties/raw/archive/09-30-2026 | mtime=2026-09-30 00:02:53 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/Counties/archive | mtime=2026-09-30 00:02:53 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_HNL/raw/archive/09-30-2026 | mtime=2026-09-30 00:02:38 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_LIH/raw/archive/09-30-2026 | mtime=2026-09-30 00:03:08 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_OGG/raw/archive/09-30-2026 | mtime=2026-09-30 00:03:53 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website | mtime=2026-09-30 00:03:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages | mtime=2026-09-30 00:03:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/Pantry | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/FernForest | mtime=2026-09-30 00:03:29 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/Clients | mtime=2026-09-30 00:03:33 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/ProductPrices | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/FinanceDesk | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Products/scripts/Look | mtime=2026-09-30 00:02:46 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/SunriseRestore | mtime=2026-09-30 00:03:56 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/SunriseRestore/scripts | mtime=2026-09-30 00:03:50 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Playback | mtime=2026-09-30 00:01:03 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Playback/scripts | mtime=2026-09-30 00:01:03 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/MorningBootReplay | mtime=2026-09-30 00:03:52 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/MorningBootReplay/scripts | mtime=2026-09-30 00:03:47 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Site | mtime=2026-09-30 00:03:49 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Site/config | mtime=2026-09-30 00:03:49 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers | mtime=2026-09-30 00:01:47 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts | mtime=2026-09-30 00:01:57 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/scripts/src | mtime=2026-09-30 00:02:18 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Cloudflare-Workers/config | mtime=2026-09-30 00:01:46 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/CountryLocations | mtime=2026-09-30 00:01:57 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/CountryLocations/scripts | mtime=2026-09-30 00:03:13 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/CountryLocations/config | mtime=2026-09-30 00:01:41 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/US-States | mtime=2026-09-30 00:03:42 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/US-States/scripts | mtime=2026-09-30 00:03:30 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/US-States/site | mtime=2026-09-30 00:03:42 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/US-States/lib | mtime=2026-09-30 00:02:28 | domain=Weather | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/News/config | mtime=2026-09-30 00:01:22 | domain=Reports | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website | mtime=2026-09-30 00:02:22 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts | mtime=2026-09-30 00:03:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/lib | mtime=2026-09-30 00:03:15 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/staged | mtime=2026-09-30 00:02:34 | source_job=worklog_scan
+
