@@ -43,6 +43,4 @@ The archive is operational history; the current file remains the live tail targe
 
 ## Git behavior
 
-Generated binary media is excluded from Git by the Database repository policy. Automation logs remain text and may be synchronized/archived through the normal GitHub catalog flow.
-
-The live `automations_current.log` is git-ignored and untracked (2026-09-29, owner-approved) to stop 5 s sync churn; the hourly `Archive/automations_YYYY-MM-DD_HH00.log` is the synced copy.
+Generated binary media is excluded from Git by the Database repository policy. All `*.log` files (live streams and archives) are git-ignored and must stay untracked. Keep READMEs and other non-log documentation in git.

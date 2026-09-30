@@ -46,8 +46,15 @@
 *.pid
 *.lock
 
-# Live high-churn log streams (BLE heartbeat, poller current). Archives stay tracked. Added 2026-09-29 (WO-ECO/WO-SRV).
-# Untracked via owner-approved git rm --cached 2026-09-29 ~01:25 HST; files stay on disk.
+# All log files: never commit (may contain secrets, Telegram payloads, or operational dumps).
+# Files stay on disk; untrack with git rm --cached if they were previously committed.
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Live high-churn log streams (kept as explicit paths in addition to *.log).
 /Logs/Energy/ava-ecoflow-ble.log
 /Logs/Automations/automations_current.log
 /Logs/Communications/council-relay.log
@@ -88,12 +95,16 @@
 # voice report text/sidecar history (G3 voice_reports.py, 2026-09-29) rotates every run; _current.md stays tracked
 /Media/Audio/Voice/Reports/Archive/
 
-# Council relay quiet-mode inbox: held Telegram message text is private — local only; only the README is tracked.
-# Added 2026-09-29 ~04:03 HST (g3-proposals-impl, 08-ideas relay-quiet-mode-message-hold).
+# Telegram: never track message bodies, media payloads, or PII. Metadata-only files
+# that still land here stay local; only READMEs are tracked.
+# Added 2026-09-29 ~04:03 HST; tightened 2026-09-30 (no message text in the git surface).
 /Logs/Communications/Relay-Inbox/*
 !/Logs/Communications/Relay-Inbox/README.md
+/Logs/Communications/Relay-Inbox/**/*.jsonl
+**/relay-inbox*.jsonl
+**/replayed.jsonl
 
-# Inbox local copies of held message text (WO-MIG-31). README stays tracked.
+# Inbox local copies of held Telegram rows (WO-MIG-31). README stays tracked.
 /Communications/Inbox/*
 !/Communications/Inbox/README.md
 /Logs/Communications/Inbox/*

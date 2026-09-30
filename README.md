@@ -62,7 +62,7 @@ Logs/
 └─ Security/
 ```
 
-Current logs live in their domain directory; dated history belongs under the corresponding `Archive/` structure when present.
+Current logs live in their domain directory; dated history belongs under the corresponding `Archive/` structure when present. All `*.log` files are git-ignored. Telegram message bodies, media payloads, and Telegram PII must not be stored in tracked Database artifacts (Communications Inbox / Relay-Inbox are local-only except READMEs).
 
 ### Security media
 
