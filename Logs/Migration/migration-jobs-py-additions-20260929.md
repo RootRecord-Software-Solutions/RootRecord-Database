@@ -140,3 +140,15 @@ Original (pre-pass) copy: `/home/rootrecord/Database/GITHUB/migration-geology.ba
 ## Addendum 2026-09-29 ~14:12 HST
 
 No further `jobs.py` edits after 13:45 HST (standing rule). The breadth batch added five jobs as **PROPOSED only**; they are not in `jobs.py`. They are `system_net_sample` (`RR_NET_SAMPLES`), `voice_solar_desk` (`RR_VOICE_SOLAR`), `voice_security_desk` (`RR_VOICE_SECURITY`), `voice_bandwidth_desk` (`RR_VOICE_BANDWIDTH`) and `reports_hawaii_news` (`RR_HAWAII_NEWS`). The exact blocks are in Library `Documentation/00-architecture/Pending-Job-Registrations-2026-09-29.md` §B.
+
+## Addendum 2026-09-29 ~14:45 HST (breadth pass 2)
+
+Still no `jobs.py` edits (standing rule; last change 13:44 HST). Five more jobs are **PROPOSED only**:
+
+- `weather_official_hls` (`RR_OFFICIAL_HLS`, EVERY_SECONDS 600)
+- `voice_official_weather` (`RR_VOICE_OFFICIAL`, EVERY_MINUTE :25)
+- `weather_hurricane_global` (`RR_HURRICANE_GLOBAL`, ON_AT 05:40 / 09:40 / 12:40 / 16:40 / 20:40)
+- `reports_board_catchup` (`RR_REPORT_BOARD`, ON_AT 14:00)
+- `voice_boot_brief` (`RR_VOICE_BOOT`, ON_BOOT)
+
+`reports_hawaii_news` also gained env `RR_NEWS_SEEDS_ONLY=1` and a 300 s timeout. The exact blocks and a summary table are in Library `Documentation/00-architecture/Pending-Job-Registrations-2026-09-29.md`. The test record is Library `Documentation/07-testing/2026-09-29-old-repo-ports-breadth-batch5.md`.
