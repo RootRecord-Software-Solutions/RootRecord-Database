@@ -121,6 +121,10 @@
 /Media/Playback/
 /Logs/Media/Playback/
 
+# Cloud TTS routing (WO-MIG-33): last-route state, Ara audio, and router log are runtime.
+/Media/CloudTTS/
+/Logs/Media/CloudTTS/
+
 # Site route check (WO-MIG-08): last file and log line are runtime. Stay out of git.
 /Communications/Site/
 /Logs/Communications/Site/
