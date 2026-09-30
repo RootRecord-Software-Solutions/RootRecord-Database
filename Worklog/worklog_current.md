@@ -479,3 +479,851 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/DirectoryBrowser/scripts | mtime=2026-09-30 01:02:58 | domain=Security | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/DirectoryBrowser/scripts/DirectoryBrowser | mtime=2026-09-30 01:02:55 | domain=Security | source_job=worklog_scan
 
+### 2026-09-30 01:06:31 HST
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/433598.txt | size=1465 | mtime=2026-09-30 01:06:25 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/list_subscriptions.json | size=174 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_linear_comment.json | size=2135 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/unsubscribe.json | size=283 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_new_channels.json | size=753 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_origin_pr.json | size=2600 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_github_pr.json | size=2978 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_github_ci.json | size=1600 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_channel.json | size=607 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_origin_ci.json | size=1986 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_linear_issue.json | size=2762 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_thread.json | size=557 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/SERVER_METADATA.json | size=88 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/INSTRUCTIONS.md | size=69 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/tools/mcp_auth.json | size=343 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/STATUS.md | size=248 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/SERVER_METADATA.json | size=71 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/tools/mcp_auth.json | size=343 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/STATUS.md | size=246 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/SERVER_METADATA.json | size=68 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/tools/mcp_auth.json | size=343 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/STATUS.md | size=248 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/SERVER_METADATA.json | size=71 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/compare_commits.json | size=959 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_file_contents.json | size=1150 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_commits.json | size=2670 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_repository.json | size=727 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/pull_request_read.json | size=1484 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/commit_read.json | size=1086 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_repositories.json | size=790 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_pull_requests.json | size=1793 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/grep_contents.json | size=3118 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/checks_read.json | size=1507 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_branches.json | size=1080 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_git_tree.json | size=1288 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_namespaces.json | size=701 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/SERVER_METADATA.json | size=76 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/INSTRUCTIONS.md | size=410 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_snapshot.json | size=1293 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_get_bounding_box.json | size=591 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_scroll.json | size=1352 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_mouse_click_xy.json | size=955 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_navigate.json | size=1299 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_highlight.json | size=740 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_fill.json | size=880 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_cdp.json | size=1116 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_press_key.json | size=695 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_tabs.json | size=1035 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_take_screenshot.json | size=1225 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_type.json | size=1226 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_click.json | size=1789 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_select_option.json | size=953 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_drag.json | size=1027 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_lock.json | size=702 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/SERVER_METADATA.json | size=84 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/INSTRUCTIONS.md | size=5262 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/tools/mcp_auth.json | size=343 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/STATUS.md | size=260 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/SERVER_METADATA.json | size=84 | mtime=2026-09-30 01:05:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/open_resource.json | size=842 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/cursor_dialog.json | size=4584 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/install_plugin.json | size=887 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/move_agent_to_root.json | size=1679 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/move_agent_to_cloned_root.json | size=1459 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/rename_chat.json | size=622 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/open_automation.json | size=1647 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/create_project.json | size=636 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/SERVER_METADATA.json | size=84 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/INSTRUCTIONS.md | size=182 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/list_subscriptions.json | size=174 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_linear_comment.json | size=2135 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/unsubscribe.json | size=283 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_new_channels.json | size=753 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_origin_pr.json | size=2600 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_github_pr.json | size=2978 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_github_ci.json | size=1600 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_channel.json | size=607 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_origin_ci.json | size=1986 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_linear_issue.json | size=2762 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_thread.json | size=557 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/SERVER_METADATA.json | size=88 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/INSTRUCTIONS.md | size=69 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/tools/mcp_auth.json | size=343 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/STATUS.md | size=248 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/SERVER_METADATA.json | size=71 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/tools/mcp_auth.json | size=343 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/STATUS.md | size=246 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/SERVER_METADATA.json | size=68 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/tools/mcp_auth.json | size=343 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/STATUS.md | size=248 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/SERVER_METADATA.json | size=71 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/compare_commits.json | size=959 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_file_contents.json | size=1150 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_commits.json | size=2670 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_repository.json | size=727 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/pull_request_read.json | size=1484 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/commit_read.json | size=1086 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_repositories.json | size=790 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_pull_requests.json | size=1793 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/grep_contents.json | size=3118 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/checks_read.json | size=1507 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_branches.json | size=1080 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_git_tree.json | size=1288 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_namespaces.json | size=701 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/SERVER_METADATA.json | size=76 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/INSTRUCTIONS.md | size=410 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_snapshot.json | size=1293 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_get_bounding_box.json | size=591 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_scroll.json | size=1352 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_mouse_click_xy.json | size=955 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_navigate.json | size=1299 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_highlight.json | size=740 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_fill.json | size=880 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_cdp.json | size=1116 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_press_key.json | size=695 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_tabs.json | size=1035 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_take_screenshot.json | size=1225 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_type.json | size=1226 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_click.json | size=1789 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_select_option.json | size=953 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_drag.json | size=1027 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_lock.json | size=702 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/SERVER_METADATA.json | size=84 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/INSTRUCTIONS.md | size=5262 | mtime=2026-09-30 01:05:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/tools/mcp_auth.json | size=343 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/STATUS.md | size=260 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/SERVER_METADATA.json | size=84 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/open_resource.json | size=842 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/cursor_dialog.json | size=4584 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/install_plugin.json | size=887 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/move_agent_to_root.json | size=1679 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/move_agent_to_cloned_root.json | size=1459 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/rename_chat.json | size=622 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/open_automation.json | size=1647 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/create_project.json | size=636 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/SERVER_METADATA.json | size=84 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/INSTRUCTIONS.md | size=182 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/.sync-manifest.json | size=1714 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/usage-bar.d.ts | size=2318 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/swatch.d.ts | size=1313 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/index.d.ts | size=4244 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/dag-layout.d.ts | size=3384 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/chart-primitives.d.ts | size=10547 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/collapsible-section.d.ts | size=2460 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/callout-tone-icons.d.ts | size=586 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/hooks.d.ts | size=6765 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.test.d.ts | size=59 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/form-primitives.d.ts | size=6663 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/todo-list.d.ts | size=1543 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/diff-view.d.ts | size=4916 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/canvas-tokens.d.ts | size=10435 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.d.ts | size=20332 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/theme.d.ts | size=3520 | mtime=2026-09-30 01:05:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/deploy-with-vercel/SKILL.md | size=8069 | mtime=2026-09-30 01:05:40 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db | size=7077888 | mtime=2026-09-30 01:06:42 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Meta_AI_chat_client_Work_Order_WO-MIG-45-2026-09-29.md | size=10313 | mtime=2026-09-30 01:06:06 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Cloud_TTS_routing_Work_Order_WO-MIG-33-2026-09-29.md | size=10370 | mtime=2026-09-30 01:03:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Economy_brief_Work_Order_WO-MIG-29-2026-09-29.md | size=13088 | mtime=2026-09-30 01:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Morning_boot_replay_Work_Order_WO-MIG-16-2026-09-29.md | size=11842 | mtime=2026-09-30 01:03:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Geology-Domain-Ownership-Kilauea-Earthquakes-2026-09-28.md | size=4105 | mtime=2026-09-30 01:04:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Old-Repo-Migration-Matrix.md | size=48105 | mtime=2026-09-30 01:06:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G1-Scheduler-To-G3-Jobs-Map-2026-09-29.md | size=7808 | mtime=2026-09-30 01:04:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Voice-Reports-G3.md | size=21661 | mtime=2026-09-30 01:06:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db | size=389120 | mtime=2026-09-30 01:05:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db | size=712704 | mtime=2026-09-30 01:05:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db | size=34963456 | mtime=2026-09-30 01:05:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db | size=204800 | mtime=2026-09-30 01:05:50 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/CloudTTS/route.lock | size=0 | mtime=2026-09-30 01:05:01 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/CloudTTS/last-route.json | size=133 | mtime=2026-09-30 01:05:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Playback/last-play.json | size=261 | mtime=2026-09-30 01:03:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/MorningBootReplay/replay-last.json | size=826 | mtime=2026-09-30 01:03:16 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/README.md | size=3199 | mtime=2026-09-30 01:06:25 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json | size=74 | mtime=2026-09-30 01:05:50 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json | size=186 | mtime=2026-09-30 01:05:50 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/.gitignore | size=6426 | mtime=2026-09-30 01:03:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ae-abu-dhabi-last.json | size=303 | mtime=2026-09-30 01:05:50 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/jo-amman-last.json | size=281 | mtime=2026-09-30 01:04:30 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fr-paris-last.json | size=279 | mtime=2026-09-30 01:03:34 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ht-port-au-prince-last.json | size=299 | mtime=2026-09-30 01:04:02 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gf-cayenne-last.json | size=292 | mtime=2026-09-30 01:03:41 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/my-kuala-lumpur-last.json | size=296 | mtime=2026-09-30 01:05:50 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/rs-belgrade-last.json | size=287 | mtime=2026-09-30 01:06:26 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gy-georgetown-last.json | size=290 | mtime=2026-09-30 01:03:57 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kh-phnom-penh-last.json | size=293 | mtime=2026-09-30 01:05:00 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/is-reykjavik-last.json | size=291 | mtime=2026-09-30 01:04:14 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/al-tirana-last.json | size=284 | mtime=2026-09-30 01:05:55 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/im-douglas-last.json | size=290 | mtime=2026-09-30 01:04:07 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bz-belmopan-last.json | size=288 | mtime=2026-09-30 01:06:26 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/re-saint-denis-last.json | size=298 | mtime=2026-09-30 01:06:24 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hk-city-of-victoria-last.json | size=307 | mtime=2026-09-30 01:03:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bs-nassau-last.json | size=289 | mtime=2026-09-30 01:06:21 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lb-beirut-last.json | size=282 | mtime=2026-09-30 01:05:12 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mq-fort-de-france-last.json | size=303 | mtime=2026-09-30 01:05:39 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gs-king-edward-point-last.json | size=313 | mtime=2026-09-30 01:03:52 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/nr-yaren-last.json | size=279 | mtime=2026-09-30 01:06:03 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/az-baku-last.json | size=283 | mtime=2026-09-30 01:06:04 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gn-conakry-last.json | size=283 | mtime=2026-09-30 01:03:48 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dk-copenhagen-last.json | size=292 | mtime=2026-09-30 01:03:15 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/as-pago-pago-last.json | size=299 | mtime=2026-09-30 01:06:00 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/br-bras-lia-last.json | size=288 | mtime=2026-09-30 01:06:19 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pe-lima-last.json | size=278 | mtime=2026-09-30 01:06:08 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/nf-kingston-last.json | size=295 | mtime=2026-09-30 01:05:56 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/aw-oranjestad-last.json | size=291 | mtime=2026-09-30 01:06:03 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/je-saint-helier-last.json | size=294 | mtime=2026-09-30 01:04:17 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/rw-kigali-last.json | size=282 | mtime=2026-09-30 01:06:30 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cf-bangui-last.json | size=299 | mtime=2026-09-30 01:06:31 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ky-george-town-last.json | size=300 | mtime=2026-09-30 01:05:08 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dm-roseau-last.json | size=286 | mtime=2026-09-30 01:03:16 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/md-chi-in-u-last.json | size=298 | mtime=2026-09-30 01:05:29 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/er-asmara-last.json | size=284 | mtime=2026-09-30 01:03:25 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ru-moscow-last.json | size=282 | mtime=2026-09-30 01:06:29 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hu-budapest-last.json | size=287 | mtime=2026-09-30 01:04:03 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mg-antananarivo-last.json | size=300 | mtime=2026-09-30 01:05:31 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/il-jerusalem-last.json | size=289 | mtime=2026-09-30 01:04:06 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mv-mal-last.json | size=284 | mtime=2026-09-30 01:05:46 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gt-guatemala-city-last.json | size=302 | mtime=2026-09-30 01:03:54 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fm-palikir-last.json | size=309 | mtime=2026-09-30 01:03:32 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ml-bamako-last.json | size=280 | mtime=2026-09-30 01:05:35 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gd-st-george-s-last.json | size=294 | mtime=2026-09-30 01:03:38 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kn-basseterre-last.json | size=307 | mtime=2026-09-30 01:05:04 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/nz-wellington-last.json | size=298 | mtime=2026-09-30 01:06:05 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/la-vientiane-last.json | size=287 | mtime=2026-09-30 01:05:11 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ba-sarajevo-last.json | size=302 | mtime=2026-09-30 01:06:05 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lk-colombo-last.json | size=287 | mtime=2026-09-30 01:05:17 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/id-jakarta-last.json | size=288 | mtime=2026-09-30 01:04:04 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lv-riga-last.json | size=278 | mtime=2026-09-30 01:05:24 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ne-niamey-last.json | size=280 | mtime=2026-09-30 01:05:55 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gu-hag-t-a-last.json | size=294 | mtime=2026-09-30 01:03:55 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kg-bishkek-last.json | size=288 | mtime=2026-09-30 01:04:59 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ie-dublin-last.json | size=284 | mtime=2026-09-30 01:04:05 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/in-new-delhi-last.json | size=288 | mtime=2026-09-30 01:04:09 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bf-ouagadougou-last.json | size=298 | mtime=2026-09-30 01:06:10 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pt-lisbon-last.json | size=284 | mtime=2026-09-30 01:06:19 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mw-lilongwe-last.json | size=288 | mtime=2026-09-30 01:05:47 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/jm-kingston-last.json | size=288 | mtime=2026-09-30 01:04:20 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bh-manama-last.json | size=284 | mtime=2026-09-30 01:06:12 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/do-santo-domingo-last.json | size=309 | mtime=2026-09-30 01:03:17 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pw-ngerulmud-last.json | size=288 | mtime=2026-09-30 01:06:20 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pm-saint-pierre-last.json | size=312 | mtime=2026-09-30 01:06:15 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pr-san-juan-last.json | size=293 | mtime=2026-09-30 01:06:18 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gr-athens-last.json | size=283 | mtime=2026-09-30 01:03:51 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ma-rabat-last.json | size=281 | mtime=2026-09-30 01:05:26 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mz-maputo-last.json | size=287 | mtime=2026-09-30 01:05:51 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bw-gaborone-last.json | size=290 | mtime=2026-09-30 01:06:23 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/km-moroni-last.json | size=284 | mtime=2026-09-30 01:05:02 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dj-djibouti-last.json | size=288 | mtime=2026-09-30 01:03:13 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/it-rome-last.json | size=276 | mtime=2026-09-30 01:04:15 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ca-ottawa-last.json | size=283 | mtime=2026-09-30 01:06:27 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ao-luanda-last.json | size=281 | mtime=2026-09-30 01:05:57 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mk-skopje-last.json | size=296 | mtime=2026-09-30 01:05:33 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/iq-baghdad-last.json | size=282 | mtime=2026-09-30 01:04:11 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ke-nairobi-last.json | size=284 | mtime=2026-09-30 01:04:58 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gm-banjul-last.json | size=287 | mtime=2026-09-30 01:03:46 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ni-managua-last.json | size=288 | mtime=2026-09-30 01:05:58 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lu-luxembourg-last.json | size=294 | mtime=2026-09-30 01:05:22 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ki-south-tarawa-last.json | size=297 | mtime=2026-09-30 01:05:01 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gh-accra-last.json | size=279 | mtime=2026-09-30 01:03:43 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/na-windhoek-last.json | size=288 | mtime=2026-09-30 01:05:52 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cg-brazzaville-last.json | size=307 | mtime=2026-09-30 01:06:33 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/nu-alofi-last.json | size=282 | mtime=2026-09-30 01:06:04 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/at-vienna-last.json | size=284 | mtime=2026-09-30 01:06:01 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/eh-el-aai-n-last.json | size=301 | mtime=2026-09-30 01:03:23 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/nl-amsterdam-last.json | size=292 | mtime=2026-09-30 01:05:59 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gl-nuuk-last.json | size=282 | mtime=2026-09-30 01:03:45 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/li-vaduz-last.json | size=286 | mtime=2026-09-30 01:05:15 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/io-diego-garcia-last.json | size=319 | mtime=2026-09-30 01:04:10 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ph-manila-last.json | size=287 | mtime=2026-09-30 01:06:12 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mr-nouakchott-last.json | size=296 | mtime=2026-09-30 01:05:40 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/py-asunci-n-last.json | size=296 | mtime=2026-09-30 01:06:21 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bm-hamilton-last.json | size=287 | mtime=2026-09-30 01:06:16 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fk-stanley-last.json | size=296 | mtime=2026-09-30 01:03:31 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hn-tegucigalpa-last.json | size=295 | mtime=2026-09-30 01:03:59 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gq-malabo-last.json | size=292 | mtime=2026-09-30 01:03:50 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pa-panama-city-last.json | size=291 | mtime=2026-09-30 01:06:07 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mn-ulan-bator-last.json | size=292 | mtime=2026-09-30 01:05:36 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ls-maseru-last.json | size=284 | mtime=2026-09-30 01:05:19 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/be-brussels-last.json | size=287 | mtime=2026-09-30 01:06:09 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bg-sofia-last.json | size=282 | mtime=2026-09-30 01:06:11 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/qa-doha-last.json | size=278 | mtime=2026-09-30 01:06:23 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mt-valletta-last.json | size=285 | mtime=2026-09-30 01:05:43 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ge-tbilisi-last.json | size=285 | mtime=2026-09-30 01:03:39 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gg-st-peter-port-last.json | size=300 | mtime=2026-09-30 01:03:42 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ec-quito-last.json | size=282 | mtime=2026-09-30 01:03:20 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bt-thimphu-last.json | size=284 | mtime=2026-09-30 01:06:22 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mu-port-louis-last.json | size=295 | mtime=2026-09-30 01:05:44 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lc-castries-last.json | size=293 | mtime=2026-09-30 01:05:14 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pl-warsaw-last.json | size=283 | mtime=2026-09-30 01:06:14 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bd-dhaka-last.json | size=284 | mtime=2026-09-30 01:06:08 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/np-kathmandu-last.json | size=287 | mtime=2026-09-30 01:06:01 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pg-port-moresby-last.json | size=304 | mtime=2026-09-30 01:06:10 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ar-buenos-aires-last.json | size=298 | mtime=2026-09-30 01:05:59 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mh-majuro-last.json | size=293 | mtime=2026-09-30 01:05:32 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/eg-cairo-last.json | size=279 | mtime=2026-09-30 01:03:22 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cd-kinshasa-last.json | size=312 | mtime=2026-09-30 01:06:30 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mp-saipan-last.json | size=302 | mtime=2026-09-30 01:05:37 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bn-bandar-seri-begawan-last.json | size=308 | mtime=2026-09-30 01:06:17 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bo-sucre-last.json | size=283 | mtime=2026-09-30 01:06:18 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lr-monrovia-last.json | size=287 | mtime=2026-09-30 01:05:18 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/es-madrid-last.json | size=281 | mtime=2026-09-30 01:03:26 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ms-plymouth-last.json | size=291 | mtime=2026-09-30 01:05:42 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gi-gibraltar-last.json | size=290 | mtime=2026-09-30 01:03:44 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dz-algiers-last.json | size=284 | mtime=2026-09-30 01:03:19 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mc-monaco-last.json | size=282 | mtime=2026-09-30 01:05:28 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/af-kabul-last.json | size=285 | mtime=2026-09-30 01:05:51 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ro-bucharest-last.json | size=289 | mtime=2026-09-30 01:06:25 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ag-saint-john-s-last.json | size=309 | mtime=2026-09-30 01:05:53 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pn-adamstown-last.json | size=302 | mtime=2026-09-30 01:06:17 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ir-tehran-last.json | size=281 | mtime=2026-09-30 01:04:12 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fj-suva-last.json | size=279 | mtime=2026-09-30 01:03:30 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/by-minsk-last.json | size=281 | mtime=2026-09-30 01:06:24 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/au-canberra-last.json | size=291 | mtime=2026-09-30 01:06:02 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gw-bissau-last.json | size=290 | mtime=2026-09-30 01:03:56 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/nc-noum-a-last.json | size=296 | mtime=2026-09-30 01:05:54 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lt-vilnius-last.json | size=287 | mtime=2026-09-30 01:05:21 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kw-kuwait-city-last.json | size=292 | mtime=2026-09-30 01:05:07 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gb-london-last.json | size=291 | mtime=2026-09-30 01:03:37 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/am-yerevan-last.json | size=285 | mtime=2026-09-30 01:05:56 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bb-bridgetown-last.json | size=294 | mtime=2026-09-30 01:06:06 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hr-zagreb-last.json | size=283 | mtime=2026-09-30 01:04:00 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bi-bujumbura-last.json | size=290 | mtime=2026-09-30 01:06:13 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ga-libreville-last.json | size=288 | mtime=2026-09-30 01:03:36 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ng-abuja-last.json | size=278 | mtime=2026-09-30 01:05:57 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mx-mexico-city-last.json | size=292 | mtime=2026-09-30 01:05:48 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fo-t-rshavn-last.json | size=294 | mtime=2026-09-30 01:03:33 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ly-tripoli-last.json | size=284 | mtime=2026-09-30 01:05:25 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ch-bern-last.json | size=282 | mtime=2026-09-30 01:06:34 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/et-addis-ababa-last.json | size=294 | mtime=2026-09-30 01:03:27 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kz-astana-last.json | size=286 | mtime=2026-09-30 01:05:10 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gp-basse-terre-last.json | size=298 | mtime=2026-09-30 01:03:49 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/jp-tokyo-last.json | size=280 | mtime=2026-09-30 01:04:56 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ai-the-valley-last.json | size=293 | mtime=2026-09-30 01:05:54 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ee-tallinn-last.json | size=285 | mtime=2026-09-30 01:03:21 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bj-porto-novo-last.json | size=288 | mtime=2026-09-30 01:06:14 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cc-west-island-last.json | size=311 | mtime=2026-09-30 01:06:29 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pf-papeete-last.json | size=302 | mtime=2026-09-30 01:06:09 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kr-seoul-last.json | size=286 | mtime=2026-09-30 01:05:06 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/no-oslo-last.json | size=277 | mtime=2026-09-30 01:06:00 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/om-muscat-last.json | size=280 | mtime=2026-09-30 01:06:06 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fi-helsinki-last.json | size=287 | mtime=2026-09-30 01:03:28 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kp-pyongyang-last.json | size=294 | mtime=2026-09-30 01:05:05 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pk-islamabad-last.json | size=290 | mtime=2026-09-30 01:06:13 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/surfreports_raw_current.html | size=65472 | mtime=2026-09-30 01:03:32 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html | size=65472 | mtime=2026-09-30 01:03:32 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json | size=73428 | mtime=2026-09-30 01:03:30 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=822 | mtime=2026-09-30 01:05:51 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=161 | mtime=2026-09-30 01:05:51 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=86 | mtime=2026-09-30 01:05:51 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=116 | mtime=2026-09-30 01:05:51 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=278528 | mtime=2026-09-30 01:05:51 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2441 | mtime=2026-09-30 01:05:51 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=164667 | mtime=2026-09-30 01:06:47 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/CloudTTS/scripts/route.py | size=7259 | mtime=2026-09-30 01:03:47 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/CloudTTS/scripts/envload.py | size=845 | mtime=2026-09-30 01:03:24 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/CloudTTS/scripts/__init__.py | size=24 | mtime=2026-09-30 01:03:24 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/CloudTTS/__init__.py | size=121 | mtime=2026-09-30 01:03:25 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/CloudTTS/README.md | size=1332 | mtime=2026-09-30 01:03:52 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/CloudTTS/__main__.py | size=125 | mtime=2026-09-30 01:03:26 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/README.md | size=6971 | mtime=2026-09-30 01:06:29 | domain=Geology | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/ApiPrices/scripts/job.py | size=2880 | mtime=2026-09-30 01:03:33 | domain=System | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/ApiPrices/scripts/cursor_fallback.py | size=5554 | mtime=2026-09-30 01:03:24 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/keyrings/login.keyring | size=2811 | mtime=2026-09-30 01:05:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gvfs-metadata/root | size=64 | mtime=2026-09-30 01:06:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ja_dict | size=47652 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lfn_dict | size=2793 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/si_dict | size=85384 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/pa_dict | size=79953 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/az_dict | size=43773 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/bpy_dict | size=5226 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/tk_dict | size=20868 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/sr_dict | size=46832 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lb_dict | size=687931 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/el_dict | size=72841 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ro_dict | size=68538 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ne_dict | size=95377 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/fr_dict | size=63727 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/hi_dict | size=92143 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/sw_dict | size=47804 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ru_dict | size=8538195 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/tn_dict | size=3072 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ga_dict | size=52673 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/phondata-manifest | size=21866 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/nci_dict | size=1534 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/nog_dict | size=3294 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/he_dict | size=10665 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/an_dict | size=6691 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/as_dict | size=5005 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/en_dict | size=168204 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ta_dict | size=209553 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/es_dict | size=49285 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/grc_dict | size=3433 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/uk_dict | size=3492 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/hu_dict | size=177886 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/da_dict | size=245287 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/tt_dict | size=2121 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/kl_dict | size=2838 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/hak_dict | size=3335 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/sd_dict | size=59928 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/mi_dict | size=1346 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/om_dict | size=2302 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ur_dict | size=133556 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/be_dict | size=2652 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ky_dict | size=64977 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/qya_dict | size=1939 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/tr_dict | size=46793 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ko_dict | size=47523 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/phonindex | size=43316 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/jbo_dict | size=2243 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/cmn_dict | size=1566347 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lv_dict | size=66337 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/mk_dict | size=63859 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/mt_dict | size=4384 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/sk_dict | size=50002 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/pl_dict | size=76620 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/ko | size=51 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/az | size=45 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/ug | size=24 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/tr | size=25 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/kk | size=40 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/ky | size=43 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/tk | size=25 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/cv | size=40 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/uz | size=39 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/tt | size=23 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/nog | size=39 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/kaa | size=28 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/trk/ba | size=25 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sem/ti | size=93 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sem/am | size=41 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sem/mt | size=41 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sem/ar | size=50 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sem/he | size=40 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/eu | size=54 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/urj/et | size=237 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/urj/fi | size=237 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/urj/smj | size=45 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/urj/hu | size=73 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/grk/grc | size=99 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/grk/el | size=23 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/dra/kn | size=55 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/dra/ml | size=57 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/dra/te | size=70 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/dra/ta | size=51 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/myn/quc | size=210 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/cel/ga | size=66 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/cel/gd | size=51 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/cel/cy | size=37 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/bat/lv | size=229 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/bat/lt | size=28 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/bat/ltg | size=312 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/qu | size=88 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/jpx/ja | size=52 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/tai/th | size=37 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/tai/shn | size=92 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/esx/kl | size=30 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zls/sr | size=250 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zls/mk | size=28 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zls/bg | size=111 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zls/hr | size=262 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zls/sl | size=43 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zls/bs | size=230 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/cus/om | size=39 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zle/ru-cl | size=91 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zle/uk | size=97 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zle/ru | size=57 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zle/ru-LV | size=280 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zle/be | size=52 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zlw/sk | size=24 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zlw/cs | size=23 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/zlw/pl | size=38 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmq/nb | size=87 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmq/fo | size=104 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmq/is | size=27 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmq/sv | size=25 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmq/da | size=43 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/ne | size=37 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/mr | size=41 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/bpy | size=39 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/bn | size=25 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/kok | size=26 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/ur | size=94 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/as | size=42 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/gu | size=42 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/sd | size=66 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/pa | size=25 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/si | size=55 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/hi | size=23 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/inc/or | size=39 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/miz/mto | size=183 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/bnt/tn | size=42 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/bnt/sw | size=41 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/art/ia | size=29 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/art/jbo | size=69 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/art/sjn | size=175 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/art/xex | size=103 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/art/eo | size=41 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/art/qdb | size=57 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/art/qya | size=173 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/art/py | size=140 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/art/piqd | size=56 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/art/io | size=50 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/art/lfn | size=135 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/iro/chr | size=569 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/aav/vi-VN-x-central | size=143 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/aav/vi-VN-x-south | size=142 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/aav/vi | size=111 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sai/gn | size=47 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/ccs/ka | size=124 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/en-GB-scotland | size=295 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/nl | size=23 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/de | size=42 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/lb | size=31 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/en-GB-x-gbcwmd | size=188 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/en-029 | size=335 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/en-US | size=257 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/en-US-nyc | size=271 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/en-GB-x-gbclan | size=238 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/en-Shaw | size=119 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/en | size=140 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/en-GB-x-rp | size=249 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/gmw/af | size=123 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/ine/hy | size=61 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/ine/hyw | size=365 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/ine/sq | size=103 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sit/my | size=56 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sit/cmn | size=686 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sit/yue | size=194 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sit/cmn-Latn-pinyin | size=161 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sit/yue-Latn-jyutping | size=213 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/sit/hak | size=128 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/map/haw | size=42 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/ira/ku | size=40 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/ira/fa | size=90 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/ira/fa-Latn | size=269 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/azc/nci | size=114 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/it | size=109 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/pap | size=62 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/fr-CH | size=86 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/pt-BR | size=109 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/ca-va | size=81 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/es | size=63 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/ca-ba | size=80 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/es-419 | size=167 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/pt | size=95 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/ca | size=38 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/ht | size=140 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/ro | size=26 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/fr-BE | size=84 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/an | size=27 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/fr | size=79 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/roa/ca-nw | size=73 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/itc/la | size=297 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/poz/mi | size=367 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/poz/ms | size=430 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lang/poz/id | size=134 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/sv_dict | size=47836 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/phondata | size=554740 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ba_dict | size=2098 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/th_dict | size=2301 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/id_dict | size=43458 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/cs_dict | size=50455 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ms_dict | size=53541 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Annie | size=315 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/announcer | size=300 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/max | size=225 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/boris | size=224 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/f3 | size=375 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/iven | size=261 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Andrea | size=357 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/m8 | size=284 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/rob | size=265 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/anika | size=493 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/m1 | size=335 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/klatt3 | size=39 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/quincy | size=354 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/m2 | size=264 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Storm | size=420 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/klatt5 | size=39 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/robosoft | size=451 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Reed | size=202 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/adam | size=75 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Diogo | size=379 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/steph | size=364 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/iven3 | size=262 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/ed | size=287 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/steph2 | size=367 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Andy | size=320 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/m7 | size=254 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/robosoft8 | size=243 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Gene2 | size=283 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/robosoft3 | size=455 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/f5 | size=432 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Tweaky | size=3189 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/john | size=3186 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/f4 | size=350 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/aunty | size=358 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/caleb | size=57 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Mike | size=112 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/shelby | size=280 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/robosoft5 | size=445 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/iven4 | size=261 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/michel | size=404 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/AnxiousAndy | size=361 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/robosoft6 | size=287 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/sandro | size=530 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Henrique | size=381 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/grandpa | size=256 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Marco | size=467 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/benjamin | size=201 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/zac | size=275 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/norbert | size=3189 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/edward2 | size=152 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/steph3 | size=377 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Demonic | size=3858 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/f2 | size=357 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/m3 | size=300 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/klatt2 | size=38 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/whisper | size=186 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/robosoft4 | size=447 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/m4 | size=290 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/RicishayMax3 | size=435 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Jacky | size=267 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/RicishayMax | size=233 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/belinda | size=340 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/linda | size=350 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Denis | size=305 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/antonio | size=381 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/UniRobot | size=417 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/travis | size=383 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/f1 | size=324 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/klatt | size=38 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Mario | size=270 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Mr serious | size=3193 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/robosoft7 | size=410 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/fast | size=149 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/grandma | size=263 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/anikaRobot | size=512 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/m6 | size=188 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Hugo | size=378 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/edward | size=151 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Alex | size=128 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Nguyen | size=280 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/kaukovalta | size=361 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/victor | size=253 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Gene | size=281 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/whisperf | size=392 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/pablo | size=3142 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/marcelo | size=251 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Alicia | size=474 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/robert | size=274 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Michael | size=270 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/Lee | size=338 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/iven2 | size=279 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/mike2 | size=188 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/pedro | size=352 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/klatt6 | size=39 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/david | size=112 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/gustave | size=253 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/robosoft2 | size=454 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/miguel | size=382 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/m5 | size=262 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/klatt4 | size=39 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/croak | size=93 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/paul | size=284 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/ian | size=3168 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/voices/!v/RicishayMax2 | size=435 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/my_dict | size=95948 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/pt_dict | size=76389 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/nl_dict | size=65396 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/sjn_dict | size=1783 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/uz_dict | size=2540 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ml_dict | size=92345 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/mr_dict | size=87391 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/intonations | size=2312 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/no_dict | size=4178 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/qdb_dict | size=3028 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/bg_dict | size=87051 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/or_dict | size=89246 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/gd_dict | size=49121 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/is_dict | size=44354 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/pap_dict | size=2128 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/kk_dict | size=1859 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ti_dict | size=57920 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/haw_dict | size=2443 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/vi_dict | size=52608 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/hr_dict | size=49388 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/sl_dict | size=45047 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/eu_dict | size=48841 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/cv_dict | size=1344 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/hy_dict | size=62263 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/io_dict | size=2165 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ht_dict | size=1803 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/qu_dict | size=1919 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/sq_dict | size=45003 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/et_dict | size=44263 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/smj_dict | size=35095 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ka_dict | size=87775 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/mto_dict | size=3960 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ku_dict | size=2265 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/bn_dict | size=89979 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/piqd_dict | size=1710 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/eo_dict | size=4666 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/yue_dict | size=563571 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/af_dict | size=121473 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/gu_dict | size=82480 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/fa_dict | size=292907 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/shn_dict | size=88172 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/kok_dict | size=6394 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ia_dict | size=331275 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/it_dict | size=154408 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/kn_dict | size=87828 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/bs_dict | size=47068 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/gn_dict | size=3248 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/cy_dict | size=43130 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/la_dict | size=3806 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/phontab | size=58652 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lt_dict | size=49890 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/te_dict | size=94837 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/quc_dict | size=1450 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ar_dict | size=478165 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ca_dict | size=310331 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/chr_dict | size=2859 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ug_dict | size=2070 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/py_dict | size=2409 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/fi_dict | size=43928 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/de_dict | size=69277 | mtime=2026-09-30 01:03:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/rootrecord/espeak-ng-data/am_dict | size=63878 | mtime=2026-09-30 01:03:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/sync.lock | size=152 | mtime=2026-09-30 01:05:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:05:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:04:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:52 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/sync.lock | size=152 | mtime=2026-09-30 01:05:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:05:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:05:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock | size=152 | mtime=2026-09-30 01:05:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:05:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:05:00 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8f0116b3-9fe3-4789-9288-40e5184ce70d/files/rootrecord-operating-contract.md | size=27555 | mtime=2026-09-30 01:05:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/de9f012e-7ddc-442e-9054-ab7295b12af1/.sync/sync.lock | size=152 | mtime=2026-09-30 01:05:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/de9f012e-7ddc-442e-9054-ab7295b12af1/.sync/index.sqlite-wal | size=3172432 | mtime=2026-09-30 01:05:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/de9f012e-7ddc-442e-9054-ab7295b12af1/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:05:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/sync.lock | size=152 | mtime=2026-09-30 01:05:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:05:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:04:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:42 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:42 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite | size=36864 | mtime=2026-09-30 01:06:14 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59458704-5ea3-417d-9235-dd07efbaf00e/.sync/sync.lock | size=152 | mtime=2026-09-30 01:05:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59458704-5ea3-417d-9235-dd07efbaf00e/.sync/index.sqlite-wal | size=2356672 | mtime=2026-09-30 01:05:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59458704-5ea3-417d-9235-dd07efbaf00e/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:05:00 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite | size=36864 | mtime=2026-09-30 01:05:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:42 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/sync.lock | size=152 | mtime=2026-09-30 01:05:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:05:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:05:00 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/sync.lock | size=152 | mtime=2026-09-30 01:05:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:05:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:05:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:42 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f43c6dbd-3f29-4309-b43a-ceb192c299e5/.sync/sync.lock | size=152 | mtime=2026-09-30 01:05:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f43c6dbd-3f29-4309-b43a-ceb192c299e5/.sync/index.sqlite-wal | size=3802792 | mtime=2026-09-30 01:05:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f43c6dbd-3f29-4309-b43a-ceb192c299e5/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:05:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/sync.lock | size=152 | mtime=2026-09-30 01:05:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:05:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:04:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:43 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/sync.lock | size=152 | mtime=2026-09-30 01:05:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:05:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:05:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/index.sqlite-wal | size=3333112 | mtime=2026-09-30 01:06:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:06:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/sync.lock | size=152 | mtime=2026-09-30 01:06:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-wal | size=3370192 | mtime=2026-09-30 01:06:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/mount.json | size=111 | mtime=2026-09-30 01:05:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:06:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/wireplumber/stream-properties | size=730 | mtime=2026-09-30 01:06:48 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/CloudTTS | mtime=2026-09-30 01:05:01 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/CloudTTS | mtime=2026-09-30 01:05:00 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/CloudTTS/scripts | mtime=2026-09-30 01:05:00 | source_job=worklog_scan
+- DELETED /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md | source_job=worklog_scan
+- DELETED /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md | source_job=worklog_scan
+- DELETED /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/990070.txt | source_job=worklog_scan
+
