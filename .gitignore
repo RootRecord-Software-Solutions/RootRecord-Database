@@ -147,6 +147,12 @@
 /Logs/Reports/Economy-Brief/*
 !/Logs/Reports/Economy-Brief/.gitkeep
 
+# Cloud narrative (WO-MIG-32): prompt packages, narrative text, and run log are runtime. Folder markers stay tracked.
+/Reports/CloudNarrative/*
+!/Reports/CloudNarrative/.gitkeep
+/Logs/Reports/CloudNarrative/*
+!/Logs/Reports/CloudNarrative/.gitkeep
+
 # Grok AI-usage ledger (WO-MIG-37): sqlite, summary, and run log are runtime. Folder markers stay tracked.
 /Reports/AI-Usage/*
 !/Reports/AI-Usage/.gitkeep
