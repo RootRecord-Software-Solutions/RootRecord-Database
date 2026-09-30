@@ -14584,7 +14584,6 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/LogRetention/scripts/log_retention.py|11980|1790765924
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/LogRetention/__init__.py|62|1790765888
 /home/rootrecord/.local/share/gvfs-metadata/home|4436|1790765924
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite|36864|1790765913
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/agent-tools/c16d868c-72d6-4d73-9249-2ea68be0bb3b.txt|82959|1790766189
 /home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/boot_brief_current.md|934|1790766105
 /home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/boot_brief_current.speak.txt|406|1790766149
@@ -15430,11 +15429,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/am-yerevan-last.json|285|1790766672
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bb-bridgetown-last.json|294|1790766685
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ai-the-valley-last.json|293|1790766669
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/07/GOES18-HI-07-600x600/GOES18-HI-07-600x600_current.gif|6065256|1790766776
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/DayNightCloudMicroCombo/GOES18-HI-DayNightCloudMicroCombo-600x600/GOES18-HI-DayNightCloudMicroCombo-600x600_current.gif|9108262|1790766749
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/AirMass/GOES18-HI-AirMass-600x600/GOES18-HI-AirMass-600x600_current.gif|6267514|1790766716
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/Sandwich/GOES18-HI-Sandwich-600x600/GOES18-HI-Sandwich-600x600_current.gif|7951649|1790766731
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/FireTemperature/GOES18-HI-FireTemperature-600x600/GOES18-HI-FireTemperature-600x600_current.gif|3355344|1790766761
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_HNL/raw/clm_monthly_climate_summary_HNL_raw_current.html|24195|1790766745
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_ITO/raw/cli_daily_climate_summary_ITO_raw_current.html|28118|1790766730
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_LIH/raw/clm_monthly_climate_summary_LIH_raw_current.html|24159|1790766760
@@ -15475,8 +15469,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/RR5_archive/raw/RR5_archive_raw_current.html|59399|1790766842
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/rain_summary/rain_summary_current.txt|68265|1790766839
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/rain_summary/raw/rain_summary_raw_current.html|68265|1790766839
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/08/GOES18-HI-08-600x600/GOES18-HI-08-600x600_current.gif|7069769|1790766791
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/14/GOES18-HI-14-600x600/GOES18-HI-14-600x600_current.gif|6632979|1790766807
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/rtp_temp_precip_summary/raw/rtp_temp_precip_summary_raw_current.html|19324|1790766835
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/rra_hawaii_rainfall_summary/raw/rra_hawaii_rainfall_summary_raw_current.html|41831|1790766805
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/oso_hourly_obs/oso_hourly_obs_current.txt|14148|1790766820
@@ -15512,18 +15504,14 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G1-Scheduler-To-G3-Jobs-Map-2026-09-29.md|8921|1790767267
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Solar-Pacific-Old-Full-TopLevel-Catalog-2026-09-28.md|6517|1790767270
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite|36864|1790767228
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/canvases/ecosystem-migration-status.canvas.status.json|21|1790767586
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/AirMass/GOES19-EEP-AirMass-900x540/GOES19-EEP-AirMass-900x540_current.gif|13756750|1790767614
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite|36864|1790767588
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/canvases/ecosystem-migration-status.canvas.tsx|8046|1790767711
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/GEOCOLOR/GOES18-HI-GEOCOLOR-600x600/GOES18-HI-GEOCOLOR-600x600_current.gif|4168490|1790767719
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/02/GOES19-EEP-02-900x540/GOES19-EEP-02-900x540_current.gif|1835057|1790767659
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/07/GOES19-EEP-07-900x540/GOES19-EEP-07-900x540_current.gif|14648470|1790767674
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/13/GOES19-EEP-13-900x540/GOES19-EEP-13-900x540_current.gif|14099163|1790767689
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/FireTemperature/GOES19-EEP-FireTemperature-900x540/GOES19-EEP-FireTemperature-900x540_current.gif|3158167|1790767644
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/14/GOES19-EEP-14-900x540/GOES19-EEP-14-900x540_current.gif|14109814|1790767704
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/issuedby=HFO&product=RRA&site=hfo_current.html|41831|1790767696
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/raw/issuedby=HFO&product=RRA&site=hfo_raw_current.html|41831|1790767696
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite|36864|1790767695
 /home/rootrecord/RootRecord-Ecosystem/0 - Master-Prompt/state/state.json|2206|1790767885
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/02_current.gif|93399|1790767828
@@ -15548,10 +15536,8 @@
 /home/rootrecord/RootRecord-Ecosystem/0 - Master-Prompt/skill/SKILL.md|2065|1790767903
 /home/rootrecord/RootRecord-Ecosystem/0 - Master-Prompt/prompts/05-energy.md|2806|1790767913
 /home/rootrecord/RootRecord-Ecosystem/0 - Master-Prompt/README.md|4246|1790767904
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/15min.db|114688|1790767920
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/README.md|5107|1790767980
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/README.md|4159|1790767988
-/home/rootrecord/.local/share/gvfs-metadata/root|64|1790767926
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/113885.txt|2043|1790768152
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/README.md|9043|1790768165
 /home/rootrecord/RootRecord-Ecosystem/0 - Master-Prompt/prompts/08-repository-and-file-links.md|10279|1790768167
@@ -15562,11 +15548,6 @@
 /home/rootrecord/.local/share/gnome-shell/application_state|1953|1790768121
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite|36864|1790768169
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/2026-09-30-whats-left-for-alexander.md|7118|1790768185
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html|65472|1790768177
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/gtwo.php/basin=cpac&fdays=2/raw/basin=cpac&fdays=2_raw_current.html|84530|1790768218
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/gtwo.php/basin=cpac&fdays=2/basin=cpac&fdays=2_current.html|84530|1790768218
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/gtwo.php/basin=cpac&fdays=7/basin=cpac&fdays=7_current.html|84530|1790768278
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/gtwo.php/basin=cpac&fdays=7/raw/basin=cpac&fdays=7_raw_current.html|84530|1790768278
 /home/rootrecord/RootRecord-Ecosystem/README.md|7078|1790768185
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md|205|1790768338
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790768338
@@ -15606,18 +15587,11 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/index_current.html|163831|1790768578
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/raw/index_raw_current.html|163831|1790768578
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite|36864|1790768478
-/home/rootrecord/.local/state/wireplumber/stream-properties|730|1790768461
 /home/rootrecord/.ollama/skills/a-eyes/MIGRATED.md|179|1790768610
 /home/rootrecord/.ollama/skills/reports/MIGRATED.md|93|1790768610
 /home/rootrecord/.ollama/skills/system-stats/MIGRATED.md|117|1790768610
 /home/rootrecord/.ollama/skills/github/MIGRATED.md|115|1790768610
 /home/rootrecord/.ollama/skills/plumbing/MIGRATED.md|140|1790768610
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|454656|1790768610
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|897024|1790768610
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|44072960|1790768610
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|245760|1790768610
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|74|1790768610
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|186|1790768610
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif|2091094|1790768579
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md|9939|1790768578
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/wa0_airmets_current.md|1002|1790768578
@@ -15739,75 +15713,106 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/fa0_area_forecast/raw/fa0_area_forecast_raw_current.html|19312|1790768641
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hurricanes/tracking/Nolo_20260929T220441.9291071000/track.json|2537|1790768637
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/README.md|101562|1790768579
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|820|1790768681
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790768681
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790768681
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790768681
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|299008|1790768681
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2435|1790768681
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|725423|1790768580
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/reports/README.md|101370|1790768579
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal|4120032|1790768713
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm|32768|1790768713
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal|4120032|1790768712
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm|32768|1790768696
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-wal|4120032|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-wal|4120032|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-wal|4120032|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal|4120032|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal|4120032|1790768711
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm|32768|1790768711
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/sync.lock|150|1790768716
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-wal|1503832|1790768711
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-shm|32768|1790768696
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-wal|4120032|1790768711
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-shm|32768|1790768711
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal|4120032|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|150|1790768716
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790768707
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790768691
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-wal|4120032|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-shm|32768|1790768700
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-wal|4120032|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal|4120032|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/sync.lock|150|1790768716
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-wal|4120032|1790768711
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-shm|32768|1790768695
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/sync.lock|150|1790768716
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-wal|4120032|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/sync.lock|150|1790768716
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-wal|4120032|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/sync.lock|150|1790768716
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-wal|4120032|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/sync.lock|150|1790768716
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-wal|4120032|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/sync.lock|150|1790768716
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-wal|4120032|1790768710
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite|36864|1790768679
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-shm|32768|1790768710
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/sync.lock|150|1790768715
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-wal|4120032|1790768706
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm|32768|1790768675
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/canvases/ecosystem-migration-status.canvas.status.json|21|1790768799
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|458752|1790768813
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/15min.db|118784|1790768750
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|905216|1790768813
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|45015040|1790768813
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|253952|1790768750
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|73|1790768813
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|186|1790768813
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html|65492|1790768718
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/gtwo.php/basin=cpac&fdays=2/raw/basin=cpac&fdays=2_raw_current.html|84683|1790768758
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/gtwo.php/basin=cpac&fdays=2/basin=cpac&fdays=2_current.html|84683|1790768758
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/gtwo.php/basin=cpac&fdays=7/basin=cpac&fdays=7_current.html|84683|1790768818
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/gtwo.php/basin=cpac&fdays=7/raw/basin=cpac&fdays=7_raw_current.html|84683|1790768818
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/08/GOES18-HI-08-600x600/GOES18-HI-08-600x600_current.gif|7116103|1790768831
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/07/GOES18-HI-07-600x600/GOES18-HI-07-600x600_current.gif|6190641|1790768816
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/GEOCOLOR/GOES18-HI-GEOCOLOR-600x600/GOES18-HI-GEOCOLOR-600x600_current.gif|3806730|1790768742
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/DayNightCloudMicroCombo/GOES18-HI-DayNightCloudMicroCombo-600x600/GOES18-HI-DayNightCloudMicroCombo-600x600_current.gif|9347630|1790768786
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/AirMass/GOES18-HI-AirMass-600x600/GOES18-HI-AirMass-600x600_current.gif|6271745|1790768756
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/Sandwich/GOES18-HI-Sandwich-600x600/GOES18-HI-Sandwich-600x600_current.gif|7725464|1790768775
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/FireTemperature/GOES18-HI-FireTemperature-600x600/GOES18-HI-FireTemperature-600x600_current.gif|3254453|1790768801
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/14/GOES18-HI-14-600x600/GOES18-HI-14-600x600_current.gif|6588945|1790768846
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/issuedby=HFO&product=RRA&site=hfo_current.html|41831|1790768715
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/raw/issuedby=HFO&product=RRA&site=hfo_raw_current.html|41831|1790768715
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|820|1790768814
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790768814
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790768814
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790768814
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|299008|1790768814
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2422|1790768814
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|771730|1790768719
+/home/rootrecord/.local/share/gvfs-metadata/root|64|1790768814
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal|4120032|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm|32768|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal|4120032|1790768845
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm|32768|1790768820
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/sync.lock|150|1790768845
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-wal|4120032|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-shm|32768|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-wal|4120032|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-shm|32768|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-wal|4120032|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-shm|32768|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal|4120032|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm|32768|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal|4120032|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm|32768|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-wal|1627432|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-shm|32768|1790768820
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-wal|4120032|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-shm|32768|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal|4120032|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm|32768|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790768844
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790768829
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-wal|4120032|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-shm|32768|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/index.sqlite-wal|218392|1790768839
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/index.sqlite|4096|1790768729
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/mount.json|111|1790768730
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/index.sqlite-shm|32768|1790768823
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-wal|4120032|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-shm|32768|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal|4120032|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm|32768|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-wal|4120032|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-shm|32768|1790768820
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-wal|4120032|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite|36864|1790768804
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-shm|32768|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-wal|4120032|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-shm|32768|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-wal|4120032|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-shm|32768|1790768838
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-wal|4120032|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-shm|32768|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/sync.lock|150|1790768846
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-wal|4120032|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-shm|32768|1790768837
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/sync.lock|150|1790768847
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-wal|4120032|1790768839
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm|32768|1790768839
+/home/rootrecord/.local/state/wireplumber/stream-properties|730|1790768752
