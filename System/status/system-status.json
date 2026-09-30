@@ -1,28 +1,28 @@
 {
   "skill": "system-stats",
-  "generated_at": "2026-09-30T05:25:12.657Z",
+  "generated_at": "2026-09-30T05:29:10.963Z",
   "host": "rootrecord-software-solutions",
   "current": {
-    "observed_at": "2026-09-30T05:25:11.780Z",
+    "observed_at": "2026-09-30T05:29:10.046Z",
     "host": "rootrecord-software-solutions",
     "metrics": {
       "cpu_percent": {
-        "value": 6.16,
+        "value": 5.07,
         "unit": "%",
         "state": "measured"
       },
       "load1": {
-        "value": 1.68,
+        "value": 1.36,
         "unit": "load",
         "state": "measured"
       },
       "load5": {
-        "value": 1.89,
+        "value": 1.7,
         "unit": "load",
         "state": "measured"
       },
       "load15": {
-        "value": 1.83,
+        "value": 1.77,
         "unit": "load",
         "state": "measured"
       },
@@ -32,12 +32,12 @@
         "state": "measured"
       },
       "mem_available_bytes": {
-        "value": 6029012992.0,
+        "value": 6081069056.0,
         "unit": "B",
         "state": "measured"
       },
       "mem_used_percent": {
-        "value": 60.39,
+        "value": 60.05,
         "unit": "%",
         "state": "measured"
       }
