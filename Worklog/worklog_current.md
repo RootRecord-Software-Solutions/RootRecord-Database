@@ -2294,3 +2294,183 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:21:18 | source_job=worklog_scan
 - MOD_FILE /home/rootrecord/.local/state/wireplumber/stream-properties | size=730 | mtime=2026-09-30 13:19:53 | source_job=worklog_scan
 
+### 2026-09-30 13:23:32 HST
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/assets/image-b88eb4fb-cc4d-4e7c-8e90-a53d7de83c17.png | size=36373 | mtime=2026-09-30 13:22:00 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-09-30 13:22:10 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-09-30 13:22:10 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db | size=10080256 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/Pictures/Screenshots/Screenshot From 2026-09-30 13-21-55.png | size=36373 | mtime=2026-09-30 13:21:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-supervisor.json | size=33 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon.json | size=156 | mtime=2026-09-30 13:23:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-backend-return.json | size=20 | mtime=2026-09-30 13:22:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon-connection.json | size=1666 | mtime=2026-09-30 13:23:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db | size=942080 | mtime=2026-09-30 13:22:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db | size=2396160 | mtime=2026-09-30 13:22:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db | size=122728448 | mtime=2026-09-30 13:22:57 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json | size=74 | mtime=2026-09-30 13:22:58 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json | size=163 | mtime=2026-09-30 13:22:58 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/surfreports_raw_current.html | size=65492 | mtime=2026-09-30 13:22:34 | domain=Weather | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/archive/09-30-2026/surfreports_raw_20260930T132234-1000.html | size=65472 | mtime=2026-09-30 13:21:10 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html | size=65492 | mtime=2026-09-30 13:22:34 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/07/GOES19-EEP-07-900x540/GOES19-EEP-07-900x540_current.gif | size=12625059 | mtime=2026-09-30 13:22:13 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/AirMass/GOES19-EEP-AirMass-900x540/GOES19-EEP-AirMass-900x540_current.gif | size=14590430 | mtime=2026-09-30 13:21:14 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json | size=75553 | mtime=2026-09-30 13:21:49 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/wa0_airmets/raw/wa0_airmets_raw_current.html | size=24273 | mtime=2026-09-30 13:21:49 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/mww_marine_weather_message/raw/mww_marine_weather_message_raw_current.html | size=22307 | mtime=2026-09-30 13:21:34 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/fa0_area_forecast/raw/fa0_area_forecast_raw_current.html | size=24273 | mtime=2026-09-30 13:21:19 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hurricanes/tracking/Nolo_20260929T220441.9291071000/track.json | size=4529 | mtime=2026-09-30 13:21:16 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=819 | mtime=2026-09-30 13:22:58 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=162 | mtime=2026-09-30 13:22:58 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=84 | mtime=2026-09-30 13:22:58 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=114 | mtime=2026-09-30 13:22:58 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=442368 | mtime=2026-09-30 13:22:58 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2421 | mtime=2026-09-30 13:22:59 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=484757 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/AI/FLM/Personas/ava.json | size=8735 | mtime=2026-09-30 13:23:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts/council-relay.py | size=28512 | mtime=2026-09-30 13:23:27 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gnome-shell/application_state | size=1954 | mtime=2026-09-30 13:21:26 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gvfs-metadata/root | size=64 | mtime=2026-09-30 13:22:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/recently-used.xbel | size=157826 | mtime=2026-09-30 13:21:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20f75464-a093-49d1-aab4-0b24c0699ea7/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20f75464-a093-49d1-aab4-0b24c0699ea7/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20f75464-a093-49d1-aab4-0b24c0699ea7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4937f73c-3496-471b-aebd-fc812141ce91/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4937f73c-3496-471b-aebd-fc812141ce91/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4937f73c-3496-471b-aebd-fc812141ce91/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/aa334abf-7189-48e2-97bf-ef71b467a3d6/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/aa334abf-7189-48e2-97bf-ef71b467a3d6/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/aa334abf-7189-48e2-97bf-ef71b467a3d6/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49b32f7b-dd2f-462a-ae51-9c9bedd86d50/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49b32f7b-dd2f-462a-ae51-9c9bedd86d50/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49b32f7b-dd2f-462a-ae51-9c9bedd86d50/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4a68c180-fe32-4826-aa78-9a260c6d45ac/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4a68c180-fe32-4826-aa78-9a260c6d45ac/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4a68c180-fe32-4826-aa78-9a260c6d45ac/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:14 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e06101f2-e89d-46a0-ac86-13641b0d62ed/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e06101f2-e89d-46a0-ac86-13641b0d62ed/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e06101f2-e89d-46a0-ac86-13641b0d62ed/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/531b8016-8212-409e-9974-c74a8245f849/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/531b8016-8212-409e-9974-c74a8245f849/.sync/index.sqlite-wal | size=1775752 | mtime=2026-09-30 13:23:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/531b8016-8212-409e-9974-c74a8245f849/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1992622c-df06-44eb-bfd9-eb16244238ad/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1992622c-df06-44eb-bfd9-eb16244238ad/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1992622c-df06-44eb-bfd9-eb16244238ad/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e60b4e7-08ec-48af-a7ca-b5bb948b2928/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e60b4e7-08ec-48af-a7ca-b5bb948b2928/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e60b4e7-08ec-48af-a7ca-b5bb948b2928/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e011ff89-7b4c-47f6-aefa-627ea5664b75/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e011ff89-7b4c-47f6-aefa-627ea5664b75/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e011ff89-7b4c-47f6-aefa-627ea5664b75/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/431767bf-39f4-4144-9041-16c46597b6dd/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/431767bf-39f4-4144-9041-16c46597b6dd/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/431767bf-39f4-4144-9041-16c46597b6dd/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b05bb663-534e-47a9-89e9-7d1cdf64df5a/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b05bb663-534e-47a9-89e9-7d1cdf64df5a/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b05bb663-534e-47a9-89e9-7d1cdf64df5a/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a215f2b6-4178-4df3-b746-205d276c74ea/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a215f2b6-4178-4df3-b746-205d276c74ea/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a215f2b6-4178-4df3-b746-205d276c74ea/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c4c53157-d0cd-4a88-8960-4221dad91fd2/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c4c53157-d0cd-4a88-8960-4221dad91fd2/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c4c53157-d0cd-4a88-8960-4221dad91fd2/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e96480da-271b-4675-9b39-1b72cb188ac4/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e96480da-271b-4675-9b39-1b72cb188ac4/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e96480da-271b-4675-9b39-1b72cb188ac4/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/17a8d8ac-e45f-4e7b-bb22-b3e31a288454/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/17a8d8ac-e45f-4e7b-bb22-b3e31a288454/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/17a8d8ac-e45f-4e7b-bb22-b3e31a288454/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3797d3b-8540-4cf0-a9a1-ce7cd109486e/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3797d3b-8540-4cf0-a9a1-ce7cd109486e/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3797d3b-8540-4cf0-a9a1-ce7cd109486e/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/dd8bd541-3d45-47ed-8bf8-4c49bb119c14/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/dd8bd541-3d45-47ed-8bf8-4c49bb119c14/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/dd8bd541-3d45-47ed-8bf8-4c49bb119c14/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9cf93fa4-ce51-4690-8a50-3b87b06bac50/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9cf93fa4-ce51-4690-8a50-3b87b06bac50/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9cf93fa4-ce51-4690-8a50-3b87b06bac50/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:14 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cdaebc68-8781-43ba-8d94-ca9f616b4ee9/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cdaebc68-8781-43ba-8d94-ca9f616b4ee9/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cdaebc68-8781-43ba-8d94-ca9f616b4ee9/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cb1e4c5a-e880-471a-b308-6e0f755c859d/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cb1e4c5a-e880-471a-b308-6e0f755c859d/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cb1e4c5a-e880-471a-b308-6e0f755c859d/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/sync.lock | size=150 | mtime=2026-09-30 13:23:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 13:23:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/wireplumber/stream-properties | size=730 | mtime=2026-09-30 13:21:56 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/assets | mtime=2026-09-30 13:22:00 | source_job=worklog_scan
+- DELETED /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md | source_job=worklog_scan
+- DELETED /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md | source_job=worklog_scan
+
