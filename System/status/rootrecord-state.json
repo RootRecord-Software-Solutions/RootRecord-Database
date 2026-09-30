@@ -1,0 +1,1980 @@
+{
+  "generated_at": "2026-09-30T13:45:29-10:00",
+  "schema_version": 1,
+  "secrets_included": false,
+  "system": {
+    "host": {
+      "value": "rootrecord-software-solutions",
+      "source": "uname",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:29-10:00"
+    },
+    "os": {
+      "value": "Linux 7.0.0-34-generic",
+      "source": "uname",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:29-10:00"
+    },
+    "resources": {
+      "value": {
+        "cpu_percent": 5.42,
+        "mem_used_percent": 56.32,
+        "load1": 1.48,
+        "load5": 1.69,
+        "load15": 1.69
+      },
+      "source": "system-status.json",
+      "confidence": "recent",
+      "observed_at": "2026-09-30T13:45:29-10:00",
+      "measured_at": "2026-09-30T23:44:24.697Z"
+    },
+    "power": {
+      "delta2": {
+        "value": {
+          "name": "Delta 2",
+          "soc_percent": 16.99,
+          "at": "2026-09-30T13:40:58-10:00",
+          "watts": {
+            "solar_input_power": 76,
+            "ac_input_power": 0,
+            "usbc_output_power": 18,
+            "charge_source": "none"
+          }
+        },
+        "source": "Energy/soc/delta2-last.json",
+        "confidence": "recent",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      "river2pro": {
+        "value": {
+          "name": "River 2 Pro",
+          "soc_percent": 67.08,
+          "at": "2026-09-30T13:44:23-10:00",
+          "watts": {
+            "solar_input_power": 0,
+            "ac_output_power": 103,
+            "ac_input_power": 0,
+            "usbc_output_power": 0,
+            "charge_source": "none"
+          }
+        },
+        "source": "Energy/soc/river2pro-last.json",
+        "confidence": "recent",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      }
+    }
+  },
+  "services": {
+    "ollama": {
+      "service": "ollama",
+      "status": "running",
+      "pids": [
+        2781,
+        255617
+      ],
+      "source": "process_scan",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:29-10:00",
+      "why_not": null
+    },
+    "council_relay": {
+      "service": "council_relay",
+      "status": "running",
+      "pids": [
+        256750,
+        267644,
+        274958,
+        288978,
+        289736,
+        304463,
+        305661,
+        305866,
+        308654,
+        309134,
+        309348,
+        309668,
+        313159,
+        736568,
+        883802,
+        1041791,
+        1099142
+      ],
+      "source": "process_scan",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:29-10:00",
+      "owner": "ava",
+      "why_not": {
+        "status": "degraded",
+        "kind": "broken",
+        "reason": "Relay count is not exactly one.",
+        "blocked_by": "single_getUpdates",
+        "enable_condition": ""
+      }
+    },
+    "desk_live": {
+      "service": "desk_live",
+      "status": "present",
+      "source": "desk-live.txt",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:29-10:00"
+    },
+    "root_monitor": {
+      "service": "root_monitor",
+      "status": "running",
+      "pids": [
+        378438,
+        438685,
+        439556
+      ],
+      "source": "process_scan",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:29-10:00"
+    },
+    "github_sync": {
+      "service": "github_sync",
+      "status": "scheduled",
+      "resident": false,
+      "source": "jobs.py",
+      "confidence": "configured",
+      "observed_at": "2026-09-30T13:45:29-10:00",
+      "why_not": null
+    },
+    "rootserver_poller": {
+      "service": "rootserver_poller",
+      "status": "running",
+      "pids": [
+        3096,
+        289736,
+        736568
+      ],
+      "source": "process_scan",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:29-10:00"
+    },
+    "flm": {
+      "service": "flm",
+      "status": "idle",
+      "pids": [],
+      "source": "process_scan",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:29-10:00",
+      "note": "Idle is normal. The model loads per reply."
+    }
+  },
+  "models": {
+    "installed": {
+      "value": [
+        "rr-council-bruce:latest",
+        "rr-security:latest",
+        "carly-telegram:latest",
+        "rr-energy:latest",
+        "rr-reason:latest",
+        "rr-system:latest",
+        "bruce-telegram:latest",
+        "rr-cameras:latest",
+        "rr-exec:latest",
+        "rr-council-ava:latest",
+        "rr-council-carly:latest",
+        "rr-weather:latest",
+        "ava-telegram:latest",
+        "gemma4:e4b",
+        "deepseek-coder-v2:16b",
+        "starcoder2:15b",
+        "phi4:14b",
+        "qwen2.5:14b",
+        "nomic-embed-text:latest",
+        "qwen2.5:1.5b-instruct-q8_0",
+        "llama3.2:3b-instruct-q4_K_M",
+        "gemma2:9b-instruct-q4_K_M",
+        "qwen2.5:7b-instruct-q4_K_M",
+        "mistral:7b-instruct-v0.3-q4_K_M",
+        "qwen2.5-coder:7b-instruct-q4_K_M"
+      ],
+      "source": "ollama list",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:30-10:00"
+    },
+    "active": {
+      "value": null,
+      "source": "process_scan",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:30-10:00",
+      "note": "empty pids means no resident FLM"
+    },
+    "performance": {
+      "value": {
+        "model": "llama3.2:3b",
+        "ctx": 4096,
+        "pmode": "performance",
+        "resident": false
+      },
+      "source": "ensure-relay.sh",
+      "confidence": "configured",
+      "observed_at": "2026-09-30T13:45:30-10:00"
+    }
+  },
+  "agents": {
+    "ava": {
+      "role": "default voice and the only getUpdates owner",
+      "persona": "Database/AI/FLM/Personas/ava.json",
+      "launch_programs": false
+    },
+    "bruce": {
+      "role": "replies when addressed or in a room round",
+      "persona": "Database/AI/FLM/Personas/bruce.json",
+      "launch_programs": false
+    },
+    "carly": {
+      "role": "replies when addressed or in a room round",
+      "persona": "Database/AI/FLM/Personas/carly.json",
+      "launch_programs": false
+    }
+  },
+  "communication": {
+    "telegram": {
+      "credentials": "not_in_this_file",
+      "source": "policy",
+      "confidence": "configured"
+    },
+    "sandbox": {
+      "chat_configured": true,
+      "replies": true,
+      "source": "relay.conf",
+      "confidence": "configured"
+    },
+    "live_council": {
+      "chat_configured": true,
+      "replies": false,
+      "why_not": {
+        "status": "gated",
+        "kind": "gated",
+        "reason": "Live council replies are off on purpose.",
+        "blocked_by": "RR_RELAY_REPLIES",
+        "enable_condition": "RR_RELAY_REPLIES=1"
+      },
+      "source": "relay.conf",
+      "confidence": "configured"
+    },
+    "private_dms": {
+      "replies": false,
+      "why_not": {
+        "status": "gated",
+        "kind": "gated",
+        "reason": "Private DMs are off on purpose.",
+        "blocked_by": "RR_RELAY_REPLIES",
+        "enable_condition": "RR_RELAY_REPLIES=1"
+      },
+      "source": "council-relay.py",
+      "confidence": "configured"
+    }
+  },
+  "repositories": [
+    {
+      "id": "ecosystem",
+      "enabled": true,
+      "mode": "inplace",
+      "slug": "RootRecord-Software-Solutions/RootRecord-Ecosystem",
+      "branch": "main",
+      "dirty_files": 944,
+      "source": "repos.conf",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:30-10:00"
+    },
+    {
+      "id": "pacific",
+      "enabled": true,
+      "mode": "mirror",
+      "slug": "RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server",
+      "branch": "main",
+      "dirty_files": 944,
+      "source": "repos.conf",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:30-10:00"
+    },
+    {
+      "id": "database",
+      "enabled": true,
+      "mode": "mirror",
+      "slug": "RootRecord-Software-Solutions/RootRecord-Database",
+      "branch": "main",
+      "dirty_files": 944,
+      "source": "repos.conf",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:30-10:00"
+    },
+    {
+      "id": "library",
+      "enabled": true,
+      "mode": "mirror",
+      "slug": "RootRecord-Software-Solutions/RootRecord-Library",
+      "branch": "main",
+      "dirty_files": 944,
+      "source": "repos.conf",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:30-10:00"
+    },
+    {
+      "id": "skills",
+      "enabled": true,
+      "mode": "inplace",
+      "slug": "rootrecordsoftwaresolutions/Solar-Pacific-RootRecord-Server",
+      "branch": "main",
+      "dirty_files": 0,
+      "source": "repos.conf",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:30-10:00"
+    },
+    {
+      "id": "website",
+      "enabled": false,
+      "mode": "mirror",
+      "slug": "rootrecordsoftwaresolutions/RootRecord-Website",
+      "branch": "main",
+      "dirty_files": 0,
+      "source": "repos.conf",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:30-10:00"
+    },
+    {
+      "id": "mainland",
+      "enabled": false,
+      "mode": "inplace",
+      "slug": "rootrecordsoftwaresolutions/US-Mainland-Server",
+      "branch": "main",
+      "dirty_files": 0,
+      "source": "repos.conf",
+      "confidence": "live",
+      "observed_at": "2026-09-30T13:45:30-10:00"
+    }
+  ],
+  "automation": {
+    "scheduled": [
+      {
+        "id": "self_terminal",
+        "schedule": "boot",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "This desk process + status terminal (self registry).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "cloudflare_tunnel",
+        "schedule": "boot",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "Start Cloudflare tunnel when internet is up (deferred if offline).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "github_setup_remotes",
+        "schedule": "boot",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "Ensure remotes for all repos.conf rows (Pacific Github catalog).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "ollama_warmup",
+        "schedule": "boot",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Ensure ollama serve is up (CPU fallback lanes).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "flm_npu_warmup",
+        "schedule": "boot",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "FLM warmup: no-op unless FLM_WARMUP_RESIDENT=1 (llama3.2:1b, :52625). Default: on demand via run-infer.sh.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "council_relay",
+        "schedule": "boot",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "Start council-relay.py if not already running (single getUpdates).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "security_camera_server",
+        "schedule": "boot",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Ensure Security camera server (127.0.0.1:8791) is running.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "security_timelapse_catchup",
+        "schedule": "boot",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Compile any completed hour missing a chunk today + stitch master MP4 if past 19:00 HST (covers late boot/downtime).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "weather_poller",
+        "schedule": "boot",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Ensure the Pacific Weather/ scheduler daemon is running (Pacific venv; data under canonical Database WEATHER/). Enabled 2026-09-29.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "network_globe_hawaii",
+        "schedule": "boot",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Ensure the live Hawaii Network Globe SSH collector is running.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "ecoflow_read_boot",
+        "schedule": "once",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "One BLE read of Delta 2 + River 2 Pro after boot.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "heartbeat",
+        "schedule": "seconds",
+        "enabled": true,
+        "interval_sec": 60,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "ENERGY snapshot once per minute.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "ecoflow_read_cycle",
+        "schedule": "seconds",
+        "enabled": true,
+        "interval_sec": 15,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Leap-frog: Delta2 / River2Pro alternate.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "sys_stats_cycle",
+        "schedule": "seconds",
+        "enabled": true,
+        "interval_sec": 5,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Host CPU/load/mem \u2192 Database/SYSTEM.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "github_sync_all",
+        "schedule": "seconds",
+        "enabled": true,
+        "interval_sec": 5,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "Sync all repos.conf rows (pull/merge/push) via Pacific Github catalog.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "worklog_scan",
+        "schedule": "seconds",
+        "enabled": true,
+        "interval_sec": 90,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Offline work auto-doc scan into Database/WORKLOG (Pacific Reports \u2014 WO-RPT-001).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "security_camera_frame_grab",
+        "schedule": "seconds",
+        "enabled": true,
+        "interval_sec": 1,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Grab ch1-4 stills to /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "service_supervisor",
+        "schedule": "seconds",
+        "enabled": true,
+        "interval_sec": 300,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Mid-session auto-recovery (08-ideas weather-relay-auto-recovery, approved 2026-09-29): respawn weather / council relay via their ensure scripts if dead; max 3 per 30 min, then BLOCKED. Dry run: supervise-services.sh --dry-run.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "geology_collect",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 300,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "USGS Hawaii (FDSN bbox M1+) + global M2.5+ quakes and HVO Kilauea/Mauna Loa status -> Database Geology/{Earthquakes,Volcanoes}/*-last.json + Daily/*.jsonl.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "council_quake_telegram",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 120,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Carly per-quake notice from Database Geology/Earthquakes/hawaii-last.json. Dry-run unless RR_COUNCIL_QUAKE_SEND=1.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "gated",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "RR_COUNCIL_QUAKE_SEND",
+          "enable_condition": "RR_COUNCIL_QUAKE_SEND=1 at poller start"
+        }
+      },
+      {
+        "id": "geology_kilauea_cams",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 600,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "USGS HVO V1/V2/V3 Halemaumau stills -> Database Geology/Volcanoes/Cams/*-last.jpg + cams-last.json (YouTube live ids).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "geology_kilauea_public_draft",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 3600,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Queue a Kilauea public draft from Geology/Volcanoes/kilauea-last.json when the HVO notice id or alert level changes. No send.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "smart_devices_collect",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 300,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "WiZ bulb + Tuya plug state -> Database Energy/Smart-Devices/{wiz,plugs,collector}-last.json.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "system_uptime_log",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 60,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Desk-up/down events (origin_start, heartbeat_gap, desk_up, boot) -> Database System/uptime/ (KEEP 400).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "system_python_drop",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 300,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Allowlisted PythonDrop scripts only. Gate RR_PYTHON_DROP stays unset. Empty catalog spawns nothing.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "gated",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "RR_PYTHON_DROP",
+          "enable_condition": "RR_PYTHON_DROP=1 at poller start"
+        }
+      },
+      {
+        "id": "weather_radar_zip",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 600,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Append HAWAII_loop archive GIFs into Database Weather/RadarZip/radar_archive.zip (all-time; loose folders stay on the 14-day rule).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "country_location_pollers",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 900,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "Open-Meteo current conditions for CountryLocations allowlist -> Database Weather/CountryLocations/. Gate RR_COUNTRY_LOCATIONS stays unset.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "gated",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "RR_COUNTRY_LOCATIONS",
+          "enable_condition": "RR_COUNTRY_LOCATIONS=1 at poller start"
+        }
+      },
+      {
+        "id": "discord_poller",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 60,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "Discord poller (WO-MIG-21). OFF. No token and no post. Gate RR_DISCORD_POLLER stays unset.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "gated",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "RR_DISCORD_POLLER",
+          "enable_condition": "RR_DISCORD_POLLER=1 at poller start"
+        }
+      },
+      {
+        "id": "earthquake_discord_post",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 3600,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Format Database Geology/Earthquakes last files and hand text to the Discord send pipe. Dry-run unless a separate send sign-off is set.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "communications_slack",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 60,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Slack poller -> Database Communications/Slack/slack-last.json. No HTTP and no post until a token and sign-off exist.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "stripe_poll",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 1800,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "Stripe balance snapshot -> Database Website/stripe-snapshot.json. Gated off. No key does not call the API.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "vercel_builds",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 300,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "Redacted Vercel failed-build records -> Database Logs/Website/. Gated off. No token does not call the API.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "council_health",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 300,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "Council relay process, getMe, and 409 tail -> Database Communications/CouncilHealth/latest.json. Gated off. No send.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "energy_river_car_drive",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 1800,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "River 2 Pro car DC drive tick. Gated off. Skips until auto and a copy job. Does not switch power.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "inbox_drain",
+        "schedule": "seconds",
+        "enabled": false,
+        "interval_sec": 300,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Copy quiet-mode Relay-Inbox rows into Database Communications/Inbox/feedback.jsonl. Gated off. No D1. No send.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_system_perf",
+        "schedule": "minute",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Bruce system_perf voice report at :06 (CPU/RAM/disk/battery template) \u2192 Database System/Reports + Media/Audio/Voice. No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_hourly_chime",
+        "schedule": "minute",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Ava hourly chime at :00/:30 (fully cached clips, no model load). No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_nws_weather",
+        "schedule": "minute",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Ava NWS Hawaii report from Database Weather/ (HI alerts API sample + HFO SFP). No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_energy_report",
+        "schedule": "minute",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Carly energy report from Database Energy/ EcoFlow BLE last readings (no vision caption). No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_remaining_tasks",
+        "schedule": "minute",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Bruce remaining tasks from Library Work-Orders unchecked boxes. No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_earthquake_report",
+        "schedule": "minute",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Carly USGS earthquake report at :08 (Hawaii first, then global) from Database Geology/. No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_kilauea_report",
+        "schedule": "minute",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Carly Kilauea report at :03 (HVO alert level, erupting state, latest notice excerpt). No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "ensure_tunnel_online",
+        "schedule": "minute",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Start Cloudflare if internet is up and tunnel is down.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "energy_sun_times",
+        "schedule": "hour",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "Sunrise/sunset HST (Volcano/Puna) -> Database Energy/sun/sun-times-last.json.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "weather_us_states",
+        "schedule": "hour",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": true,
+        "description": "US state weather (Open-Meteo; NWS if NWS_USER_AGENT) -> Database Weather/US-States/us-last.json.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "ai_processing_report_hourly",
+        "schedule": "hour",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Rotate inference JSONL (daily Archive/) + write Database Logs/AI/Reports/ai-processing-report_current.md.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "ai_usage_report",
+        "schedule": "hour",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Write Database Reports/AI-Usage/last-summary.json from the local token ledger. No network.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "automations_log_hourly_archive",
+        "schedule": "hour",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Cut and archive automations_current.log hourly into Database/Logs/Automations/Archive.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "security_timelapse_hourly_compile",
+        "schedule": "hour",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Compile previous hour ch1 frames into hour_HH.mp4. Window 05:00-19:00 HST (hours 05-18).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "security_timelapse_daily_render",
+        "schedule": "at",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": [
+          "19:01"
+        ],
+        "needs_internet": false,
+        "description": "Stitch hour_HH.mp4 chunks (05-18) into master_stitched_timelapse.mp4 (MP4 only, no GIF).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "reports_daily_roll_up",
+        "schedule": "at",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": [
+          "18:30"
+        ],
+        "needs_internet": false,
+        "description": "WO-RPT-001 Phase C: WORKLOG counts \u2192 Library Session auto.md (measured only).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "reports_weekly_archive",
+        "schedule": "at",
+        "enabled": true,
+        "interval_sec": null,
+        "at_times": [
+          "19:00"
+        ],
+        "needs_internet": false,
+        "description": "WO-RPT-001 Phase D / WO-ARCH: move old human ops logs to archive/YYYY-Www (Sun 19:00).",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00"
+      },
+      {
+        "id": "weather_retention",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "00:30"
+        ],
+        "needs_internet": false,
+        "description": "Weather retention (README \u00a7Retention, signed off 2026-09-29): move data past its window to Archive/Previous-Datasets/Weather-<YYYYMM>/ (never delete). Dry run by default.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "log_retention",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "04:20"
+        ],
+        "needs_internet": false,
+        "description": "Log retention (WO-MIG-41): move Database logs past 7 days to Archive/Previous-Datasets/Logs-<YYYYMM>/ (never delete). Dry run by default.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "path_index",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": 900,
+        "at_times": null,
+        "needs_internet": false,
+        "description": "Path index (WO-MIG-42): path and kind for Pacific, Website, Library, and Android. No file contents.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "template_reports_daily",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "18:40"
+        ],
+        "needs_internet": false,
+        "description": "Library templates (worklog, checkpoint, event log, work order) filled from measured data -> Database Reports/Generated/.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_morning_report",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "09:02"
+        ],
+        "needs_internet": false,
+        "description": "Ava morning roll-up (energy, NWS, host, tasks; template-first). No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_midday_report",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "12:02"
+        ],
+        "needs_internet": false,
+        "description": "Ava midday roll-up (template-first). No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_late_report",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "21:02"
+        ],
+        "needs_internet": false,
+        "description": "Ava late roll-up (template-first). No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_late_final_report",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "23:30"
+        ],
+        "needs_internet": false,
+        "description": "23:30 second chance for the optional late roll-up if that board slot is not done. Text only. No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "voice_hurricane_desk",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "05:50",
+          "09:50",
+          "12:50",
+          "16:55",
+          "20:50"
+        ],
+        "needs_internet": false,
+        "description": "Carly hurricane desk (nearest tracked storm to a Hawaiian island + NWS tropical alerts). No delivery.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "media_hurricane_radio",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "06:35",
+          "13:12",
+          "17:02"
+        ],
+        "needs_internet": false,
+        "description": "Request hurricane desk WAV through Report playback. No speaker.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "bruce_stats_posts",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "07:18",
+          "15:18",
+          "21:18"
+        ],
+        "needs_internet": false,
+        "description": "Bruce measured host and EcoFlow desk sample. Dry-run unless RR_BRUCE_STATS_SEND=1.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "gated",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "RR_BRUCE_STATS_SEND",
+          "enable_condition": "RR_BRUCE_STATS_SEND=1 at poller start"
+        }
+      },
+      {
+        "id": "adsense_eod",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "21:00"
+        ],
+        "needs_internet": true,
+        "description": "AdSense 7-day snapshot -> Database Advertising/adsense-last.json. Gated off. No key does not call the API.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "admob_eod",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "21:05"
+        ],
+        "needs_internet": true,
+        "description": "AdMob 7-day snapshot -> Database Advertising/admob-last.json. Gated off. No key does not call the API.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "overnight_relay",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "22:20"
+        ],
+        "needs_internet": false,
+        "description": "Write Database Communications/Inbox/overnight-last.txt at 22:20 HST. Gated off. No Discord post.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "id": "api_prices",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "10:25"
+        ],
+        "needs_internet": true,
+        "description": "Public API price catalog -> Database System/ApiPrices/. Gated off. No HTTP unless RR_API_PRICES=1.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "gated",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "RR_API_PRICES",
+          "enable_condition": "RR_API_PRICES=1 at poller start"
+        }
+      },
+      {
+        "id": "cursor_fallback",
+        "schedule": "at",
+        "enabled": false,
+        "interval_sec": null,
+        "at_times": [
+          "10:22",
+          "16:22"
+        ],
+        "needs_internet": true,
+        "description": "One Cursor ask-mode fallback. Gated off. No agent unless RR_API_SPEND=1. Does not write reports.",
+        "source": "jobs.py",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "why_not": {
+          "status": "disabled",
+          "kind": "gated",
+          "reason": "Catalog job is off. Leave it off.",
+          "blocked_by": "RR_API_SPEND",
+          "enable_condition": "RR_API_SPEND=1 at poller start"
+        }
+      }
+    ],
+    "running_processes": {
+      "rootserver_poller": [
+        3096,
+        289736,
+        736568
+      ],
+      "council_relay": [
+        256750,
+        267644,
+        274958,
+        288978,
+        289736,
+        304463,
+        305661,
+        305866,
+        308654,
+        309134,
+        309348,
+        309668,
+        313159,
+        736568,
+        883802,
+        1041791,
+        1099142
+      ]
+    },
+    "poller_flag_source": "process_environ"
+  },
+  "programs": {
+    "available": [
+      {
+        "program_id": "github_sync_all",
+        "name": "GitHub auto sync",
+        "entrypoint": "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Github/scripts/sync-all.sh",
+        "owner_job": "github_sync_all",
+        "agent_launchable": false,
+        "agents_allowed": [],
+        "requires_confirmation": true,
+        "inputs": [],
+        "outputs": [
+          "pushes enabled repos.conf rows"
+        ],
+        "side_effects": [
+          "writes_repository_files",
+          "creates_git_commits",
+          "network_push"
+        ],
+        "why_not": {
+          "status": "not_implemented",
+          "kind": "not_implemented",
+          "reason": "The poller already runs this job. Agents have no execution layer and must not start a second sync.",
+          "blocked_by": "agent_execution_layer",
+          "enable_condition": "an execution layer that Alexander turns on"
+        },
+        "catalog_enabled": true,
+        "status": "not_launchable",
+        "source": "program-registry.json",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "last_run": null,
+        "last_result": "unknown",
+        "last_result_why": {
+          "status": "unknown",
+          "kind": "not_implemented",
+          "reason": "No program run log is read yet. unknown is not success.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "program_id": "desk_live_refresh",
+        "name": "Desk live refresh",
+        "entrypoint": "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts/desk-live.py",
+        "owner_job": "",
+        "agent_launchable": false,
+        "agents_allowed": [],
+        "requires_confirmation": false,
+        "inputs": [],
+        "outputs": [
+          "Intake/desk-live.txt"
+        ],
+        "side_effects": [
+          "writes_desk_file"
+        ],
+        "why_not": {
+          "status": "not_implemented",
+          "kind": "not_implemented",
+          "reason": "The council relay refreshes the desk before each reply. Agents do not launch it themselves.",
+          "blocked_by": "agent_execution_layer",
+          "enable_condition": "an execution layer that Alexander turns on"
+        },
+        "catalog_enabled": null,
+        "status": "not_launchable",
+        "source": "program-registry.json",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "last_run": null,
+        "last_result": "unknown",
+        "last_result_why": {
+          "status": "unknown",
+          "kind": "not_implemented",
+          "reason": "No program run log is read yet. unknown is not success.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "program_id": "state_aggregate",
+        "name": "System state snapshot",
+        "entrypoint": "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/state-aggregate.py",
+        "owner_job": "",
+        "agent_launchable": false,
+        "agents_allowed": [],
+        "requires_confirmation": false,
+        "inputs": [],
+        "outputs": [
+          "System/status/rootrecord-state.json",
+          "System/status/rootrecord-state-brief.txt"
+        ],
+        "side_effects": [
+          "writes_state_snapshot"
+        ],
+        "why_not": {
+          "status": "not_implemented",
+          "kind": "not_implemented",
+          "reason": "The council relay refreshes this snapshot before each reply. Agents do not launch it themselves.",
+          "blocked_by": "agent_execution_layer",
+          "enable_condition": "an execution layer that Alexander turns on"
+        },
+        "catalog_enabled": null,
+        "status": "not_launchable",
+        "source": "program-registry.json",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "last_run": null,
+        "last_result": "unknown",
+        "last_result_why": {
+          "status": "unknown",
+          "kind": "not_implemented",
+          "reason": "No program run log is read yet. unknown is not success.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "program_id": "ecoflow_read",
+        "name": "EcoFlow BLE read",
+        "entrypoint": "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/scripts/read/delta2-read.sh",
+        "owner_job": "ecoflow_read_cycle",
+        "agent_launchable": false,
+        "agents_allowed": [],
+        "requires_confirmation": true,
+        "inputs": [],
+        "outputs": [
+          "Energy/soc/*-last.json",
+          "Energy/watts/*-last.json"
+        ],
+        "side_effects": [
+          "bluetooth_radio",
+          "writes_energy_files"
+        ],
+        "why_not": {
+          "status": "gated",
+          "kind": "gated",
+          "reason": "Pack reads belong to the poller. A second BLE read collides on the radio lock.",
+          "blocked_by": "ecoflow-ble.lock",
+          "enable_condition": "an execution layer that Alexander turns on"
+        },
+        "catalog_enabled": true,
+        "status": "not_launchable",
+        "source": "program-registry.json",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "last_run": null,
+        "last_result": "unknown",
+        "last_result_why": {
+          "status": "unknown",
+          "kind": "not_implemented",
+          "reason": "No program run log is read yet. unknown is not success.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "program_id": "council_relay",
+        "name": "Council Telegram relay",
+        "entrypoint": "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts/ensure-relay.sh",
+        "owner_job": "council_relay",
+        "agent_launchable": false,
+        "agents_allowed": [],
+        "requires_confirmation": true,
+        "inputs": [],
+        "outputs": [
+          "sandbox replies when SANDBOX_REPLIES=1"
+        ],
+        "side_effects": [
+          "telegram_getUpdates",
+          "telegram_sendMessage"
+        ],
+        "why_not": {
+          "status": "gated",
+          "kind": "gated",
+          "reason": "Exactly one getUpdates owner. A second relay gets Telegram 409 and can double-post.",
+          "blocked_by": "single_getUpdates",
+          "enable_condition": "Alexander restarts the relay. Agents do not."
+        },
+        "catalog_enabled": true,
+        "status": "not_launchable",
+        "source": "program-registry.json",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "last_run": null,
+        "last_result": "unknown",
+        "last_result_why": {
+          "status": "unknown",
+          "kind": "not_implemented",
+          "reason": "No program run log is read yet. unknown is not success.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "program_id": "council_quake_telegram",
+        "name": "Quake Telegram notice",
+        "entrypoint": "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/CouncilQuake/scripts/quake_posts.py",
+        "owner_job": "council_quake_telegram",
+        "agent_launchable": false,
+        "agents_allowed": [],
+        "requires_confirmation": true,
+        "inputs": [
+          "Geology/Earthquakes/hawaii-last.json"
+        ],
+        "outputs": [
+          "Telegram post only when send gate is on"
+        ],
+        "side_effects": [
+          "telegram_sendMessage"
+        ],
+        "why_not": {
+          "status": "gated",
+          "kind": "gated",
+          "reason": "Intentionally gated. Dry-run unless both the job and the send flag are on. Do not turn them on.",
+          "blocked_by": "RR_COUNCIL_QUAKE_SEND",
+          "enable_condition": "RR_COUNCIL_QUAKE=1 at poller start and RR_COUNCIL_QUAKE_SEND=1"
+        },
+        "catalog_enabled": false,
+        "status": "not_launchable",
+        "source": "program-registry.json",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "last_run": null,
+        "last_result": "unknown",
+        "last_result_why": {
+          "status": "unknown",
+          "kind": "not_implemented",
+          "reason": "No program run log is read yet. unknown is not success.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      },
+      {
+        "program_id": "bruce_stats_posts",
+        "name": "Bruce stats Telegram post",
+        "entrypoint": "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/BruceStats/scripts/bruce_stats.py",
+        "owner_job": "bruce_stats_posts",
+        "agent_launchable": false,
+        "agents_allowed": [],
+        "requires_confirmation": true,
+        "inputs": [],
+        "outputs": [
+          "Telegram post only when send gate is on"
+        ],
+        "side_effects": [
+          "telegram_sendMessage"
+        ],
+        "why_not": {
+          "status": "gated",
+          "kind": "gated",
+          "reason": "Intentionally gated. Do not turn the send flag on.",
+          "blocked_by": "RR_BRUCE_STATS_SEND",
+          "enable_condition": "RR_BRUCE_STATS_SEND=1"
+        },
+        "catalog_enabled": false,
+        "status": "not_launchable",
+        "source": "program-registry.json",
+        "confidence": "configured",
+        "observed_at": "2026-09-30T13:45:29-10:00",
+        "last_run": null,
+        "last_result": "unknown",
+        "last_result_why": {
+          "status": "unknown",
+          "kind": "not_implemented",
+          "reason": "No program run log is read yet. unknown is not success.",
+          "blocked_by": "",
+          "enable_condition": ""
+        }
+      }
+    ],
+    "running": [],
+    "failed": [],
+    "agent_launchable": []
+  },
+  "capabilities": {
+    "available": [
+      {
+        "id": "sandbox_replies",
+        "status": "available",
+        "source": "relay.conf",
+        "confidence": "configured",
+        "why_not": null
+      },
+      {
+        "id": "npu_council_infer",
+        "status": "available",
+        "source": "ensure-relay.sh",
+        "confidence": "configured",
+        "note": "On demand llama3.2:3b, context 4096. Not resident."
+      }
+    ],
+    "gated": [
+      {
+        "id": "live_council_replies",
+        "why_not": {
+          "status": "gated",
+          "kind": "gated",
+          "reason": "Live council stays quiet on purpose.",
+          "blocked_by": "RR_RELAY_REPLIES",
+          "enable_condition": "RR_RELAY_REPLIES=1"
+        }
+      },
+      {
+        "id": "private_dm_replies",
+        "why_not": {
+          "status": "gated",
+          "kind": "gated",
+          "reason": "Private DMs stay quiet on purpose.",
+          "blocked_by": "RR_RELAY_REPLIES",
+          "enable_condition": "RR_RELAY_REPLIES=1"
+        }
+      },
+      {
+        "id": "quake_telegram_send",
+        "why_not": {
+          "status": "gated",
+          "kind": "gated",
+          "reason": "Quake posts do not send.",
+          "blocked_by": "RR_COUNCIL_QUAKE_SEND",
+          "enable_condition": "RR_COUNCIL_QUAKE_SEND=1"
+        }
+      },
+      {
+        "id": "bruce_stats_send",
+        "why_not": {
+          "status": "gated",
+          "kind": "gated",
+          "reason": "Bruce stats do not send.",
+          "blocked_by": "RR_BRUCE_STATS_SEND",
+          "enable_condition": "RR_BRUCE_STATS_SEND=1"
+        }
+      },
+      {
+        "id": "agent_program_launch",
+        "why_not": {
+          "status": "not_implemented",
+          "kind": "not_implemented",
+          "reason": "No agent may launch a program from this snapshot.",
+          "blocked_by": "agent_execution_layer",
+          "enable_condition": "Alexander adds an execution layer"
+        }
+      }
+    ],
+    "disabled": [
+      {
+        "id": "ollama_fallback_for_council",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Council inference stays on the NPU.",
+          "blocked_by": "RR_NPU_ONLY",
+          "enable_condition": "Unset RR_NPU_ONLY only if Alexander says so"
+        }
+      },
+      {
+        "id": "specialist_routing",
+        "why_not": {
+          "status": "disabled",
+          "kind": "disabled",
+          "reason": "Council voices use their persona files, not specialist routing.",
+          "blocked_by": "RR_SPECIALIST_ROUTING",
+          "enable_condition": "RR_SPECIALIST_ROUTING=1"
+        }
+      }
+    ],
+    "experimental": [],
+    "poller_flags_present": [
+      "RR_NIGHT_SLEEP"
+    ],
+    "poller_flag_rr_relay_replies": "off_or_unreadable"
+  },
+  "health": {
+    "healthy": [
+      "rootserver_poller",
+      "npu_device",
+      "desk_live",
+      "flm_idle_on_demand"
+    ],
+    "degraded": [
+      "council_relay_duplicate"
+    ],
+    "failed": [],
+    "unknown": [
+      "incidents",
+      "root_monitor"
+    ]
+  },
+  "incidents": {
+    "items": [],
+    "why_not": {
+      "status": "unknown",
+      "kind": "not_implemented",
+      "reason": "No incident store is read. An empty list is not an all-clear.",
+      "blocked_by": "",
+      "enable_condition": ""
+    }
+  },
+  "recent_changes": {
+    "value": null,
+    "source": "not_collected",
+    "confidence": "unknown",
+    "observed_at": "2026-09-30T13:45:30-10:00",
+    "why_not": {
+      "status": "unknown",
+      "kind": "not_implemented",
+      "reason": "Git history is not copied into this snapshot yet.",
+      "blocked_by": "",
+      "enable_condition": ""
+    }
+  },
+  "known_limitations": [
+    "Context for council chat is 4096. Do not raise it.",
+    "FLM is on demand. A missing flm process is normal between replies.",
+    "One getUpdates owner. Do not start a second relay.",
+    "This file has no secrets. A missing credential field means it was left out on purpose.",
+    "agent_launchable empty means agents cannot start programs yet."
+  ],
+  "agent_instructions": [
+    "Answer what exists, what is running, what is broken, what is gated, and what you can launch from this snapshot only.",
+    "kind gated or disabled means leave it alone.",
+    "kind not_implemented means do not pretend it exists and do not build a workaround in the reply.",
+    "kind broken means say it is broken. Do not restart anything.",
+    "You cannot launch programs from this snapshot."
+  ],
+  "npu_device_present": {
+    "value": true,
+    "source": "/dev/accel/accel0",
+    "confidence": "live",
+    "observed_at": "2026-09-30T13:45:30-10:00"
+  }
+}
