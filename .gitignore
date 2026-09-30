@@ -100,3 +100,10 @@
 /Geology/Earthquakes/*.db
 /Geology/Earthquakes/*.db-wal
 /Geology/Earthquakes/*.db-shm
+
+# Old-repo migration breadth pass (added 2026-09-29 ~14:05 HST): Hawaii news SQLite (binary) and the
+# 5-minute network byte-counter samples (append churn). Summaries (*-last.json) stay tracked.
+/Reports/News/**/*.db
+/Reports/News/**/*.db-wal
+/Reports/News/**/*.db-shm
+/System/network/Daily/
