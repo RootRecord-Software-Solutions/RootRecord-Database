@@ -12110,12 +12110,8 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/README.md|2826|1790756812
 /home/rootrecord/.grokbot/local-exec-supervisor.json|33|1790757112
 /home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790757112
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/state/ava-ecoflow-ble.pid|4|1790757160
-/home/rootrecord/.local/share/nautilus/tags/meta.db|167936|1790757163
 /home/rootrecord/.local/share/gnome-shell/session.gvdb|32|1790757135
 /home/rootrecord/.local/share/gnome-shell/session-active-history.json|1729|1790757134
-/home/rootrecord/.local/share/icc/edid-6561450aec6d3373e94d50803e44063f.icc|1592|1790757162
-/home/rootrecord/.local/share/evolution/addressbook/system/contacts.db|94208|1790757162
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/96c1af5f-378e-4103-b7a3-9a790ab2729f/.sync/sync.lock|154|1790757133
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/96c1af5f-378e-4103-b7a3-9a790ab2729f/.sync/index.sqlite-wal|4120032|1790757124
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/96c1af5f-378e-4103-b7a3-9a790ab2729f/.sync/index.sqlite-shm|32768|1790757094
@@ -12154,8 +12150,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/graphics/streamloop/streamloop_current.gif|398775|1790760778
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/graphics/stream/stream_current.gif|108777|1790760774
 /home/rootrecord/.local/share/flatpak/db/screencast|775|1790761070
-/home/rootrecord/.local/share/nautilus/tags/meta.db-shm|32768|1790761034
-/home/rootrecord/.local/share/nautilus/tags/meta.db-wal|4152|1790761034
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/canvases/migration-agent-prompts.canvas.tsx|26221|1790761348
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/wwamap/png/hfo/hfo_current.png|29006|1790761259
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/archive/09-29-2026/surfreports_raw_20260929T234240-1000.html|65472|1790761303
@@ -12259,13 +12253,8 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Products/Clients/gigs.json|210|1790762605
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Playback/play.lock|0|1790762488
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/Cloudflare-Workers/.gitkeep|0|1790762538
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/FTM/raw/FTM_raw_current.html|57369|1790762573
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/CWABounds/raw/CWABounds_raw_current.html|28972|1790762609
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/CWABounds/CWABounds_current.html|28972|1790762609
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/Sandwich/GOES19-EEP-Sandwich-900x540/GOES19-EEP-Sandwich-900x540_current.gif|15417200|1790762602
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/radar.weather.gov/ridge/standard/HAWAII_loop/HAWAII_loop_current.gif|227895|1790762558
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_HNL/raw/cli_daily_climate_summary_HNL_raw_current.html|27954|1790762558
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_LIH/raw/cli_daily_climate_summary_LIH_raw_current.html|28093|1790762588
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_OGG/raw/cli_daily_climate_summary_OGG_raw_current.html|28005|1790762633
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Reports/Late-Final/last.json|379|1790762560
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/NightSleep/last-skip.json|84|1790762548
@@ -13230,7 +13219,6 @@
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/mount.json|111|1790763216
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/mount.json|111|1790763235
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/mount.json|111|1790763254
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Solar-Pacific-Old-Inventory-Map-2026-09-28.md|8943|1790763379
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/README.md|336|1790763370
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/123570.txt|2709|1790763515
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/README.md|8129|1790763530
@@ -13249,7 +13237,6 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Site_Cloudflare_config_and_thumbnails_Work_Order_WO-MIG-08-2026-09-29.md|14974|1790763906
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/OBS_studio_and_overlays_Work_Order_WO-MIG-20-2026-09-29.md|10313|1790763620
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/07/GOES19-EEP-07-900x540/GOES19-EEP-07-900x540_current.gif|14564466|1790763667
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/GEOCOLOR/GOES19-EEP-GEOCOLOR-900x540/GOES19-EEP-GEOCOLOR-900x540_current.gif|10682720|1790763592
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/AirMass/GOES19-EEP-AirMass-900x540/GOES19-EEP-AirMass-900x540_current.gif|13752313|1790763606
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/hsf_high_seas_npac/hsf_high_seas_npac_current.html|2637|1790763598
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/lib/products-desk.ts|1539|1790763882
@@ -13317,12 +13304,6 @@
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/648842c2-a53b-460d-bdbe-1378fa4ce1d0/.sync/mount.json|111|1790764554
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite|36864|1790764541
 /home/rootrecord/.cursor/plans/hurricane_radio_draft_d596b858.plan.md|5567|1790764702
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/MarineZones/raw/MarineZones_raw_current.html|31408|1790764643
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/MarineZones/MarineZones_current.html|31408|1790764643
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/firezones/raw/firezones_raw_current.html|27857|1790764637
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/firezones/firezones_current.html|27857|1790764637
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/publiczones/raw/publiczones_raw_current.html|28656|1790764619
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/publiczones/publiczones_current.html|28656|1790764619
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/Counties/Counties_current.html|30080|1790764613
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/Counties/raw/Counties_raw_current.html|30080|1790764613
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/02/GOES19-EEP-02-900x540/GOES19-EEP-02-900x540_current.gif|2027319|1790764673
@@ -13333,7 +13314,6 @@
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/926304.txt|40854|1790764805
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/CouncilHealth/README.md|224|1790764785
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/CouncilPersona/README.md|133|1790764786
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/status-last.json|132|1790764741
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/08/GOES18-HI-08-600x600/GOES18-HI-08-600x600_current.gif|7045564|1790764823
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/07/GOES18-HI-07-600x600/GOES18-HI-07-600x600_current.gif|5995361|1790764810
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/DayNightCloudMicroCombo/GOES18-HI-DayNightCloudMicroCombo-600x600/GOES18-HI-DayNightCloudMicroCombo-600x600_current.gif|9019933|1790764786
@@ -13350,9 +13330,7 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/CouncilPersona/README.md|161|1790764783
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/README.md|6390|1790764749
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/index.sqlite|36864|1790764739
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite|36864|1790764845
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f43c6dbd-3f29-4309-b43a-ceb192c299e5/.sync/index.sqlite|4096|1790764812
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite|4096|1790764773
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite|36864|1790764780
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/523642.txt|964|1790764910
 /home/rootrecord/.cursor/plans/ecoflow_cloud_quota_6731b4d1.plan.md|7034|1790764935
@@ -13361,7 +13339,6 @@
 /home/rootrecord/.cursor/plans/panels_cam_power_session_b6b60448.plan.md|5438|1790764879
 /home/rootrecord/.cursor/plans/grok_usage_report_47a1e914.plan.md|6879|1790764919
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Panels_cam_power_session_Work_Order_WO-MIG-40-2026-09-29.md|11158|1790764875
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/EcoFlow_cloud_quota_poll_Work_Order_WO-MIG-36-2026-09-29.md|16344|1790764930
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/MySQL_desk_facts_Work_Order_WO-MIG-28-2026-09-29.md|10319|1790764964
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/D1_sync_Work_Order_WO-MIG-30-2026-09-29.md|14188|1790764986
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Log_retention_apply_Work_Order_WO-MIG-41-2026-09-29.md|16193|1790764989
@@ -13404,7 +13381,6 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Cloud_narrative_reports_Work_Order_WO-MIG-32-2026-09-29.md|13134|1790765094
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/API_prices_and_external_AI_fallback_Work_Order_WO-MIG-35-2026-09-29.md|13968|1790765086
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Inbox_drain_overnight_relay_reply_feedback_Work_Order_WO-MIG-31-2026-09-29.md|14664|1790765084
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Kilauea_public_draft_queue_Work_Order_WO-MIG-24-2026-09-29.md|14566|1790765041
 /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old/council/council-health/SKILL.md|1007|1790765117
 /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old/council/council-health/scripts/council_health.py|14972|1790765118
 /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/Solar-Pacific-RootRecord-Server-Old/council/council-health/scripts/job.py|789|1790765118
@@ -13433,7 +13409,6 @@
 /home/rootrecord/.cursor/plans/river_car_dc_drive_98899975.plan.md|8082|1790765216
 /home/rootrecord/.cursor/plans/mysql_desk_facts_d1d20ef3.plan.md|6707|1790765227
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Discord_poller_Work_Order_WO-MIG-21-2026-09-29.md|13332|1790765254
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/River_car_DC_drive_Work_Order_WO-MIG-39-2026-09-29.md|10702|1790765210
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Slack_poller_Work_Order_WO-MIG-22-2026-09-29.md|15085|1790765233
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/ContextSession/README.md|379|1790765268
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/gtwo.php/basin=cpac&fdays=2/raw/basin=cpac&fdays=2_raw_current.html|85518|1790765231
@@ -13455,8 +13430,6 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/ContextSession/scripts/ContextSession/placeholders/automations/README.md|71|1790765254
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/ContextSession/scripts/ContextSession/__init__.py|370|1790765253
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/ContextSession/scripts/ContextSession/api.py|1573|1790765252
-/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/ContextSession/scripts/ContextSession/store.py|5060|1790765248
-/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/ContextSession/scripts/context_session.py|2712|1790765261
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/ContextSession/README.md|1386|1790765266
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/README.md|3796|1790765234
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/Earthquake-Discord/scripts/earthquake_discord_post.py|6164|1790765305
@@ -13521,8 +13494,6 @@
 /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/context_session_builder/store.py|3518|1790765591
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json|72|1790765584
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json|193|1790765584
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR/Hawaii_IR_current.gif|91194|1790765624
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/off_offshore_forecast/raw/off_offshore_forecast_raw_current.html|25477|1790765624
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/validator.ts|9762|1790765547
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/routes.d.ts|2700|1790765547
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/timeline/page.ts|3761|1790765549
@@ -14651,18 +14622,12 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Bruce_stats_posts_Work_Order_WO-MIG-26-2026-09-29.md|11621|1790765687
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/AdSense_and_AdMob_end_of_day_Work_Order_WO-MIG-38-2026-09-29.md|14811|1790765628
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/AI-Processing-Logs-and-Reports.md|6178|1790765631
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR_loop/Hawaii_IR_loop_current.gif|1018201|1790765630
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/aviation/raw/aviation_raw_current.html|67602|1790765685
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/MFM/raw/MFM_raw_current.html|148638|1790765675
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/TAFPA/raw/TAFPA_raw_current.html|58291|1790765625
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/SRF/raw/SRF_raw_current.html|68122|1790765676
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/wa0_airmets/raw/wa0_airmets_raw_current.html|24233|1790765684
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/hsf_high_seas_spac/raw/hsf_high_seas_spac_raw_current.html|19297|1790765670
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/issuedby=HFO&product=RRA&site=hfo_current.html|41831|1790765729
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/raw/issuedby=HFO&product=RRA&site=hfo_raw_current.html|41831|1790765729
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/hsf_high_seas_npac/raw/hsf_high_seas_npac_raw_current.html|26022|1790765639
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/fa0_area_forecast/raw/fa0_area_forecast_raw_current.html|19312|1790765654
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hurricanes/tracking/Nolo_20260929T220441.9291071000/track.json|2039|1790765650
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/cache-life.d.ts|5863|1790765733
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/package.json|18|1790765733
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/page.ts|3728|1790765733
@@ -14705,7 +14670,6 @@
 /home/rootrecord/.cursor/plans/bruce_stats_posts_ee60921d.plan.md|6206|1790765757
 /home/rootrecord/.cursor/plans/context_session_builder_091e9a25.plan.md|5038|1790765764
 /home/rootrecord/Documents/migration bomb.zip|155125|1790765856
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Broadcast_directory_browser_Work_Order_WO-MIG-47-2026-09-29.md|11720|1790765856
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Context_session_builder_Work_Order_WO-MIG-43-2026-09-29.md|10689|1790765845
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Report_playback_Work_Order_WO-MIG-15-2026-09-29.md|13999|1790765873
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Ava_core_one_off_CLIs_Work_Order_WO-MIG-44-2026-09-29.md|12712|1790765767
@@ -14764,13 +14728,11 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Hurricane_radio_Work_Order_WO-MIG-19-2026-09-29.md|14484|1790766005
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Python_drop_runner_Work_Order_WO-MIG-46-2026-09-29.md|15715|1790765886
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Full_disk_path_index_Work_Order_WO-MIG-42-2026-09-29.md|16030|1790765900
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Solar-Pacific-Old-Full-TopLevel-Catalog-2026-09-28.md|6292|1790765893
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/CouncilQuake/README.md|193|1790765903
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/River-Car/river-car-dc.json|280|1790765977
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/River-Car/drive-automation.json|269|1790765977
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/LogRetention/log-retention.json|381|1790766011
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/20260930-000013-20260930-010035.md|1914648|1790765891
-/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/jobs.py|39508|1790765928
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/HurricaneRadio/proposed-job-block.txt|805|1790765975
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/HurricaneRadio/README.md|1230|1790765974
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/ApiPrices/scripts/envload.py|1148|1790766003
@@ -14785,19 +14747,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1hour.db|61440|1790766070
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/15min.db|98304|1790766070
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/boot_brief_current.wav|1580878|1790766149
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ck-avarua-last.json|292|1790766179
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cy-nicosia-last.json|284|1790766190
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cx-flying-fish-cove-last.json|315|1790766188
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cl-santiago-last.json|285|1790766180
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cz-prague-last.json|291|1790766191
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cm-yaound-last.json|289|1790766181
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cr-san-jos-last.json|294|1790766185
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cn-beijing-last.json|285|1790766182
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ci-yamoussoukro-last.json|299|1790766178
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cu-havana-last.json|282|1790766186
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cv-praia-last.json|286|1790766187
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/co-bogot-last.json|287|1790766184
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/de-berlin-last.json|283|1790766192
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif|2996809|1790766135
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md|1161|1790766134
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/wa0_airmets_current.md|1002|1790766134
@@ -14899,8 +14848,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/nhc_homepage_current.md|9427|1790766135
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/index_current.html|165255|1790766132
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/raw/index_raw_current.html|165255|1790766132
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json|204|1790766166
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json|2|1790766168
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/raw/product_types_raw_current.html|74397|1790766192
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/product_types_current.html|74397|1790766192
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/README.md|92836|1790766135
@@ -14988,7 +14935,6 @@
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_lock.json|702|1790766340
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/SERVER_METADATA.json|84|1790766340
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/INSTRUCTIONS.md|5262|1790766340
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790766343
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/tools/mcp_auth.json|343|1790766343
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/STATUS.md|260|1790766343
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/SERVER_METADATA.json|84|1790766343
@@ -15057,7 +15003,6 @@
 /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_lock.json|702|1790766337
 /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/SERVER_METADATA.json|84|1790766337
 /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/INSTRUCTIONS.md|5262|1790766337
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790766340
 /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/tools/mcp_auth.json|343|1790766340
 /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/STATUS.md|260|1790766340
 /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/SERVER_METADATA.json|84|1790766340
@@ -15088,50 +15033,29 @@
 /home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.d.ts|20332|1790766341
 /home/rootrecord/.cursor/skills-cursor/canvas/sdk/theme.d.ts|3520|1790766341
 /home/rootrecord/.cursor/skills-cursor/deploy-with-vercel/SKILL.md|8069|1790766340
-/home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db|7069696|1790766389
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Meta_AI_chat_client_Work_Order_WO-MIG-45-2026-09-29.md|10313|1790766366
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Cloud_TTS_routing_Work_Order_WO-MIG-33-2026-09-29.md|10370|1790766201
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Economy_brief_Work_Order_WO-MIG-29-2026-09-29.md|13088|1790766234
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Morning_boot_replay_Work_Order_WO-MIG-16-2026-09-29.md|11842|1790766210
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Geology-Domain-Ownership-Kilauea-Earthquakes-2026-09-28.md|4105|1790766299
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Old-Repo-Migration-Matrix.md|48105|1790766378
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G1-Scheduler-To-G3-Jobs-Map-2026-09-29.md|7808|1790766299
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Voice-Reports-G3.md|21661|1790766381
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|389120|1790766350
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|712704|1790766350
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|34963456|1790766350
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|204800|1790766350
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/CloudTTS/route.lock|0|1790766301
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/CloudTTS/last-route.json|133|1790766301
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Playback/last-play.json|261|1790766196
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/MorningBootReplay/replay-last.json|826|1790766196
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/README.md|3199|1790766385
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|74|1790766350
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|186|1790766350
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/.gitignore|6426|1790766234
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ae-abu-dhabi-last.json|303|1790766350
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/jo-amman-last.json|281|1790766270
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fr-paris-last.json|279|1790766214
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ht-port-au-prince-last.json|299|1790766242
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gf-cayenne-last.json|292|1790766221
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/my-kuala-lumpur-last.json|296|1790766350
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/rs-belgrade-last.json|287|1790766386
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gy-georgetown-last.json|290|1790766237
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kh-phnom-penh-last.json|293|1790766300
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/is-reykjavik-last.json|291|1790766254
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/al-tirana-last.json|284|1790766355
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/im-douglas-last.json|290|1790766247
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bz-belmopan-last.json|288|1790766386
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/re-saint-denis-last.json|298|1790766384
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hk-city-of-victoria-last.json|307|1790766238
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bs-nassau-last.json|289|1790766381
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lb-beirut-last.json|282|1790766312
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mq-fort-de-france-last.json|303|1790766339
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gs-king-edward-point-last.json|313|1790766232
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/nr-yaren-last.json|279|1790766363
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/az-baku-last.json|283|1790766364
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gn-conakry-last.json|283|1790766228
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dk-copenhagen-last.json|292|1790766195
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/as-pago-pago-last.json|299|1790766360
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/br-bras-lia-last.json|288|1790766379
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pe-lima-last.json|278|1790766368
@@ -15141,72 +15065,51 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/rw-kigali-last.json|282|1790766390
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cf-bangui-last.json|299|1790766391
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ky-george-town-last.json|300|1790766308
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dm-roseau-last.json|286|1790766196
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/md-chi-in-u-last.json|298|1790766329
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/er-asmara-last.json|284|1790766205
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ru-moscow-last.json|282|1790766389
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hu-budapest-last.json|287|1790766243
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mg-antananarivo-last.json|300|1790766331
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/il-jerusalem-last.json|289|1790766246
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mv-mal-last.json|284|1790766346
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gt-guatemala-city-last.json|302|1790766234
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fm-palikir-last.json|309|1790766212
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ml-bamako-last.json|280|1790766335
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gd-st-george-s-last.json|294|1790766218
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kn-basseterre-last.json|307|1790766304
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/nz-wellington-last.json|298|1790766365
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/la-vientiane-last.json|287|1790766311
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ba-sarajevo-last.json|302|1790766365
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lk-colombo-last.json|287|1790766317
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/id-jakarta-last.json|288|1790766244
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lv-riga-last.json|278|1790766324
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ne-niamey-last.json|280|1790766355
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gu-hag-t-a-last.json|294|1790766235
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kg-bishkek-last.json|288|1790766299
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ie-dublin-last.json|284|1790766245
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/in-new-delhi-last.json|288|1790766249
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bf-ouagadougou-last.json|298|1790766370
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pt-lisbon-last.json|284|1790766379
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mw-lilongwe-last.json|288|1790766347
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/jm-kingston-last.json|288|1790766260
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bh-manama-last.json|284|1790766372
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/do-santo-domingo-last.json|309|1790766197
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pw-ngerulmud-last.json|288|1790766380
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pm-saint-pierre-last.json|312|1790766375
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pr-san-juan-last.json|293|1790766378
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gr-athens-last.json|283|1790766231
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ma-rabat-last.json|281|1790766326
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mz-maputo-last.json|287|1790766351
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bw-gaborone-last.json|290|1790766383
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/km-moroni-last.json|284|1790766302
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dj-djibouti-last.json|288|1790766193
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/it-rome-last.json|276|1790766255
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ca-ottawa-last.json|283|1790766387
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ao-luanda-last.json|281|1790766357
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mk-skopje-last.json|296|1790766333
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/iq-baghdad-last.json|282|1790766251
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ke-nairobi-last.json|284|1790766298
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gm-banjul-last.json|287|1790766226
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ni-managua-last.json|288|1790766358
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lu-luxembourg-last.json|294|1790766322
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ki-south-tarawa-last.json|297|1790766301
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gh-accra-last.json|279|1790766223
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/na-windhoek-last.json|288|1790766352
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cg-brazzaville-last.json|307|1790766393
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/nu-alofi-last.json|282|1790766364
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/at-vienna-last.json|284|1790766361
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/eh-el-aai-n-last.json|301|1790766203
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/nl-amsterdam-last.json|292|1790766359
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gl-nuuk-last.json|282|1790766225
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/li-vaduz-last.json|286|1790766315
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/io-diego-garcia-last.json|319|1790766250
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ph-manila-last.json|287|1790766372
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mr-nouakchott-last.json|296|1790766340
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/py-asunci-n-last.json|296|1790766381
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bm-hamilton-last.json|287|1790766376
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fk-stanley-last.json|296|1790766211
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hn-tegucigalpa-last.json|295|1790766239
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gq-malabo-last.json|292|1790766230
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pa-panama-city-last.json|291|1790766367
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mn-ulan-bator-last.json|292|1790766336
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ls-maseru-last.json|284|1790766319
@@ -15214,9 +15117,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bg-sofia-last.json|282|1790766371
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/qa-doha-last.json|278|1790766383
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mt-valletta-last.json|285|1790766343
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ge-tbilisi-last.json|285|1790766219
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gg-st-peter-port-last.json|300|1790766222
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ec-quito-last.json|282|1790766200
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bt-thimphu-last.json|284|1790766382
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mu-port-louis-last.json|295|1790766344
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lc-castries-last.json|293|1790766314
@@ -15226,65 +15126,43 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pg-port-moresby-last.json|304|1790766370
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ar-buenos-aires-last.json|298|1790766359
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mh-majuro-last.json|293|1790766332
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/eg-cairo-last.json|279|1790766202
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cd-kinshasa-last.json|312|1790766390
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mp-saipan-last.json|302|1790766337
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bn-bandar-seri-begawan-last.json|308|1790766377
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bo-sucre-last.json|283|1790766378
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lr-monrovia-last.json|287|1790766318
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/es-madrid-last.json|281|1790766206
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ms-plymouth-last.json|291|1790766342
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gi-gibraltar-last.json|290|1790766224
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dz-algiers-last.json|284|1790766199
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mc-monaco-last.json|282|1790766328
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/af-kabul-last.json|285|1790766351
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ro-bucharest-last.json|289|1790766385
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ag-saint-john-s-last.json|309|1790766353
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pn-adamstown-last.json|302|1790766377
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ir-tehran-last.json|281|1790766252
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fj-suva-last.json|279|1790766210
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/by-minsk-last.json|281|1790766384
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/au-canberra-last.json|291|1790766362
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gw-bissau-last.json|290|1790766236
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/nc-noum-a-last.json|296|1790766354
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/lt-vilnius-last.json|287|1790766321
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kw-kuwait-city-last.json|292|1790766307
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gb-london-last.json|291|1790766217
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/am-yerevan-last.json|285|1790766356
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bb-bridgetown-last.json|294|1790766366
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hr-zagreb-last.json|283|1790766240
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bi-bujumbura-last.json|290|1790766373
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ga-libreville-last.json|288|1790766216
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ng-abuja-last.json|278|1790766357
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/mx-mexico-city-last.json|292|1790766348
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fo-t-rshavn-last.json|294|1790766213
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ly-tripoli-last.json|284|1790766325
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ch-bern-last.json|282|1790766394
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/et-addis-ababa-last.json|294|1790766207
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kz-astana-last.json|286|1790766310
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gp-basse-terre-last.json|298|1790766229
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/jp-tokyo-last.json|280|1790766296
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ai-the-valley-last.json|293|1790766354
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ee-tallinn-last.json|285|1790766201
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bj-porto-novo-last.json|288|1790766374
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cc-west-island-last.json|311|1790766389
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pf-papeete-last.json|302|1790766369
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kr-seoul-last.json|286|1790766306
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/no-oslo-last.json|277|1790766360
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/om-muscat-last.json|280|1790766366
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fi-helsinki-last.json|287|1790766208
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/kp-pyongyang-last.json|294|1790766305
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/pk-islamabad-last.json|290|1790766373
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/surfreports_raw_current.html|65472|1790766212
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html|65472|1790766212
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json|73428|1790766210
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|822|1790766351
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|161|1790766351
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|86|1790766351
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|116|1790766351
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|278528|1790766351
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2441|1790766351
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|97110|1790766202
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/CloudTTS/scripts/route.py|7259|1790766227
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/CloudTTS/scripts/envload.py|845|1790766204
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/CloudTTS/scripts/__init__.py|24|1790766204
@@ -15294,8 +15172,6 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/README.md|6971|1790766389
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/ApiPrices/scripts/job.py|2880|1790766213
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/ApiPrices/scripts/cursor_fallback.py|5554|1790766204
-/home/rootrecord/.local/share/keyrings/login.keyring|2811|1790766327
-/home/rootrecord/.local/share/gvfs-metadata/root|64|1790766388
 /home/rootrecord/.local/share/rootrecord/espeak-ng-data/ja_dict|47652|1790766237
 /home/rootrecord/.local/share/rootrecord/espeak-ng-data/lfn_dict|2793|1790766237
 /home/rootrecord/.local/share/rootrecord/espeak-ng-data/si_dict|85384|1790766237
@@ -15663,10 +15539,7 @@
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/sync.lock|152|1790766304
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/index.sqlite-wal|4120032|1790766302
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/index.sqlite-shm|32768|1790766298
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal|4120032|1790766399
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/mount.json|111|1790766347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm|32768|1790766367
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/sync.lock|152|1790766304
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/index.sqlite-wal|4120032|1790766302
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/index.sqlite-shm|32768|1790766301
@@ -15674,101 +15547,289 @@
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal|4120032|1790766302
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm|32768|1790766300
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8f0116b3-9fe3-4789-9288-40e5184ce70d/files/rootrecord-operating-contract.md|27555|1790766334
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-wal|4120032|1790766399
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/mount.json|111|1790766344
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-shm|32768|1790766367
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-wal|4120032|1790766398
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/mount.json|111|1790766347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-shm|32768|1790766367
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/de9f012e-7ddc-442e-9054-ab7295b12af1/.sync/sync.lock|152|1790766304
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/de9f012e-7ddc-442e-9054-ab7295b12af1/.sync/index.sqlite-wal|3172432|1790766302
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/de9f012e-7ddc-442e-9054-ab7295b12af1/.sync/index.sqlite-shm|32768|1790766301
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/sync.lock|152|1790766304
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/index.sqlite-wal|4120032|1790766303
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/index.sqlite-shm|32768|1790766298
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-wal|4120032|1790766399
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/mount.json|111|1790766345
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-shm|32768|1790766367
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal|4120032|1790766399
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/mount.json|111|1790766347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm|32768|1790766367
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal|4120032|1790766399
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite|36864|1790766374
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/mount.json|111|1790766348
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm|32768|1790766374
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59458704-5ea3-417d-9235-dd07efbaf00e/.sync/sync.lock|152|1790766304
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59458704-5ea3-417d-9235-dd07efbaf00e/.sync/index.sqlite-wal|2356672|1790766302
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59458704-5ea3-417d-9235-dd07efbaf00e/.sync/index.sqlite-shm|32768|1790766300
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-wal|4120032|1790766399
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite|36864|1790766302
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/mount.json|111|1790766346
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-shm|32768|1790766367
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal|4120032|1790766399
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/mount.json|111|1790766348
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm|32768|1790766367
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|152|1790766400
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790766398
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790766368
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/sync.lock|152|1790766304
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-wal|4120032|1790766302
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-shm|32768|1790766300
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/sync.lock|152|1790766304
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/index.sqlite-wal|4120032|1790766302
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/index.sqlite-shm|32768|1790766301
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-wal|4120032|1790766400
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/mount.json|111|1790766346
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-shm|32768|1790766367
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal|4120032|1790766399
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/mount.json|111|1790766347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm|32768|1790766367
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f43c6dbd-3f29-4309-b43a-ceb192c299e5/.sync/sync.lock|152|1790766304
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f43c6dbd-3f29-4309-b43a-ceb192c299e5/.sync/index.sqlite-wal|3802792|1790766302
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f43c6dbd-3f29-4309-b43a-ceb192c299e5/.sync/index.sqlite-shm|32768|1790766301
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/sync.lock|152|1790766304
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/index.sqlite-wal|4120032|1790766303
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/index.sqlite-shm|32768|1790766298
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-wal|4120032|1790766400
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/mount.json|111|1790766344
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-shm|32768|1790766366
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-wal|4120032|1790766400
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/mount.json|111|1790766345
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-shm|32768|1790766367
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-wal|4120032|1790766400
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/mount.json|111|1790766346
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-shm|32768|1790766367
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-wal|4099432|1790766400
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/mount.json|111|1790766344
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-shm|32768|1790766399
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/sync.lock|152|1790766304
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-wal|4120032|1790766302
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-shm|32768|1790766301
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/sync.lock|152|1790766399
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-wal|4120032|1790766400
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/mount.json|111|1790766346
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-shm|32768|1790766367
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/sync.lock|152|1790766400
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/index.sqlite-wal|3283672|1790766400
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/mount.json|111|1790766347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/index.sqlite-shm|32768|1790766366
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/sync.lock|152|1790766400
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-wal|4120032|1790766400
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/mount.json|111|1790766347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-shm|32768|1790766367
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/sync.lock|152|1790766400
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-wal|3320752|1790766400
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/mount.json|111|1790766344
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm|32768|1790766366
-/home/rootrecord/.local/state/wireplumber/stream-properties|730|1790766335
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/230755.txt|825|1790766440
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/119077.txt|674|1790766469
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md|205|1790766437
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790766437
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md|205|1790766437
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790766437
+/home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db|7229440|1790766470
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/EcoFlow_cloud_quota_poll_Work_Order_WO-MIG-36-2026-09-29.md|17119|1790766443
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Cloud_TTS_routing_Work_Order_WO-MIG-33-2026-09-29.md|10396|1790766469
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/River_car_DC_drive_Work_Order_WO-MIG-39-2026-09-29.md|11431|1790766469
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Broadcast_directory_browser_Work_Order_WO-MIG-47-2026-09-29.md|12808|1790766465
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Kilauea_public_draft_queue_Work_Order_WO-MIG-24-2026-09-29.md|14783|1790766452
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Old-Repo-Migration-Matrix.md|49913|1790766458
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Solar-Pacific-Old-Inventory-Map-2026-09-28.md|8999|1790766451
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G1-Scheduler-To-G3-Jobs-Map-2026-09-29.md|7953|1790766425
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Voice-Reports-G3.md|21765|1790766459
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Solar-Pacific-Old-Full-TopLevel-Catalog-2026-09-28.md|6380|1790766461
+/home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/cronologicals/always-on/directory.enabled|8|1790766410
+/home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/web/sites/avaivy.cloud/directory/directory.js|10372|1790766410
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|389120|1790766590
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|729088|1790766590
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|35602432|1790766590
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/CloudTTS/last-route.json|133|1790766426
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Github/plumbing/state/holder.txt|112|1790766464
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|74|1790766590
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|186|1790766590
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/state/ava-ecoflow-ble.pid|4|1790766558
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/.gitignore|6519|1790766464
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/uz-tashkent-last.json|290|1790766445
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fr-paris-last.json|279|1790766437
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/th-bangkok-last.json|287|1790766423
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ht-port-au-prince-last.json|299|1790766469
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gf-cayenne-last.json|292|1790766444
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sz-lobamba-last.json|288|1790766417
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sc-victoria-last.json|292|1790766394
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gy-georgetown-last.json|290|1790766464
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/im-douglas-last.json|290|1790766513
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hk-city-of-victoria-last.json|307|1790766465
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gs-king-edward-point-last.json|313|1790766458
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tk-fakaofo-last.json|288|1790766427
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gn-conakry-last.json|283|1790766453
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tm-ashgabat-last.json|293|1790766430
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dk-copenhagen-last.json|292|1790766414
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sl-freetown-last.json|291|1790766404
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/locations-last.json|79654|1790766462
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ck-avarua-last.json|292|1790766396
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cy-nicosia-last.json|284|1790766408
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dm-roseau-last.json|286|1790766415
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/zm-lusaka-last.json|284|1790766460
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/er-asmara-last.json|284|1790766426
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cx-flying-fish-cove-last.json|315|1790766407
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hu-budapest-last.json|287|1790766470
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sr-paramaribo-last.json|293|1790766411
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/zw-harare-last.json|286|1790766462
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/il-jerusalem-last.json|289|1790766506
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sa-riyadh-last.json|287|1790766391
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ua-kiev-last.json|279|1790766440
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gt-guatemala-city-last.json|302|1790766459
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fm-palikir-last.json|309|1790766434
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/vn-hanoi-last.json|282|1790766451
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gd-st-george-s-last.json|294|1790766441
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cl-santiago-last.json|285|1790766398
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/to-nuku-alofa-last.json|292|1790766433
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sy-damascus-last.json|285|1790766416
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/vu-port-vila-last.json|292|1790766452
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/id-jakarta-last.json|288|1790766474
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sn-dakar-last.json|283|1790766407
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gu-hag-t-a-last.json|294|1790766461
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cz-prague-last.json|291|1790766410
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ie-dublin-last.json|284|1790766493
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/wf-mata-utu-last.json|301|1790766454
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sh-jamestown-last.json|295|1790766399
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/in-new-delhi-last.json|288|1790766526
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/do-santo-domingo-last.json|309|1790766416
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/so-mogadishu-last.json|289|1790766408
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gr-athens-last.json|283|1790766457
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cm-yaound-last.json|289|1790766399
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/td-n-djamena-last.json|286|1790766418
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sk-bratislava-last.json|293|1790766403
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/si-ljubljana-last.json|288|1790766400
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dj-djibouti-last.json|288|1790766412
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ye-sana-a-last.json|282|1790766456
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ws-apia-last.json|281|1790766455
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cr-san-jos-last.json|294|1790766403
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gm-banjul-last.json|287|1790766452
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gh-accra-last.json|279|1790766447
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cn-beijing-last.json|285|1790766400
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/eh-el-aai-n-last.json|301|1790766424
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gl-nuuk-last.json|282|1790766450
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ci-yamoussoukro-last.json|299|1790766395
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fk-stanley-last.json|296|1790766433
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/status-last.json|4467|1790766462
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hn-tegucigalpa-last.json|295|1790766466
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gq-malabo-last.json|292|1790766456
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tv-funafuti-last.json|287|1790766436
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sd-khartoum-last.json|284|1790766395
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tn-tunis-last.json|281|1790766431
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sb-honiara-last.json|294|1790766393
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cu-havana-last.json|282|1790766404
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sm-city-of-san-marino-last.json|309|1790766406
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ge-tbilisi-last.json|285|1790766443
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gg-st-peter-port-last.json|300|1790766446
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tl-dili-last.json|283|1790766429
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ec-quito-last.json|282|1790766419
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/cv-praia-last.json|286|1790766406
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ss-juba-last.json|282|1790766412
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/co-bogot-last.json|287|1790766402
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tw-taipei-last.json|281|1790766438
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/de-berlin-last.json|283|1790766411
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/eg-cairo-last.json|279|1790766422
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sj-longyearbyen-last.json|310|1790766402
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tf-port-aux-fran-ais-last.json|339|1790766420
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/es-madrid-last.json|281|1790766428
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gi-gibraltar-last.json|290|1790766449
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/dz-algiers-last.json|284|1790766418
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/za-pretoria-last.json|294|1790766459
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/se-stockholm-last.json|289|1790766396
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fj-suva-last.json|279|1790766432
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ug-kampala-last.json|284|1790766442
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/yt-mamoudzou-last.json|290|1790766457
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gw-bissau-last.json|290|1790766462
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tz-dodoma-last.json|285|1790766439
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/vc-kingstown-last.json|316|1790766448
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sg-singapore-last.json|291|1790766398
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gb-london-last.json|291|1790766440
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/hr-zagreb-last.json|283|1790766467
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ga-libreville-last.json|288|1790766438
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tj-dushanbe-last.json|290|1790766425
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fo-t-rshavn-last.json|294|1790766436
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tr-ankara-last.json|283|1790766434
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/et-addis-ababa-last.json|294|1790766429
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ve-caracas-last.json|288|1790766450
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/gp-basse-terre-last.json|298|1790766454
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ee-tallinn-last.json|285|1790766420
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tg-lom-last.json|279|1790766421
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/tt-port-of-spain-last.json|310|1790766435
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/st-s-o-tom-last.json|323|1790766414
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/fi-helsinki-last.json|287|1790766430
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/uy-montevideo-last.json|294|1790766444
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/sv-san-salvador-last.json|300|1790766415
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR_loop/Hawaii_IR_loop_current.gif|1014181|1790766580
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR/Hawaii_IR_current.gif|88353|1790766567
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/TAFPA/raw/TAFPA_raw_current.html|58291|1790766569
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/FTM/raw/FTM_raw_current.html|57369|1790766577
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/MarineZones/raw/MarineZones_raw_current.html|31388|1790766640
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/MarineZones/MarineZones_current.html|31388|1790766640
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/firezones/raw/firezones_raw_current.html|27857|1790766628
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/firezones/firezones_current.html|27857|1790766628
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/publiczones/raw/publiczones_raw_current.html|28636|1790766593
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/publiczones/publiczones_current.html|28636|1790766593
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/GEOCOLOR/GOES19-EEP-GEOCOLOR-900x540/GOES19-EEP-GEOCOLOR-900x540_current.gif|10633286|1790766582
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/Sandwich/GOES19-EEP-Sandwich-900x540/GOES19-EEP-Sandwich-900x540_current.gif|15294523|1790766611
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json|73428|1790766646
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/radar.weather.gov/ridge/standard/HAWAII_loop/HAWAII_loop_current.gif|231030|1790766565
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json|204|1790766565
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json|2|1790766572
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/hsf_high_seas_spac/raw/hsf_high_seas_spac_raw_current.html|19297|1790766640
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_HNL/raw/cli_daily_climate_summary_HNL_raw_current.html|27954|1790766580
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/off_offshore_forecast/raw/off_offshore_forecast_raw_current.html|25477|1790766565
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/hsf_high_seas_npac/raw/hsf_high_seas_npac_raw_current.html|25683|1790766595
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/fa0_area_forecast/raw/fa0_area_forecast_raw_current.html|19312|1790766610
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_LIH/raw/cli_daily_climate_summary_LIH_raw_current.html|28093|1790766625
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hurricanes/tracking/Nolo_20260929T220441.9291071000/track.json|2205|1790766564
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|820|1790766601
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|163|1790766601
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790766601
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|113|1790766601
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|282624|1790766601
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2465|1790766602
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|243291|1790766415
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/jobs.py|40856|1790766394
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/ContextSession/scripts/ContextSession/store.py|7213|1790766456
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/ContextSession/scripts/context_session.py|2865|1790766462
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Inbox/scripts/inbox.py|7708|1790766464
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Inbox/__init__.py|83|1790766437
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Inbox/README.md|1153|1790766469
+/home/rootrecord/.local/share/keyrings/login.keyring|2811|1790766647
+/home/rootrecord/.local/share/nautilus/tags/meta.db-shm|32768|1790766574
+/home/rootrecord/.local/share/nautilus/tags/meta.db|167936|1790766571
+/home/rootrecord/.local/share/nautilus/tags/meta.db-wal|4152|1790766574
+/home/rootrecord/.local/share/icc/edid-6561450aec6d3373e94d50803e44063f.icc|1592|1790766560
+/home/rootrecord/.local/share/gvfs-metadata/root|64|1790766621
+/home/rootrecord/.local/share/evolution/addressbook/system/contacts.db|94208|1790766560
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite|36864|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|152|1790766533
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790766459
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790766459
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite|36864|1790766403
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/index.sqlite-wal|3555592|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-wal|4120032|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/sync.lock|152|1790766471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-wal|3592672|1790766460
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm|32768|1790766457
+/home/rootrecord/.local/state/wireplumber/stream-properties|730|1790766560
