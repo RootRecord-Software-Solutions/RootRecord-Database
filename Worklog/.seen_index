@@ -12791,7 +12791,6 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/hurricanes/scripts/storm_track.py|15818|1790762236
 /home/rootrecord/.cursor/plans/report_playback_draft_23b52678.plan.md|5424|1790762307
 /home/rootrecord/.cursor/plans/state_global_news_74695365.plan.md|8688|1790762330
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Desk_product_apps_not_imported_Work_Order_WO-MIG-14-2026-09-29.md|14797|1790762335
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Governance/origin-session-decision.md|1085|1790762399
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Governance/community-governance-decisions.md|2267|1790762395
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Governance/ecosystem-history-decisions.md|2743|1790762409
@@ -12840,8 +12839,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Playback/play.lock|0|1790762488
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Playback/last-play.json|260|1790762507
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/Cloudflare-Workers/.gitkeep|0|1790762538
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json|72|1790762594
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json|193|1790762594
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/status-last.json|132|1790762535
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR_loop/Hawaii_IR_loop_current.gif|1027716|1790762570
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR/Hawaii_IR_current.gif|93399|1790762558
@@ -12955,12 +12952,9 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/README.md|8411|1790762783
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Repository-Ownership-Model.md|2268|1790762785
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Residual-Path-Retirement-Table-2026-09-28.md|19342|1790762828
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Old-Repo-Migration-Matrix.md|42995|1790763069
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Solar-Pacific-Old-Inventory-Map-2026-09-28.md|8852|1790763074
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/G1-Scheduler-To-G3-Jobs-Map-2026-09-29.md|7332|1790763019
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Governance/README.md|2267|1790763076
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Voice-Reports-G3.md|21407|1790762835
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Solar-Pacific-Old-Full-TopLevel-Catalog-2026-09-28.md|5492|1790763071
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/index.html|3937|1790762673
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/wiki/index.html|1524|1790762677
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/system/index.html|1915|1790762676
@@ -12978,7 +12972,6 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/css/weather.css|3603|1790762672
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/css/home.css|2782|1790762671
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/avaivy.cloud/energy/index.html|1872|1790762675
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/README.md|289|1790762756
 /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/it/italy/rome/poller.py|3925|1790762787
 /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/it/italy/rome/location.json|323|1790762787
 /home/rootrecord/RootRecord-Ecosystem/Old repos deleted and merged/old/operations/locations/pr/puerto-rico/san-juan/poller.py|3925|1790762787
@@ -14002,12 +13995,7 @@
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite|36864|1790762851
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite|36864|1790763018
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite|36864|1790762802
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/444654.txt|300|1790763355
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/883973.txt|3457|1790763356
-/home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db|3035136|1790763360
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/US_all_states_weather_dataset_Work_Order_WO-MIG-11-2026-09-29.md|14229|1790763360
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Public_website_checkout_Work_Order_WO-MIG-07-2026-09-29.md|14636|1790763321
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Governance_and_origin_session_archive_Work_Order_WO-MIG-06-2026-09-29.md|13807|1790763356
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Website-RootRecord-Cloud-Staging.md|8026|1790763321
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|315392|1790763239
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|483328|1790763239
@@ -14015,132 +14003,154 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|147456|1790763239
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|74|1790763239
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|186|1790763239
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|821|1790763240
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790763240
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|86|1790763240
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790763240
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|237568|1790763240
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2416|1790763240
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|494915|1790763210
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/website/README.md|2087|1790763222
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/README.md|3180|1790763223
-/home/rootrecord/.local/share/gvfs-metadata/home|4436|1790763300
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal|156592|1790763348
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite|4096|1790763298
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/mount.json|111|1790763298
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm|32768|1790763333
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/sync.lock|152|1790763359
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/index.sqlite-wal|131872|1790763351
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/index.sqlite|4096|1790763320
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/mount.json|111|1790763321
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/index.sqlite-shm|32768|1790763320
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal|4120032|1790763348
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/index.sqlite-shm|32768|1790763316
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/index.sqlite-shm|32768|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/index.sqlite-shm|32768|1790763332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/index.sqlite-shm|32768|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/sync.lock|152|1790763359
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/index.sqlite-shm|32768|1790763332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/index.sqlite-wal|4120032|1790763348
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/index.sqlite|36864|1790763210
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/index.sqlite-shm|32768|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/index.sqlite-wal|824032|1790763348
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/index.sqlite-shm|32768|1790763332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal|4120032|1790763348
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm|32768|1790763332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/index.sqlite-shm|32768|1790763332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/index.sqlite-wal|4120032|1790763348
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/index.sqlite-shm|32768|1790763316
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/sync.lock|148|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/index.sqlite-wal|4120032|1790763314
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/index.sqlite-shm|32768|1790763314
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/sync.lock|152|1790763361
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/index.sqlite-wal|4120032|1790763348
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|148|1790763361
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790763359
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790763328
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/index.sqlite-shm|32768|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c1de44ca-ccbc-4a79-99ee-77a37e6d3687/.sync/sync.lock|152|1790763361
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c1de44ca-ccbc-4a79-99ee-77a37e6d3687/.sync/index.sqlite-wal|168952|1790763348
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c1de44ca-ccbc-4a79-99ee-77a37e6d3687/.sync/index.sqlite|4096|1790763273
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c1de44ca-ccbc-4a79-99ee-77a37e6d3687/.sync/mount.json|111|1790763274
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c1de44ca-ccbc-4a79-99ee-77a37e6d3687/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/sync.lock|152|1790763361
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/index.sqlite-wal|3518512|1790763348
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/index.sqlite-wal|107152|1790763356
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/index.sqlite|4096|1790763355
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/mount.json|111|1790763356
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/index.sqlite-shm|32768|1790763355
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/index.sqlite-wal|280192|1790763348
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/index.sqlite|4096|1790763215
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/mount.json|111|1790763216
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/index.sqlite-shm|32768|1790763332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/sync.lock|152|1790763361
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite-wal|4120032|1790763348
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal|119512|1790763353
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite|4096|1790763337
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/mount.json|111|1790763338
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm|32768|1790763337
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/index.sqlite-wal|317272|1790763348
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/index.sqlite|4096|1790763194
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/mount.json|111|1790763194
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/sync.lock|152|1790763361
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/index.sqlite-wal|255472|1790763348
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/index.sqlite|4096|1790763235
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/mount.json|111|1790763235
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/sync.lock|152|1790763361
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/sync.lock|152|1790763361
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite-shm|32768|1790763316
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/sync.lock|152|1790763360
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/index.sqlite-wal|218392|1790763348
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/index.sqlite|4096|1790763253
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/mount.json|111|1790763254
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/index.sqlite-shm|32768|1790763333
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/sync.lock|152|1790763361
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/index.sqlite-wal|3740992|1790763348
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/index.sqlite-shm|32768|1790763317
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/sync.lock|152|1790763361
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/index.sqlite-wal|4120032|1790763347
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/index.sqlite-shm|32768|1790763316
 /home/rootrecord/.local/state/wireplumber/stream-properties|730|1790763196
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/444654.txt|300|1790763425
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/883973.txt|3457|1790763426
+/home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db|3059712|1790763397
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/US_all_states_weather_dataset_Work_Order_WO-MIG-11-2026-09-29.md|14189|1790763364
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Desk_product_apps_not_imported_Work_Order_WO-MIG-14-2026-09-29.md|16683|1790763397
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Governance_and_origin_session_archive_Work_Order_WO-MIG-06-2026-09-29.md|13726|1790763373
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Old-Repo-Migration-Matrix.md|43514|1790763372
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Solar-Pacific-Old-Inventory-Map-2026-09-28.md|8943|1790763379
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Solar-Pacific-Old-Full-TopLevel-Catalog-2026-09-28.md|6106|1790763378
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Archive/Website-Themes/README.md|336|1790763370
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json|72|1790763391
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json|193|1790763391
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|820|1790763391
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790763391
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790763391
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790763391
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|237568|1790763391
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2421|1790763391
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|530361|1790763364
+/home/rootrecord/.local/share/gvfs-metadata/home|4436|1790763365
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock|152|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal|267832|1790763425
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm|32768|1790763409
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/index.sqlite-wal|243112|1790763425
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/index.sqlite-shm|32768|1790763409
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock|152|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal|4120032|1790763426
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm|32768|1790763410
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/sync.lock|152|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/index.sqlite-wal|4120032|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/index.sqlite-shm|32768|1790763407
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/sync.lock|152|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/index.sqlite-wal|4120032|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/index.sqlite-shm|32768|1790763416
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/sync.lock|152|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/index.sqlite-wal|4120032|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/sync.lock|152|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/index.sqlite-wal|4120032|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/index.sqlite-shm|32768|1790763416
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/index.sqlite-wal|4120032|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/index.sqlite-wal|193672|1790763426
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/index.sqlite|4096|1790763377
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/mount.json|111|1790763378
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/index.sqlite-shm|32768|1790763416
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal|4120032|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm|32768|1790763407
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/index.sqlite-wal|4120032|1790763425
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal|4120032|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/index.sqlite-wal|4120032|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/index.sqlite-shm|32768|1790763417
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/index.sqlite-wal|935272|1790763425
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal|4120032|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/index.sqlite-wal|4120032|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/index.sqlite-shm|32768|1790763407
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/index.sqlite-wal|4120032|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/sync.lock|148|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/index.sqlite-wal|4120032|1790763426
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/index.sqlite-shm|32768|1790763426
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/index.sqlite-wal|4120032|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|148|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790763420
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790763420
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/index.sqlite-wal|4120032|1790763424
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/index.sqlite-shm|32768|1790763416
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c1de44ca-ccbc-4a79-99ee-77a37e6d3687/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c1de44ca-ccbc-4a79-99ee-77a37e6d3687/.sync/index.sqlite-wal|280192|1790763425
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c1de44ca-ccbc-4a79-99ee-77a37e6d3687/.sync/index.sqlite-shm|32768|1790763409
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/index.sqlite-wal|3642112|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/sync.lock|152|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/index.sqlite-wal|218392|1790763425
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/index.sqlite-shm|32768|1790763393
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/sync.lock|152|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/index.sqlite-wal|391432|1790763425
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/index.sqlite-shm|32768|1790763409
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite-wal|4120032|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal|230752|1790763425
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm|32768|1790763409
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/index.sqlite-wal|440872|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/index.sqlite-wal|366712|1790763425
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/index.sqlite-shm|32768|1790763409
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-wal|144232|1790763426
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite|4096|1790763411
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/mount.json|111|1790763412
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-shm|32768|1790763411
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-wal|4120032|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite-wal|4120032|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite-shm|32768|1790763407
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/index.sqlite-wal|341992|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/index.sqlite-shm|32768|1790763409
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/index.sqlite-wal|3864592|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/index.sqlite-shm|32768|1790763408
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/sync.lock|152|1790763430
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/index.sqlite-wal|4120032|1790763429
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/index.sqlite-shm|32768|1790763407
