@@ -3913,3 +3913,318 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/tmp | mtime=2026-09-30 00:29:05 | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/files | mtime=2026-09-30 00:29:05 | source_job=worklog_scan
 
+### 2026-09-30 00:32:00 HST
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/926303.txt | size=355 | mtime=2026-09-30 00:32:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/444654.txt | size=300 | mtime=2026-09-30 00:32:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/883977.txt | size=5010 | mtime=2026-09-30 00:32:01 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/926304.txt | size=590 | mtime=2026-09-30 00:32:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/883973.txt | size=3457 | mtime=2026-09-30 00:32:01 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/agent-tools/b0e54ef3-3b72-449c-beec-25c5219a822e.txt | size=33348 | mtime=2026-09-30 00:30:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/plans/economy_brief_draft_44789eeb.plan.md | size=5644 | mtime=2026-09-30 00:29:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/plans/earthquake_discord_post_feb5d314.plan.md | size=7115 | mtime=2026-09-30 00:30:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/plans/mysql_desk_facts_d1d20ef3.plan.md | size=6707 | mtime=2026-09-30 00:31:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/plans/slack_poller_draft_7003bd26.plan.md | size=5533 | mtime=2026-09-30 00:30:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db | size=3649536 | mtime=2026-09-30 00:31:43 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/MySQL_desk_facts_Work_Order_WO-MIG-28-2026-09-29.md | size=9068 | mtime=2026-09-30 00:31:43 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Earthquake_Discord_post_Work_Order_WO-MIG-23-2026-09-29.md | size=14933 | mtime=2026-09-30 00:30:52 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Stripe_Vercel_and_live_data_pages_Work_Order_WO-MIG-10-2026-09-29.md | size=16323 | mtime=2026-09-30 00:29:48 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Slack_poller_Work_Order_WO-MIG-22-2026-09-29.md | size=14777 | mtime=2026-09-30 00:30:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db | size=323584 | mtime=2026-09-30 00:31:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/15min.db | size=94208 | mtime=2026-09-30 00:31:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db | size=548864 | mtime=2026-09-30 00:31:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db | size=26480640 | mtime=2026-09-30 00:31:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db | size=172032 | mtime=2026-09-30 00:31:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json | size=72 | mtime=2026-09-30 00:30:06 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json | size=74 | mtime=2026-09-30 00:31:21 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json | size=193 | mtime=2026-09-30 00:30:06 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json | size=186 | mtime=2026-09-30 00:31:21 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/.gitignore | size=4503 | mtime=2026-09-30 00:30:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=820 | mtime=2026-09-30 00:31:22 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=162 | mtime=2026-09-30 00:31:22 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=85 | mtime=2026-09-30 00:31:22 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=114 | mtime=2026-09-30 00:31:22 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=245760 | mtime=2026-09-30 00:31:22 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2484 | mtime=2026-09-30 00:31:22 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=761097 | mtime=2026-09-30 00:32:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/cache-life.d.ts | size=5863 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/validator.ts | size=8604 | mtime=2026-09-30 00:31:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/routes.d.ts | size=2560 | mtime=2026-09-30 00:31:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/package.json | size=18 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/pantry/page.ts | size=3755 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/page.ts | size=3728 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/layout.ts | size=3740 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/fern-forest/page.ts | size=3770 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/product-prices/page.ts | size=3779 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/clients/page.ts | size=3758 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/api/[...path]/route.ts | size=8772 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/1.pack.gz | size=12235117 | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/index.pack.gz.old | size=99546 | mtime=2026-09-30 00:31:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/index.pack.gz | size=100626 | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/3.pack.gz | size=2434 | mtime=2026-09-30 00:31:57 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/5.pack.gz | size=28819 | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/4.pack.gz | size=68684 | mtime=2026-09-30 00:31:57 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/2.pack.gz | size=91 | mtime=2026-09-30 00:29:38 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development/1.pack.gz | size=182773 | mtime=2026-09-30 00:32:00 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development/index.pack.gz.old | size=169757 | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development/index.pack.gz | size=198187 | mtime=2026-09-30 00:32:00 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development/0.pack.gz | size=3994450 | mtime=2026-09-30 00:32:01 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development/2.pack.gz | size=11855071 | mtime=2026-09-30 00:32:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/interception-route-rewrite-manifest.js | size=47 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app-paths-manifest.json | size=320 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/webpack-runtime.js | size=20634 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/vendor-chunks/next.js | size=9081030 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/vendor-chunks/@swc.js | size=21830 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/middleware-manifest.json | size=83 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/middleware-react-loadable-manifest.js | size=35 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/middleware-build-manifest.js | size=786 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/_error.js | size=16296 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/pages-manifest.json | size=100 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/server-reference-manifest.json | size=97 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/next-font-manifest.json | size=77 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/server-reference-manifest.js | size=140 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/pages/_app.js | size=1513 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/pages/_error.js | size=16027 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/pages/_document.js | size=2099 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/next-font-manifest.js | size=113 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/_not-found/page_client-reference-manifest.js | size=14037 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/_not-found/page.js | size=276858 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/page_client-reference-manifest.js | size=13936 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/pantry/page_client-reference-manifest.js | size=14242 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/page.js | size=379606 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/fern-forest/page_client-reference-manifest.js | size=14287 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/fern-forest/page.js | size=308824 | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/product-prices/page_client-reference-manifest.js | size=14314 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/product-prices/page.js | size=306845 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/clients/page_client-reference-manifest.js | size=14251 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/api/[...path]/route_client-reference-manifest.js | size=14045 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/app-build-manifest.json | size=1401 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/react-loadable-manifest.json | size=2 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/package.json | size=20 | mtime=2026-09-30 00:31:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/development/_buildManifest.js | size=312 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/development/_ssgManifest.js | size=76 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/main-app.js | size=7612619 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/polyfills.js | size=112594 | mtime=2026-09-30 00:31:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/webpack.js | size=140751 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/_error.js | size=4155 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app-pages-internals.js | size=251437 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/react-refresh.js | size=79595 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/pages/_app.js | size=3469 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/pages/_error.js | size=3449 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/main.js | size=7132676 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/_not-found/page.js | size=30200 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/layout.js | size=281190 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/page.js | size=158559 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/fern-forest/page.js | size=173393 | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/product-prices/page.js | size=173396 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/633457081244afec._.hot-update.json | size=22 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/webpack.3c8a5ab6f6c600b4.hot-update.js | size=1157 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/901e150d07715b79.webpack.hot-update.json | size=31 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/a9bad5300ddc35ba.webpack.hot-update.json | size=31 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/webpack.a9bad5300ddc35ba.hot-update.js | size=1157 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/e7bd2be86375a4f3.webpack.hot-update.json | size=31 | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/3c8a5ab6f6c600b4.webpack.hot-update.json | size=31 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/webpack.901e150d07715b79.hot-update.js | size=1157 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/webpack.e7bd2be86375a4f3.hot-update.js | size=1157 | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/9b72df0f911aa851.webpack.hot-update.json | size=31 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/webpack.9b72df0f911aa851.hot-update.js | size=1157 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/page.css | size=8711 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/fern-forest/page.css | size=2203 | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/product-prices/page.css | size=2203 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/layout.css | size=8040 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/routes-manifest.json | size=272 | mtime=2026-09-30 00:31:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/trace | size=39955 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/prerender-manifest.json | size=354 | mtime=2026-09-30 00:31:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/build-manifest.json | size=661 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/jobs.py | size=31788 | mtime=2026-09-30 00:30:32 | domain=Automations | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/poll.py | size=3256 | mtime=2026-09-30 00:30:13 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/config/channels.json | size=3 | mtime=2026-09-30 00:30:03 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/__init__.py | size=70 | mtime=2026-09-30 00:29:55 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/lib/envload.py | size=1038 | mtime=2026-09-30 00:29:59 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/lib/__init__.py | size=63 | mtime=2026-09-30 00:29:56 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/lib/api.py | size=1272 | mtime=2026-09-30 00:30:03 | domain=Communications | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/README.md | size=1865 | mtime=2026-09-30 00:30:19 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/README.md | size=3238 | mtime=2026-09-30 00:30:33 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gvfs-metadata/home | size=4436 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/index.sqlite-wal | size=131872 | mtime=2026-09-30 00:32:04 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/index.sqlite | size=4096 | mtime=2026-09-30 00:31:48 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/mount.json | size=111 | mtime=2026-09-30 00:31:51 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal | size=2282512 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/index.sqlite-wal | size=2257792 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20334835-75c3-4088-8c2f-fa75bb8d9d66/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e69e041b-d2b2-4637-8554-366c957e9cb4/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f749b14-e9b8-4b48-b703-3b2314685330/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9a27a5e5-cb00-4e61-bd6c-735069145426/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-wal | size=1120672 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-wal | size=391432 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b88bbc77-9f0c-456a-920b-82b612c28761/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2c2f16ab-6ae2-47ca-83d9-de77421d0878/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/index.sqlite-wal | size=2208352 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/969c812b-35ed-4573-bb71-3531c75543bf/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-wal | size=329632 | mtime=2026-09-30 00:32:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a37b1ff1-df3c-446f-9dc8-0cdf4d1b8055/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6af00a59-9088-4d47-b30e-49ff03bd1743/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/index.sqlite-wal | size=2912872 | mtime=2026-09-30 00:31:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2abf9a3d-9112-4acc-8d49-90c0182731fd/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ab9d183c-90ea-4a68-8034-f395c997dbe8/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ab9d183c-90ea-4a68-8034-f395c997dbe8/.sync/index.sqlite-wal | size=1182472 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ab9d183c-90ea-4a68-8034-f395c997dbe8/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d404403f-5f97-4414-9a13-50ab14bacf1a/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6e0ad0a3-a129-48f1-bf23-0c534510f642/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/sync.lock | size=148 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:31:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bc-0210c747-f87d-493b-806d-af4f5401e6de/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/937d8416-ac29-4bd8-92e5-c6c9304c9a2c/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock | size=148 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49c8bd4e-b2ae-4e86-914d-2f1eae4cfff7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:52 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c1de44ca-ccbc-4a79-99ee-77a37e6d3687/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c1de44ca-ccbc-4a79-99ee-77a37e6d3687/.sync/index.sqlite-wal | size=2307232 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c1de44ca-ccbc-4a79-99ee-77a37e6d3687/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/59b8ec16-9c75-460a-ac03-9cc958a183b4/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/index.sqlite-wal | size=2183632 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/2780f06a-f182-4767-b477-964a1d8e7e38/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/index.sqlite-wal | size=2443192 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cad0a3cf-edf3-40b3-b3e3-948e2e94f0d3/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:36 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-wal | size=243112 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite | size=4096 | mtime=2026-09-30 00:30:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/mount.json | size=111 | mtime=2026-09-30 00:30:35 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/d10dbc94-af07-45e0-b87a-c81ca8ff9331/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal | size=2233072 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/index.sqlite-wal | size=2517352 | mtime=2026-09-30 00:32:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/94d75c7d-e46b-4e67-b267-33dde00d5209/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/index.sqlite-wal | size=2393752 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/79926961-c6e1-48e2-a5d1-1f82b1405b21/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-wal | size=2109472 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:37 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:07 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-wal | size=230752 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite | size=4096 | mtime=2026-09-30 00:30:51 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/mount.json | size=111 | mtime=2026-09-30 00:30:53 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e18ae8e-0ae3-44d2-82e3-2664b4ad3401/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e46d716-49e6-4413-998c-74067d0d75aa/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/index.sqlite-wal | size=2356672 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c61ee563-5029-4d0d-a474-30ad4ed2b264/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5cfe2ca1-df2d-4298-ba32-5cb4e52aa5ce/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 00:32:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8d011101-0024-4519-bc15-d5c9a75298b6/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/sync.lock | size=152 | mtime=2026-09-30 00:32:06 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-wal | size=329632 | mtime=2026-09-30 00:32:07 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite | size=4096 | mtime=2026-09-30 00:29:48 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/mount.json | size=111 | mtime=2026-09-30 00:29:49 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 00:31:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/wireplumber/stream-properties | size=730 | mtime=2026-09-30 00:31:53 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/pantry | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/fern-forest | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/product-prices | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/clients | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/api | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/api/[...path] | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/pages | mtime=2026-09-30 00:31:56 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/pantry | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/fern-forest | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/product-prices | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/clients | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/api | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/api/[...path] | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/pages | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/pantry | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/fern-forest | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/product-prices | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/clients | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/api | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/api/[...path] | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/pantry | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/fern-forest | mtime=2026-09-30 00:31:58 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/product-prices | mtime=2026-09-30 00:31:59 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/clients | mtime=2026-09-30 00:31:55 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord | mtime=2026-09-30 00:30:19 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts | mtime=2026-09-30 00:30:13 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/config | mtime=2026-09-30 00:30:03 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/lib | mtime=2026-09-30 00:30:03 | domain=Communications | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95 | mtime=2026-09-30 00:31:48 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync | mtime=2026-09-30 00:31:51 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/.sync/tmp | mtime=2026-09-30 00:31:48 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b60a8a18-857c-4343-8b97-185b2ece3c95/files | mtime=2026-09-30 00:31:48 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106 | mtime=2026-09-30 00:30:32 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync | mtime=2026-09-30 00:30:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/tmp | mtime=2026-09-30 00:30:32 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/files | mtime=2026-09-30 00:30:32 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67 | mtime=2026-09-30 00:30:51 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync | mtime=2026-09-30 00:30:53 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/tmp | mtime=2026-09-30 00:30:51 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/files | mtime=2026-09-30 00:30:51 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b | mtime=2026-09-30 00:29:48 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync | mtime=2026-09-30 00:29:49 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/tmp | mtime=2026-09-30 00:29:48 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/files | mtime=2026-09-30 00:29:48 | source_job=worklog_scan
+
