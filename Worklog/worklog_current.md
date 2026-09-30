@@ -3166,3 +3166,326 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:33:50 | source_job=worklog_scan
 - MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:33:41 | source_job=worklog_scan
 
+### 2026-09-30 01:36:14 HST
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/113885.txt | size=2043 | mtime=2026-09-30 01:35:52 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db | size=7622656 | mtime=2026-09-30 01:36:07 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/README.md | size=9043 | mtime=2026-09-30 01:36:05 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/2026-09-30-whats-left-for-alexander.md | size=7092 | mtime=2026-09-30 01:36:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/0 - Master-Prompt/prompts/08-repository-and-file-links.md | size=10279 | mtime=2026-09-30 01:36:07 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/0 - Master-Prompt/prompts/07-current-state.md | size=3817 | mtime=2026-09-30 01:36:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db | size=438272 | mtime=2026-09-30 01:34:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db | size=851968 | mtime=2026-09-30 01:34:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db | size=42090496 | mtime=2026-09-30 01:34:30 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json | size=74 | mtime=2026-09-30 01:34:30 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json | size=186 | mtime=2026-09-30 01:34:30 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif | size=2091094 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md | size=1161 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/wa0_airmets_current.md | size=1002 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_rra_direct_current.md | size=16952 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/oso_hourly_obs_current.md | size=14544 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_OGG_current.md | size=3123 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_HNL_current.md | size=3072 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/afd_area_forecast_discussion_current.md | size=6033 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/surfreports_statewide_observations_current.md | size=3030 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_7day_current.md | size=1168 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_7day_current.md | size=1168 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_surf_reports_direct_current.md | size=3071 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_LIH_current.md | size=3211 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hsf_high_seas_npac_current.md | size=3031 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/Hawaii_State_Weather_Report_current.md | size=89165 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_2day_current.md | size=1168 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_tib_reference_current.md | size=12991 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/off_offshore_forecast_current.md | size=2425 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_2day_current.md | size=1168 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_ITO_current.md | size=3236 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_homepage_current.md | size=9149 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_2day_current.md | size=1161 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_7day_current.md | size=1491 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_7day_current.md | size=1498 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_7day_current.md | size=1498 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_2day_current.md | size=1498 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_2day_current.md | size=1498 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_homepage_current.md | size=9473 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_2day_current.md | size=1491 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/wa0_airmets_current.md | size=1329 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_rra_direct_current.md | size=17282 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/oso_hourly_obs_current.md | size=14874 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_OGG_current.md | size=3468 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_HNL_current.md | size=3417 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/afd_area_forecast_discussion_current.md | size=6377 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/surfreports_statewide_observations_current.md | size=3380 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_surf_reports_direct_current.md | size=3410 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_LIH_current.md | size=3556 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hsf_high_seas_npac_current.md | size=3365 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_tib_reference_current.md | size=13324 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/off_offshore_forecast_current.md | size=2762 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_ITO_current.md | size=3581 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_7day_current.md | size=1434 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_7day_current.md | size=1441 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_7day_current.md | size=1441 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_2day_current.md | size=1441 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/hfo_tib_reference_current.md | size=13263 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_2day_current.md | size=1441 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_2day_current.md | size=1434 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/wa0_airmets_current.md | size=1271 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/hfo_rra_direct_current.md | size=17228 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/oso_hourly_obs_current.md | size=14816 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/afd_area_forecast_discussion_current.md | size=6319 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/surfreports_statewide_observations_current.md | size=3322 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/hfo_surf_reports_direct_current.md | size=3331 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/hsf_high_seas_npac_current.md | size=3307 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/off_offshore_forecast_current.md | size=2704 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/cli_daily_climate_summary_ITO_current.md | size=3527 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/wa0_airmets_current.md | size=1269 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/hfo_rra_direct_current.md | size=17226 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/oso_hourly_obs_current.md | size=14814 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/afd_area_forecast_discussion_current.md | size=6317 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/surfreports_statewide_observations_current.md | size=3320 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/hfo_surf_reports_direct_current.md | size=3329 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/hsf_high_seas_npac_current.md | size=3305 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/off_offshore_forecast_current.md | size=2702 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/wa0_airmets_current.md | size=1267 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/hfo_rra_direct_current.md | size=17224 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/oso_hourly_obs_current.md | size=14812 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/cli_daily_climate_summary_OGG_current.md | size=3410 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/afd_area_forecast_discussion_current.md | size=6315 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/surfreports_statewide_observations_current.md | size=3318 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/hfo_surf_reports_direct_current.md | size=3327 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/hsf_high_seas_npac_current.md | size=3303 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/off_offshore_forecast_current.md | size=2700 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii_County_Weather_Report_current.md | size=52562 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/wa0_airmets_current.md | size=1273 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/oso_hourly_obs_current.md | size=14818 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/afd_area_forecast_discussion_current.md | size=6321 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/surfreports_statewide_observations_current.md | size=3324 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/hsf_high_seas_npac_current.md | size=3309 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/off_offshore_forecast_current.md | size=2706 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai_County_Weather_Report_current.md | size=49449 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu_County_Weather_Report_current.md | size=70609 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui_County_Weather_Report_current.md | size=52445 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao_County_Weather_Report_current.md | size=29726 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/wa0_airmets_current.md | size=1275 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/hfo_rra_direct_current.md | size=17232 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/oso_hourly_obs_current.md | size=14820 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_OGG_current.md | size=3418 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_HNL_current.md | size=3367 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/afd_area_forecast_discussion_current.md | size=6323 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/surfreports_statewide_observations_current.md | size=3326 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/hfo_surf_reports_direct_current.md | size=3335 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_LIH_current.md | size=3506 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/hsf_high_seas_npac_current.md | size=3311 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/off_offshore_forecast_current.md | size=2708 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_ITO_current.md | size=3531 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/nhc_homepage_current.md | size=9427 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/index_current.html | size=165255 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/raw/index_raw_current.html | size=165255 | mtime=2026-09-30 01:34:58 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json | size=73427 | mtime=2026-09-30 01:35:31 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json | size=204 | mtime=2026-09-30 01:35:30 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json | size=2 | mtime=2026-09-30 01:35:31 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/raw/product_types_raw_current.html | size=74397 | mtime=2026-09-30 01:35:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/product_types_current.html | size=74397 | mtime=2026-09-30 01:35:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/README.md | size=92818 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=819 | mtime=2026-09-30 01:35:32 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=162 | mtime=2026-09-30 01:35:32 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=85 | mtime=2026-09-30 01:35:32 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=113 | mtime=2026-09-30 01:35:32 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=294912 | mtime=2026-09-30 01:35:32 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2427 | mtime=2026-09-30 01:35:32 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=635284 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/reports/README.md | size=92626 | mtime=2026-09-30 01:34:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gnome-shell/application_state | size=1953 | mtime=2026-09-30 01:35:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite | size=36864 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:10 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:55 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:17 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-wal | size=997072 | mtime=2026-09-30 01:36:10 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:08 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:08 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:08 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:35:53 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/sync.lock | size=150 | mtime=2026-09-30 01:36:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 01:36:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/wireplumber/stream-properties | size=730 | mtime=2026-09-30 01:34:57 | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/app-build-manifest.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/build-manifest.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/swc | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/swc/plugins | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/swc/plugins/linux_x86_64_18.0.0 | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/1.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/2.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/3.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/4.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/5.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/6.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development/index.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-production | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/edge-server-production | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development/0.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development/1.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development/2.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development/3.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development/4.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development/index.pack.gz | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-production | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/package.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/prerender-manifest.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/react-loadable-manifest.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/routes-manifest.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/api | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/api/[...path] | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/api/[...path]/route_client-reference-manifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/api/[...path]/route.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/data | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/data/advertising | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/data/advertising/page_client-reference-manifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/data/advertising/page.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/data/page_client-reference-manifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/data/page.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/locations | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/locations/page_client-reference-manifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/locations/page.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/_not-found | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/_not-found/page_client-reference-manifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/_not-found/page.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/page_client-reference-manifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/page.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app-paths-manifest.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/interception-route-rewrite-manifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/middleware-build-manifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/middleware-manifest.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/middleware-react-loadable-manifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/next-font-manifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/next-font-manifest.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/pages-manifest.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/server-reference-manifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/server-reference-manifest.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/vendor-chunks | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/vendor-chunks/next.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/vendor-chunks/@swc.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/webpack-runtime.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/api | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/api/[...path] | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/api/[...path]/route.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/data | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/data/advertising | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/data/advertising/page.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/data/page.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/layout.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/locations | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/locations/page.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/_not-found | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/_not-found/page.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/page.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app-pages-internals.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/main-app.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/polyfills.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/webpack.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/data | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/data/advertising | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/data/advertising/page.css | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/data/page.css | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/layout.css | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/locations | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/locations/page.css | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/page.css | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/development | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/development/_buildManifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/development/_ssgManifest.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/4be5d4f25830555f.webpack.hot-update.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/60dbc52f33f32a9e.webpack.hot-update.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/633457081244afec._.hot-update.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/7d6dbe06e751672d.webpack.hot-update.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/bd0c39a862d64b8d.webpack.hot-update.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/webpack.4be5d4f25830555f.hot-update.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/webpack.60dbc52f33f32a9e.hot-update.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/webpack.7d6dbe06e751672d.hot-update.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack/webpack.bd0c39a862d64b8d.hot-update.js | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/trace | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/api | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/api/[...path] | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/api/[...path]/route.ts | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/data | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/data/advertising | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/data/advertising/page.ts | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/data/page.ts | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/layout.ts | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/locations | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/locations/page.ts | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/page.ts | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/cache-life.d.ts | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/package.json | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/routes.d.ts | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/validator.ts | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/data | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/data/advertising | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/data/kilauea | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/data/power | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/data/weather | source_job=worklog_scan
+- DELETED /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/src/app/locations | source_job=worklog_scan
+
