@@ -4221,20 +4221,14 @@
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/swc/plugins
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/swc/plugins/linux_x86_64_18.0.0
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack
-/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-development
-/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-development
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server
-/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/vendor-chunks
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/_not-found
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static
-/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/development
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/_not-found
-/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/webpack
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css
-/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/tmp
@@ -4263,10 +4257,6 @@
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/clients
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/api
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/api/[...path]
-/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/pantry
-/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/fern-forest
-/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/product-prices
-/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/clients
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/config
@@ -4291,11 +4281,80 @@
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/us-states
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/us-states
 /home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/us-states
-/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/css/app/us-states
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Slack
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Slack/scripts
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Slack/lib
-/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/discord
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/MysqlDesk
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/MysqlDesk/scripts
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/MysqlDesk/lib
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/Slack
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/Discord
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Earthquake-Discord
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/Counties/archive/09-30-2026
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Reports/Economy-Brief
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/timeline
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/blog
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/blog/[slug]
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/dev
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/login
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/reports
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/goals
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/goals/[id]
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/goals/new
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/status
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/api/auth
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/api/auth/session
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/types/app/api/chat
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/server-production
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/client-production
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/cache/webpack/edge-server-production
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/chunks
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/timeline
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/blog
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/blog/[slug]
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/dev
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/login
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/reports
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/goals
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/goals/[id]
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/goals/new
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/status
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/api/auth
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/api/auth/session
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/server/app/api/chat
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/JPKBt5h1g_XvS2iVxbek8
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/timeline
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/blog
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/blog/[slug]
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/dev
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/login
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/reports
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/goals
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/goals/[id]
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/goals/new
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/status
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/api/auth
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/api/auth/session
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/static/chunks/app/api/chat
+/home/rootrecord/RootRecord-Ecosystem/3 - RootRecord-Website/.next/diagnostics
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/Earthquake-Discord
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/Earthquake-Discord/scripts
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/Earthquake-Discord/lib
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/Economy-Brief
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/Economy-Brief/scripts
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/tmp
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/files
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/648842c2-a53b-460d-bdbe-1378fa4ce1d0
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/648842c2-a53b-460d-bdbe-1378fa4ce1d0/.sync
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/648842c2-a53b-460d-bdbe-1378fa4ce1d0/.sync/tmp
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/648842c2-a53b-460d-bdbe-1378fa4ce1d0/files
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/tmp
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/files
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/tmp
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/files
