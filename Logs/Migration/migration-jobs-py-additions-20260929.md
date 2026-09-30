@@ -136,3 +136,7 @@ Original (pre-pass) copy: `/home/rootrecord/Database/GITHUB/migration-geology.ba
     },
 ```
 
+
+## Addendum 2026-09-29 ~14:12 HST
+
+No further `jobs.py` edits after 13:45 HST (standing rule). The breadth batch added five jobs as **PROPOSED only**; they are not in `jobs.py`. They are `system_net_sample` (`RR_NET_SAMPLES`), `voice_solar_desk` (`RR_VOICE_SOLAR`), `voice_security_desk` (`RR_VOICE_SECURITY`), `voice_bandwidth_desk` (`RR_VOICE_BANDWIDTH`) and `reports_hawaii_news` (`RR_HAWAII_NEWS`). The exact blocks are in Library `Documentation/00-architecture/Pending-Job-Registrations-2026-09-29.md` §B.
