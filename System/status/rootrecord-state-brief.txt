@@ -1,13 +1,13 @@
-generated_at=2026-09-30T13:45:29-10:00
+generated_at=2026-09-30T13:47:03-10:00
 secrets=none
 empty_incident_list_is_not_all_clear=true
-host_resources={"cpu_percent":5.42,"mem_used_percent":56.32,"load1":1.48,"load5":1.69,"load15":1.69}
+host_resources={"cpu_percent":8.63,"mem_used_percent":57.95,"load1":1.96,"load5":1.94,"load15":1.79}
 power_delta2_soc=16.99 at=2026-09-30T13:40:58-10:00 confidence=recent
-power_river2pro_soc=67.08 at=2026-09-30T13:44:23-10:00 confidence=recent
+power_river2pro_soc=66.35 at=2026-09-30T13:46:54-10:00 confidence=recent
 service_ollama=running confidence=live
 service_council_relay=running confidence=live
 service_desk_live=present confidence=live
-service_root_monitor=running confidence=live
+service_root_monitor=stopped confidence=live
 service_github_sync=scheduled confidence=configured
 service_rootserver_poller=running confidence=live
 service_flm=idle confidence=live
@@ -20,5 +20,5 @@ gated_quake_telegram_send=RR_COUNCIL_QUAKE_SEND (gated)
 gated_bruce_stats_send=RR_BRUCE_STATS_SEND (gated)
 gated_agent_program_launch=agent_execution_layer (not_implemented)
 health_failed=none
-health_degraded=council_relay_duplicate
+health_degraded=none
 health_unknown=incidents,root_monitor
