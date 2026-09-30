@@ -165,3 +165,7 @@
 /ContextSession/*.db-shm
 /Logs/ContextSession/*
 !/Logs/ContextSession/README.md
+
+# River car DC drive (WO-MIG-39): state, lock, and log are runtime. Stay out of git.
+/Energy/River-Car/
+/Logs/Energy/River-Car/
