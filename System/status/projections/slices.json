@@ -1,6 +1,6 @@
 {
   "safety": "can_launch=false do_not=enable gates,launch programs,restart poller,start a second relay,invent numbers,treat a commit as a deploy",
-  "energy": "delta2 state=observed soc=29.92 age_min=3\nriver2pro state=observed soc=78.91 age_min=1",
+  "energy": "delta2 state=observed soc=29.92 age_min=4\nriver2pro state=observed soc=78.76 age_min=1",
   "scope": "can_launch=false do_not=enable gates,launch programs,restart poller,start a second relay,invent numbers,treat a commit as a deploy\ndrift=aligned\nconfigured_model=llama3.2:3b observed_model=llama3.2:3b\nfallback_configured=disabled fallback_observed=disabled\nservices=ollama=running council_relay=running desk_live=present root_monitor=stopped github_sync=scheduled rootserver_poller=running flm=idle cloudflared=running\nhealth_failed=none\nhealth_unknown=incidents,root_monitor\nread_broker=built agent_launch=not_built build_handoff=built cursor_api=gated\nunknown_is_not_broken=true",
-  "index": "generated_at=2026-09-30T22:17:14-10:00 health_failed=none"
+  "index": "generated_at=2026-09-30T22:18:30-10:00 health_failed=none"
 }
