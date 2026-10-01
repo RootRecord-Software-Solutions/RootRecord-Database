@@ -1856,3 +1856,195 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Apps/Control-Panel | mtime=2026-10-01 01:14:25 | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/assets/products | mtime=2026-10-01 01:18:02 | source_job=worklog_scan
 
+### 2026-10-01 01:21:06 HST
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/867866.txt | size=3881 | mtime=2026-10-01 01:21:10 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/782740.txt | size=1096 | mtime=2026-10-01 01:21:07 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/867864.txt | size=2891 | mtime=2026-10-01 01:21:08 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/741693.txt | size=514 | mtime=2026-10-01 01:21:10 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/assets/image-1693f1ad-5462-4f97-b273-96eac84876c3.png | size=86173 | mtime=2026-10-01 01:20:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/.sync-manifest.json | size=1714 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/usage-bar.d.ts | size=2318 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/swatch.d.ts | size=1313 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/index.d.ts | size=4244 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/dag-layout.d.ts | size=3384 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/chart-primitives.d.ts | size=10547 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/collapsible-section.d.ts | size=2460 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/callout-tone-icons.d.ts | size=586 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/hooks.d.ts | size=6765 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.test.d.ts | size=59 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/form-primitives.d.ts | size=6663 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/todo-list.d.ts | size=1543 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/diff-view.d.ts | size=4916 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/canvas-tokens.d.ts | size=10435 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.d.ts | size=20332 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/theme.d.ts | size=3520 | mtime=2026-10-01 01:18:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db | size=17137664 | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon-credential.json | size=962 | mtime=2026-10-01 01:19:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-supervisor.json | size=33 | mtime=2026-10-01 01:21:07 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.grokbot/local-exec-daemon.json | size=156 | mtime=2026-10-01 01:21:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.grokbot/local-exec-daemon-connection.json | size=1666 | mtime=2026-10-01 01:21:08 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Automations/scripts/automation_control.py | size=41762 | mtime=2026-10-01 01:19:51 | domain=Automations | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Automations/scripts/test_automation_control.py | size=8332 | mtime=2026-10-01 01:18:01 | domain=Automations | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Communications/network/local-data-globe/rebroadcast/hawaii-current.ndjson | size=22623 | mtime=2026-10-01 01:20:14 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Communications/network/local-data-globe/rebroadcast/status-current.json | size=1767 | mtime=2026-10-01 01:18:11 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Apps/Control-Panel/rr_automations_page.py | size=36530 | mtime=2026-10-01 01:19:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Apps/Control-Panel/rr_control_panel.py | size=97047 | mtime=2026-10-01 01:19:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/index.html | size=16583 | mtime=2026-10-01 01:19:32 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/reports/index.html | size=8504 | mtime=2026-10-01 01:19:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/reports/nws-weather/index.html | size=2346 | mtime=2026-10-01 01:19:46 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/assets/products/weather-mark.svg | size=848 | mtime=2026-10-01 01:18:00 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/assets/products/kilauea-mark.svg | size=320 | mtime=2026-10-01 01:18:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/assets/site.css | size=22620 | mtime=2026-10-01 01:18:25 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/products/index.html | size=5052 | mtime=2026-10-01 01:19:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/products/business-manager/index.html | size=3787 | mtime=2026-10-01 01:20:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/index.html | size=16583 | mtime=2026-10-01 01:19:32 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/reports/index.html | size=8504 | mtime=2026-10-01 01:19:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/reports/nws-weather/index.html | size=2346 | mtime=2026-10-01 01:19:46 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/assets/products/weather-mark.svg | size=848 | mtime=2026-10-01 01:18:00 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/assets/products/kilauea-mark.svg | size=320 | mtime=2026-10-01 01:18:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/assets/site.css | size=22620 | mtime=2026-10-01 01:18:25 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/products/weather-manager/index.html | size=3766 | mtime=2026-10-01 01:20:22 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/products/index.html | size=5052 | mtime=2026-10-01 01:19:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/products/business-manager/index.html | size=3787 | mtime=2026-10-01 01:20:11 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/products/kilauea-alerts/index.html | size=3881 | mtime=2026-10-01 01:20:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/index.html | size=16583 | mtime=2026-10-01 01:19:32 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/reports/index.html | size=8504 | mtime=2026-10-01 01:19:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/reports/nws-weather/index.html | size=2346 | mtime=2026-10-01 01:19:46 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/assets/products/weather-mark.svg | size=848 | mtime=2026-10-01 01:18:00 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/assets/products/kilauea-mark.svg | size=320 | mtime=2026-10-01 01:18:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/assets/site.css | size=22620 | mtime=2026-10-01 01:18:25 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/products/weather-manager/index.html | size=3766 | mtime=2026-10-01 01:20:22 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/products/index.html | size=5052 | mtime=2026-10-01 01:19:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/products/business-manager/index.html | size=3787 | mtime=2026-10-01 01:20:11 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/products/kilauea-alerts/index.html | size=3881 | mtime=2026-10-01 01:20:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/rootrecord.db | size=2875392 | mtime=2026-10-01 01:20:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/15min.db | size=860160 | mtime=2026-10-01 01:20:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1min.db | size=8757248 | mtime=2026-10-01 01:20:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1sec.db | size=424169472 | mtime=2026-10-01 01:20:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/5min.db | size=2359296 | mtime=2026-10-01 01:20:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/hvo-last.json | size=3025 | mtime=2026-10-01 01:19:46 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/kilauea-last.json | size=1511 | mtime=2026-10-01 01:19:46 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/mauna-loa-last.json | size=1001 | mtime=2026-10-01 01:19:46 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/collector-last.json | size=548 | mtime=2026-10-01 01:19:46 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Earthquakes/hawaii-last.json | size=30416 | mtime=2026-10-01 01:19:45 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Earthquakes/global-last.json | size=20159 | mtime=2026-10-01 01:19:45 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/soc/river2pro-last.json | size=74 | mtime=2026-10-01 01:20:03 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/watts/river2pro-last.json | size=186 | mtime=2026-10-01 01:20:03 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/state/cloud-fallback-delta2.json | size=79 | mtime=2026-10-01 01:18:23 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/surfreports_raw_current.html | size=65224 | mtime=2026-10-01 01:18:04 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html | size=65224 | mtime=2026-10-01 01:18:04 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/_manifest.json | size=75545 | mtime=2026-10-01 01:17:35 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json | size=204 | mtime=2026-10-01 01:17:34 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json | size=2 | mtime=2026-10-01 01:17:35 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/issuedby=HFO&product=RRA&site=hfo_current.html | size=41827 | mtime=2026-10-01 01:18:01 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/raw/issuedby=HFO&product=RRA&site=hfo_raw_current.html | size=41827 | mtime=2026-10-01 01:18:01 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/network/net-last.json | size=245 | mtime=2026-10-01 01:19:46 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/last/host-last.json | size=821 | mtime=2026-10-01 01:20:03 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/mem/host-last.json | size=162 | mtime=2026-10-01 01:20:03 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/cpu/host-last.json | size=86 | mtime=2026-10-01 01:20:03 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/load/host-last.json | size=114 | mtime=2026-10-01 01:20:03 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/system.db | size=884736 | mtime=2026-10-01 01:20:03 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/status/system-status.json | size=2470 | mtime=2026-10-01 01:20:04 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Worklog/worklog_current.md | size=409586 | mtime=2026-10-01 01:18:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/operations.json | size=1767 | mtime=2026-10-01 01:18:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/kilauea.json | size=359 | mtime=2026-10-01 01:18:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/power.json | size=920 | mtime=2026-10-01 01:18:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/weather.json | size=267 | mtime=2026-10-01 01:18:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db | size=2875392 | mtime=2026-10-01 01:20:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/15min.db | size=860160 | mtime=2026-10-01 01:20:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db | size=8757248 | mtime=2026-10-01 01:20:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db | size=424169472 | mtime=2026-10-01 01:20:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db | size=2359296 | mtime=2026-10-01 01:20:03 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Volcanoes/hvo-last.json | size=3025 | mtime=2026-10-01 01:19:46 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Volcanoes/kilauea-last.json | size=1511 | mtime=2026-10-01 01:19:46 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Volcanoes/mauna-loa-last.json | size=1001 | mtime=2026-10-01 01:19:46 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/collector-last.json | size=548 | mtime=2026-10-01 01:19:46 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Earthquakes/hawaii-last.json | size=30416 | mtime=2026-10-01 01:19:45 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Earthquakes/global-last.json | size=20159 | mtime=2026-10-01 01:19:45 | domain=Geology | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json | size=74 | mtime=2026-10-01 01:20:03 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json | size=186 | mtime=2026-10-01 01:20:03 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/state/cloud-fallback-delta2.json | size=79 | mtime=2026-10-01 01:18:23 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html | size=56234 | mtime=2026-10-01 01:21:05 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/surfreports_raw_current.html | size=65224 | mtime=2026-10-01 01:18:04 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html | size=65224 | mtime=2026-10-01 01:18:04 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/issuedby=HFO&product=RRA&site=hfo_current.html | size=41827 | mtime=2026-10-01 01:18:01 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/raw/issuedby=HFO&product=RRA&site=hfo_raw_current.html | size=41827 | mtime=2026-10-01 01:18:01 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/net-last.json | size=245 | mtime=2026-10-01 01:19:46 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=821 | mtime=2026-10-01 01:20:03 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=162 | mtime=2026-10-01 01:20:03 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=86 | mtime=2026-10-01 01:20:03 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=114 | mtime=2026-10-01 01:20:03 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=884736 | mtime=2026-10-01 01:20:03 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2470 | mtime=2026-10-01 01:20:04 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=431093 | mtime=2026-10-01 01:21:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/operations.json | size=1767 | mtime=2026-10-01 01:18:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/kilauea.json | size=359 | mtime=2026-10-01 01:18:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/power.json | size=920 | mtime=2026-10-01 01:18:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/weather.json | size=267 | mtime=2026-10-01 01:18:11 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/automation_control.py | size=41762 | mtime=2026-10-01 01:19:51 | domain=Automations | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/test_automation_control.py | size=8332 | mtime=2026-10-01 01:18:01 | domain=Automations | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/network/local-data-globe/rebroadcast/hawaii-current.ndjson | size=23094 | mtime=2026-10-01 01:21:13 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/network/local-data-globe/rebroadcast/status-current.json | size=1767 | mtime=2026-10-01 01:18:11 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Apps/Control-Panel/rr_automations_page.py | size=36530 | mtime=2026-10-01 01:19:56 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Apps/Control-Panel/rr_control_panel.py | size=97047 | mtime=2026-10-01 01:19:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/index.html | size=16583 | mtime=2026-10-01 01:19:32 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/reports/index.html | size=8504 | mtime=2026-10-01 01:19:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/reports/nws-weather/index.html | size=2346 | mtime=2026-10-01 01:19:46 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/assets/products/kilauea-mark.svg | size=320 | mtime=2026-10-01 01:18:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/assets/site.css | size=22620 | mtime=2026-10-01 01:18:25 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/products/weather-manager/index.html | size=3766 | mtime=2026-10-01 01:20:22 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/products/index.html | size=5052 | mtime=2026-10-01 01:19:59 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/products/business-manager/index.html | size=3787 | mtime=2026-10-01 01:20:11 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/products/kilauea-alerts/index.html | size=3881 | mtime=2026-10-01 01:20:35 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/services/index.html | size=7378 | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/keyrings/login.keyring | size=2811 | mtime=2026-10-01 01:19:27 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gvfs-metadata/root | size=64 | mtime=2026-10-01 01:19:33 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e1e9cf07-dbe3-4e23-8567-464448108bcf/.sync/sync.lock | size=148 | mtime=2026-10-01 01:21:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e1e9cf07-dbe3-4e23-8567-464448108bcf/.sync/index.sqlite-wal | size=515032 | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e1e9cf07-dbe3-4e23-8567-464448108bcf/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 01:20:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5223598b-a968-4a13-8dd9-78fe3a2e6de9/.sync/sync.lock | size=148 | mtime=2026-10-01 01:21:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5223598b-a968-4a13-8dd9-78fe3a2e6de9/.sync/index.sqlite-wal | size=1083592 | mtime=2026-10-01 01:21:04 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5223598b-a968-4a13-8dd9-78fe3a2e6de9/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 01:20:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3164be2e-756e-48c2-b320-8199df7f0bd2/.sync/sync.lock | size=148 | mtime=2026-10-01 01:21:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3164be2e-756e-48c2-b320-8199df7f0bd2/.sync/index.sqlite-wal | size=4120032 | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3164be2e-756e-48c2-b320-8199df7f0bd2/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8e072291-33a6-43d2-bfdc-9d2779187eb1/.sync/sync.lock | size=148 | mtime=2026-10-01 01:21:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8e072291-33a6-43d2-bfdc-9d2779187eb1/.sync/index.sqlite-wal | size=4120032 | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8e072291-33a6-43d2-bfdc-9d2779187eb1/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock | size=148 | mtime=2026-10-01 01:21:14 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal | size=4120032 | mtime=2026-10-01 01:21:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 01:20:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c73f9cb7-c8ee-4c1e-868c-b77535208634/.sync/sync.lock | size=148 | mtime=2026-10-01 01:21:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c73f9cb7-c8ee-4c1e-868c-b77535208634/.sync/index.sqlite-wal | size=4120032 | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c73f9cb7-c8ee-4c1e-868c-b77535208634/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 01:20:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5d406b38-c29f-4241-b909-e57bc8941469/.sync/sync.lock | size=148 | mtime=2026-10-01 01:21:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5d406b38-c29f-4241-b909-e57bc8941469/.sync/index.sqlite-wal | size=2727472 | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5d406b38-c29f-4241-b909-e57bc8941469/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/77f398bd-92fb-440a-8f3b-60ea3e2e9f21/.sync/sync.lock | size=148 | mtime=2026-10-01 01:21:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/77f398bd-92fb-440a-8f3b-60ea3e2e9f21/.sync/index.sqlite-wal | size=4120032 | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/77f398bd-92fb-440a-8f3b-60ea3e2e9f21/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 01:20:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/55df0920-efab-41c4-8f79-e23448902abe/.sync/sync.lock | size=148 | mtime=2026-10-01 01:21:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/55df0920-efab-41c4-8f79-e23448902abe/.sync/index.sqlite-wal | size=564472 | mtime=2026-10-01 01:21:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/55df0920-efab-41c4-8f79-e23448902abe/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 01:20:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f91ae632-8f9d-487c-8750-4991b514f558/.sync/sync.lock | size=148 | mtime=2026-10-01 01:21:13 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f91ae632-8f9d-487c-8750-4991b514f558/.sync/index.sqlite-wal | size=4120032 | mtime=2026-10-01 01:21:02 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f91ae632-8f9d-487c-8750-4991b514f558/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 01:20:45 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/assets/products | mtime=2026-10-01 01:18:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/products | mtime=2026-10-01 01:20:11 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/products/business-manager | mtime=2026-10-01 01:20:11 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/assets/products | mtime=2026-10-01 01:18:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/products | mtime=2026-10-01 01:20:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/products/weather-manager | mtime=2026-10-01 01:20:22 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/products/business-manager | mtime=2026-10-01 01:20:11 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/products/kilauea-alerts | mtime=2026-10-01 01:20:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/assets/products | mtime=2026-10-01 01:18:02 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/products | mtime=2026-10-01 01:20:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/products/weather-manager | mtime=2026-10-01 01:20:22 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/products/business-manager | mtime=2026-10-01 01:20:11 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/products/kilauea-alerts | mtime=2026-10-01 01:20:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/products | mtime=2026-10-01 01:20:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/products/weather-manager | mtime=2026-10-01 01:20:22 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/products/business-manager | mtime=2026-10-01 01:20:11 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/products/kilauea-alerts | mtime=2026-10-01 01:20:35 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/services | mtime=2026-10-01 01:21:01 | source_job=worklog_scan
+
