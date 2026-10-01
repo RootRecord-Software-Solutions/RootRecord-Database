@@ -15250,7 +15250,6 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/core/change_detection.py|5882|1790772529
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/scripts/ensure-weather-poller.sh|3138|1790772529
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/scripts/sync-weather-database.sh|4121|1790772529
-/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/scripts/run_poller.py|3011|1790772529
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/scripts/debug_fetch_pass.py|3988|1790772529
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/scripts/weather-retention.py|24963|1790772529
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/scripts/official_statement.py|8725|1790772529
@@ -15591,7 +15590,6 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Guides & Tutorials/Root-Monitor-Operators-Handbook/Root-Monitor-Operators-Handbook.md|48198|1790815973
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/03-security/README.md|2217|1790815985
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/work-orders/execution-policy.md|1384|1790815934
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/2026-09-30-whats-left-for-alexander.md|9004|1790815983
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/07-testing/2026-09-30-interaction-modes.md|2730|1790815997
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/07-testing/README.md|17485|1790816005
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/SYSTEM-MAP.md|2637|1790815917
@@ -15931,8 +15929,6 @@
 /home/rootrecord/.local/share/nautilus/tags/meta.db-shm|32768|1790816869
 /home/rootrecord/.local/share/nautilus/tags/meta.db-wal|4152|1790816869
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e67c0713-5ca6-4950-8e60-a42a036f0cbc/.sync/mount.json|111|1790816919
-/home/rootrecord/.local/share/org.gnome.TextEditor/session.gvariant|6630|1790817006
-/home/rootrecord/.local/share/org.gnome.TextEditor/recently-used.xbel|18352|1790817006
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/poller/run-poller.sh|2861|1790817197
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/418827dd-a726-4310-9a67-30d665e1d61b/.sync/mount.json|111|1790817130
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eb0e9b0a-4c23-4ae1-858a-825473b829bb/.sync/mount.json|111|1790817199
@@ -15968,7 +15964,6 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Github/scripts/push-repo-once.sh|14340|1790817558
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Github/scripts/common.sh|2928|1790817555
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Github/mirrors/README.md|324|1790817582
-/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Github/README.md|2720|1790817580
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Apps/Control-Panel/Lib/rr_config_io.py|45637|1790817563
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Apps/Control-Panel/README.md|14974|1790817585
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Apps/Control-Panel/Tests/test_settings_io.py|14877|1790817565
@@ -15983,7 +15978,6 @@
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Github/scripts/push-repo-once.sh|14340|1790817558
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Github/scripts/common.sh|2928|1790817555
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Github/mirrors/README.md|324|1790817582
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Github/README.md|2720|1790817580
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Apps/Control-Panel/Lib/rr_config_io.py|45637|1790817563
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Apps/Control-Panel/README.md|14974|1790817585
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Apps/Control-Panel/Tests/test_settings_io.py|14877|1790817565
@@ -16243,7 +16237,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Chimes/hour-13.wav|495446|1790824146
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Chimes/hour-18.wav|499084|1790824162
 /home/rootrecord/.local/share/gvfs-metadata/home|4496|1790824313
-/home/rootrecord/.local/share/recently-used.xbel|173337|1790824267
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/09-desired-upgrades/README.md|1076|1790824376
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/09-desired-upgrades/TEMPLATE.md|320|1790824377
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/09-desired-upgrades/2026-09-30-four-corner-sun-tilt-actuators.md|2194|1790824384
@@ -16355,7 +16348,6 @@
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/hsf_high_seas_npac/raw/hsf_high_seas_npac_raw_current.html|26041|1790825659
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/fa0_area_forecast/fa0_area_forecast_current.txt|573|1790825674
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/fa0_area_forecast/raw/fa0_area_forecast_raw_current.html|24516|1790825674
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Reports/board/daily-reports-due.json|990|1790825633
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/remaining_tasks_current.wav|444910|1790825642
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Archive/remaining_tasks_current.ogg|36969|1790825643
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/VoiceDeliver/sent.json|1700|1790825647
@@ -16376,8 +16368,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/hsf_high_seas_npac/raw/hsf_high_seas_npac_raw_current.html|26041|1790825659
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/fa0_area_forecast/fa0_area_forecast_current.txt|573|1790825674
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/fa0_area_forecast/raw/fa0_area_forecast_raw_current.html|24516|1790825674
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md|205|1790825764
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md|205|1790825763
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-AI-and-Agent-Runtime/Local-Multi-Agent-Team-and-Migration-to-Build-2026-09-28.md|6268|1790825786
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-AI-and-Agent-Runtime/AI-Specialist-Models-and-Routing.md|20093|1790825786
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-AI-and-Agent-Runtime/Voice-Reports-G3.md|17490|1790825786
@@ -16526,7 +16516,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif|72683|1790825896
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif|76484|1790825898
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif|73408|1790825888
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html|56254|1790825974
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Country_location_pollers_Work_Order_WO-MIG-13-2026-09-29.md|13557|1790826082
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Grok_AI_usage_report_Work_Order_WO-MIG-37-2026-09-29.md|15230|1790826082
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Discord_poller_Work_Order_WO-MIG-21-2026-09-29.md|13300|1790826082
@@ -16546,7 +16535,6 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Log_retention_apply_Work_Order_WO-MIG-41-2026-09-29.md|17852|1790826082
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Slack_poller_Work_Order_WO-MIG-22-2026-09-29.md|15097|1790826082
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/Ava_core_one_off_CLIs_Work_Order_WO-MIG-44-2026-09-29.md|12680|1790826082
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html|56254|1790825974
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/06-development/Work-Orders/drafts/Country_location_pollers_Work_Order_WO-MIG-13-2026-09-29.md|13557|1790826082
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/06-development/Work-Orders/drafts/Grok_AI_usage_report_Work_Order_WO-MIG-37-2026-09-29.md|15230|1790826082
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/06-development/Work-Orders/drafts/Discord_poller_Work_Order_WO-MIG-21-2026-09-29.md|13300|1790826082
@@ -16566,7 +16554,6 @@
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/06-development/Work-Orders/drafts/Log_retention_apply_Work_Order_WO-MIG-41-2026-09-29.md|17852|1790826082
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/06-development/Work-Orders/drafts/Slack_poller_Work_Order_WO-MIG-22-2026-09-29.md|15097|1790826082
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/06-development/Work-Orders/drafts/Ava_core_one_off_CLIs_Work_Order_WO-MIG-44-2026-09-29.md|12680|1790826082
-/home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db|12095488|1790826224
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Agent Context/Bruce-Agent-Context/CONTEXT/REPOS.md|2483|1790826247
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Agent Context/Ava-Agent-Context/CONTEXT/REPOS.md|2555|1790826247
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Agent Context/Carly-Agent-Context/CONTEXT/REPOS.md|2475|1790826247
@@ -16585,7 +16572,6 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/AdSense_and_AdMob_end_of_day_Work_Order_WO-MIG-38-2026-09-29.md|16421|1790826163
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Repository-Ownership-Model.md|2480|1790826247
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/README.md|9242|1790826247
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Github/scripts/repos.conf|1603|1790826178
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/hvo-last.json|3025|1790826193
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/kilauea-last.json|1615|1790826193
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/mauna-loa-last.json|1001|1790826193
@@ -16809,7 +16795,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/collector-last.json|549|1790826193
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Earthquakes/hawaii-last.json|8850|1790826189
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Earthquakes/global-last.json|21119|1790826190
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Github/flags/code-pulled.library|41|1790826247
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif|3395325|1790826169
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/noaa_homepage_current.md|2339|1790826168
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md|1005|1790826168
@@ -16994,7 +16979,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html|65244|1790826229
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/index_current.html|149934|1790826151
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/raw/index_raw_current.html|149934|1790826151
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json|75551|1790826200
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json|204|1790826200
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json|2|1790826200
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/raw/product_types_raw_current.html|74397|1790826212
@@ -17003,65 +16987,271 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/raw/issuedby=HFO&product=RRA&site=hfo_raw_current.html|41831|1790826227
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/README.md|340261|1790826169
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/net-last.json|243|1790826193
-/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Github/scripts/repos.conf|1603|1790826178
 /home/rootrecord/.local/share/gnome-shell/application_state|2137|1790826217
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f6fb94b-e198-4921-9802-9833e6c6bdd5/.sync/index.sqlite|4096|1790826190
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f6fb94b-e198-4921-9802-9833e6c6bdd5/.sync/mount.json|111|1790826191
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite|36864|1790826129
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790826272
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790826272
 /home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/morning_report_current.md|445|1790826331
 /home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/midday_report_current.md|444|1790826331
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/rootrecord.db|1605632|1790826305
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/15min.db|458752|1790826306
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1min.db|4419584|1790826306
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1sec.db|220508160|1790826306
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/5min.db|1175552|1790826306
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Github/flags/code-pulled.library|41|1790826247
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/soc/delta2-last.json|74|1790826306
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/watts/delta2-last.json|185|1790826306
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/last/host-last.json|820|1790826306
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/mem/host-last.json|162|1790826306
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/cpu/host-last.json|85|1790826306
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/load/host-last.json|114|1790826306
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/system.db|630784|1790826306
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/status/system-status.json|2491|1790826307
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Worklog/worklog_current.md|814004|1790826271
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|1605632|1790826305
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/15min.db|458752|1790826306
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|4419584|1790826306
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|220508160|1790826306
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|1175552|1790826306
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json|74|1790826306
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json|185|1790826306
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Reports/board/daily-reports-due.json|1038|1790826331
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|820|1790826306
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790826306
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790826306
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790826306
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|630784|1790826306
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2491|1790826307
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|814004|1790826271
-/home/rootrecord/.local/share/gvfs-metadata/root|64|1790826291
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f6fb94b-e198-4921-9802-9833e6c6bdd5/.sync/sync.lock|150|1790826345
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f6fb94b-e198-4921-9802-9833e6c6bdd5/.sync/index.sqlite-wal|243112|1790826332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f6fb94b-e198-4921-9802-9833e6c6bdd5/.sync/index.sqlite-shm|32768|1790826322
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/418827dd-a726-4310-9a67-30d665e1d61b/.sync/sync.lock|150|1790826344
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/418827dd-a726-4310-9a67-30d665e1d61b/.sync/index.sqlite-wal|4120032|1790826332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/418827dd-a726-4310-9a67-30d665e1d61b/.sync/index.sqlite-shm|32768|1790826315
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/sync.lock|150|1790826344
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite-wal|4120032|1790826332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite-shm|32768|1790826322
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eb0e9b0a-4c23-4ae1-858a-825473b829bb/.sync/sync.lock|150|1790826344
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eb0e9b0a-4c23-4ae1-858a-825473b829bb/.sync/index.sqlite-wal|4120032|1790826332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eb0e9b0a-4c23-4ae1-858a-825473b829bb/.sync/index.sqlite-shm|32768|1790826315
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|150|1790826345
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790826332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790826302
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e67c0713-5ca6-4950-8e60-a42a036f0cbc/.sync/sync.lock|150|1790826344
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e67c0713-5ca6-4950-8e60-a42a036f0cbc/.sync/index.sqlite-wal|4120032|1790826332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e67c0713-5ca6-4950-8e60-a42a036f0cbc/.sync/index.sqlite-shm|32768|1790826316
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6c2bafe8-3f42-4d1a-85e9-1c2098416040/.sync/sync.lock|150|1790826345
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6c2bafe8-3f42-4d1a-85e9-1c2098416040/.sync/index.sqlite-wal|861112|1790826332
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6c2bafe8-3f42-4d1a-85e9-1c2098416040/.sync/index.sqlite-shm|32768|1790826315
 /home/rootrecord/.local/state/wireplumber/stream-properties|994|1790826341
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md|205|1790826356
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790826356
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/agent-tools/7fb18e1f-bfd7-46df-a1d5-702373788c9c.txt|61426|1790826450
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md|205|1790826356
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790826356
+/home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db|12124160|1790826392
+/home/rootrecord/.ollama/skills/voice-desk/SKILL.md|608|1790826380
+/home/rootrecord/.ollama/skills/pacific-desk/SKILL.md|1059|1790826378
+/home/rootrecord/.ollama/skills/skill-creator/SKILL.md|2664|1790826377
+/home/rootrecord/.ollama/skills/energy-desk/SKILL.md|1124|1790826379
+/home/rootrecord/.ollama/skills/security-cameras/SKILL.md|652|1790826379
+/home/rootrecord/.ollama/skills/weather-desk/SKILL.md|527|1790826380
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-aws-fallback-phase2-reclaim-retention.md|5280|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-ai-inference-log-and-report.md|3871|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-poller-dashboard-single-window.md|2039|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-kokoro-voice-port-g3.md|2009|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-specialist-live-tiny-requests.md|3852|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-globe-overlay-aws-deploy.md|5559|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-npu-status-pacific-copy.md|1836|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-geology-earthquakes-hvo-collector.md|7550|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-root-monitor-aws-fallback-page.md|3751|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-globe-overlay-v2-spin-click-info.md|9234|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-aws-hawaii-trim-and-cloudflared.md|7651|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-old-repo-ports-breadth-batch5.md|14137|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-relay-quiet-inbox-parse.md|3514|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-android-apps-import.md|6682|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-database-titlecase-rename.md|2522|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-root-monitor-toggle-buttons.md|4255|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-smart-devices-foundation.md|5741|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-laptop-battery-b3-dashboard.md|1029|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-old-repo-ports-breadth-batch4.md|8393|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-post-reboot-all-services.md|1933|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-kokoro-phrase-clips-qc.md|5689|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-npu-llama3.2-1b-on-demand.md|2984|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-service-supervisor-dry-run.md|3231|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-specialist-hook-and-router-v2.md|5248|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-control-panel-gtk.md|5946|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-aws-fallback-phase2-runtime-deploy.md|6829|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-website-rootrecord-cloud-staging.md|4788|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-pronunciation-candidates-proposed.md|4796|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-npu-flm-install-validate.md|1995|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-weather-pacific-venv-hook.md|1824|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-aws-globe-history-batched-commits.md|4422|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-us-mainland-import-and-ssh.md|5362|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-voice-reports-batch2.md|6033|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-aws-fallback-inventory.md|3906|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-oom-flm-warmup-resident.md|1927|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-globe-landing-overlay-preview.md|7738|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-root-monitor-settings-running-network-ssh.md|5887|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-old-repo-ports-batch1.md|4445|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-weather-retention-dry-run.md|3102|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-single-flight-banner-holder-fix.md|2823|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-aws-globe-static-allowlist.md|7182|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-30-interaction-modes.md|2730|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-hawaiian-pronunciation-sheet.md|10033|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-ecoflow-stale-data-energy-venv.md|1713|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-router-v3-and-template-desk-file.md|4910|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-specialist-router-unit-test.md|2922|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-template-report-samples.md|4454|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-voice-reports-batch3-hurricane-kilauea.md|6092|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/testing/2026-09-29-poller-database-root-realign.md|2271|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Migration-Lineage-Three-Generations-2026-09-28.md|3837|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Pacific-Unmigrated-Domains-Notes-2026-09-28.md|2348|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Geology-Domain-Ownership-Kilauea-Earthquakes-2026-09-28.md|4105|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Repository-Ownership-Model.md|2480|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Control-Panel-GTK.md|15695|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/US-Mainland-Server.md|18126|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/SYSTEM-MAP.md|2637|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Local-Multi-Agent-Team-and-Migration-to-Build-2026-09-28.md|6268|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Pacific-Jobs-Path-Inventory-2026-09-28.md|5780|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Pacific-Domain-Import-Playbook-2026-09-28.md|4192|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/MIGRATION-DOCS-INDEX-2026-09-28.md|14895|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Residual-Path-Retirement-Table-2026-09-28.md|19609|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Grok-Pacific-Automations-Domain-Wiring-Session-2026-09-28.md|5410|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Website-RootRecord-Cloud-Staging.md|7825|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/AI-Specialist-Models-and-Routing.md|20093|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Product-Archive-Repo-Catalog-2026-09-28.md|16781|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Communications-Notify-Policy-Draft-2026-09-28.md|2344|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Old-Repo-Migration-Matrix.md|53574|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Android-Apps-Inventory.md|11019|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/G3-Runtime-Verification-Checklist-2026-09-28.md|19708|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Solar-Pacific-Old-Inventory-Map-2026-09-28.md|9006|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Pacific-Server-Library-Dependency-Map-2026-09-28.md|1618|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/G1-Scheduler-To-G3-Jobs-Map-2026-09-29.md|8921|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Smart-Devices-Energy.md|12017|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/G3-Runtime-Verification-Runbook-2026-09-28.md|22766|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Pending-Job-Registrations-2026-09-29.md|11919|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Voice-Reports-G3.md|17490|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Solar-Pacific-Old-Full-TopLevel-Catalog-2026-09-28.md|6517|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/AI-Processing-Logs-and-Reports.md|6178|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Private-Repos-Feature-Map-2026-09-28.md|7473|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/archive/2026-W40/architecture-pre-reorg/Template-Report-Generation.md|11288|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/2026-09-30-whats-left-for-alexander.md|9017|1790826356
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/archive/2026-W40/2026-09-28 System Operator Worklog — Session 04.md|2995|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/archive/2026-W40/2026-09-28 System Operator Worklog — Session 01.md|3641|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/archive/2026-W40/2026-09-28 System Operator Worklog — Session 03.md|22643|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/archive/2026-W40/2026-09-29 System Operator Worklog — Session auto.md|2155|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/archive/2026-W40/2026-09-29 System Operator Worklog — Overnight.md|91651|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/archive/2026-W40/2026-09-28 System Operator Worklog — Session 02.md|2169|1790826418
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/archive/2026-W40/2026-09-28 Central-Agent-Handoff — Session Grok-Ava.md|9363|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Github/scripts/repos.conf|1792|1790826346
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Github/README.md|2781|1790826354
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Weather/scripts/run_poller.py|2855|1790826346
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/rootrecord.db|1609728|1790826457
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1min.db|4440064|1790826458
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1sec.db|221630464|1790826458
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Github/flags/code-pulled.library|41|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/soc/delta2-last.json|74|1790826458
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/watts/delta2-last.json|185|1790826458
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html|56234|1790826411
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Reports/board/daily-reports-due.json|1038|1790826331
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/last/host-last.json|820|1790826459
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/mem/host-last.json|162|1790826459
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/cpu/host-last.json|85|1790826459
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/load/host-last.json|114|1790826459
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/system.db|634880|1790826459
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/status/system-status.json|2491|1790826460
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Worklog/worklog_current.md|824538|1790826347
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-aws-fallback-phase2-reclaim-retention.md|5280|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-ai-inference-log-and-report.md|3871|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-poller-dashboard-single-window.md|2039|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-kokoro-voice-port-g3.md|2009|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-specialist-live-tiny-requests.md|3852|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-globe-overlay-aws-deploy.md|5559|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-npu-status-pacific-copy.md|1836|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-geology-earthquakes-hvo-collector.md|7550|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-root-monitor-aws-fallback-page.md|3751|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-globe-overlay-v2-spin-click-info.md|9234|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-aws-hawaii-trim-and-cloudflared.md|7651|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-old-repo-ports-breadth-batch5.md|14137|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-relay-quiet-inbox-parse.md|3514|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-android-apps-import.md|6682|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-database-titlecase-rename.md|2522|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-root-monitor-toggle-buttons.md|4255|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-smart-devices-foundation.md|5741|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-laptop-battery-b3-dashboard.md|1029|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-old-repo-ports-breadth-batch4.md|8393|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-post-reboot-all-services.md|1933|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-kokoro-phrase-clips-qc.md|5689|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-npu-llama3.2-1b-on-demand.md|2984|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-service-supervisor-dry-run.md|3231|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-specialist-hook-and-router-v2.md|5248|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-control-panel-gtk.md|5946|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-aws-fallback-phase2-runtime-deploy.md|6829|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-website-rootrecord-cloud-staging.md|4788|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-pronunciation-candidates-proposed.md|4796|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-npu-flm-install-validate.md|1995|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-weather-pacific-venv-hook.md|1824|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-aws-globe-history-batched-commits.md|4422|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-us-mainland-import-and-ssh.md|5362|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-voice-reports-batch2.md|6033|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-aws-fallback-inventory.md|3906|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-oom-flm-warmup-resident.md|1927|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-globe-landing-overlay-preview.md|7738|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-root-monitor-settings-running-network-ssh.md|5887|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-old-repo-ports-batch1.md|4445|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-weather-retention-dry-run.md|3102|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-single-flight-banner-holder-fix.md|2823|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-aws-globe-static-allowlist.md|7182|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-30-interaction-modes.md|2730|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-hawaiian-pronunciation-sheet.md|10033|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-ecoflow-stale-data-energy-venv.md|1713|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-router-v3-and-template-desk-file.md|4910|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-specialist-router-unit-test.md|2922|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-template-report-samples.md|4454|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-voice-reports-batch3-hurricane-kilauea.md|6092|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/testing/2026-09-29-poller-database-root-realign.md|2271|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Migration-Lineage-Three-Generations-2026-09-28.md|3837|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Pacific-Unmigrated-Domains-Notes-2026-09-28.md|2348|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Geology-Domain-Ownership-Kilauea-Earthquakes-2026-09-28.md|4105|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Repository-Ownership-Model.md|2480|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Control-Panel-GTK.md|15695|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/US-Mainland-Server.md|18126|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/SYSTEM-MAP.md|2637|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Local-Multi-Agent-Team-and-Migration-to-Build-2026-09-28.md|6268|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Pacific-Jobs-Path-Inventory-2026-09-28.md|5780|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Pacific-Domain-Import-Playbook-2026-09-28.md|4192|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/MIGRATION-DOCS-INDEX-2026-09-28.md|14895|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Residual-Path-Retirement-Table-2026-09-28.md|19609|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Grok-Pacific-Automations-Domain-Wiring-Session-2026-09-28.md|5410|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Website-RootRecord-Cloud-Staging.md|7825|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/AI-Specialist-Models-and-Routing.md|20093|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Product-Archive-Repo-Catalog-2026-09-28.md|16781|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Communications-Notify-Policy-Draft-2026-09-28.md|2344|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Old-Repo-Migration-Matrix.md|53574|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Android-Apps-Inventory.md|11019|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/G3-Runtime-Verification-Checklist-2026-09-28.md|19708|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Solar-Pacific-Old-Inventory-Map-2026-09-28.md|9006|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Pacific-Server-Library-Dependency-Map-2026-09-28.md|1618|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/G1-Scheduler-To-G3-Jobs-Map-2026-09-29.md|8921|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Smart-Devices-Energy.md|12017|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/G3-Runtime-Verification-Runbook-2026-09-28.md|22766|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Pending-Job-Registrations-2026-09-29.md|11919|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Voice-Reports-G3.md|17490|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Solar-Pacific-Old-Full-TopLevel-Catalog-2026-09-28.md|6517|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/AI-Processing-Logs-and-Reports.md|6178|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Private-Repos-Feature-Map-2026-09-28.md|7473|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/archive/2026-W40/architecture-pre-reorg/Template-Report-Generation.md|11288|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/01-operations/2026-09-30-whats-left-for-alexander.md|9017|1790826356
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/01-operations/archive/2026-W40/2026-09-28 System Operator Worklog — Session 04.md|2995|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/01-operations/archive/2026-W40/2026-09-28 System Operator Worklog — Session 01.md|3641|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/01-operations/archive/2026-W40/2026-09-28 System Operator Worklog — Session 03.md|22643|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/01-operations/archive/2026-W40/2026-09-29 System Operator Worklog — Session auto.md|2155|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/01-operations/archive/2026-W40/2026-09-29 System Operator Worklog — Overnight.md|91651|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/01-operations/archive/2026-W40/2026-09-28 System Operator Worklog — Session 02.md|2169|1790826418
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/library/Documentation/01-operations/archive/2026-W40/2026-09-28 Central-Agent-Handoff — Session Grok-Ava.md|9363|1790826418
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|1609728|1790826457
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|4440064|1790826458
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|221630464|1790826458
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Github/flags/code-pulled.library|41|1790826418
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json|74|1790826458
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json|185|1790826458
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html|56234|1790826411
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json|75551|1790826500
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|820|1790826459
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790826459
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790826459
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790826459
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|634880|1790826459
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2491|1790826460
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|824538|1790826347
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Github/scripts/repos.conf|1792|1790826346
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Github/README.md|2781|1790826354
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Weather/scripts/run_poller.py|2855|1790826346
+/home/rootrecord/.local/share/Trash/info/blobs.trashinfo|89|1790826447
+/home/rootrecord/.local/share/Trash/info/manifests.trashinfo|93|1790826447
+/home/rootrecord/.local/share/gvfs-metadata/root|64|1790826471
+/home/rootrecord/.local/share/org.gnome.TextEditor/session.gvariant|1326|1790826501
+/home/rootrecord/.local/share/org.gnome.TextEditor/recently-used.xbel|16784|1790826501
+/home/rootrecord/.local/share/recently-used.xbel|173899|1790826486
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f6fb94b-e198-4921-9802-9833e6c6bdd5/.sync/sync.lock|150|1790826503
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f6fb94b-e198-4921-9802-9833e6c6bdd5/.sync/index.sqlite-wal|403792|1790826500
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0f6fb94b-e198-4921-9802-9833e6c6bdd5/.sync/index.sqlite-shm|32768|1790826471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/418827dd-a726-4310-9a67-30d665e1d61b/.sync/sync.lock|150|1790826503
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/418827dd-a726-4310-9a67-30d665e1d61b/.sync/index.sqlite-wal|4120032|1790826500
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/418827dd-a726-4310-9a67-30d665e1d61b/.sync/index.sqlite-shm|32768|1790826486
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/sync.lock|150|1790826503
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite-wal|4120032|1790826500
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite-shm|32768|1790826472
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eb0e9b0a-4c23-4ae1-858a-825473b829bb/.sync/sync.lock|150|1790826504
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eb0e9b0a-4c23-4ae1-858a-825473b829bb/.sync/index.sqlite-wal|4120032|1790826500
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eb0e9b0a-4c23-4ae1-858a-825473b829bb/.sync/index.sqlite-shm|32768|1790826486
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c458c9ed-4bc7-48b6-9aac-2ab47cf5cf72/.sync/sync.lock|150|1790826503
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c458c9ed-4bc7-48b6-9aac-2ab47cf5cf72/.sync/index.sqlite-wal|243112|1790826500
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c458c9ed-4bc7-48b6-9aac-2ab47cf5cf72/.sync/index.sqlite|4096|1790826357
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c458c9ed-4bc7-48b6-9aac-2ab47cf5cf72/.sync/mount.json|111|1790826358
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c458c9ed-4bc7-48b6-9aac-2ab47cf5cf72/.sync/index.sqlite-shm|32768|1790826471
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|150|1790826504
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790826489
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790826474
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e67c0713-5ca6-4950-8e60-a42a036f0cbc/.sync/sync.lock|150|1790826504
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e67c0713-5ca6-4950-8e60-a42a036f0cbc/.sync/index.sqlite-wal|4120032|1790826500
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e67c0713-5ca6-4950-8e60-a42a036f0cbc/.sync/index.sqlite-shm|32768|1790826493
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6c2bafe8-3f42-4d1a-85e9-1c2098416040/.sync/sync.lock|150|1790826503
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6c2bafe8-3f42-4d1a-85e9-1c2098416040/.sync/index.sqlite-wal|1021792|1790826500
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/6c2bafe8-3f42-4d1a-85e9-1c2098416040/.sync/index.sqlite-shm|32768|1790826493
