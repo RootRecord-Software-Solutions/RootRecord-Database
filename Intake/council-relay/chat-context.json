@@ -1,21 +1,6 @@
 {
   "-1004367256267": [
     {
-      "who": "Root",
-      "text": "Jesus is indeed on his way",
-      "message_id": 2082
-    },
-    {
-      "who": "ava",
-      "text": "I'm not aware of any credible sources suggesting Jesus is returning, and I'd love to understand the context behind your statement. Can you help clarify what you mean by that?",
-      "message_id": null
-    },
-    {
-      "who": "Root",
-      "text": "Oh We're getting the solutions we need ava, dw",
-      "message_id": 2084
-    },
-    {
       "who": "ava",
       "text": "I'm glad to hear that solutions are being found, but I want to make sure we're not overlooking any potential issues or concerns. Can you tell me more about what's working well and what's still needed to resolve the problem?",
       "message_id": null
@@ -39,6 +24,21 @@
       "who": "ava",
       "text": "I'm happy to explore the context of the Bible, but I'm not sure what specific passage or verse you're referring to. Can you please share more information about which part of the Bible you think is relevant to our conversation?",
       "message_id": null
+    },
+    {
+      "who": "Sara",
+      "text": "Ava I think you should explore the sermon on the mountain because you seem poor in spirit right now",
+      "message_id": 2092
+    },
+    {
+      "who": "ava",
+      "text": "I'm doing well, thanks for asking.",
+      "message_id": null
+    },
+    {
+      "who": "Root",
+      "text": "I think shes sleepy",
+      "message_id": 2093
     }
   ]
 }
