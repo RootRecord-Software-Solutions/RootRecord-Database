@@ -10331,7 +10331,6 @@
 /home/rootrecord/.cursor/skills-cursor/visualize/references/catalog.md|5254|1790744140
 /home/rootrecord/.cursor/skills-cursor/visualize/references/art.md|2031|1790744140
 /home/rootrecord/.cursor/skills-cursor/visualize/references/diagrams.md|7078|1790744140
-/home/rootrecord/.cursor/skills-cursor/review-security/SKILL.md|3757|1790744140
 /home/rootrecord/.cursor/skills-cursor/autopilot/SKILL.md|3901|1790744140
 /home/rootrecord/.cursor/skills-cursor/statusline/SKILL.md|7200|1790744140
 /home/rootrecord/.cursor/skills-cursor/loop/SKILL.md|7602|1790744140
@@ -10352,7 +10351,6 @@
 /home/rootrecord/.cursor/skills-cursor/new-repo/SKILL.md|2825|1790744140
 /home/rootrecord/.cursor/skills-cursor/origin/SKILL.md|3890|1790744140
 /home/rootrecord/.cursor/skills-cursor/split-to-prs/SKILL.md|2228|1790744140
-/home/rootrecord/.cursor/skills-cursor/review-bugbot/SKILL.md|4902|1790744140
 /home/rootrecord/.cursor/skills-cursor/shell/SKILL.md|867|1790744140
 /home/rootrecord/.cursor/skills-cursor/migrate-to-skills/SKILL.md|6439|1790744140
 /home/rootrecord/.cursor/plugins/cache/cursor-public/link/72991457e7cbd7b5153bec3a28daa6ee954a4ea2/.mcp.json|109|1790744176
@@ -14946,144 +14944,6 @@
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/sync.lock|152|1790766471
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/index.sqlite-wal|3555592|1790766460
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/22d66703-1486-49d7-b16c-14e6a2dc2b8f/.sync/index.sqlite-shm|32768|1790766457
-/home/rootrecord/.cursor/agent-cli-state.json|154|1790766662
-/home/rootrecord/.cursor/statsig-cache.json|856333|1790766662
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/list_subscriptions.json|174|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_linear_comment.json|2135|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/unsubscribe.json|283|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_new_channels.json|753|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_origin_pr.json|2600|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_github_pr.json|2978|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_github_ci.json|1600|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_channel.json|607|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_origin_ci.json|1986|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_linear_issue.json|2762|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_thread.json|557|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/SERVER_METADATA.json|88|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/INSTRUCTIONS.md|69|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/tools/mcp_auth.json|343|1790766658
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/STATUS.md|248|1790766658
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/SERVER_METADATA.json|71|1790766658
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/tools/mcp_auth.json|343|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/STATUS.md|246|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/SERVER_METADATA.json|68|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/tools/mcp_auth.json|343|1790766658
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/STATUS.md|248|1790766658
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/SERVER_METADATA.json|71|1790766658
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/compare_commits.json|959|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_file_contents.json|1150|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_commits.json|2670|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_repository.json|727|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/pull_request_read.json|1484|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/commit_read.json|1086|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_repositories.json|790|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_pull_requests.json|1793|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/grep_contents.json|3118|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/checks_read.json|1507|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_branches.json|1080|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_git_tree.json|1288|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_namespaces.json|701|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/SERVER_METADATA.json|76|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/INSTRUCTIONS.md|410|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_snapshot.json|1293|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_get_bounding_box.json|591|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_scroll.json|1352|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_mouse_click_xy.json|955|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_navigate.json|1299|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_highlight.json|740|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_fill.json|880|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_cdp.json|1116|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_press_key.json|695|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_tabs.json|1035|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_take_screenshot.json|1225|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_type.json|1226|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_click.json|1789|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_select_option.json|953|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_drag.json|1027|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_lock.json|702|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/SERVER_METADATA.json|84|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/INSTRUCTIONS.md|5262|1790766656
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/tools/mcp_auth.json|343|1790766658
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/STATUS.md|260|1790766658
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/SERVER_METADATA.json|84|1790766658
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/open_resource.json|842|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/cursor_dialog.json|4584|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/install_plugin.json|887|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/move_agent_to_root.json|1679|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/move_agent_to_cloned_root.json|1459|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/rename_chat.json|622|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/open_automation.json|1647|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/create_project.json|636|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/SERVER_METADATA.json|84|1790766659
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/INSTRUCTIONS.md|182|1790766659
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/list_subscriptions.json|174|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_linear_comment.json|2135|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/unsubscribe.json|283|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_new_channels.json|753|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_origin_pr.json|2600|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_github_pr.json|2978|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_github_ci.json|1600|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_channel.json|607|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_origin_ci.json|1986|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_linear_issue.json|2762|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_thread.json|557|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/SERVER_METADATA.json|88|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/INSTRUCTIONS.md|69|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/tools/mcp_auth.json|343|1790766658
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/STATUS.md|248|1790766658
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/SERVER_METADATA.json|71|1790766658
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/tools/mcp_auth.json|343|1790766659
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/STATUS.md|246|1790766659
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/SERVER_METADATA.json|68|1790766659
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/tools/mcp_auth.json|343|1790766658
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/STATUS.md|248|1790766658
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/SERVER_METADATA.json|71|1790766658
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/compare_commits.json|959|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_file_contents.json|1150|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_commits.json|2670|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_repository.json|727|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/pull_request_read.json|1484|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/commit_read.json|1086|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_repositories.json|790|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_pull_requests.json|1793|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/grep_contents.json|3118|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/checks_read.json|1507|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_branches.json|1080|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_git_tree.json|1288|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_namespaces.json|701|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/SERVER_METADATA.json|76|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/INSTRUCTIONS.md|410|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_snapshot.json|1293|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_get_bounding_box.json|591|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_scroll.json|1352|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_mouse_click_xy.json|955|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_navigate.json|1299|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_highlight.json|740|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_fill.json|880|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_cdp.json|1116|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_press_key.json|695|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_tabs.json|1035|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_take_screenshot.json|1225|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_type.json|1226|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_click.json|1789|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_select_option.json|953|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_drag.json|1027|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_lock.json|702|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/SERVER_METADATA.json|84|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/INSTRUCTIONS.md|5262|1790766654
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/tools/mcp_auth.json|343|1790766658
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/STATUS.md|260|1790766658
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/SERVER_METADATA.json|84|1790766658
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/open_resource.json|842|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/cursor_dialog.json|4584|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/install_plugin.json|887|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/move_agent_to_root.json|1679|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/move_agent_to_cloned_root.json|1459|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/rename_chat.json|622|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/open_automation.json|1647|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/create_project.json|636|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/SERVER_METADATA.json|84|1790766655
-/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/INSTRUCTIONS.md|182|1790766655
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/drafts/River_car_DC_drive_Work_Order_WO-MIG-39-2026-09-29.md|11224|1790766703
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/07-testing/2026-09-29-old-repo-ports-breadth-batch4.md|8393|1790766699
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ae-abu-dhabi-last.json|303|1790766665
@@ -15106,7 +14966,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/am-yerevan-last.json|285|1790766672
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/bb-bridgetown-last.json|294|1790766685
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/CountryLocations/ai-the-valley-last.json|293|1790766669
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8f0116b3-9fe3-4789-9288-40e5184ce70d/files/rootrecord-operating-contract.md|27555|1790766655
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/mount.json|111|1790766661
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/mount.json|111|1790766660
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/mount.json|111|1790766661
@@ -15255,7 +15114,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_ITO/clm_monthly_climate_summary_ITO_current.txt|2683|1790771309
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_OGG/clm_monthly_climate_summary_OGG_current.txt|2898|1790771294
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/NOWHI_current.txt|57|1790771490
-/home/rootrecord/.local/share/keyrings/login.keyring|2811|1790771521
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/source/hfo/xml/wwa/wwa_current.txt|314|1790771550
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/GitHub_Catalog_Hygiene_Work_Order_WO-GH-2026-09-27.md|11203|1790771965
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/WO-WXG-001-Weather-Geology-Import.md|2411|1790771930
@@ -15723,12 +15581,7 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/graphics/npac_sfc_12/npac_sfc_12_current.gif|149547|1790807476
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/graphics/npac_sfc_18/npac_sfc_18_current.gif|154556|1790807480
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/graphics/72hr_seastate_12/72hr_seastate_12_current.gif|194358|1790807468
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_HNL/raw/clm_monthly_climate_summary_HNL_raw_current.html|24195|1790807549
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_ITO/cli_daily_climate_summary_ITO_current.txt|2783|1790807535
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_ITO/raw/cli_daily_climate_summary_ITO_raw_current.html|28059|1790807535
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_LIH/raw/clm_monthly_climate_summary_LIH_raw_current.html|24159|1790807564
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_OGG/raw/clm_monthly_climate_summary_OGG_raw_current.html|24204|1790807579
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_OGG/raw/cli_daily_climate_summary_OGG_raw_current.html|27972|1790807504
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_OGG/cli_daily_climate_summary_OGG_current.txt|2696|1790807504
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/rain_summary/rain_summary_current.txt|68285|1790807716
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/rain_summary/raw/rain_summary_raw_current.html|68285|1790807716
@@ -15741,7 +15594,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/rra_hawaii_rainfall_summary/raw/rra_hawaii_rainfall_summary_raw_current.html|41832|1790807609
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/oso_hourly_obs/oso_hourly_obs_current.txt|14149|1790807624
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/oso_hourly_obs/raw/oso_hourly_obs_raw_current.html|39411|1790807624
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_ITO/raw/clm_monthly_climate_summary_ITO_raw_current.html|24103|1790807594
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/rr5_archive_hydromet/rr5_archive_hydromet_current.txt|10416|1790807729
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/rr5_archive_hydromet/raw/rr5_archive_hydromet_raw_current.html|33172|1790807729
 /home/rootrecord/.cursor/skills-cursor/deploy-with-vercel/SKILL.md|8069|1790808024
@@ -15857,10 +15709,6 @@
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9cf93fa4-ce51-4690-8a50-3b87b06bac50/.sync/index.sqlite|36864|1790814763
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a215f2b6-4178-4df3-b746-205d276c74ea/.sync/index.sqlite|36864|1790814779
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite|36864|1790814780
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md|205|1790815003
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790815003
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md|205|1790815003
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790815003
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/handoff/cursor-handoff-schema.json|998|1790815017
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/reports/verification-report-schema.json|515|1790815013
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/reports/execution-report-schema.json|702|1790815011
@@ -15879,29 +15727,9 @@
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/index.sqlite|36864|1790815009
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/index.sqlite|36864|1790814964
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/capabilities/capability-registry.json|7640|1790815130
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/raw/product_types_raw_current.html|74397|1790815097
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/product_types_current.html|74397|1790815097
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/issuedby=HFO&product=RRA&site=hfo_current.html|41831|1790815111
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/raw/issuedby=HFO&product=RRA&site=hfo_raw_current.html|41831|1790815111
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/execution/gates.py|7678|1790815117
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c4c53157-d0cd-4a88-8960-4221dad91fd2/.sync/index.sqlite|36864|1790815170
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3797d3b-8540-4cf0-a9a1-ce7cd109486e/.sync/index.sqlite|36864|1790815129
-/home/rootrecord/.cursor/skills-cursor/.sync-manifest.json|1714|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/usage-bar.d.ts|2318|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/swatch.d.ts|1313|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/index.d.ts|4244|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/dag-layout.d.ts|3384|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/chart-primitives.d.ts|10547|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/collapsible-section.d.ts|2460|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/callout-tone-icons.d.ts|586|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/hooks.d.ts|6765|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.test.d.ts|59|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/form-primitives.d.ts|6663|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/todo-list.d.ts|1543|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/diff-view.d.ts|4916|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/canvas-tokens.d.ts|10435|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.d.ts|20332|1790815230
-/home/rootrecord/.cursor/skills-cursor/canvas/sdk/theme.d.ts|3520|1790815230
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/execution/audit.py|2114|1790815302
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/execution/execution-broker.py|9656|1790815313
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/execution/interaction.py|42554|1790815300
@@ -15925,7 +15753,6 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/execution/test_interaction.py|12049|1790815558
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/aa334abf-7189-48e2-97bf-ef71b467a3d6/.sync/index.sqlite|36864|1790815623
 /home/rootrecord/.grokbot/local-exec-backend-return.json|20|1790815748
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html|65492|1790815654
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4937f73c-3496-471b-aebd-fc812141ce91/.sync/index.sqlite|36864|1790815761
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4a68c180-fe32-4826-aa78-9a260c6d45ac/.sync/index.sqlite|36864|1790815638
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite|36864|1790815683
@@ -16167,14 +15994,9 @@
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-shm|32768|1790816073
 /home/rootrecord/.grokbot/local-exec-supervisor.json|33|1790816090
 /home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790816090
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|1290240|1790816194
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|3436544|1790816165
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|172683264|1790816194
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|897024|1790816165
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json|74|1790816194
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|74|1790816180
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json|162|1790816194
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|185|1790816180
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/state/ava-ecoflow-ble.pid|4|1790816142
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR_loop/Hawaii_IR_loop_current.gif|850162|1790816164
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR/Hawaii_IR_current.gif|71775|1790816154
@@ -16192,7 +16014,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/publiczones/publiczones_current.html|28636|1790816177
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/CWABounds/raw/CWABounds_raw_current.html|28972|1790816207
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/gis/CWABounds/CWABounds_current.html|28972|1790816207
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json|75553|1790816235
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/radar.weather.gov/ridge/standard/HAWAII_loop/HAWAII_loop_current.gif|109949|1790816150
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json|204|1790816088
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json|2|1790816089
@@ -16201,31 +16022,22 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/fa0_area_forecast/raw/fa0_area_forecast_raw_current.html|24390|1790816194
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_LIH/raw/cli_daily_climate_summary_LIH_raw_current.html|28053|1790816209
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hurricanes/tracking/Nolo_20260929T220441.9291071000/track.json|5525|1790816149
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|821|1790816194
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|163|1790816194
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790816194
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790816194
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|516096|1790816194
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/rootrecord-state.json|72006|1790816206
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/projections/slices.json|927|1790816206
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/projections/public.json|124|1790816206
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/projections/agent/ava.json|2161|1790816206
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/projections/agent/carly.json|2161|1790816206
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/projections/agent/bruce.json|2161|1790816206
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2427|1790816195
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/requests/REQ-20260930-145646-17.json|855|1790816206
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/rootrecord-state-brief.txt|581|1790816206
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/interaction-summary.json|211|1790816206
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Intake/desk-live.txt|594|1790816206
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Intake/council-relay/offset.txt|9|1790816206
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|1167390|1790816088
 /home/rootrecord/.local/share/nautilus/tags/meta.db|167936|1790816145
 /home/rootrecord/.local/share/gnome-shell/session.gvdb|32|1790816115
 /home/rootrecord/.local/share/gnome-shell/session-active-history.json|1945|1790816115
 /home/rootrecord/.local/share/icc/edid-6561450aec6d3373e94d50803e44063f.icc|1592|1790816144
 /home/rootrecord/.local/share/icc/edid-e0f98deca80381a27d182c0b59d99b43.icc|1664|1790816144
-/home/rootrecord/.local/share/gvfs-metadata/root|64|1790816204
-/home/rootrecord/.local/share/recently-used.xbel|159401|1790816114
 /home/rootrecord/.local/share/evolution/addressbook/system/contacts.db|94208|1790816144
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock|150|1790816113
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal|4120032|1790816107
@@ -16295,9 +16107,6 @@
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/56ce17c3-0257-45db-acea-acf05ec6d013/.sync/sync.lock|150|1790816113
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/56ce17c3-0257-45db-acea-acf05ec6d013/.sync/index.sqlite-wal|1800472|1790816101
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/56ce17c3-0257-45db-acea-acf05ec6d013/.sync/index.sqlite-shm|32768|1790816101
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|150|1790816113
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790816113
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790816097
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/sync.lock|150|1790816114
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/index.sqlite-wal|4120032|1790816101
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/index.sqlite-shm|32768|1790816086
@@ -16365,4 +16174,203 @@
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-wal|4120032|1790816108
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm|32768|1790816108
 /home/rootrecord/.local/state/gnome-session@ubuntu.state|70|1790816111
-/home/rootrecord/.local/state/wireplumber/stream-properties|730|1790816143
+/home/rootrecord/.cursor/agent-cli-state.json|154|1790816272
+/home/rootrecord/.cursor/statsig-cache.json|861569|1790816273
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/assets/image-e3947689-6e50-41f5-8629-ba337adcd887.png|210515|1790816272
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/list_subscriptions.json|174|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_linear_comment.json|2135|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/unsubscribe.json|283|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_new_channels.json|753|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_origin_pr.json|2600|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_github_pr.json|2978|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_github_ci.json|1600|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_channel.json|607|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_origin_ci.json|1986|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_linear_issue.json|2762|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_thread.json|557|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/SERVER_METADATA.json|88|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/INSTRUCTIONS.md|69|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/tools/mcp_auth.json|343|1790816270
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/STATUS.md|248|1790816270
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/SERVER_METADATA.json|71|1790816270
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/tools/mcp_auth.json|343|1790816271
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/STATUS.md|246|1790816271
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/SERVER_METADATA.json|68|1790816271
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/tools/mcp_auth.json|343|1790816270
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/STATUS.md|248|1790816270
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/SERVER_METADATA.json|71|1790816270
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/compare_commits.json|959|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_file_contents.json|1150|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_commits.json|2670|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_repository.json|727|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/pull_request_read.json|1484|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/commit_read.json|1086|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_repositories.json|790|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_pull_requests.json|2342|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/grep_contents.json|3118|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/checks_read.json|1507|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_branches.json|1080|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_git_tree.json|1288|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_namespaces.json|701|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/SERVER_METADATA.json|76|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/INSTRUCTIONS.md|410|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_snapshot.json|1293|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_get_bounding_box.json|591|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_scroll.json|1352|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_mouse_click_xy.json|955|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_navigate.json|1299|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_highlight.json|740|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_fill.json|880|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_cdp.json|1116|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_press_key.json|695|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_tabs.json|1035|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_take_screenshot.json|1225|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_type.json|1226|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_click.json|1789|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_select_option.json|953|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_drag.json|1027|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_lock.json|702|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/SERVER_METADATA.json|84|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/INSTRUCTIONS.md|5262|1790816266
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md|205|1790816331
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790816331
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/tools/mcp_auth.json|343|1790816269
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/STATUS.md|260|1790816269
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/SERVER_METADATA.json|84|1790816270
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/open_resource.json|842|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/cursor_dialog.json|4584|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/install_plugin.json|887|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/move_agent_to_root.json|1679|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/move_agent_to_cloned_root.json|1459|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/rename_chat.json|622|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/open_automation.json|1647|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/create_project.json|636|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/SERVER_METADATA.json|84|1790816267
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/INSTRUCTIONS.md|182|1790816267
+/home/rootrecord/.cursor/projects/.agent-data-cleanup-2026-10-01|0|1790816294
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/list_subscriptions.json|174|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_linear_comment.json|2135|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/unsubscribe.json|283|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_new_channels.json|753|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_origin_pr.json|2600|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_github_pr.json|2978|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_github_ci.json|1600|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_channel.json|607|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_origin_ci.json|1986|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_linear_issue.json|2762|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_thread.json|557|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/SERVER_METADATA.json|88|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/INSTRUCTIONS.md|69|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/tools/mcp_auth.json|343|1790816270
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/STATUS.md|248|1790816270
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/SERVER_METADATA.json|71|1790816270
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/tools/mcp_auth.json|343|1790816270
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/STATUS.md|246|1790816270
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/SERVER_METADATA.json|68|1790816270
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/tools/mcp_auth.json|343|1790816270
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/STATUS.md|248|1790816270
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/SERVER_METADATA.json|71|1790816270
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/compare_commits.json|959|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_file_contents.json|1150|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_commits.json|2670|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_repository.json|727|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/pull_request_read.json|1484|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/commit_read.json|1086|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_repositories.json|790|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_pull_requests.json|2342|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/grep_contents.json|3118|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/checks_read.json|1507|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_branches.json|1080|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_git_tree.json|1288|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_namespaces.json|701|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/SERVER_METADATA.json|76|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/INSTRUCTIONS.md|410|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_snapshot.json|1293|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_get_bounding_box.json|591|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_scroll.json|1352|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_mouse_click_xy.json|955|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_navigate.json|1299|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_highlight.json|740|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_fill.json|880|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_cdp.json|1116|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_press_key.json|695|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_tabs.json|1035|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_take_screenshot.json|1225|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_type.json|1226|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_click.json|1789|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_select_option.json|953|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_drag.json|1027|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_lock.json|702|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/SERVER_METADATA.json|84|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/INSTRUCTIONS.md|5262|1790816266
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md|205|1790816331
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790816331
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/tools/mcp_auth.json|343|1790816269
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/STATUS.md|260|1790816269
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/SERVER_METADATA.json|84|1790816269
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/open_resource.json|842|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/cursor_dialog.json|4584|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/install_plugin.json|887|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/move_agent_to_root.json|1679|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/move_agent_to_cloned_root.json|1459|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/rename_chat.json|622|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/open_automation.json|1647|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/create_project.json|636|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/SERVER_METADATA.json|84|1790816267
+/home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/INSTRUCTIONS.md|182|1790816267
+/home/rootrecord/.cursor/skills-cursor/review-security/SKILL.md|3947|1790816269
+/home/rootrecord/.cursor/skills-cursor/.sync-manifest.json|1714|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/usage-bar.d.ts|2318|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/swatch.d.ts|1313|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/index.d.ts|4244|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/dag-layout.d.ts|3384|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/chart-primitives.d.ts|10547|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/collapsible-section.d.ts|2460|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/callout-tone-icons.d.ts|586|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/hooks.d.ts|6765|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.test.d.ts|59|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/form-primitives.d.ts|6663|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/todo-list.d.ts|1543|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/diff-view.d.ts|4916|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/canvas-tokens.d.ts|10435|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.d.ts|20332|1790816269
+/home/rootrecord/.cursor/skills-cursor/canvas/sdk/theme.d.ts|3520|1790816270
+/home/rootrecord/.cursor/skills-cursor/review-bugbot/SKILL.md|5092|1790816269
+/home/rootrecord/Pictures/Screenshots/Screenshot From 2026-09-30 14-57-31.png|210515|1790816251
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|1290240|1790816340
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|3465216|1790816340
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|173957120|1790816340
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|74|1790816340
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|186|1790816340
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html|65492|1790816288
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json|75553|1790816249
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/raw/product_types_raw_current.html|74397|1790816254
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/product_types_current.html|74397|1790816254
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_HNL/raw/clm_monthly_climate_summary_HNL_raw_current.html|24195|1790816314
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_ITO/raw/cli_daily_climate_summary_ITO_raw_current.html|28059|1790816299
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/issuedby=HFO&product=RRA&site=hfo_current.html|41831|1790816284
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/raw/issuedby=HFO&product=RRA&site=hfo_raw_current.html|41831|1790816284
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_LIH/raw/clm_monthly_climate_summary_LIH_raw_current.html|24159|1790816330
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_ITO/raw/clm_monthly_climate_summary_ITO_raw_current.html|24103|1790816360
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_OGG/raw/clm_monthly_climate_summary_OGG_raw_current.html|24204|1790816345
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_OGG/raw/cli_daily_climate_summary_OGG_raw_current.html|27972|1790816269
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|821|1790816341
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|163|1790816341
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790816341
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790816341
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|516096|1790816341
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2427|1790816341
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|1208297|1790816241
+/home/rootrecord/.local/share/keyrings/login.keyring|2811|1790816261
+/home/rootrecord/.local/share/gvfs-metadata/root|64|1790816352
+/home/rootrecord/.local/share/recently-used.xbel|159926|1790816251
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8f0116b3-9fe3-4789-9288-40e5184ce70d/files/rootrecord-operating-contract.md|27555|1790816264
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/sync.lock|150|1790816376
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite-wal|181312|1790816371
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite|4096|1790816270
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/mount.json|111|1790816270
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite-shm|32768|1790816371
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|150|1790816375
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790816361
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790816361
+/home/rootrecord/.local/state/wireplumber/stream-properties|730|1790816334

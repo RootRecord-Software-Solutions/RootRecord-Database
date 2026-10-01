@@ -5814,3 +5814,209 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/requests | mtime=2026-09-30 14:56:46 | domain=System | source_job=worklog_scan
 - DELETED /home/rootrecord/.grokbot/local-exec-daemon.json | source_job=worklog_scan
 
+### 2026-09-30 14:59:34 HST
+- MOD_FILE /home/rootrecord/.cursor/agent-cli-state.json | size=154 | mtime=2026-09-30 14:57:52 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/statsig-cache.json | size=861569 | mtime=2026-09-30 14:57:53 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/assets/image-e3947689-6e50-41f5-8629-ba337adcd887.png | size=210515 | mtime=2026-09-30 14:57:52 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/list_subscriptions.json | size=174 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_linear_comment.json | size=2135 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/unsubscribe.json | size=283 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_new_channels.json | size=753 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_origin_pr.json | size=2600 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_github_pr.json | size=2978 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_github_ci.json | size=1600 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_channel.json | size=607 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_origin_ci.json | size=1986 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_linear_issue.json | size=2762 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/tools/subscribe_slack_thread.json | size=557 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/SERVER_METADATA.json | size=88 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-subscriptions/INSTRUCTIONS.md | size=69 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/tools/mcp_auth.json | size=343 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/STATUS.md | size=248 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-slack-slack/SERVER_METADATA.json | size=71 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/tools/mcp_auth.json | size=343 | mtime=2026-09-30 14:57:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/STATUS.md | size=246 | mtime=2026-09-30 14:57:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-link-link/SERVER_METADATA.json | size=68 | mtime=2026-09-30 14:57:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/tools/mcp_auth.json | size=343 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/STATUS.md | size=248 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-figma-figma/SERVER_METADATA.json | size=71 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/compare_commits.json | size=959 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_file_contents.json | size=1150 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_commits.json | size=2670 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_repository.json | size=727 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/pull_request_read.json | size=1484 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/commit_read.json | size=1086 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_repositories.json | size=790 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_pull_requests.json | size=2342 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/grep_contents.json | size=3118 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/checks_read.json | size=1507 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_branches.json | size=1080 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/get_git_tree.json | size=1288 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/tools/list_namespaces.json | size=701 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/SERVER_METADATA.json | size=76 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-origin-readonly/INSTRUCTIONS.md | size=410 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_snapshot.json | size=1293 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_get_bounding_box.json | size=591 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_scroll.json | size=1352 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_mouse_click_xy.json | size=955 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_navigate.json | size=1299 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_highlight.json | size=740 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_fill.json | size=880 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_cdp.json | size=1116 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_press_key.json | size=695 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_tabs.json | size=1035 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_take_screenshot.json | size=1225 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_type.json | size=1226 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_click.json | size=1789 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_select_option.json | size=953 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_drag.json | size=1027 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/tools/browser_lock.json | size=702 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/SERVER_METADATA.json | size=84 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-ide-browser/INSTRUCTIONS.md | size=5262 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md | size=205 | mtime=2026-09-30 14:58:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-09-30 14:58:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/tools/mcp_auth.json | size=343 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/STATUS.md | size=260 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-notion-workspace-notion/SERVER_METADATA.json | size=84 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/open_resource.json | size=842 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/cursor_dialog.json | size=4584 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/install_plugin.json | size=887 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/move_agent_to_root.json | size=1679 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/move_agent_to_cloned_root.json | size=1459 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/rename_chat.json | size=622 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/open_automation.json | size=1647 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/tools/create_project.json | size=636 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/SERVER_METADATA.json | size=84 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/cursor-app-control/INSTRUCTIONS.md | size=182 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/.agent-data-cleanup-2026-10-01 | size=0 | mtime=2026-09-30 14:58:14 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/list_subscriptions.json | size=174 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_linear_comment.json | size=2135 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/unsubscribe.json | size=283 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_new_channels.json | size=753 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_origin_pr.json | size=2600 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_github_pr.json | size=2978 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_github_ci.json | size=1600 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_channel.json | size=607 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_origin_ci.json | size=1986 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_linear_issue.json | size=2762 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/tools/subscribe_slack_thread.json | size=557 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/SERVER_METADATA.json | size=88 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-subscriptions/INSTRUCTIONS.md | size=69 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/tools/mcp_auth.json | size=343 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/STATUS.md | size=248 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-slack-slack/SERVER_METADATA.json | size=71 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/tools/mcp_auth.json | size=343 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/STATUS.md | size=246 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-link-link/SERVER_METADATA.json | size=68 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/tools/mcp_auth.json | size=343 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/STATUS.md | size=248 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-figma-figma/SERVER_METADATA.json | size=71 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/compare_commits.json | size=959 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_file_contents.json | size=1150 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_commits.json | size=2670 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_repository.json | size=727 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/pull_request_read.json | size=1484 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/commit_read.json | size=1086 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_repositories.json | size=790 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_pull_requests.json | size=2342 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/grep_contents.json | size=3118 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/checks_read.json | size=1507 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_branches.json | size=1080 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/get_git_tree.json | size=1288 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/tools/list_namespaces.json | size=701 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/SERVER_METADATA.json | size=76 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-origin-readonly/INSTRUCTIONS.md | size=410 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_snapshot.json | size=1293 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_get_bounding_box.json | size=591 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_scroll.json | size=1352 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_mouse_click_xy.json | size=955 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_navigate.json | size=1299 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_highlight.json | size=740 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_fill.json | size=880 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_cdp.json | size=1116 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_press_key.json | size=695 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_tabs.json | size=1035 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_take_screenshot.json | size=1225 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_type.json | size=1226 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_click.json | size=1789 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_select_option.json | size=953 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_drag.json | size=1027 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/tools/browser_lock.json | size=702 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/SERVER_METADATA.json | size=84 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-ide-browser/INSTRUCTIONS.md | size=5262 | mtime=2026-09-30 14:57:46 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md | size=205 | mtime=2026-09-30 14:58:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-09-30 14:58:51 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/tools/mcp_auth.json | size=343 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/STATUS.md | size=260 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-notion-workspace-notion/SERVER_METADATA.json | size=84 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/open_resource.json | size=842 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/cursor_dialog.json | size=4584 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/install_plugin.json | size=887 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/move_agent_to_root.json | size=1679 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/move_agent_to_cloned_root.json | size=1459 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/rename_chat.json | size=622 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/open_automation.json | size=1647 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/tools/create_project.json | size=636 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/SERVER_METADATA.json | size=84 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/cursor-app-control/INSTRUCTIONS.md | size=182 | mtime=2026-09-30 14:57:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/review-security/SKILL.md | size=3947 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/.sync-manifest.json | size=1714 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/usage-bar.d.ts | size=2318 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/swatch.d.ts | size=1313 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/index.d.ts | size=4244 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/dag-layout.d.ts | size=3384 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/chart-primitives.d.ts | size=10547 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/collapsible-section.d.ts | size=2460 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/callout-tone-icons.d.ts | size=586 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/hooks.d.ts | size=6765 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.test.d.ts | size=59 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/form-primitives.d.ts | size=6663 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/todo-list.d.ts | size=1543 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/diff-view.d.ts | size=4916 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/canvas-tokens.d.ts | size=10435 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/ui-primitives.d.ts | size=20332 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/canvas/sdk/theme.d.ts | size=3520 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/skills-cursor/review-bugbot/SKILL.md | size=5092 | mtime=2026-09-30 14:57:49 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/Pictures/Screenshots/Screenshot From 2026-09-30 14-57-31.png | size=210515 | mtime=2026-09-30 14:57:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db | size=1290240 | mtime=2026-09-30 14:59:00 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db | size=3465216 | mtime=2026-09-30 14:59:00 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db | size=173957120 | mtime=2026-09-30 14:59:00 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json | size=74 | mtime=2026-09-30 14:59:00 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json | size=186 | mtime=2026-09-30 14:59:00 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html | size=65492 | mtime=2026-09-30 14:58:08 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json | size=75553 | mtime=2026-09-30 14:57:29 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/raw/product_types_raw_current.html | size=74397 | mtime=2026-09-30 14:57:34 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product_types/product_types_current.html | size=74397 | mtime=2026-09-30 14:57:34 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_HNL/raw/clm_monthly_climate_summary_HNL_raw_current.html | size=24195 | mtime=2026-09-30 14:58:34 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_ITO/raw/cli_daily_climate_summary_ITO_raw_current.html | size=28059 | mtime=2026-09-30 14:58:19 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/issuedby=HFO&product=RRA&site=hfo_current.html | size=41831 | mtime=2026-09-30 14:58:04 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo/raw/issuedby=HFO&product=RRA&site=hfo_raw_current.html | size=41831 | mtime=2026-09-30 14:58:04 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_LIH/raw/clm_monthly_climate_summary_LIH_raw_current.html | size=24159 | mtime=2026-09-30 14:58:50 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_ITO/raw/clm_monthly_climate_summary_ITO_raw_current.html | size=24103 | mtime=2026-09-30 14:59:20 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/clm_monthly_climate_summary_OGG/raw/clm_monthly_climate_summary_OGG_raw_current.html | size=24204 | mtime=2026-09-30 14:59:05 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/cli_daily_climate_summary_OGG/raw/cli_daily_climate_summary_OGG_raw_current.html | size=27972 | mtime=2026-09-30 14:57:49 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=821 | mtime=2026-09-30 14:59:01 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=163 | mtime=2026-09-30 14:59:01 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=85 | mtime=2026-09-30 14:59:01 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=114 | mtime=2026-09-30 14:59:01 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=516096 | mtime=2026-09-30 14:59:01 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2427 | mtime=2026-09-30 14:59:01 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=1242906 | mtime=2026-09-30 14:59:39 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/keyrings/login.keyring | size=2811 | mtime=2026-09-30 14:57:41 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gvfs-metadata/root | size=64 | mtime=2026-09-30 14:59:12 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/recently-used.xbel | size=159926 | mtime=2026-09-30 14:57:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/8f0116b3-9fe3-4789-9288-40e5184ce70d/files/rootrecord-operating-contract.md | size=27555 | mtime=2026-09-30 14:57:44 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/sync.lock | size=150 | mtime=2026-09-30 14:59:39 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite-wal | size=181312 | mtime=2026-09-30 14:59:31 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite | size=4096 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/mount.json | size=111 | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 14:59:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock | size=150 | mtime=2026-09-30 14:59:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 14:59:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 14:59:21 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/wireplumber/stream-properties | size=730 | mtime=2026-09-30 14:58:54 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/tmp | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/files | mtime=2026-09-30 14:57:50 | source_job=worklog_scan
+
