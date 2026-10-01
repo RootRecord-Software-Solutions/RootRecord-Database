@@ -3090,3 +3090,377 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c0244808-5106-44ce-bcdc-da28f7029232/.sync/tmp | mtime=2026-10-01 09:29:46 | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c0244808-5106-44ce-bcdc-da28f7029232/files | mtime=2026-10-01 09:29:46 | source_job=worklog_scan
 
+### 2026-10-01 09:35:41 HST
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/280036.txt | size=1381 | mtime=2026-10-01 09:35:45 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/23330.txt | size=9380 | mtime=2026-10-01 09:34:45 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md | size=205 | mtime=2026-10-01 09:32:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-10-01 09:32:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md | size=205 | mtime=2026-10-01 09:32:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-10-01 09:32:35 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_8f509c56-sys-img2-5_xml | size=145202 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_679c8624-sys-img2-5_xml | size=141009 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_02e54bfa-sys-img2-5_xml | size=299 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_df2cdb19-sys-img2-5_xml | size=141251 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_53fb20ae-addon2-4_xml | size=282 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_c4682bd4-sys-img2-5_xml | size=148699 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_8f509c56-sys-img2-5_xml | size=303 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_6de44c37-sys-img2-5_xml | size=155480 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_bdbcfc16-sys-img2-5_xml | size=138407 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_53fb20ae-addon2-4_xml | size=73410 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_707bcb95-sys-img2-5_xml | size=299 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_c4682bd4-sys-img2-5_xml | size=297 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_485e882d-sys-img2-5_xml | size=300 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_bdbcfc16-sys-img2-5_xml | size=311 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_21a18bbb-addon2-4_xml | size=277 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_b7518f9e-repository2-3_xml | size=419185 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_6de44c37-sys-img2-5_xml | size=306 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_7585be0a-sys-img2-5_xml | size=298 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_b75fa71f-repository2-4_xml | size=419514 | mtime=2026-10-01 09:35:29 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_485e882d-sys-img2-5_xml | size=150998 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_d1f53559-sys-img2-5_xml | size=134758 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_707bcb95-sys-img2-5_xml | size=239105 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_da506a6d-sys-img2-5_xml | size=296 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_b7518f9e-repository2-3_xml | size=282 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_d2d60124-addons_list-7_xml | size=3832 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_3bc5ddbf-sys-img2-5_xml | size=150779 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_3bc5ddbf-sys-img2-5_xml | size=298 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_72928d85-sys-img2-5_xml | size=188466 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_7585be0a-sys-img2-5_xml | size=153828 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_02e54bfa-sys-img2-5_xml | size=135251 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_679c8624-sys-img2-5_xml | size=306 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_d1f53559-sys-img2-5_xml | size=303 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_df2cdb19-sys-img2-5_xml | size=321 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_02adb1a7-sys-img2-5_xml | size=239139 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_a38a013e-sys-img2-5_xml | size=150059 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_02adb1a7-sys-img2-5_xml | size=309 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_d2d60124-addons_list-7_xml | size=280 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_21a18bbb-addon2-4_xml | size=111374 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_b75fa71f-repository2-4_xml | size=282 | mtime=2026-10-01 09:35:29 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_a38a013e-sys-img2-5_xml | size=297 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_72928d85-sys-img2-5_xml | size=295 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_da506a6d-sys-img2-5_xml | size=150511 | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Communications/network/local-data-globe/rebroadcast/hawaii-current.ndjson | size=15924 | mtime=2026-10-01 09:34:48 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Communications/network/local-data-globe/rebroadcast/status-current.json | size=1784 | mtime=2026-10-01 09:32:47 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/reports/index.html | size=8936 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/reports/energy-report/index.html | size=2909 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/reports/nws-weather/index.html | size=5101 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/reports/index.html | size=8936 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/reports/energy-report/index.html | size=2909 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website-personal/reports/nws-weather/index.html | size=5101 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/reports/index.html | size=8936 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/reports/energy-report/index.html | size=2909 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/website/reports/nws-weather/index.html | size=5101 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/rootrecord.db | size=3002368 | mtime=2026-10-01 09:34:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1min.db | size=9293824 | mtime=2026-10-01 09:34:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1sec.db | size=452349952 | mtime=2026-10-01 09:34:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Communications/Discord/report-relay-last.json | size=1310 | mtime=2026-10-01 09:32:49 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/soc/delta2-last.json | size=79 | mtime=2026-10-01 09:34:38 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/soc/river2pro-last.json | size=74 | mtime=2026-10-01 09:33:05 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/watts/delta2-last.json | size=195 | mtime=2026-10-01 09:34:38 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/watts/river2pro-last.json | size=186 | mtime=2026-10-01 09:33:05 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/state/cloud-fallback-delta2.json | size=1221 | mtime=2026-10-01 09:34:37 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/02_current.gif | size=81486 | mtime=2026-10-01 09:32:36 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/08_current.gif | size=83166 | mtime=2026-10-01 09:32:48 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/07/07_current.gif | size=78387 | mtime=2026-10-01 09:32:46 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/04/04_current.gif | size=79886 | mtime=2026-10-01 09:32:40 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/01_current.gif | size=61267 | mtime=2026-10-01 09:32:34 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/06/06_current.gif | size=65494 | mtime=2026-10-01 09:32:44 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/03_current.gif | size=81277 | mtime=2026-10-01 09:32:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/00_current.gif | size=87419 | mtime=2026-10-01 09:32:32 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif | size=82392 | mtime=2026-10-01 09:32:50 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif | size=81207 | mtime=2026-10-01 09:32:52 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif | size=66567 | mtime=2026-10-01 09:32:42 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html | size=56254 | mtime=2026-10-01 09:34:06 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/_manifest.json | size=75557 | mtime=2026-10-01 09:32:52 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/last/host-last.json | size=820 | mtime=2026-10-01 09:34:38 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/mem/host-last.json | size=162 | mtime=2026-10-01 09:34:38 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/cpu/host-last.json | size=85 | mtime=2026-10-01 09:34:38 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/load/host-last.json | size=114 | mtime=2026-10-01 09:34:38 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/system.db | size=925696 | mtime=2026-10-01 09:34:38 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/status/system-status.json | size=2478 | mtime=2026-10-01 09:34:39 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Worklog/worklog_current.md | size=673272 | mtime=2026-10-01 09:32:29 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/operations.json | size=1784 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/kilauea.json | size=359 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/power.json | size=937 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/weather.json | size=267 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db | size=3002368 | mtime=2026-10-01 09:34:37 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db | size=9293824 | mtime=2026-10-01 09:34:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db | size=452349952 | mtime=2026-10-01 09:34:38 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/Discord/report-relay-last.json | size=1310 | mtime=2026-10-01 09:32:49 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json | size=79 | mtime=2026-10-01 09:34:38 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json | size=74 | mtime=2026-10-01 09:33:05 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json | size=195 | mtime=2026-10-01 09:34:38 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json | size=186 | mtime=2026-10-01 09:33:05 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/state/cloud-fallback-delta2.json | size=1221 | mtime=2026-10-01 09:34:37 | domain=Energy | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/02_current.gif | size=81486 | mtime=2026-10-01 09:32:36 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/08_current.gif | size=83166 | mtime=2026-10-01 09:32:48 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/07/07_current.gif | size=78387 | mtime=2026-10-01 09:32:46 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/04/04_current.gif | size=79886 | mtime=2026-10-01 09:32:40 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/01_current.gif | size=61267 | mtime=2026-10-01 09:32:34 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/06/06_current.gif | size=65494 | mtime=2026-10-01 09:32:44 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/03_current.gif | size=81277 | mtime=2026-10-01 09:32:38 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/00_current.gif | size=87419 | mtime=2026-10-01 09:32:32 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif | size=82392 | mtime=2026-10-01 09:32:50 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif | size=81207 | mtime=2026-10-01 09:32:52 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif | size=66567 | mtime=2026-10-01 09:32:42 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html | size=56254 | mtime=2026-10-01 09:34:06 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json | size=75557 | mtime=2026-10-01 09:35:35 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=820 | mtime=2026-10-01 09:34:38 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=162 | mtime=2026-10-01 09:34:38 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=85 | mtime=2026-10-01 09:34:38 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=114 | mtime=2026-10-01 09:34:38 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=925696 | mtime=2026-10-01 09:34:38 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2478 | mtime=2026-10-01 09:34:39 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=694699 | mtime=2026-10-01 09:35:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/operations.json | size=1784 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/kilauea.json | size=359 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/power.json | size=937 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/weather.json | size=267 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/network/local-data-globe/rebroadcast/hawaii-current.ndjson | size=12198 | mtime=2026-10-01 09:35:47 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/network/local-data-globe/rebroadcast/status-current.json | size=1784 | mtime=2026-10-01 09:32:47 | domain=Communications | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/reports/index.html | size=8936 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/reports/energy-report/index.html | size=2909 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/reports/nws-weather/index.html | size=5101 | mtime=2026-10-01 09:32:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/share/gvfs-metadata/root | size=64 | mtime=2026-10-01 09:35:43 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9583f7aa-07be-489f-8302-d9630ac8cb0b/.sync/sync.lock | size=150 | mtime=2026-10-01 09:35:47 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9583f7aa-07be-489f-8302-d9630ac8cb0b/.sync/index.sqlite-wal | size=304912 | mtime=2026-10-01 09:35:36 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9583f7aa-07be-489f-8302-d9630ac8cb0b/.sync/index.sqlite | size=4096 | mtime=2026-10-01 09:32:31 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9583f7aa-07be-489f-8302-d9630ac8cb0b/.sync/mount.json | size=111 | mtime=2026-10-01 09:32:32 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9583f7aa-07be-489f-8302-d9630ac8cb0b/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 09:35:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7b0039ba-a7e7-4a85-81e2-84b45cc9133a/.sync/sync.lock | size=150 | mtime=2026-10-01 09:35:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7b0039ba-a7e7-4a85-81e2-84b45cc9133a/.sync/index.sqlite-wal | size=1602712 | mtime=2026-10-01 09:35:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7b0039ba-a7e7-4a85-81e2-84b45cc9133a/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 09:35:34 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cea93a9b-3c45-4101-bcbd-8acb5b8ed3fe/.sync/sync.lock | size=150 | mtime=2026-10-01 09:35:47 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cea93a9b-3c45-4101-bcbd-8acb5b8ed3fe/.sync/index.sqlite-wal | size=255472 | mtime=2026-10-01 09:35:36 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cea93a9b-3c45-4101-bcbd-8acb5b8ed3fe/.sync/index.sqlite | size=4096 | mtime=2026-10-01 09:33:42 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cea93a9b-3c45-4101-bcbd-8acb5b8ed3fe/.sync/mount.json | size=111 | mtime=2026-10-01 09:33:43 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cea93a9b-3c45-4101-bcbd-8acb5b8ed3fe/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 09:35:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock | size=150 | mtime=2026-10-01 09:35:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal | size=4120032 | mtime=2026-10-01 09:35:47 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 09:35:31 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f9e247b8-7f33-4946-98ad-e7011788eca2/.sync/sync.lock | size=150 | mtime=2026-10-01 09:35:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f9e247b8-7f33-4946-98ad-e7011788eca2/.sync/index.sqlite-wal | size=1825192 | mtime=2026-10-01 09:35:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f9e247b8-7f33-4946-98ad-e7011788eca2/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 09:35:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c0244808-5106-44ce-bcdc-da28f7029232/.sync/sync.lock | size=150 | mtime=2026-10-01 09:35:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c0244808-5106-44ce-bcdc-da28f7029232/.sync/index.sqlite-wal | size=465592 | mtime=2026-10-01 09:35:36 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c0244808-5106-44ce-bcdc-da28f7029232/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 09:35:34 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/292698a5-31eb-4272-a031-bdfc9c1f1919/.sync/sync.lock | size=150 | mtime=2026-10-01 09:35:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/292698a5-31eb-4272-a031-bdfc9c1f1919/.sync/index.sqlite-wal | size=1157752 | mtime=2026-10-01 09:35:48 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/292698a5-31eb-4272-a031-bdfc9c1f1919/.sync/index.sqlite-shm | size=32768 | mtime=2026-10-01 09:35:34 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/opt/android-sdk/licenses/android-googletv-license | size=41 | mtime=2026-10-01 09:35:41 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/opt/android-sdk/licenses/google-gdk-license | size=41 | mtime=2026-10-01 09:35:41 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/opt/android-sdk/licenses/android-sdk-license | size=41 | mtime=2026-10-01 09:35:41 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/opt/android-sdk/licenses/mips-android-sysimage-license | size=41 | mtime=2026-10-01 09:35:41 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/opt/android-sdk/licenses/android-googlexr-license | size=41 | mtime=2026-10-01 09:35:41 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/opt/android-sdk/licenses/android-sdk-preview-license | size=41 | mtime=2026-10-01 09:35:41 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.local/opt/android-sdk/licenses/android-sdk-arm-dbt-license | size=41 | mtime=2026-10-01 09:35:41 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.android | mtime=2026-10-01 09:35:28 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.android/cache | mtime=2026-10-01 09:35:29 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local | mtime=2026-10-01 09:33:16 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9583f7aa-07be-489f-8302-d9630ac8cb0b | mtime=2026-10-01 09:32:31 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9583f7aa-07be-489f-8302-d9630ac8cb0b/.sync | mtime=2026-10-01 09:32:32 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9583f7aa-07be-489f-8302-d9630ac8cb0b/.sync/tmp | mtime=2026-10-01 09:32:31 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9583f7aa-07be-489f-8302-d9630ac8cb0b/files | mtime=2026-10-01 09:32:31 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cea93a9b-3c45-4101-bcbd-8acb5b8ed3fe | mtime=2026-10-01 09:33:42 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cea93a9b-3c45-4101-bcbd-8acb5b8ed3fe/.sync | mtime=2026-10-01 09:33:43 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cea93a9b-3c45-4101-bcbd-8acb5b8ed3fe/.sync/tmp | mtime=2026-10-01 09:33:42 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cea93a9b-3c45-4101-bcbd-8acb5b8ed3fe/files | mtime=2026-10-01 09:33:42 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk | mtime=2026-10-01 09:35:42 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/bin | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/build-system | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/build-system/manifest-merger | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/build-system/builder-model | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/build-system/shrinker | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/build-system/aapt2-proto | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/lint | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/lint/cli | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/sdk-common | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/repository | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/device_validator | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/zipflinger | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/annotations | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/glassfish | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/glassfish/jaxb | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/glassfish/jaxb/txw2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/glassfish/jaxb/txw2/2.3.2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/glassfish/jaxb/jaxb-runtime | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/glassfish/jaxb/jaxb-runtime/2.3.2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/bouncycastle | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/bouncycastle/bcprov-jdk18on | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/bouncycastle/bcprov-jdk18on/1.79 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/bouncycastle/bcutil-jdk18on | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/bouncycastle/bcutil-jdk18on/1.79 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/bouncycastle/bcpkix-jdk18on | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/bouncycastle/bcpkix-jdk18on/1.79 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/ow2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/ow2/asm | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/ow2/asm/asm-tree | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/ow2/asm/asm-tree/9.9 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/ow2/asm/asm-commons | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/ow2/asm/asm-commons/9.9 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/ow2/asm/asm-analysis | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/ow2/asm/asm-analysis/9.9 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/ow2/asm/asm | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/ow2/asm/asm/9.9 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/httpcomponents | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/httpcomponents/httpcore | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/httpcomponents/httpcore/4.4.16 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/httpcomponents/httpmime | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/httpcomponents/httpmime/4.5.6 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/httpcomponents/httpclient | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/httpcomponents/httpclient/4.5.14 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/commons | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/commons/commons-compress | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/commons/commons-compress/1.27.1 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/commons/commons-lang3 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/apache/commons/commons-lang3/3.16.0 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/checkerframework | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/checkerframework/checker-qual | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/checkerframework/checker-qual/3.43.0 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jvnet | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jvnet/staxex | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jvnet/staxex/stax-ex | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jvnet/staxex/stax-ex/1.8.1 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlin | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlin/kotlin-stdlib-jdk7 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.2.10 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlin/kotlin-stdlib | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlin/kotlin-stdlib/2.2.10 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlin/kotlin-stdlib-common | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.21 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlin/kotlin-reflect | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlin/kotlin-reflect/2.2.10 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlin/kotlin-stdlib-jdk8 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlin/kotlin-stdlib-jdk8/2.2.10 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/annotations | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/annotations/23.0.0 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlinx | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.10.2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlinx/kotlinx-coroutines-core | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlinx/kotlinx-cli-jvm | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/org/jetbrains/kotlinx/kotlinx-cli-jvm/0.3.1 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/jakarta | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/jakarta/activation | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/jakarta/activation/jakarta.activation-api | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/jakarta/activation/jakarta.activation-api/1.2.1 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/jakarta/xml | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/jakarta/xml/bind | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/jakarta/xml/bind/jakarta.xml.bind-api | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/commons-logging | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/commons-logging/commons-logging | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/commons-logging/commons-logging/1.2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/javax | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/javax/inject | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/javax/inject/javax.inject | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/javax/inject/javax.inject/1 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/sun | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/sun/xml | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/sun/xml/fastinfoset | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/sun/xml/fastinfoset/FastInfoset | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/sun/xml/fastinfoset/FastInfoset/1.2.16 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/sun/istack | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/sun/istack/istack-commons-runtime | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/sun/istack/istack-commons-runtime/3.0.8 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/beust | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/beust/jcommander | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/beust/jcommander/1.78 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/errorprone | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/errorprone/error_prone_annotations | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/errorprone/error_prone_annotations/2.36.0 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/protobuf | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/protobuf/protobuf-java | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/protobuf/protobuf-java/3.25.5 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/j2objc | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/j2objc/j2objc-annotations | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/j2objc/j2objc-annotations/3.0.0 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/code | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/code/gson | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/code/gson/gson | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/code/gson/gson/2.11.0 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/code/findbugs | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/code/findbugs/jsr305 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/code/findbugs/jsr305/3.0.2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/guava | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/guava/failureaccess | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/guava/failureaccess/1.0.2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/guava/listenablefuture | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/guava/guava | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/guava/guava/33.4.0-jre | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/jimfs | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/jimfs/jimfs | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/google/jimfs/jimfs/1.1 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/android | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/android/tools | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/android/tools/smali | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/android/tools/smali/smali-dexlib2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/android/tools/smali/smali-dexlib2/3.0.9 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/android/tools/smali/smali-util | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/android/tools/smali/smali-util/3.0.9 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/android/tools/smali/smali-baksmali | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/com/android/tools/smali/smali-baksmali/3.0.9 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/lint-psi | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/lint-psi/intellij-core | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/lint-psi/uast | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/lint-psi/kotlin-compiler | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/commons-io | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/commons-io/commons-io | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/commons-io/commons-io/2.16.1 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/sf | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/sf/kxml | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/sf/kxml/kxml2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/sf/kxml/kxml2/2.3.0 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/sf/jopt-simple | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/sf/jopt-simple/jopt-simple | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/sf/jopt-simple/jopt-simple/4.9 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/java | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/java/dev | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/java/dev/jna | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/java/dev/jna/jna-platform | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/java/dev/jna/jna-platform/5.6.0 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/java/dev/jna/jna | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/net/java/dev/jna/jna/5.14.0 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/commons-codec | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/commons-codec/commons-codec | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/commons-codec/commons-codec/1.17.1 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/external/archive-patcher | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/apkparser | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/apkparser/analyzer | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/apkparser/cli | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/misc | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/misc/screenshot2 | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/sdklib | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/common | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/analytics-library | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/analytics-library/shared | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/analytics-library/tracker | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/analytics-library/protos | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/analytics-library/protos/src | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/analytics-library/protos/src/main | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/analytics-library/protos/src/main/proto | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/profgen | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/profgen/profgen-cli | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/profgen/profgen | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/ddmlib | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/cmdline-tools/latest/lib/layoutlib-api | mtime=2026-10-01 09:35:26 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/.temp | mtime=2026-10-01 09:35:49 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/.temp/PackageOperation01 | mtime=2026-10-01 09:35:49 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/licenses | mtime=2026-10-01 09:35:41 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/build-tools | mtime=2026-10-01 09:35:49 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/build-tools/36.1.0 | mtime=2026-10-01 09:35:49 | source_job=worklog_scan
+- NEW_DIR /home/rootrecord/.local/opt/android-sdk/build-tools/36.1.0/.installer | mtime=? | source_job=worklog_scan
+
