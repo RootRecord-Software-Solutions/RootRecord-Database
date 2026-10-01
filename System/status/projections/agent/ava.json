@@ -5,9 +5,9 @@
   "visibility": "agent",
   "slices": {
     "safety": "can_launch=false do_not=enable gates,launch programs,restart poller,start a second relay,invent numbers,treat a commit as a deploy",
-    "energy": "delta2 state=observed soc=22.02 age_min=0\nriver2pro state=observed soc=49.41 age_min=2",
+    "energy": "delta2 state=observed soc=22.02 age_min=0\nriver2pro state=observed soc=45.71 age_min=0",
     "scope": "can_launch=false do_not=enable gates,launch programs,restart poller,start a second relay,invent numbers,treat a commit as a deploy\ndrift=aligned\nconfigured_model=llama3.2:3b observed_model=llama3.2:3b\nfallback_configured=disabled fallback_observed=disabled\nservices=ollama=running council_relay=running desk_live=present root_monitor=stopped github_sync=scheduled rootserver_poller=running flm=idle cloudflared=running\nhealth_failed=none\nhealth_unknown=incidents,root_monitor\nread_broker=built agent_launch=not_built build_handoff=built cursor_api=gated\nunknown_is_not_broken=true",
-    "index": "generated_at=2026-09-30T14:46:14-10:00 health_failed=none"
+    "index": "generated_at=2026-09-30T14:56:46-10:00 health_failed=none"
   },
   "drift": [
     {
@@ -22,18 +22,18 @@
       "action": "none",
       "confidence": "configured",
       "visibility": "agent",
-      "observed_at": "2026-09-30T14:46:15-10:00"
+      "observed_at": "2026-09-30T14:56:46-10:00"
     }
   ],
   "interaction": {
-    "request_id": null,
-    "interaction_mode": null,
-    "status": null,
+    "request_id": "REQ-20260930-145646-17",
+    "interaction_mode": "work_order",
+    "status": "MODE_SELECTED",
     "matching_work_orders": [],
     "visibility": "agent",
     "source": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/interaction-summary.json",
-    "observed_at": null,
-    "confidence": "unknown"
+    "observed_at": "2026-09-30T14:56:46-10:00",
+    "confidence": "recent"
   },
   "capabilities": [
     "inspect_service",
