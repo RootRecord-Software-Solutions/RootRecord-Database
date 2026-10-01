@@ -3634,3 +3634,62 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/SRF | mtime=2026-09-30 15:52:27 | domain=Weather | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/SRF/archive/09-30-2026 | mtime=2026-09-30 15:52:27 | domain=Weather | source_job=worklog_scan
 
+### 2026-09-30 15:57:17 HST
+- MOD_FILE /home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db | size=11698176 | mtime=2026-09-30 15:55:46 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Media/Voice/scripts/speakers.py | size=15698 | mtime=2026-09-30 15:54:40 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Media/Voice/scripts/voice_generate.py | size=37578 | mtime=2026-09-30 15:54:45 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Media/Voice/README.md | size=5092 | mtime=2026-09-30 15:54:44 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/02_current.gif | size=72532 | mtime=2026-09-30 15:56:03 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/08_current.gif | size=76162 | mtime=2026-09-30 15:56:15 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/07/07_current.gif | size=76261 | mtime=2026-09-30 15:56:13 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/04/04_current.gif | size=71775 | mtime=2026-09-30 15:56:07 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/01_current.gif | size=71158 | mtime=2026-09-30 15:56:01 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/06/06_current.gif | size=80581 | mtime=2026-09-30 15:56:11 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/03_current.gif | size=72932 | mtime=2026-09-30 15:56:05 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/00_current.gif | size=69670 | mtime=2026-09-30 15:55:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif | size=77240 | mtime=2026-09-30 15:56:17 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif | size=82028 | mtime=2026-09-30 15:56:19 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif | size=89943 | mtime=2026-09-30 15:56:09 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/_manifest.json | size=75552 | mtime=2026-09-30 15:56:19 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/last/host-last.json | size=819 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/mem/host-last.json | size=162 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/cpu/host-last.json | size=85 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/load/host-last.json | size=113 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/system.db | size=552960 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/status/system-status.json | size=2436 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Worklog/worklog_current.md | size=786543 | mtime=2026-09-30 15:55:06 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/02_current.gif | size=72532 | mtime=2026-09-30 15:56:03 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/08_current.gif | size=76162 | mtime=2026-09-30 15:56:15 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/07/07_current.gif | size=76261 | mtime=2026-09-30 15:56:13 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/04/04_current.gif | size=71775 | mtime=2026-09-30 15:56:07 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/01_current.gif | size=71158 | mtime=2026-09-30 15:56:01 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/06/06_current.gif | size=80581 | mtime=2026-09-30 15:56:11 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/03_current.gif | size=72932 | mtime=2026-09-30 15:56:05 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/00_current.gif | size=69670 | mtime=2026-09-30 15:55:59 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif | size=77240 | mtime=2026-09-30 15:56:17 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif | size=82028 | mtime=2026-09-30 15:56:19 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif | size=89943 | mtime=2026-09-30 15:56:09 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json | size=75552 | mtime=2026-09-30 15:56:19 | domain=Weather | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json | size=819 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json | size=162 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json | size=85 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json | size=113 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db | size=552960 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json | size=2436 | mtime=2026-09-30 15:56:42 | domain=System | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md | size=795105 | mtime=2026-09-30 15:57:19 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/418827dd-a726-4310-9a67-30d665e1d61b/.sync/sync.lock | size=150 | mtime=2026-09-30 15:57:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/418827dd-a726-4310-9a67-30d665e1d61b/.sync/index.sqlite-wal | size=2480272 | mtime=2026-09-30 15:57:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/418827dd-a726-4310-9a67-30d665e1d61b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 15:56:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/sync.lock | size=150 | mtime=2026-09-30 15:57:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite-wal | size=3283672 | mtime=2026-09-30 15:57:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9e6bf6bd-4aac-4c30-89f2-a1768e5ec67b/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 15:57:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eb0e9b0a-4c23-4ae1-858a-825473b829bb/.sync/sync.lock | size=150 | mtime=2026-09-30 15:57:19 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eb0e9b0a-4c23-4ae1-858a-825473b829bb/.sync/index.sqlite-wal | size=2467912 | mtime=2026-09-30 15:57:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eb0e9b0a-4c23-4ae1-858a-825473b829bb/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 15:56:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock | size=150 | mtime=2026-09-30 15:57:19 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal | size=4120032 | mtime=2026-09-30 15:57:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 15:56:54 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e67c0713-5ca6-4950-8e60-a42a036f0cbc/.sync/sync.lock | size=150 | mtime=2026-09-30 15:57:18 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e67c0713-5ca6-4950-8e60-a42a036f0cbc/.sync/index.sqlite-wal | size=2727472 | mtime=2026-09-30 15:57:09 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e67c0713-5ca6-4950-8e60-a42a036f0cbc/.sync/index.sqlite-shm | size=32768 | mtime=2026-09-30 15:57:09 | source_job=worklog_scan
+
