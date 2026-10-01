@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:42:08-10:00",
+  "generated_at": "2026-09-30T22:45:05-10:00",
   "schema_version": 2,
   "secrets_included": false,
   "system": {
@@ -8,38 +8,38 @@
       "source": "uname",
       "confidence": "live",
       "visibility": "private",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:05-10:00"
     },
     "os": {
       "value": "Linux 7.0.0-34-generic",
       "source": "uname",
       "confidence": "live",
       "visibility": "internal",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:05-10:00"
     },
     "resources": {
       "value": {
-        "cpu_percent": 16.19,
-        "mem_used_percent": 46.53,
-        "load1": 2.33,
-        "load5": 4.48,
-        "load15": 4.88
+        "cpu_percent": 21.43,
+        "mem_used_percent": 46.41,
+        "load1": 2.05,
+        "load5": 3.16,
+        "load15": 4.26
       },
       "source": "system-status.json",
       "confidence": "recent",
       "visibility": "internal",
-      "observed_at": "2026-09-30T22:42:08-10:00",
-      "measured_at": "2026-10-01T08:41:04.466Z"
+      "observed_at": "2026-09-30T22:45:05-10:00",
+      "measured_at": "2026-10-01T08:44:29.383Z"
     },
     "power": {
       "delta2": {
         "value": {
           "name": "Delta 2",
-          "soc_percent": 24.28,
-          "at": "2026-09-30T22:37:44-10:00",
+          "soc_percent": 22.76,
+          "at": "2026-09-30T22:44:27-10:00",
           "watts": {
             "solar_input_power": 0,
-            "ac_output_power": 81,
+            "ac_output_power": 94,
             "ac_input_power": 0,
             "usbc_output_power": 0,
             "charge_source": "none"
@@ -48,25 +48,25 @@
         "source": "Energy/soc/delta2-last.json",
         "confidence": "recent",
         "visibility": "internal",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       "river2pro": {
         "value": {
           "name": "River 2 Pro",
-          "soc_percent": 76.85,
-          "at": "2026-09-30T22:41:02-10:00",
+          "soc_percent": 76.73,
+          "at": "2026-09-30T22:42:55-10:00",
           "watts": {
             "solar_input_power": 0,
             "ac_output_power": 0.0,
             "ac_input_power": 0.0,
-            "usbc_output_power": 26,
+            "usbc_output_power": 23,
             "charge_source": "none"
           }
         },
         "source": "Energy/soc/river2pro-last.json",
         "confidence": "recent",
         "visibility": "internal",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       }
     }
   },
@@ -79,18 +79,18 @@
       ],
       "source": "process_scan",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00",
+      "observed_at": "2026-09-30T22:45:05-10:00",
       "why_not": null
     },
     "council_relay": {
       "service": "council_relay",
       "status": "running",
       "pids": [
-        2162979
+        2179150
       ],
       "source": "process_scan",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00",
+      "observed_at": "2026-09-30T22:45:05-10:00",
       "owner": "ava",
       "why_not": null
     },
@@ -99,7 +99,7 @@
       "status": "present",
       "source": "desk-live.txt",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:05-10:00"
     },
     "root_monitor": {
       "service": "root_monitor",
@@ -107,7 +107,7 @@
       "pids": [],
       "source": "process_scan",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00",
+      "observed_at": "2026-09-30T22:45:05-10:00",
       "why_not": {
         "status": "stopped",
         "kind": "unknown",
@@ -122,7 +122,7 @@
       "resident": false,
       "source": "jobs.py",
       "confidence": "configured",
-      "observed_at": "2026-09-30T22:42:08-10:00",
+      "observed_at": "2026-09-30T22:45:05-10:00",
       "why_not": null
     },
     "rootserver_poller": {
@@ -133,7 +133,7 @@
       ],
       "source": "process_scan",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:05-10:00"
     },
     "flm": {
       "service": "flm",
@@ -141,7 +141,7 @@
       "pids": [],
       "source": "process_scan",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00",
+      "observed_at": "2026-09-30T22:45:05-10:00",
       "note": "Idle is normal. The model loads per reply."
     },
     "cloudflared": {
@@ -150,25 +150,25 @@
       "source": "process_scan",
       "confidence": "live",
       "visibility": "operator",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:06-10:00"
     }
   },
   "models": {
     "installed": {
       "value": [
-        "rr-system:latest",
-        "bruce-telegram:latest",
-        "rr-security:latest",
-        "rr-weather:latest",
-        "ava-telegram:latest",
         "carly-telegram:latest",
+        "bruce-telegram:latest",
         "rr-council-bruce:latest",
-        "rr-energy:latest",
         "rr-exec:latest",
-        "rr-cameras:latest",
+        "rr-reason:latest",
+        "rr-security:latest",
         "rr-council-ava:latest",
         "rr-council-carly:latest",
-        "rr-reason:latest",
+        "rr-energy:latest",
+        "rr-system:latest",
+        "ava-telegram:latest",
+        "rr-cameras:latest",
+        "rr-weather:latest",
         "gemma4:e4b",
         "deepseek-coder-v2:16b",
         "starcoder2:15b",
@@ -185,14 +185,14 @@
       "source": "ollama list",
       "confidence": "live",
       "visibility": "internal",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:05-10:00"
     },
     "active": {
       "value": null,
       "source": "process_scan",
       "confidence": "live",
       "visibility": "internal",
-      "observed_at": "2026-09-30T22:42:08-10:00",
+      "observed_at": "2026-09-30T22:45:05-10:00",
       "note": "empty pids means no resident FLM"
     },
     "performance": {
@@ -205,7 +205,7 @@
       "source": "ensure-relay.sh",
       "confidence": "configured",
       "visibility": "internal",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:05-10:00"
     }
   },
   "agents": {
@@ -264,10 +264,10 @@
       "mode": "inplace",
       "slug": "RootRecord-Software-Solutions/RootRecord-Ecosystem",
       "branch": "main",
-      "dirty_files": 1679,
+      "dirty_files": 1682,
       "source": "repos.conf",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:05-10:00"
     },
     {
       "id": "pacific",
@@ -275,10 +275,10 @@
       "mode": "mirror",
       "slug": "RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server",
       "branch": "main",
-      "dirty_files": 1679,
+      "dirty_files": 1682,
       "source": "repos.conf",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:05-10:00"
     },
     {
       "id": "database",
@@ -286,10 +286,10 @@
       "mode": "mirror",
       "slug": "RootRecord-Software-Solutions/RootRecord-Database",
       "branch": "main",
-      "dirty_files": 1679,
+      "dirty_files": 1682,
       "source": "repos.conf",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:05-10:00"
     },
     {
       "id": "library",
@@ -297,10 +297,10 @@
       "mode": "mirror",
       "slug": "RootRecord-Software-Solutions/RootRecord-Library",
       "branch": "main",
-      "dirty_files": 1679,
+      "dirty_files": 1682,
       "source": "repos.conf",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:05-10:00"
     },
     {
       "id": "skills",
@@ -311,7 +311,7 @@
       "dirty_files": 0,
       "source": "repos.conf",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:05-10:00"
     },
     {
       "id": "website",
@@ -319,10 +319,10 @@
       "mode": "mirror",
       "slug": "RootRecord-Software-Solutions/RootRecord-Website",
       "branch": "main",
-      "dirty_files": 1679,
+      "dirty_files": 1682,
       "source": "repos.conf",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:06-10:00"
     },
     {
       "id": "website-personal",
@@ -330,10 +330,10 @@
       "mode": "mirror",
       "slug": "rootrecordsoftwaresolutions/RootRecord-Website",
       "branch": "main",
-      "dirty_files": 1679,
+      "dirty_files": 1682,
       "source": "repos.conf",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:06-10:00"
     },
     {
       "id": "mainland",
@@ -344,7 +344,7 @@
       "dirty_files": 0,
       "source": "repos.conf",
       "confidence": "live",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:06-10:00"
     }
   ],
   "automation": {
@@ -359,7 +359,7 @@
         "description": "This desk process + status terminal (self registry).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "cloudflare_tunnel",
@@ -371,7 +371,7 @@
         "description": "Start Cloudflare tunnel when internet is up (deferred if offline).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "github_setup_remotes",
@@ -383,7 +383,7 @@
         "description": "Ensure remotes for all repos.conf rows (Pacific Github catalog).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "ollama_warmup",
@@ -395,7 +395,7 @@
         "description": "Ensure ollama serve is up (CPU fallback lanes).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "flm_npu_warmup",
@@ -407,7 +407,7 @@
         "description": "FLM warmup: no-op unless FLM_WARMUP_RESIDENT=1. Non-council default llama3.2:1b. Council relay uses llama3.2:3b via ensure-relay.sh.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "council_relay",
@@ -419,7 +419,7 @@
         "description": "Start council-relay.py if not already running (single getUpdates).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "security_camera_server",
@@ -431,7 +431,7 @@
         "description": "Ensure Security camera server (127.0.0.1:8791) is running.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "security_timelapse_catchup",
@@ -443,7 +443,7 @@
         "description": "Compile any completed hour missing a chunk today + stitch master MP4 if past 19:00 HST (covers late boot/downtime).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "weather_poller",
@@ -455,7 +455,7 @@
         "description": "Ensure the Pacific Weather/ scheduler daemon is running (Pacific venv; data under canonical Database WEATHER/). Enabled 2026-09-29.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "network_globe_hawaii",
@@ -467,7 +467,7 @@
         "description": "Ensure the live Hawaii Network Globe SSH collector is running.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "ecoflow_read_boot",
@@ -479,7 +479,7 @@
         "description": "One BLE read of Delta 2 + River 2 Pro after boot.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "heartbeat",
@@ -491,7 +491,7 @@
         "description": "ENERGY snapshot once per minute.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "ecoflow_read_cycle",
@@ -503,7 +503,7 @@
         "description": "Leap-frog: Delta2 / River2Pro alternate.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "sys_stats_cycle",
@@ -515,7 +515,7 @@
         "description": "Host CPU/load/mem \u2192 Database/SYSTEM.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "github_sync_all",
@@ -527,7 +527,7 @@
         "description": "Sync all repos.conf rows (pull/merge/push) via Pacific Github catalog.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "worklog_scan",
@@ -539,7 +539,7 @@
         "description": "Offline work auto-doc scan into Database/WORKLOG (Pacific Reports \u2014 WO-RPT-001).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "security_camera_frame_grab",
@@ -551,7 +551,7 @@
         "description": "Grab ch1-4 stills to /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Images/.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "service_supervisor",
@@ -563,7 +563,7 @@
         "description": "Mid-session auto-recovery (08-ideas weather-relay-auto-recovery, approved 2026-09-29): respawn weather / council relay via their ensure scripts if dead; max 3 per 30 min, then BLOCKED. Dry run: supervise-services.sh --dry-run.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "geology_collect",
@@ -575,7 +575,7 @@
         "description": "USGS Hawaii (FDSN bbox M1+) + global M2.5+ quakes and HVO Kilauea/Mauna Loa status -> Database Geology/{Earthquakes,Volcanoes}/*-last.json + Daily/*.jsonl.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "council_quake_telegram",
@@ -587,7 +587,7 @@
         "description": "Carly per-quake notice from Database Geology/Earthquakes/hawaii-last.json. Dry-run unless RR_COUNCIL_QUAKE_SEND=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "gated",
@@ -606,7 +606,7 @@
         "description": "USGS HVO V1/V2/V3 Halemaumau stills -> Database Geology/Volcanoes/Cams/*-last.jpg + cams-last.json (YouTube live ids).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -625,7 +625,7 @@
         "description": "Queue a Kilauea public draft from Geology/Volcanoes/kilauea-last.json when the HVO notice id or alert level changes. No send.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -644,7 +644,7 @@
         "description": "WiZ bulb + Tuya plug state -> Database Energy/Smart-Devices/{wiz,plugs,collector}-last.json.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -663,7 +663,7 @@
         "description": "Desk-up/down events (origin_start, heartbeat_gap, desk_up, boot) -> Database System/uptime/ (KEEP 400).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -682,7 +682,7 @@
         "description": "Allowlisted PythonDrop scripts only. Gate RR_PYTHON_DROP stays unset. Empty catalog spawns nothing.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "gated",
@@ -701,7 +701,7 @@
         "description": "Append HAWAII_loop archive GIFs into Database Weather/RadarZip/radar_archive.zip (all-time; loose folders stay on the 14-day rule).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -720,7 +720,7 @@
         "description": "Open-Meteo current conditions for CountryLocations allowlist -> Database Weather/CountryLocations/. Gate RR_COUNTRY_LOCATIONS stays unset.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "gated",
@@ -739,7 +739,7 @@
         "description": "Discord poller (WO-MIG-21). OFF. No token and no post. Gates RR_DISCORD_POLLER, RR_DISCORD_REVIEW_PIPELINE, and RR_GLOBAL_UPDATER stay unset.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "gated",
@@ -758,7 +758,7 @@
         "description": "Format Database Geology/Earthquakes last files and hand text to the Discord send pipe. Dry-run unless a separate send sign-off is set.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -777,7 +777,7 @@
         "description": "Slack poller -> Database Communications/Slack/slack-last.json. No HTTP and no post until a token and sign-off exist.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -796,7 +796,7 @@
         "description": "Stripe balance snapshot -> Database Website/stripe-snapshot.json. Gated off. No key does not call the API.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -815,7 +815,7 @@
         "description": "Redacted Vercel failed-build records -> Database Logs/Website/. Gated off. No token does not call the API.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -834,7 +834,7 @@
         "description": "Write the public last-known status snapshot Hawaii sends to AWS.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "council_health",
@@ -846,7 +846,7 @@
         "description": "Council relay process, getMe, and 409 tail -> Database Communications/CouncilHealth/latest.json. Gated off. No send.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -865,7 +865,7 @@
         "description": "River 2 Pro car DC drive tick. Gated off. Skips until auto and a copy job. Does not switch power.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -884,7 +884,7 @@
         "description": "Copy quiet-mode Relay-Inbox rows into Database Communications/Inbox/feedback.jsonl. Gated off. No D1. No send.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -903,7 +903,7 @@
         "description": "Byte-counter sample of the default-route iface -> Database System/network/. No send.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "public_health",
@@ -915,7 +915,7 @@
         "description": "Check origin radio and 127.0.0.1:8787. Writes a status file. Does not start the origin. Send stays off unless RR_PUBLIC_HEALTH_SEND=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "gated",
@@ -934,7 +934,7 @@
         "description": "Count queued Kilauea public drafts and write the sentence. Does not publish. Send stays off unless RR_KILAUEA_DRAFT_SEND=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "gated",
@@ -953,7 +953,7 @@
         "description": "Turn one voice-report note into a Library work-order draft. Gated off. Does not call development.execute_work_order.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -972,7 +972,7 @@
         "description": "Post each changed automated report to its Reports channel. Chat poller stays off.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_system_perf",
@@ -984,7 +984,7 @@
         "description": "Bruce system report at :00. Host temperature is degrees Celsius. Voice note when RR_VOICE_DELIVER=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_hourly_chime",
@@ -996,7 +996,7 @@
         "description": "Prebuilt chime at :00 and :30 (Ava, Bruce, Carly leapfrog by the hour). Plays Media/Audio/Voice/Chimes. No live render.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1015,7 +1015,7 @@
         "description": "Ava NWS Hawaii report from Database Weather/. Voice note when RR_VOICE_DELIVER=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_energy_report",
@@ -1027,7 +1027,7 @@
         "description": "Refresh the hourly channel-1 solar look. The sentence is spoken on the hourly solar desk, not as a second voice note.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_remaining_tasks",
@@ -1039,7 +1039,7 @@
         "description": "Bruce remaining tasks from the report board. Voice note when RR_VOICE_DELIVER=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_earthquake_report",
@@ -1051,7 +1051,7 @@
         "description": "Carly USGS earthquake report at :00 from Database Geology/. Voice note when RR_VOICE_DELIVER=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_kilauea_report",
@@ -1063,7 +1063,7 @@
         "description": "Carly Kilauea report at :00 from the HVO notice. Voice note when RR_VOICE_DELIVER=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "ensure_tunnel_online",
@@ -1075,7 +1075,7 @@
         "description": "Start Cloudflare if internet is up and tunnel is down.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_solar_desk",
@@ -1087,7 +1087,7 @@
         "description": "Bruce hourly solar desk: packs, sun times, newest channel-1 still, and the last stored camera look. Voice note when RR_VOICE_DELIVER=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_security_desk",
@@ -1099,7 +1099,7 @@
         "description": "Carly security desk (firewall boot, ssh, listeners, failed sign-ins). Voice note when RR_VOICE_DELIVER=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_bandwidth_desk",
@@ -1111,7 +1111,7 @@
         "description": "Carly bandwidth desk from host byte samples. Voice note when RR_VOICE_DELIVER=1. Needs system_net_sample.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "energy_sun_times",
@@ -1123,7 +1123,7 @@
         "description": "Sunrise/sunset HST (Volcano/Puna) -> Database Energy/sun/sun-times-last.json.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1142,7 +1142,7 @@
         "description": "US state weather (Open-Meteo; NWS if NWS_USER_AGENT) -> Database Weather/US-States/us-last.json.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1161,7 +1161,7 @@
         "description": "Rotate inference JSONL (daily Archive/) + write Database Logs/AI/Reports/ai-processing-report_current.md.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1180,7 +1180,7 @@
         "description": "Write Database Reports/AI-Usage/last-summary.json from the local token ledger. No network.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1199,7 +1199,7 @@
         "description": "Cut and archive automations_current.log hourly into Database/Logs/Automations/Archive.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "security_timelapse_hourly_compile",
@@ -1211,7 +1211,7 @@
         "description": "Compile previous hour ch1 frames into hour_HH.mp4. Window 05:00-19:00 HST (hours 05-18).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "security_timelapse_daily_render",
@@ -1225,7 +1225,7 @@
         "description": "Stitch hour_HH.mp4 chunks (05-18) into master_stitched_timelapse.mp4 (MP4 only, no GIF).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "reports_daily_roll_up",
@@ -1239,7 +1239,7 @@
         "description": "WO-RPT-001 Phase C: WORKLOG counts \u2192 Library Session auto.md (measured only).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "reports_weekly_archive",
@@ -1253,7 +1253,7 @@
         "description": "WO-RPT-001 Phase D / WO-ARCH: move old human ops logs to archive/YYYY-Www (Sun 19:00).",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "weather_retention",
@@ -1267,7 +1267,7 @@
         "description": "Weather retention (README \u00a7Retention, signed off 2026-09-29): move data past its window to Archive/Previous-Datasets/Weather-<YYYYMM>/ (never delete). Dry run by default.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1288,7 +1288,7 @@
         "description": "Log retention (WO-MIG-41): move Database logs past 7 days to Archive/Previous-Datasets/Logs-<YYYYMM>/ (never delete). Dry run by default.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1307,7 +1307,7 @@
         "description": "Path index (WO-MIG-42): path and kind for Pacific, Website, Library, and Android. No file contents.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1328,7 +1328,7 @@
         "description": "Library templates (worklog, checkpoint, event log, work order) filled from measured data -> Database Reports/Generated/.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1349,7 +1349,7 @@
         "description": "Ava morning roll-up (energy, NWS, host, tasks; template-first). No delivery.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_midday_report",
@@ -1363,7 +1363,7 @@
         "description": "Ava midday roll-up (template-first). No delivery.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_late_report",
@@ -1377,7 +1377,7 @@
         "description": "Ava late roll-up (template-first). No delivery.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_late_final_report",
@@ -1391,7 +1391,7 @@
         "description": "23:00 second chance for the optional late roll-up if that board slot is not done. Text only. No delivery.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "voice_hurricane_desk",
@@ -1409,7 +1409,7 @@
         "description": "Carly hurricane desk (nearest tracked storm to a Hawaiian island + NWS tropical alerts). No delivery.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "media_hurricane_radio",
@@ -1425,7 +1425,7 @@
         "description": "Request hurricane desk WAV through Report playback. No speaker.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1448,7 +1448,7 @@
         "description": "Bruce measured host and EcoFlow desk sample. Dry-run unless RR_BRUCE_STATS_SEND=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "gated",
@@ -1469,7 +1469,7 @@
         "description": "AdSense 7-day snapshot -> Database Advertising/adsense-last.json. Gated off. No key does not call the API.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1490,7 +1490,7 @@
         "description": "AdMob 7-day snapshot -> Database Advertising/admob-last.json. Gated off. No key does not call the API.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1511,7 +1511,7 @@
         "description": "Write Database Communications/Inbox/overnight-last.txt at 22:20 HST. Gated off. No Discord post.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1532,7 +1532,7 @@
         "description": "Public API price catalog -> Database System/ApiPrices/. Gated off. No HTTP unless RR_API_PRICES=1.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "gated",
@@ -1554,7 +1554,7 @@
         "description": "One Cursor ask-mode fallback. Gated off. No agent unless RR_API_SPEND=1. Does not write reports.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "gated",
@@ -1575,7 +1575,7 @@
         "description": "Run one due morning or midday report from the board. Text only. No --voice and no speaker playback.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "why_not": {
           "status": "disabled",
           "kind": "disabled",
@@ -1598,7 +1598,7 @@
         "description": "Public 8-hour summary of each voice report at 00:00, 08:00, and 16:00 HST.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       },
       {
         "id": "discord_report_24h",
@@ -1612,7 +1612,7 @@
         "description": "Public 24-hour summary of each voice report at 12:00 HST.",
         "source": "jobs.py",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:05-10:00"
       }
     ],
     "running_processes": {
@@ -1620,7 +1620,7 @@
         1938801
       ],
       "council_relay": [
-        2162979
+        2179150
       ]
     },
     "poller_flag_source": "process_environ"
@@ -1655,7 +1655,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -1692,7 +1692,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -1730,7 +1730,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -1769,7 +1769,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -1808,7 +1808,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -1848,7 +1848,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -1885,7 +1885,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -1922,7 +1922,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -1968,7 +1968,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -2012,7 +2012,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -2054,7 +2054,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -2093,7 +2093,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -2134,7 +2134,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -2173,7 +2173,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -2212,7 +2212,7 @@
         "status": "not_launchable",
         "source": "program-registry.json",
         "confidence": "configured",
-        "observed_at": "2026-09-30T22:42:08-10:00",
+        "observed_at": "2026-09-30T22:45:05-10:00",
         "last_run": null,
         "last_result": "unknown",
         "last_result_why": {
@@ -2372,17 +2372,17 @@
   "recent_changes": {
     "state": "observed",
     "items": [
+      "5df03523 auto: 2026-10-01T08:44Z desk sync (5 file(s))",
+      "0aa0127c auto: 2026-10-01T08:43Z desk sync (23 file(s))",
       "e79fa889 auto: 2026-10-01T08:41Z desk sync (8 file(s))",
       "6e731de3 auto: 2026-10-01T08:39Z desk sync (5 file(s))",
-      "347dd480 auto: 2026-10-01T08:37Z desk sync (13 file(s))",
-      "9d895454 auto: 2026-10-01T08:36Z desk sync (14 file(s))",
-      "dd1dd45b auto: 2026-10-01T08:34Z desk sync (25 file(s))"
+      "347dd480 auto: 2026-10-01T08:37Z desk sync (13 file(s))"
     ],
     "source": "git log",
     "confidence": "live",
     "visibility": "internal",
     "note": "A commit means the code is in git. It does not mean that code is deployed.",
-    "observed_at": "2026-09-30T22:42:08-10:00"
+    "observed_at": "2026-09-30T22:45:06-10:00"
   },
   "known_limitations": [
     "Context for council chat is 4096. Do not raise it.",
@@ -2403,7 +2403,7 @@
     "source": "/dev/accel/accel0",
     "confidence": "live",
     "visibility": "internal",
-    "observed_at": "2026-09-30T22:42:08-10:00"
+    "observed_at": "2026-09-30T22:45:06-10:00"
   },
   "execution_broker": {
     "state": "read_only",
@@ -2413,7 +2413,7 @@
     "cursor_api": "gated",
     "visibility": "agent",
     "source": "execution-broker.py",
-    "observed_at": "2026-09-30T22:42:08-10:00",
+    "observed_at": "2026-09-30T22:45:06-10:00",
     "confidence": "configured",
     "reason": "Read broker is built. Agent launch is not. The handoff package exists. cursor_api stays gated until an operator opens it."
   },
@@ -2442,7 +2442,7 @@
       "action": "none",
       "confidence": "configured",
       "visibility": "agent",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:06-10:00"
     }
   ],
   "domains": {
@@ -2455,30 +2455,30 @@
         "source": "shutil.disk_usage",
         "confidence": "live",
         "visibility": "operator",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:06-10:00"
       },
       "uptime_sec": {
         "state": "observed",
-        "value": 27999,
+        "value": 28176,
         "source": "/proc/uptime",
         "confidence": "live",
         "visibility": "operator",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:06-10:00"
       },
       "npu": {
         "state": "available",
         "source": "/dev/accel/accel0",
         "confidence": "live",
         "visibility": "agent",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:06-10:00"
       }
     },
     "energy": {
       "delta2": {
         "state": "observed",
-        "soc_percent": 24.28,
-        "age_min": 4,
-        "at": "2026-09-30T22:37:44-10:00",
+        "soc_percent": 22.76,
+        "age_min": 0,
+        "at": "2026-09-30T22:44:27-10:00",
         "reason": "",
         "source": "Energy/soc/delta2-last.json",
         "confidence": "recent",
@@ -2486,9 +2486,9 @@
       },
       "river2pro": {
         "state": "observed",
-        "soc_percent": 76.85,
-        "age_min": 1,
-        "at": "2026-09-30T22:41:02-10:00",
+        "soc_percent": 76.73,
+        "age_min": 2,
+        "at": "2026-09-30T22:42:55-10:00",
         "reason": "",
         "source": "Energy/soc/river2pro-last.json",
         "confidence": "recent",
@@ -2508,7 +2508,7 @@
         "action": "none",
         "confidence": "configured",
         "visibility": "agent",
-        "observed_at": "2026-09-30T22:42:08-10:00"
+        "observed_at": "2026-09-30T22:45:06-10:00"
       },
       "routing": {
         "specialist": "disabled",
@@ -2625,17 +2625,17 @@
     "changes": {
       "state": "observed",
       "items": [
+        "5df03523 auto: 2026-10-01T08:44Z desk sync (5 file(s))",
+        "0aa0127c auto: 2026-10-01T08:43Z desk sync (23 file(s))",
         "e79fa889 auto: 2026-10-01T08:41Z desk sync (8 file(s))",
         "6e731de3 auto: 2026-10-01T08:39Z desk sync (5 file(s))",
-        "347dd480 auto: 2026-10-01T08:37Z desk sync (13 file(s))",
-        "9d895454 auto: 2026-10-01T08:36Z desk sync (14 file(s))",
-        "dd1dd45b auto: 2026-10-01T08:34Z desk sync (25 file(s))"
+        "347dd480 auto: 2026-10-01T08:37Z desk sync (13 file(s))"
       ],
       "source": "git log",
       "confidence": "live",
       "visibility": "internal",
       "note": "A commit means the code is in git. It does not mean that code is deployed.",
-      "observed_at": "2026-09-30T22:42:08-10:00"
+      "observed_at": "2026-09-30T22:45:06-10:00"
     }
   },
   "credential": {
