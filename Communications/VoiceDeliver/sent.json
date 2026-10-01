@@ -24,12 +24,12 @@
     "message_id": 2119
   },
   "security_desk": {
-    "sha256": "201d8bf2862d5172aaf33826a7874945d1c8c5b3adeda6275b286c7447fc0e98",
-    "message_id": 218
+    "sha256": "567ba77e3fa97102b35f8356f3b1ac186ca4bfab8480e356a3b0cb3b8272e809",
+    "message_id": 2126
   },
   "nws_weather": {
-    "sha256": "7feab08bbcf43d86d159aef55b64c651bee1b0966a9e1affa540f08ee7b9e2e1",
-    "message_id": 88
+    "sha256": "5d8a5e0227b6e65f0a08dc79772961c57c0245705b41d796c77772f37dd5f6e0",
+    "message_id": 2128
   },
   "hourly_chime_00": {
     "sha256": "ba94831bf299ebbb5952deda6032d28c31ce664e60c34716e2041da76538ab25",
