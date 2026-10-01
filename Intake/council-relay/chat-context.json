@@ -1,11 +1,6 @@
 {
   "-1004367256267": [
     {
-      "who": "Root",
-      "text": "Alright, goodnight. Hopefully this doesnt become a distraction",
-      "message_id": 2098
-    },
-    {
       "who": "ava",
       "text": "I'm doing well, thanks for asking.",
       "message_id": null
@@ -39,6 +34,11 @@
       "who": "ava",
       "text": "Okay, that’s a great summary!",
       "message_id": null
+    },
+    {
+      "who": "Root",
+      "text": "So are you going to perform well now? I feel you completely forgot how to act, you were doing grat in the sandbox session...",
+      "message_id": 2106
     }
   ]
 }
