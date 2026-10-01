@@ -11614,7 +11614,6 @@
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/Complete/WO-SYS-001-Poller-Observability.md|1795|1790754927
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/Complete/AgentContext_CanonicalHome_Work_Order_WO-AGENT-2026-09-27.md|3161|1790755063
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/06-development/Work-Orders/WO-ECO-001-Energy-Domain-Import.md|1356|1790754217
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/README.md|2183|1790755057
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-operations/0 - Human Operator Work Logs/2026-09-29 System Operator Worklog — Session auto.md|2155|1790754573
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/07-testing/2026-09-29-aws-fallback-phase2-reclaim-retention.md|5280|1790737784
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/07-testing/2026-09-29-ai-inference-log-and-report.md|3871|1790691303
@@ -15776,8 +15775,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/wwamap/png/hfo/hfo_current.png|29006|1790809969
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/xgtwo/gtwo_shapefiles/gtwo_shapefiles_current.zip|17247|1790809996
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts/ensure-relay.sh|3389|1790809987
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/index.sqlite|36864|1790810039
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/index.sqlite|36864|1790810116
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49b32f7b-dd2f-462a-ae51-9c9bedd86d50/.sync/index.sqlite|36864|1790810315
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/431767bf-39f4-4144-9041-16c46597b6dd/.sync/index.sqlite|36864|1790810285
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c4c53157-d0cd-4a88-8960-4221dad91fd2/.sync/index.sqlite|36864|1790810269
@@ -15834,11 +15831,6 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/CONTRACT.md|1559|1790812589
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite|36864|1790812471
 /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/work-orders/execution-policy.md|1028|1790812743
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/work-orders/work-order-schema.json|1041|1790812739
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/work-orders/WO-SRV-RELAY.json|636|1790812745
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/capabilities/capability-registry.json|5856|1790812728
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/capabilities/execution-policy.md|1694|1790812735
-/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/capabilities/capability-schema.json|824|1790812709
 /home/rootrecord/RootRecord-Ecosystem/verify.sh|265|1790812632
 /home/rootrecord/RootRecord-Ecosystem/README.md|7482|1790812599
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/README.md|2927|1790812600
@@ -15924,10 +15916,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/Sandwich/GOES19-EEP-Sandwich-900x540/GOES19-EEP-Sandwich-900x540_current.gif|19716624|1790813550
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite|36864|1790813613
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/17a8d8ac-e45f-4e7b-bb22-b3e31a288454/.sync/index.sqlite|36864|1790813626
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md|205|1790813795
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790813795
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md|205|1790813795
-/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790813795
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite|36864|1790813809
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite|36864|1790813889
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e011ff89-7b4c-47f6-aefa-627ea5664b75/.sync/index.sqlite|36864|1790813872
@@ -15950,195 +15938,12 @@
 /home/rootrecord/.local/share/recently-used.xbel|159401|1790814263
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20f75464-a093-49d1-aab4-0b24c0699ea7/.sync/index.sqlite|36864|1790814350
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1992622c-df06-44eb-bfd9-eb16244238ad/.sync/index.sqlite|36864|1790814474
-/home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db|10756096|1790814542
 /home/rootrecord/.grokbot/local-exec-backend-return.json|20|1790814544
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif|3395325|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/noaa_homepage_current.md|2339|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md|1005|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/wa0_airmets_current.md|1002|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_rra_direct_current.md|16952|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_LIH_current.md|3135|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_HNL_current.md|3285|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/zfp_zone_forecast_current.md|77848|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/oso_hourly_obs_current.md|14545|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_OGG_current.md|3090|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cwf_coastal_waters_current.md|24571|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_HNL_current.md|3039|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/afd_area_forecast_discussion_current.md|3892|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/surfreports_statewide_observations_current.md|3055|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_OGG_current.md|3294|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_ITO_current.md|3079|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_7day_current.md|1012|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/mww_marine_weather_message_current.md|1186|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/mfm_marine_forecast_matrix_current.md|83953|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/sfp_state_forecast_current.md|2590|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/srf_statewide_surf_forecast_current.md|11336|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/fa0_area_forecast_current.md|1013|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_7day_current.md|1012|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/rra_hawaii_rainfall_summary_current.md|16934|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_surf_reports_direct_current.md|3071|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_LIH_current.md|3171|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/rtp_temp_precip_summary_current.md|11319|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hsf_high_seas_npac_current.md|3391|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/Hawaii_State_Weather_Report_current.md|328644|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_2day_current.md|1012|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_tib_reference_current.md|12991|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/off_offshore_forecast_current.md|2386|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_2day_current.md|1012|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_ITO_current.md|3177|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_homepage_current.md|7755|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_2day_current.md|1005|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_7day_current.md|1335|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_7day_current.md|1342|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_7day_current.md|1342|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_2day_current.md|1342|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_2day_current.md|1342|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_homepage_current.md|8079|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_2day_current.md|1335|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/wa0_airmets_current.md|1329|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_rra_direct_current.md|17282|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_LIH_current.md|3482|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_HNL_current.md|3632|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/zfp_zone_forecast_current.md|78181|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/oso_hourly_obs_current.md|14875|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_OGG_current.md|3435|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cwf_coastal_waters_current.md|24905|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_HNL_current.md|3384|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/afd_area_forecast_discussion_current.md|4236|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/surfreports_statewide_observations_current.md|3405|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_OGG_current.md|3641|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_ITO_current.md|3426|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/mww_marine_weather_message_current.md|1528|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/mfm_marine_forecast_matrix_current.md|84295|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/sfp_state_forecast_current.md|2924|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/srf_statewide_surf_forecast_current.md|11679|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/fa0_area_forecast_current.md|1346|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/rra_hawaii_rainfall_summary_current.md|17277|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_surf_reports_direct_current.md|3410|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_LIH_current.md|3516|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/rtp_temp_precip_summary_current.md|11658|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hsf_high_seas_npac_current.md|3725|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_tib_reference_current.md|13324|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/off_offshore_forecast_current.md|2723|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_ITO_current.md|3522|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NOAA/noaa_homepage_current.md|2665|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/noaa_homepage_current.md|2607|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_7day_current.md|1278|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_7day_current.md|1285|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_7day_current.md|1285|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_2day_current.md|1285|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/hfo_tib_reference_current.md|13263|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_2day_current.md|1285|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_2day_current.md|1278|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/wa0_airmets_current.md|1271|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/hfo_rra_direct_current.md|17228|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/zfp_zone_forecast_current.md|78123|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/oso_hourly_obs_current.md|14817|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/cwf_coastal_waters_current.md|24847|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/afd_area_forecast_discussion_current.md|4178|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/surfreports_statewide_observations_current.md|3322|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/clm_monthly_climate_summary_ITO_current.md|3372|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/mww_marine_weather_message_current.md|1470|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/mfm_marine_forecast_matrix_current.md|84237|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/sfp_state_forecast_current.md|2866|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/srf_statewide_surf_forecast_current.md|11621|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/fa0_area_forecast_current.md|1288|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/rra_hawaii_rainfall_summary_current.md|17219|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/hfo_surf_reports_direct_current.md|3331|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/rtp_temp_precip_summary_current.md|11600|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/hsf_high_seas_npac_current.md|3667|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/off_offshore_forecast_current.md|2665|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/cli_daily_climate_summary_ITO_current.md|3468|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/wa0_airmets_current.md|1269|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/hfo_rra_direct_current.md|17226|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/zfp_zone_forecast_current.md|78121|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/oso_hourly_obs_current.md|14815|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/cwf_coastal_waters_current.md|24845|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/afd_area_forecast_discussion_current.md|4176|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/surfreports_statewide_observations_current.md|3320|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/mww_marine_weather_message_current.md|1468|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/mfm_marine_forecast_matrix_current.md|84235|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/sfp_state_forecast_current.md|2864|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/srf_statewide_surf_forecast_current.md|11619|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/fa0_area_forecast_current.md|1286|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/rra_hawaii_rainfall_summary_current.md|17217|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/hfo_surf_reports_direct_current.md|3329|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/rtp_temp_precip_summary_current.md|11598|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/hsf_high_seas_npac_current.md|3665|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/off_offshore_forecast_current.md|2663|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/wa0_airmets_current.md|1267|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/hfo_rra_direct_current.md|17224|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/zfp_zone_forecast_current.md|78119|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/oso_hourly_obs_current.md|14813|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/cli_daily_climate_summary_OGG_current.md|3377|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/cwf_coastal_waters_current.md|24843|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/afd_area_forecast_discussion_current.md|4174|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/surfreports_statewide_observations_current.md|3318|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/clm_monthly_climate_summary_OGG_current.md|3583|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/mww_marine_weather_message_current.md|1466|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/mfm_marine_forecast_matrix_current.md|84233|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/sfp_state_forecast_current.md|2862|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/srf_statewide_surf_forecast_current.md|11617|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/fa0_area_forecast_current.md|1284|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/rra_hawaii_rainfall_summary_current.md|17215|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/hfo_surf_reports_direct_current.md|3327|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/rtp_temp_precip_summary_current.md|11596|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/hsf_high_seas_npac_current.md|3663|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/off_offshore_forecast_current.md|2661|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii_County_Weather_Report_current.md|283178|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/wa0_airmets_current.md|1273|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/zfp_zone_forecast_current.md|78125|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/oso_hourly_obs_current.md|14819|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/cwf_coastal_waters_current.md|24849|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/afd_area_forecast_discussion_current.md|4180|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/surfreports_statewide_observations_current.md|3324|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/mww_marine_weather_message_current.md|1472|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/mfm_marine_forecast_matrix_current.md|84239|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/sfp_state_forecast_current.md|2868|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/srf_statewide_surf_forecast_current.md|11623|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/fa0_area_forecast_current.md|1290|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/rra_hawaii_rainfall_summary_current.md|17221|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/rtp_temp_precip_summary_current.md|11602|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/hsf_high_seas_npac_current.md|3669|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/off_offshore_forecast_current.md|2667|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai_County_Weather_Report_current.md|277166|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu_County_Weather_Report_current.md|309072|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui_County_Weather_Report_current.md|283302|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao_County_Weather_Report_current.md|257441|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/wa0_airmets_current.md|1275|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/hfo_rra_direct_current.md|17232|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_LIH_current.md|3432|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_HNL_current.md|3582|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/zfp_zone_forecast_current.md|78127|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/oso_hourly_obs_current.md|14821|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_OGG_current.md|3385|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cwf_coastal_waters_current.md|24851|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_HNL_current.md|3334|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/afd_area_forecast_discussion_current.md|4182|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/surfreports_statewide_observations_current.md|3326|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_OGG_current.md|3591|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_ITO_current.md|3376|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/mww_marine_weather_message_current.md|1474|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/mfm_marine_forecast_matrix_current.md|84241|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/sfp_state_forecast_current.md|2870|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/srf_statewide_surf_forecast_current.md|11625|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/fa0_area_forecast_current.md|1292|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/rra_hawaii_rainfall_summary_current.md|17223|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/hfo_surf_reports_direct_current.md|3335|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_LIH_current.md|3466|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/rtp_temp_precip_summary_current.md|11604|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/hsf_high_seas_npac_current.md|3671|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/off_offshore_forecast_current.md|2669|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_ITO_current.md|3472|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/nhc_homepage_current.md|8033|1790814497
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/README.md|332763|1790814497
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR_loop/Hawaii_IR_loop_current.gif|874273|1790814535
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/satellite/Hawaii_IR/Hawaii_IR_current.gif|71158|1790814529
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/MFM/raw/MFM_raw_current.html|146372|1790814546
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/surfreports_raw_current.html|65492|1790814549
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/SRF/raw/SRF_raw_current.html|69447|1790814547
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/index_current.html|149095|1790814496
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/raw/index_raw_current.html|149095|1790814496
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/02/GOES19-EEP-02-900x540/GOES19-EEP-02-900x540_current.gif|14977622|1790814607
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/07/GOES19-EEP-07-900x540/GOES19-EEP-07-900x540_current.gif|12630406|1790814613
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/AirMass/GOES19-EEP-AirMass-900x540/GOES19-EEP-AirMass-900x540_current.gif|14669559|1790814553
@@ -16153,28 +15958,17 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/fa0_area_forecast/fa0_area_forecast_current.txt|673|1790814559
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/forecast.weather.gov/product.php/fa0_area_forecast/raw/fa0_area_forecast_raw_current.html|24390|1790814559
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hurricanes/tracking/Nolo_20260929T220441.9291071000/track.json|5193|1790814556
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/README.md|332955|1790814497
 /home/rootrecord/.local/state/wireplumber/stream-properties|730|1790814587
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/uploads/interaction_execution_modes_65098c67.plan-L1-L411-0.md|26078|1790814688
 /home/rootrecord/.cursor/plans/interaction_execution_modes_65098c67.plan.md|26082|1790814725
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/15min.db|315392|1790814665
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|823296|1790814665
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json|74|1790814665
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json|162|1790814665
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/01/01_current.gif|83573|1790814764
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/00_current.gif|79152|1790814762
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html|56234|1790814739
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html|65492|1790814634
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/13/GOES19-EEP-13-900x540/GOES19-EEP-13-900x540_current.gif|15560880|1790814628
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/14/GOES19-EEP-14-900x540/GOES19-EEP-14-900x540_current.gif|15820069|1790814646
-/home/rootrecord/.local/share/gnome-shell/application_state|1954|1790814634
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9cf93fa4-ce51-4690-8a50-3b87b06bac50/.sync/index.sqlite|36864|1790814763
-/home/rootrecord/.grokbot/local-exec-supervisor.json|33|1790814889
-/home/rootrecord/.grokbot/local-exec-daemon.json|156|1790814900
-/home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790814890
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|1200128|1790814863
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|3207168|1790814864
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|160829440|1790814864
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|74|1790814864
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|185|1790814864
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/02_current.gif|81304|1790814766
@@ -16186,160 +15980,377 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif|71158|1790814782
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif|72532|1790814784
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif|81302|1790814774
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json|75553|1790814828
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|820|1790814864
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790814864
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790814864
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790814864
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|499712|1790814864
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2422|1790814865
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|702569|1790814770
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal|4120032|1790814889
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm|32768|1790814873
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20f75464-a093-49d1-aab4-0b24c0699ea7/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20f75464-a093-49d1-aab4-0b24c0699ea7/.sync/index.sqlite-wal|4120032|1790814885
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20f75464-a093-49d1-aab4-0b24c0699ea7/.sync/index.sqlite-shm|32768|1790814855
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal|4120032|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm|32768|1790814870
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4937f73c-3496-471b-aebd-fc812141ce91/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4937f73c-3496-471b-aebd-fc812141ce91/.sync/index.sqlite-wal|4120032|1790814887
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4937f73c-3496-471b-aebd-fc812141ce91/.sync/index.sqlite-shm|32768|1790814872
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7fda3091-9a42-4368-8e37-caccc1cc142e/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7fda3091-9a42-4368-8e37-caccc1cc142e/.sync/index.sqlite-wal|799312|1790814885
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7fda3091-9a42-4368-8e37-caccc1cc142e/.sync/index.sqlite-shm|32768|1790814870
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-wal|4120032|1790814887
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-shm|32768|1790814887
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/aa334abf-7189-48e2-97bf-ef71b467a3d6/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/aa334abf-7189-48e2-97bf-ef71b467a3d6/.sync/index.sqlite-wal|4120032|1790814888
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/aa334abf-7189-48e2-97bf-ef71b467a3d6/.sync/index.sqlite-shm|32768|1790814856
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-wal|4120032|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-shm|32768|1790814869
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49b32f7b-dd2f-462a-ae51-9c9bedd86d50/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49b32f7b-dd2f-462a-ae51-9c9bedd86d50/.sync/index.sqlite-wal|4120032|1790814890
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49b32f7b-dd2f-462a-ae51-9c9bedd86d50/.sync/index.sqlite-shm|32768|1790814890
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4a68c180-fe32-4826-aa78-9a260c6d45ac/.sync/sync.lock|150|1790814899
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4a68c180-fe32-4826-aa78-9a260c6d45ac/.sync/index.sqlite-wal|4120032|1790814888
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4a68c180-fe32-4826-aa78-9a260c6d45ac/.sync/index.sqlite-shm|32768|1790814888
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e06101f2-e89d-46a0-ac86-13641b0d62ed/.sync/sync.lock|150|1790814899
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e06101f2-e89d-46a0-ac86-13641b0d62ed/.sync/index.sqlite-wal|4120032|1790814885
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e06101f2-e89d-46a0-ac86-13641b0d62ed/.sync/index.sqlite-shm|32768|1790814870
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49fcf831-3cd5-4b45-becf-fd363e6f0bab/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49fcf831-3cd5-4b45-becf-fd363e6f0bab/.sync/index.sqlite-wal|799312|1790814889
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49fcf831-3cd5-4b45-becf-fd363e6f0bab/.sync/index.sqlite-shm|32768|1790814874
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/531b8016-8212-409e-9974-c74a8245f849/.sync/sync.lock|150|1790814899
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/531b8016-8212-409e-9974-c74a8245f849/.sync/index.sqlite-wal|4120032|1790814890
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/531b8016-8212-409e-9974-c74a8245f849/.sync/index.sqlite-shm|32768|1790814890
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/sync.lock|150|1790814899
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-wal|4120032|1790814886
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-shm|32768|1790814886
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal|4120032|1790814892
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm|32768|1790814861
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1992622c-df06-44eb-bfd9-eb16244238ad/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1992622c-df06-44eb-bfd9-eb16244238ad/.sync/index.sqlite-wal|4120032|1790814886
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1992622c-df06-44eb-bfd9-eb16244238ad/.sync/index.sqlite-shm|32768|1790814856
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal|4120032|1790814893
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm|32768|1790814863
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-wal|4120032|1790814898
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-shm|32768|1790814898
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-wal|4120032|1790814889
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-shm|32768|1790814889
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e60b4e7-08ec-48af-a7ca-b5bb948b2928/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e60b4e7-08ec-48af-a7ca-b5bb948b2928/.sync/index.sqlite-wal|4120032|1790814890
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e60b4e7-08ec-48af-a7ca-b5bb948b2928/.sync/index.sqlite-shm|32768|1790814875
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e011ff89-7b4c-47f6-aefa-627ea5664b75/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e011ff89-7b4c-47f6-aefa-627ea5664b75/.sync/index.sqlite-wal|4120032|1790814887
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e011ff89-7b4c-47f6-aefa-627ea5664b75/.sync/index.sqlite-shm|32768|1790814857
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/431767bf-39f4-4144-9041-16c46597b6dd/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/431767bf-39f4-4144-9041-16c46597b6dd/.sync/index.sqlite-wal|4120032|1790814888
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/431767bf-39f4-4144-9041-16c46597b6dd/.sync/index.sqlite-shm|32768|1790814888
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal|4120032|1790814885
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm|32768|1790814885
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/56ce17c3-0257-45db-acea-acf05ec6d013/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/56ce17c3-0257-45db-acea-acf05ec6d013/.sync/index.sqlite-wal|811672|1790814886
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/56ce17c3-0257-45db-acea-acf05ec6d013/.sync/index.sqlite-shm|32768|1790814886
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790814893
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790814878
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/index.sqlite-wal|4120032|1790814887
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/index.sqlite-shm|32768|1790814887
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b05bb663-534e-47a9-89e9-7d1cdf64df5a/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b05bb663-534e-47a9-89e9-7d1cdf64df5a/.sync/index.sqlite-wal|4120032|1790814886
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b05bb663-534e-47a9-89e9-7d1cdf64df5a/.sync/index.sqlite-shm|32768|1790814855
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-wal|4120032|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-shm|32768|1790814885
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/index.sqlite-wal|4120032|1790814887
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/index.sqlite-shm|32768|1790814857
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/index.sqlite-wal|4120032|1790814888
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/index.sqlite-shm|32768|1790814873
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-wal|4120032|1790814899
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-shm|32768|1790814884
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a215f2b6-4178-4df3-b746-205d276c74ea/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a215f2b6-4178-4df3-b746-205d276c74ea/.sync/index.sqlite-wal|4120032|1790814886
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a215f2b6-4178-4df3-b746-205d276c74ea/.sync/index.sqlite|36864|1790814779
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a215f2b6-4178-4df3-b746-205d276c74ea/.sync/index.sqlite-shm|32768|1790814871
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c4c53157-d0cd-4a88-8960-4221dad91fd2/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c4c53157-d0cd-4a88-8960-4221dad91fd2/.sync/index.sqlite-wal|4120032|1790814895
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c4c53157-d0cd-4a88-8960-4221dad91fd2/.sync/index.sqlite-shm|32768|1790814895
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal|4120032|1790814887
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite|36864|1790814780
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm|32768|1790814887
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e96480da-271b-4675-9b39-1b72cb188ac4/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e96480da-271b-4675-9b39-1b72cb188ac4/.sync/index.sqlite-wal|4120032|1790814886
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e96480da-271b-4675-9b39-1b72cb188ac4/.sync/index.sqlite-shm|32768|1790814871
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/17a8d8ac-e45f-4e7b-bb22-b3e31a288454/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/17a8d8ac-e45f-4e7b-bb22-b3e31a288454/.sync/index.sqlite-wal|4120032|1790814890
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/17a8d8ac-e45f-4e7b-bb22-b3e31a288454/.sync/index.sqlite-shm|32768|1790814890
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3797d3b-8540-4cf0-a9a1-ce7cd109486e/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3797d3b-8540-4cf0-a9a1-ce7cd109486e/.sync/index.sqlite-wal|4120032|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3797d3b-8540-4cf0-a9a1-ce7cd109486e/.sync/index.sqlite-shm|32768|1790814870
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/dd8bd541-3d45-47ed-8bf8-4c49bb119c14/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/dd8bd541-3d45-47ed-8bf8-4c49bb119c14/.sync/index.sqlite-wal|4120032|1790814887
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/dd8bd541-3d45-47ed-8bf8-4c49bb119c14/.sync/index.sqlite-shm|32768|1790814872
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-wal|4120032|1790814889
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-shm|32768|1790814889
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-wal|4120032|1790814898
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-shm|32768|1790814883
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-wal|4120032|1790814898
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-shm|32768|1790814898
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-wal|4120032|1790814899
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-shm|32768|1790814899
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9cf93fa4-ce51-4690-8a50-3b87b06bac50/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9cf93fa4-ce51-4690-8a50-3b87b06bac50/.sync/index.sqlite-wal|4120032|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9cf93fa4-ce51-4690-8a50-3b87b06bac50/.sync/index.sqlite-shm|32768|1790814870
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/index.sqlite-wal|4120032|1790814888
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/index.sqlite-shm|32768|1790814855
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-wal|4120032|1790814897
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-shm|32768|1790814882
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cdaebc68-8781-43ba-8d94-ca9f616b4ee9/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cdaebc68-8781-43ba-8d94-ca9f616b4ee9/.sync/index.sqlite-wal|4120032|1790814890
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cdaebc68-8781-43ba-8d94-ca9f616b4ee9/.sync/index.sqlite-shm|32768|1790814860
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/sync.lock|150|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-wal|4120032|1790814901
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-shm|32768|1790814870
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cb1e4c5a-e880-471a-b308-6e0f755c859d/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cb1e4c5a-e880-471a-b308-6e0f755c859d/.sync/index.sqlite-wal|4120032|1790814891
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cb1e4c5a-e880-471a-b308-6e0f755c859d/.sync/index.sqlite-shm|32768|1790814861
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/sync.lock|150|1790814900
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-wal|4120032|1790814898
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm|32768|1790814898
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md|205|1790815003
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790815003
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md|205|1790815003
+/home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json|77|1790815003
+/home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db|10862592|1790815025
+/home/rootrecord/.grokbot/local-exec-supervisor.json|33|1790815042
+/home/rootrecord/.grokbot/local-exec-daemon.json|156|1790815042
+/home/rootrecord/.grokbot/local-exec-daemon-connection.json|1666|1790815043
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/handoff/cursor-handoff-schema.json|998|1790815017
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/reports/verification-report-schema.json|515|1790815013
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/reports/execution-report-schema.json|702|1790815011
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/modes/mode-policy.md|1563|1790814999
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/modes/interaction-mode-schema.json|668|1790814993
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/work-orders/work-order-schema.json|1260|1790814957
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/work-orders/WO-SRV-RELAY.json|659|1790814957
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/requests/request-schema.json|1281|1790815003
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/requests/request-lifecycle.md|1326|1790815009
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/identity/principal-registry.json|945|1790814991
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/identity/principal-schema.json|503|1790814988
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/README.md|3092|1790814961
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/capabilities/capability-registry.json|7568|1790814981
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/capabilities/execution-policy.md|2100|1790814964
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/02-agents/capabilities/capability-schema.json|1170|1790814955
+/home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/00-architecture/Decisions/0006-interaction-modes.md|1562|1790815022
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|1212416|1790815004
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|3239936|1790815005
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|162279424|1790815005
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|835584|1790814936
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/delta2-last.json|74|1790815005
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/delta2-last.json|162|1790815005
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif|3395325|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/noaa_homepage_current.md|2339|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md|1005|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/wa0_airmets_current.md|1002|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_rra_direct_current.md|16952|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_LIH_current.md|3135|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_HNL_current.md|3285|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/zfp_zone_forecast_current.md|77848|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/oso_hourly_obs_current.md|14545|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_OGG_current.md|3090|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cwf_coastal_waters_current.md|24571|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_HNL_current.md|3039|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/afd_area_forecast_discussion_current.md|3892|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/surfreports_statewide_observations_current.md|3055|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_OGG_current.md|3294|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/clm_monthly_climate_summary_ITO_current.md|3079|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_7day_current.md|1012|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/mww_marine_weather_message_current.md|1186|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/mfm_marine_forecast_matrix_current.md|83953|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/sfp_state_forecast_current.md|2590|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/srf_statewide_surf_forecast_current.md|11336|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/fa0_area_forecast_current.md|1013|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_7day_current.md|1012|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/rra_hawaii_rainfall_summary_current.md|16934|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_surf_reports_direct_current.md|3071|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_LIH_current.md|3171|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/rtp_temp_precip_summary_current.md|11319|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hsf_high_seas_npac_current.md|3391|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/Hawaii_State_Weather_Report_current.md|328644|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_epac_2day_current.md|1012|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/hfo_tib_reference_current.md|12991|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/off_offshore_forecast_current.md|2386|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_cpac_2day_current.md|1012|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/cli_daily_climate_summary_ITO_current.md|3177|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_homepage_current.md|7755|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_2day_current.md|1005|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_7day_current.md|1335|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_7day_current.md|1342|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_7day_current.md|1342|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_epac_2day_current.md|1342|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_cpac_2day_current.md|1342|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_homepage_current.md|8079|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NHC/nhc_gtwo_atlc_2day_current.md|1335|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/wa0_airmets_current.md|1329|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_rra_direct_current.md|17282|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_LIH_current.md|3482|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_HNL_current.md|3632|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/zfp_zone_forecast_current.md|78181|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/oso_hourly_obs_current.md|14875|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_OGG_current.md|3435|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cwf_coastal_waters_current.md|24905|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_HNL_current.md|3384|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/afd_area_forecast_discussion_current.md|4236|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/surfreports_statewide_observations_current.md|3405|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_OGG_current.md|3641|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/clm_monthly_climate_summary_ITO_current.md|3426|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/mww_marine_weather_message_current.md|1528|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/mfm_marine_forecast_matrix_current.md|84295|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/sfp_state_forecast_current.md|2924|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/srf_statewide_surf_forecast_current.md|11679|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/fa0_area_forecast_current.md|1346|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/rra_hawaii_rainfall_summary_current.md|17277|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_surf_reports_direct_current.md|3410|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_LIH_current.md|3516|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/rtp_temp_precip_summary_current.md|11658|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hsf_high_seas_npac_current.md|3725|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/hfo_tib_reference_current.md|13324|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/off_offshore_forecast_current.md|2723|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NWS-HFO/cli_daily_climate_summary_ITO_current.md|3522|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/Official Sources/NOAA/noaa_homepage_current.md|2665|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/noaa_homepage_current.md|2607|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_7day_current.md|1278|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_7day_current.md|1285|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_7day_current.md|1285|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_epac_2day_current.md|1285|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/hfo_tib_reference_current.md|13263|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_cpac_2day_current.md|1285|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/unresolved/nhc_gtwo_atlc_2day_current.md|1278|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/wa0_airmets_current.md|1271|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/hfo_rra_direct_current.md|17228|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/zfp_zone_forecast_current.md|78123|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/oso_hourly_obs_current.md|14817|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/cwf_coastal_waters_current.md|24847|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/afd_area_forecast_discussion_current.md|4178|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/surfreports_statewide_observations_current.md|3322|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/clm_monthly_climate_summary_ITO_current.md|3372|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/mww_marine_weather_message_current.md|1470|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/mfm_marine_forecast_matrix_current.md|84237|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/sfp_state_forecast_current.md|2866|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/srf_statewide_surf_forecast_current.md|11621|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/fa0_area_forecast_current.md|1288|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/rra_hawaii_rainfall_summary_current.md|17219|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/hfo_surf_reports_direct_current.md|3331|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/rtp_temp_precip_summary_current.md|11600|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/hsf_high_seas_npac_current.md|3667|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/off_offshore_forecast_current.md|2665|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii/cli_daily_climate_summary_ITO_current.md|3468|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/wa0_airmets_current.md|1269|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/hfo_rra_direct_current.md|17226|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/zfp_zone_forecast_current.md|78121|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/oso_hourly_obs_current.md|14815|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/cwf_coastal_waters_current.md|24845|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/afd_area_forecast_discussion_current.md|4176|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/surfreports_statewide_observations_current.md|3320|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/mww_marine_weather_message_current.md|1468|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/mfm_marine_forecast_matrix_current.md|84235|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/sfp_state_forecast_current.md|2864|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/srf_statewide_surf_forecast_current.md|11619|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/fa0_area_forecast_current.md|1286|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/rra_hawaii_rainfall_summary_current.md|17217|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/hfo_surf_reports_direct_current.md|3329|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/rtp_temp_precip_summary_current.md|11598|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/hsf_high_seas_npac_current.md|3665|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai/off_offshore_forecast_current.md|2663|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/wa0_airmets_current.md|1267|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/hfo_rra_direct_current.md|17224|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/zfp_zone_forecast_current.md|78119|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/oso_hourly_obs_current.md|14813|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/cli_daily_climate_summary_OGG_current.md|3377|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/cwf_coastal_waters_current.md|24843|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/afd_area_forecast_discussion_current.md|4174|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/surfreports_statewide_observations_current.md|3318|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/clm_monthly_climate_summary_OGG_current.md|3583|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/mww_marine_weather_message_current.md|1466|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/mfm_marine_forecast_matrix_current.md|84233|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/sfp_state_forecast_current.md|2862|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/srf_statewide_surf_forecast_current.md|11617|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/fa0_area_forecast_current.md|1284|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/rra_hawaii_rainfall_summary_current.md|17215|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/hfo_surf_reports_direct_current.md|3327|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/rtp_temp_precip_summary_current.md|11596|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/hsf_high_seas_npac_current.md|3663|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui/off_offshore_forecast_current.md|2661|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/hawaii_County_Weather_Report_current.md|283178|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/wa0_airmets_current.md|1273|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/zfp_zone_forecast_current.md|78125|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/oso_hourly_obs_current.md|14819|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/cwf_coastal_waters_current.md|24849|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/afd_area_forecast_discussion_current.md|4180|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/surfreports_statewide_observations_current.md|3324|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/mww_marine_weather_message_current.md|1472|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/mfm_marine_forecast_matrix_current.md|84239|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/sfp_state_forecast_current.md|2868|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/srf_statewide_surf_forecast_current.md|11623|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/fa0_area_forecast_current.md|1290|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/rra_hawaii_rainfall_summary_current.md|17221|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/rtp_temp_precip_summary_current.md|11602|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/hsf_high_seas_npac_current.md|3669|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao/off_offshore_forecast_current.md|2667|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kauai_County_Weather_Report_current.md|277166|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu_County_Weather_Report_current.md|309072|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/maui_County_Weather_Report_current.md|283302|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/kalawao_County_Weather_Report_current.md|257441|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/wa0_airmets_current.md|1275|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/hfo_rra_direct_current.md|17232|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_LIH_current.md|3432|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_HNL_current.md|3582|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/zfp_zone_forecast_current.md|78127|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/oso_hourly_obs_current.md|14821|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_OGG_current.md|3385|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cwf_coastal_waters_current.md|24851|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_HNL_current.md|3334|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/afd_area_forecast_discussion_current.md|4182|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/surfreports_statewide_observations_current.md|3326|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_OGG_current.md|3591|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/clm_monthly_climate_summary_ITO_current.md|3376|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/mww_marine_weather_message_current.md|1474|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/mfm_marine_forecast_matrix_current.md|84241|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/sfp_state_forecast_current.md|2870|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/srf_statewide_surf_forecast_current.md|11625|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/fa0_area_forecast_current.md|1292|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/rra_hawaii_rainfall_summary_current.md|17223|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/hfo_surf_reports_direct_current.md|3335|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_LIH_current.md|3466|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/rtp_temp_precip_summary_current.md|11604|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/hsf_high_seas_npac_current.md|3671|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/off_offshore_forecast_current.md|2669|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/cli_daily_climate_summary_ITO_current.md|3472|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/1 County Processing/honolulu/nhc_homepage_current.md|8033|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/README.md|332763|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/index_current.html|149095|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/nhc.noaa.gov/index/raw/index_raw_current.html|149095|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/_manifest.json|75553|1790815036
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/README.md|332955|1790815037
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|819|1790815005
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790815005
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790815005
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|113|1790815005
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|499712|1790815005
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2450|1790815006
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|737964|1790814904
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Apps/Control-Panel/execution-gates.json|776|1790815025
+/home/rootrecord/.local/share/gnome-shell/application_state|1954|1790814988
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-wal|4120032|1790815041
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/82d6aeab-f19c-458a-a185-5cf20e6c6e4f/.sync/index.sqlite-shm|32768|1790815041
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20f75464-a093-49d1-aab4-0b24c0699ea7/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20f75464-a093-49d1-aab4-0b24c0699ea7/.sync/index.sqlite-wal|4120032|1790815037
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/20f75464-a093-49d1-aab4-0b24c0699ea7/.sync/index.sqlite-shm|32768|1790815022
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-wal|4120032|1790815037
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/78261196-6e61-462a-b8b9-7fbd6791beeb/.sync/index.sqlite-shm|32768|1790815037
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4937f73c-3496-471b-aebd-fc812141ce91/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4937f73c-3496-471b-aebd-fc812141ce91/.sync/index.sqlite-wal|4120032|1790815039
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4937f73c-3496-471b-aebd-fc812141ce91/.sync/index.sqlite-shm|32768|1790815009
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7fda3091-9a42-4368-8e37-caccc1cc142e/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7fda3091-9a42-4368-8e37-caccc1cc142e/.sync/index.sqlite-wal|922912|1790815038
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7fda3091-9a42-4368-8e37-caccc1cc142e/.sync/index.sqlite-shm|32768|1790815007
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-wal|4120032|1790815039
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e009764-b957-435b-adc5-86b4fc12053f/.sync/index.sqlite-shm|32768|1790815024
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/aa334abf-7189-48e2-97bf-ef71b467a3d6/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/aa334abf-7189-48e2-97bf-ef71b467a3d6/.sync/index.sqlite-wal|4120032|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/aa334abf-7189-48e2-97bf-ef71b467a3d6/.sync/index.sqlite-shm|32768|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-wal|4120032|1790815037
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a11f9c0e-82ed-4c31-9a4b-aed8368f710f/.sync/index.sqlite-shm|32768|1790815037
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49b32f7b-dd2f-462a-ae51-9c9bedd86d50/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49b32f7b-dd2f-462a-ae51-9c9bedd86d50/.sync/index.sqlite-wal|4120032|1790815042
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49b32f7b-dd2f-462a-ae51-9c9bedd86d50/.sync/index.sqlite-shm|32768|1790815027
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4a68c180-fe32-4826-aa78-9a260c6d45ac/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4a68c180-fe32-4826-aa78-9a260c6d45ac/.sync/index.sqlite-wal|4120032|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4a68c180-fe32-4826-aa78-9a260c6d45ac/.sync/index.sqlite-shm|32768|1790815025
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e06101f2-e89d-46a0-ac86-13641b0d62ed/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e06101f2-e89d-46a0-ac86-13641b0d62ed/.sync/index.sqlite-wal|4120032|1790815038
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e06101f2-e89d-46a0-ac86-13641b0d62ed/.sync/index.sqlite-shm|32768|1790815007
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49fcf831-3cd5-4b45-becf-fd363e6f0bab/.sync/sync.lock|150|1790815045
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49fcf831-3cd5-4b45-becf-fd363e6f0bab/.sync/index.sqlite-wal|922912|1790815041
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/49fcf831-3cd5-4b45-becf-fd363e6f0bab/.sync/index.sqlite-shm|32768|1790815011
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/531b8016-8212-409e-9974-c74a8245f849/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/531b8016-8212-409e-9974-c74a8245f849/.sync/index.sqlite-wal|4120032|1790815042
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/531b8016-8212-409e-9974-c74a8245f849/.sync/index.sqlite-shm|32768|1790815011
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-wal|4120032|1790815038
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/5b503778-a015-4e4f-9704-367c7e7db522/.sync/index.sqlite-shm|32768|1790815023
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-wal|4120032|1790815044
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9ee7ebf2-f62f-4358-9d80-efc26e7273d5/.sync/index.sqlite-shm|32768|1790815044
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1992622c-df06-44eb-bfd9-eb16244238ad/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1992622c-df06-44eb-bfd9-eb16244238ad/.sync/index.sqlite-wal|4120032|1790815038
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1992622c-df06-44eb-bfd9-eb16244238ad/.sync/index.sqlite-shm|32768|1790815038
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-wal|4120032|1790815031
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/63bd50b9-64a8-4e49-baf7-86213b0831b9/.sync/index.sqlite-shm|32768|1790815001
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-wal|4120032|1790815035
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/eac2b867-244c-42d8-be36-e888945de121/.sync/index.sqlite-shm|32768|1790815035
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-wal|4120032|1790815041
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/be11e4ac-ffb1-4dfc-b1f8-1344e17859f7/.sync/index.sqlite-shm|32768|1790815011
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e60b4e7-08ec-48af-a7ca-b5bb948b2928/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e60b4e7-08ec-48af-a7ca-b5bb948b2928/.sync/index.sqlite-wal|4120032|1790815042
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4e60b4e7-08ec-48af-a7ca-b5bb948b2928/.sync/index.sqlite-shm|32768|1790815042
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e011ff89-7b4c-47f6-aefa-627ea5664b75/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e011ff89-7b4c-47f6-aefa-627ea5664b75/.sync/index.sqlite-wal|4120032|1790815041
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e011ff89-7b4c-47f6-aefa-627ea5664b75/.sync/index.sqlite-shm|32768|1790815041
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/431767bf-39f4-4144-9041-16c46597b6dd/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/431767bf-39f4-4144-9041-16c46597b6dd/.sync/index.sqlite-wal|4120032|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/431767bf-39f4-4144-9041-16c46597b6dd/.sync/index.sqlite-shm|32768|1790815025
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-wal|4120032|1790815038
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/0b3cdb6c-f47f-435a-9c85-2a5a00762dc7/.sync/index.sqlite-shm|32768|1790815022
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/56ce17c3-0257-45db-acea-acf05ec6d013/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/56ce17c3-0257-45db-acea-acf05ec6d013/.sync/index.sqlite-wal|935272|1790815039
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/56ce17c3-0257-45db-acea-acf05ec6d013/.sync/index.sqlite-shm|32768|1790815024
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|150|1790815045
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790815045
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790815015
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/index.sqlite-wal|4120032|1790815039
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/02ce2483-9ffb-470c-a1ea-aa41737bb0d1/.sync/index.sqlite-shm|32768|1790815024
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b05bb663-534e-47a9-89e9-7d1cdf64df5a/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b05bb663-534e-47a9-89e9-7d1cdf64df5a/.sync/index.sqlite-wal|4120032|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b05bb663-534e-47a9-89e9-7d1cdf64df5a/.sync/index.sqlite-shm|32768|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-wal|4120032|1790815038
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/1e9012d4-5be5-489d-9324-a477a486c64b/.sync/index.sqlite-shm|32768|1790815022
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/index.sqlite-wal|4120032|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/3d1cbff6-f75e-47e1-ad2e-6b992c3a701d/.sync/index.sqlite-shm|32768|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/index.sqlite-wal|4120032|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/index.sqlite|36864|1790815009
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bf26638a-6742-49a6-be60-210209674e68/.sync/index.sqlite-shm|32768|1790815009
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-wal|4120032|1790815037
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e0186a78-b4a6-4f1d-9297-24620403f106/.sync/index.sqlite-shm|32768|1790815037
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a215f2b6-4178-4df3-b746-205d276c74ea/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a215f2b6-4178-4df3-b746-205d276c74ea/.sync/index.sqlite-wal|4120032|1790815039
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/a215f2b6-4178-4df3-b746-205d276c74ea/.sync/index.sqlite-shm|32768|1790815009
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c4c53157-d0cd-4a88-8960-4221dad91fd2/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c4c53157-d0cd-4a88-8960-4221dad91fd2/.sync/index.sqlite-wal|4120032|1790815032
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/c4c53157-d0cd-4a88-8960-4221dad91fd2/.sync/index.sqlite-shm|32768|1790815017
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-wal|4120032|1790815042
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3718e6c-52ac-4c2d-babb-f683f1300346/.sync/index.sqlite-shm|32768|1790815042
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e96480da-271b-4675-9b39-1b72cb188ac4/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e96480da-271b-4675-9b39-1b72cb188ac4/.sync/index.sqlite-wal|4120032|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/e96480da-271b-4675-9b39-1b72cb188ac4/.sync/index.sqlite-shm|32768|1790815009
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/17a8d8ac-e45f-4e7b-bb22-b3e31a288454/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/17a8d8ac-e45f-4e7b-bb22-b3e31a288454/.sync/index.sqlite-wal|4120032|1790815042
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/17a8d8ac-e45f-4e7b-bb22-b3e31a288454/.sync/index.sqlite-shm|32768|1790815042
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3797d3b-8540-4cf0-a9a1-ce7cd109486e/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3797d3b-8540-4cf0-a9a1-ce7cd109486e/.sync/index.sqlite-wal|4120032|1790815038
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f3797d3b-8540-4cf0-a9a1-ce7cd109486e/.sync/index.sqlite-shm|32768|1790815007
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/dd8bd541-3d45-47ed-8bf8-4c49bb119c14/.sync/sync.lock|150|1790815047
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/dd8bd541-3d45-47ed-8bf8-4c49bb119c14/.sync/index.sqlite-wal|4120032|1790815039
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/dd8bd541-3d45-47ed-8bf8-4c49bb119c14/.sync/index.sqlite-shm|32768|1790815009
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-wal|4120032|1790815032
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/793a8807-3175-4a34-b318-7d63a9736644/.sync/index.sqlite-shm|32768|1790815017
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-wal|4120032|1790815035
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/08d9545b-8942-441f-962d-5c8a8ed01a67/.sync/index.sqlite-shm|32768|1790815020
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/sync.lock|150|1790815046
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-wal|4120032|1790815035
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/88d20f8a-01f8-42e7-8450-2f4b3489bdc5/.sync/index.sqlite-shm|32768|1790815035
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/sync.lock|150|1790815047
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-wal|4120032|1790815036
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/ffb1f720-a940-46ad-ad4e-59380b2623db/.sync/index.sqlite-shm|32768|1790815021
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9cf93fa4-ce51-4690-8a50-3b87b06bac50/.sync/sync.lock|150|1790815047
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9cf93fa4-ce51-4690-8a50-3b87b06bac50/.sync/index.sqlite-wal|4120032|1790815038
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/9cf93fa4-ce51-4690-8a50-3b87b06bac50/.sync/index.sqlite-shm|32768|1790815007
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/sync.lock|150|1790815047
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/index.sqlite-wal|4120032|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/index.sqlite|36864|1790814964
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/18fcc0b1-0f73-44db-9aae-124d1870b391/.sync/index.sqlite-shm|32768|1790815040
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/sync.lock|150|1790815047
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-wal|4120032|1790815034
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/bddc15a5-1ad8-405a-b363-ce10c8c54b4b/.sync/index.sqlite-shm|32768|1790815019
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cdaebc68-8781-43ba-8d94-ca9f616b4ee9/.sync/sync.lock|150|1790815047
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cdaebc68-8781-43ba-8d94-ca9f616b4ee9/.sync/index.sqlite-wal|4120032|1790815042
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cdaebc68-8781-43ba-8d94-ca9f616b4ee9/.sync/index.sqlite-shm|32768|1790815027
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/sync.lock|150|1790815047
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-wal|4120032|1790815038
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cf5fa918-368b-47aa-8878-3dc3b74f3a6b/.sync/index.sqlite-shm|32768|1790815007
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cb1e4c5a-e880-471a-b308-6e0f755c859d/.sync/sync.lock|150|1790815047
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cb1e4c5a-e880-471a-b308-6e0f755c859d/.sync/index.sqlite-wal|4120032|1790815044
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/cb1e4c5a-e880-471a-b308-6e0f755c859d/.sync/index.sqlite-shm|32768|1790815044
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/sync.lock|150|1790815047
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-wal|4120032|1790815035
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/b4131ce4-9e76-423b-94d2-fad68a3d2a94/.sync/index.sqlite-shm|32768|1790815035
