@@ -1,0 +1,16 @@
+2026-10-01T21:00:48Z restart-everything BEGIN pid=1104070
+DISPLAY=:0 WAYLAND_DISPLAY=wayland-0
+stop script missing — stopping rr-rootserver-poller.service and network-globe-hawaii.service
+restarting ava-ecoflow-ble.service
+restarting rr-aws-fetch-tunnel.service
+starting rr-rootserver-poller.service
+starting network-globe-hawaii.service
+active
+active
+active
+active
+closing Root Monitor
+opening Root Monitor
+[open] Root Monitor
+verify: Root Monitor is running
+2026-10-01T21:00:53Z restart-everything END
