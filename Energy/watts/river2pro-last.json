@@ -1,9 +1,9 @@
 {
-  "ac_output_power": 107.0,
-  "ac_input_power": 0.0,
-  "usbc_output_power": 17,
+  "ac_output_power": 85,
+  "ac_input_power": 0,
+  "usbc_output_power": 8,
   "solar_input_power": 0,
-  "at": "2026-10-01T09:22:33-10:00",
-  "source": "ble+cloud",
+  "at": "2026-10-01T09:24:10-10:00",
+  "source": "ble",
   "charge_source": "none"
 }
