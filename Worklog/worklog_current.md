@@ -3464,3 +3464,17 @@ Scope: full /home/rootrecord (pruned models/snap/cache/git-blobs)
 - NEW_DIR /home/rootrecord/.local/opt/android-sdk/build-tools/36.1.0 | mtime=2026-10-01 09:35:49 | source_job=worklog_scan
 - NEW_DIR /home/rootrecord/.local/opt/android-sdk/build-tools/36.1.0/.installer | mtime=? | source_job=worklog_scan
 
+### 2026-10-01 09:51:06 HST
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/280036.txt | size=2618 | mtime=2026-10-01 09:54:01 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/23331.txt | size=2758 | mtime=2026-10-01 09:36:11 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/327744.txt | size=1507 | mtime=2026-10-01 09:41:17 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/23332.txt | size=4476 | mtime=2026-10-01 09:42:35 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/STATUS.md | size=205 | mtime=? | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-10-01 09:53:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/STATUS.md | size=205 | mtime=? | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/projects/empty-window/mcps/plugin-datadog-datadog/SERVER_METADATA.json | size=77 | mtime=2026-10-01 09:53:49 | source_job=worklog_scan
+- MOD_FILE /home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db | size=18382848 | mtime=2026-10-01 09:53:11 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/Pictures/Screenshots/Screenshot From 2026-10-01 09-46-08.png | size=952461 | mtime=2026-10-01 09:46:08 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/Pictures/Screenshots/Screenshot From 2026-10-01 09-36-11.png | size=938129 | mtime=2026-10-01 09:36:11 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkbin-1_a37be9bd-sys-img2-4_xml | size=150059 | mtime=2026-10-01 09:39:52 | source_job=worklog_scan
+- NEW_FILE /home/rootrecord/.android/cache/sdkinf-1_7577a689-sys-img2-4_xml | size=298 | mtime=2026-10-01 09:39:52 | source_job=worklog_scan
