@@ -16972,11 +16972,9 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/verify.py|14255|1790841102
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/state-aggregate.py|65230|1790841098
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Automations/scripts/jobs.py|100795|1790841079
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Media/Voice/scripts/voice_reports.py|102724|1790841117
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/System/scripts/verify.py|14255|1790841102
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/System/scripts/state-aggregate.py|65230|1790841098
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/System/config/program-registry.json|13488|1790841119
-/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py|102724|1790841117
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/config/program-registry.json|13488|1790841119
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/4aa065bb-ef19-4b42-a5e6-c49f7c877152/.sync/index.sqlite|36864|1790841174
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/68acea73-a77c-4734-b75b-ee06bfe47c57/.sync/index.sqlite|36864|1790841535
@@ -17248,8 +17246,6 @@
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/867869.txt|1503|1790850613
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/478061.txt|1496|1790851111
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/478062.txt|1502|1790851129
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/state/cloud-fallback-river2pro.json|747|1790851341
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/state/cloud-fallback-river2pro.json|747|1790851341
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/478063.txt|984|1790851759
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/782739.txt|1502|1790851845
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/assets/image-a54cfab8-606b-4b03-bd59-946267d7dd34.png|112721|1790851771
@@ -17805,7 +17801,6 @@
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/assets/image-9cb466d6-2348-4361-bfcb-3a9b84c424b8.png|21312|1790881584
 /home/rootrecord/Pictures/Screenshots/Screenshot From 2026-10-01 09-06-11.png|21312|1790881571
 /home/rootrecord/Pictures/Screenshots/Screenshot From 2026-10-01 09-07-42.png|61276|1790881662
-/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/morning_report_current.md|459|1790881548
 /home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_report_current.read.txt|495|1790881486
 /home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_report_current.speak.txt|508|1790881486
 /home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/bandwidth_desk_current.read.txt|180|1790881543
@@ -17919,8 +17914,6 @@
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/soc/delta2-last.json|79|1790881988
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/watts/delta2-last.json|195|1790881988
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/state/cloud-fallback-delta2.json|1221|1790881987
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/surfreports_raw_current.html|65224|1790881915
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html|65224|1790882001
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/07/GOES18-HI-07-600x600/GOES18-HI-07-600x600_current.gif|3401796|1790882098
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/DayNightCloudMicroCombo/GOES18-HI-DayNightCloudMicroCombo-600x600/GOES18-HI-DayNightCloudMicroCombo-600x600_current.gif|8095449|1790882068
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/AirMass/GOES18-HI-AirMass-600x600/GOES18-HI-AirMass-600x600_current.gif|3693800|1790882038
@@ -17947,7 +17940,6 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/03/03_current.gif|81486|1790882135
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/00/00_current.gif|65465|1790882128
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif|79886|1790882141
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html|56234|1790882106
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/08/GOES18-HI-08-600x600/GOES18-HI-08-600x600_current.gif|6053777|1790882115
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/07/GOES18-HI-07-600x600/GOES18-HI-07-600x600_current.gif|3401796|1790882098
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/DayNightCloudMicroCombo/GOES18-HI-DayNightCloudMicroCombo-600x600/GOES18-HI-DayNightCloudMicroCombo-600x600_current.gif|8095449|1790882068
@@ -17964,7 +17956,6 @@
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/229820.txt|2116|1790882255
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/assets/image-858b697a-faec-40e2-874c-97413ef7dec3.png|61276|1790882332
 /home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/assets/image-fa807bff-4bb5-4eeb-91d7-08a434bbe18e.png|58998|1790882259
-/home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db|17911808|1790882334
 /home/rootrecord/Pictures/Screenshots/Screenshot From 2026-10-01 09-17-00.png|58998|1790882220
 /home/rootrecord/RootRecord-Ecosystem/6 - Android Development/Business-Manager/Web-Source/src/components/modules/Settings.jsx|29006|1790882200
 /home/rootrecord/RootRecord-Ecosystem/6 - Android Development/Kilauea-App/app/src/main/java/com/rootrecord/kilauea/alerts/ui/screens/MoreScreen.kt|34060|1790882204
@@ -18091,12 +18082,6 @@
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Media/Audio/Voice/Archive/nws_weather_current.ogg|66196|1790882173
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Communications/VoiceDeliver/sent.json|2102|1790882176
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Communications/Discord/report-relay-last.json|1310|1790882287
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/hvo-last.json|3025|1790882158
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/kilauea-last.json|1631|1790882158
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/mauna-loa-last.json|1001|1790882158
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/collector-last.json|550|1790882158
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Earthquakes/hawaii-last.json|38414|1790882151
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Earthquakes/global-last.json|22304|1790882152
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/vision/ch1-look-last.json|607|1790882255
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/02/02_current.gif|61267|1790882132
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/08_current.gif|78387|1790882147
@@ -18109,26 +18094,17 @@
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif|83166|1790882149
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif|82392|1790882151
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/05/05_current.gif|79886|1790882141
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html|56234|1790882106
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/08/GOES18-HI-08-600x600/GOES18-HI-08-600x600_current.gif|6053777|1790882115
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/14/GOES18-HI-14-600x600/GOES18-HI-14-600x600_current.gif|3101224|1790882128
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/network/net-last.json|244|1790882158
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/15min.db|917504|1790882193
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/nws_weather_current.wav|807702|1790882172
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Archive/nws_weather_current.ogg|66196|1790882173
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/VoiceDeliver/sent.json|2102|1790882176
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Communications/Discord/report-relay-last.json|1310|1790882287
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Volcanoes/hvo-last.json|3025|1790882158
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Volcanoes/kilauea-last.json|1631|1790882158
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Volcanoes/mauna-loa-last.json|1001|1790882158
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/collector-last.json|550|1790882158
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Earthquakes/hawaii-last.json|38414|1790882151
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Earthquakes/global-last.json|22304|1790882152
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/vision/ch1-look-last.json|607|1790882255
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/08/08_current.gif|78387|1790882147
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/09/09_current.gif|83166|1790882149
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/images/hfo/loops/IRHawaii/10/10_current.gif|82392|1790882151
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/net-last.json|244|1790882158
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/publish_report_pages.py|24018|1790882199
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/security/index.html|4384|1790882197
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/index.html|17178|1790882210
@@ -18168,21 +18144,11 @@
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/status/index.html|5708|1790882210
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/Home/about/index.html|4072|1790882210
 /home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/panel_look.py|34015|1790882153
-/home/rootrecord/.local/share/gnome-shell/application_state|2108|1790882230
 /home/rootrecord/.local/share/recently-used.xbel|194375|1790882220
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/292698a5-31eb-4272-a031-bdfc9c1f1919/.sync/index.sqlite|4096|1790882258
 /home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/292698a5-31eb-4272-a031-bdfc9c1f1919/.sync/mount.json|111|1790882258
-/home/rootrecord/.local/state/wireplumber/stream-properties|1283|1790882221
-/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/280036.txt|1236|1790882492
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Communications/network/local-data-globe/rebroadcast/hawaii-current.ndjson|20547|1790882428
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Communications/network/local-data-globe/rebroadcast/status-current.json|1784|1790882399
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Website/Home/assets/site.css|24546|1790882333
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/rootrecord.db|2957312|1790882414
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1min.db|9191424|1790882415
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1sec.db|447098880|1790882415
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/5min.db|2486272|1790882415
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/soc/river2pro-last.json|74|1790882415
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/watts/river2pro-last.json|186|1790882415
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif|3267218|1790882403
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/reports/0 Level Processing/noaa_homepage_current.md|2226|1790882403
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md|1594|1790882403
@@ -18376,23 +18342,7 @@
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json|204|1790882434
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json|2|1790882435
 /home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/README.md|328681|1790882403
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/last/host-last.json|820|1790882415
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/mem/host-last.json|162|1790882415
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/cpu/host-last.json|86|1790882415
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/load/host-last.json|113|1790882415
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/system.db|921600|1790882415
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/status/system-status.json|2425|1790882416
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Worklog/worklog_current.md|410983|1790882380
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/operations.json|1784|1790882399
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/kilauea.json|359|1790882399
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/power.json|937|1790882399
-/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/weather.json|267|1790882399
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|2969600|1790882489
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|9195520|1790882490
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|447504384|1790882490
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/5min.db|2486272|1790882415
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|74|1790882490
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|187|1790882490
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/assets/GOES18-HI-GEOCOLOR-README-banner.gif|3267218|1790882403
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/noaa_homepage_current.md|2226|1790882403
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/reports/0 Level Processing/nhc_gtwo_atlc_7day_current.md|1594|1790882403
@@ -18588,29 +18538,79 @@
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/area=HI_current.json|204|1790882434
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/api.weather.gov/alerts/active/area=HI/alerts_enriched_current.json|2|1790882435
 /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/README.md|328681|1790882403
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|819|1790882491
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790882491
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790882491
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|113|1790882491
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|921600|1790882491
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2424|1790882492
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|410983|1790882380
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/operations.json|1784|1790882399
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/kilauea.json|359|1790882399
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/power.json|937|1790882399
-/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/weather.json|267|1790882399
-/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/network/local-data-globe/rebroadcast/hawaii-current.ndjson|21720|1790882497
-/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/network/local-data-globe/rebroadcast/status-current.json|1784|1790882399
-/home/rootrecord/.local/share/gvfs-metadata/root|64|1790882443
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7b0039ba-a7e7-4a85-81e2-84b45cc9133a/.sync/sync.lock|150|1790882497
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7b0039ba-a7e7-4a85-81e2-84b45cc9133a/.sync/index.sqlite-wal|774592|1790882488
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7b0039ba-a7e7-4a85-81e2-84b45cc9133a/.sync/index.sqlite-shm|32768|1790882473
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|150|1790882497
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790882488
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790882488
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f9e247b8-7f33-4946-98ad-e7011788eca2/.sync/sync.lock|150|1790882497
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f9e247b8-7f33-4946-98ad-e7011788eca2/.sync/index.sqlite-wal|997072|1790882490
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f9e247b8-7f33-4946-98ad-e7011788eca2/.sync/index.sqlite-shm|32768|1790882490
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/292698a5-31eb-4272-a031-bdfc9c1f1919/.sync/sync.lock|150|1790882498
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/292698a5-31eb-4272-a031-bdfc9c1f1919/.sync/index.sqlite-wal|329632|1790882489
-/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/292698a5-31eb-4272-a031-bdfc9c1f1919/.sync/index.sqlite-shm|32768|1790882474
+/home/rootrecord/.cursor/projects/home-rootrecord-RootRecord-Ecosystem/terminals/280036.txt|1381|1790882720
+/home/rootrecord/.cursor/ai-tracking/ai-code-tracking.db|17965056|1790882715
+/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/morning_report_current.md|411|1790882716
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Media/Voice/scripts/voice_reports.py|111895|1790882663
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Communications/network/local-data-globe/rebroadcast/hawaii-current.ndjson|23554|1790882664
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/pacific/Communications/network/local-data-globe/rebroadcast/status-current.json|1785|1790882537
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/rootrecord.db|2973696|1790882650
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1min.db|9211904|1790882651
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/RootRecord/layers/1sec.db|448319488|1790882651
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/hvo-last.json|3025|1790882537
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/kilauea-last.json|1631|1790882537
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Volcanoes/mauna-loa-last.json|1001|1790882537
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/collector-last.json|550|1790882537
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Earthquakes/hawaii-last.json|38414|1790882528
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Geology/Earthquakes/global-last.json|22304|1790882528
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/soc/river2pro-last.json|74|1790882651
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/watts/river2pro-last.json|185|1790882651
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Energy/state/cloud-fallback-river2pro.json|747|1790882553
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html|56254|1790882646
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/raw/surfreports_raw_current.html|65224|1790882480
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Weather/Hawai'i/hfo/weather.gov/hfo/surfreports/surfreports_current.html|65224|1790882480
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/network/net-last.json|244|1790882537
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/last/host-last.json|820|1790882651
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/mem/host-last.json|162|1790882651
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/cpu/host-last.json|85|1790882651
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/load/host-last.json|114|1790882651
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/system.db|921600|1790882651
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/System/status/system-status.json|2425|1790882652
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Worklog/worklog_current.md|513509|1790882507
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/operations.json|1785|1790882537
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/kilauea.json|359|1790882537
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/power.json|938|1790882537
+/home/rootrecord/RootRecord-Ecosystem/Github-worktrees/database/Website/pages/weather.json|267|1790882537
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/rootrecord.db|2973696|1790882650
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1min.db|9211904|1790882651
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/RootRecord/layers/1sec.db|448319488|1790882651
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Volcanoes/hvo-last.json|3025|1790882537
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Volcanoes/kilauea-last.json|1631|1790882537
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Volcanoes/mauna-loa-last.json|1001|1790882537
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/collector-last.json|550|1790882537
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Earthquakes/hawaii-last.json|38414|1790882528
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Geology/Earthquakes/global-last.json|22304|1790882528
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/soc/river2pro-last.json|74|1790882651
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/watts/river2pro-last.json|185|1790882651
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/state/cloud-fallback-river2pro.json|747|1790882553
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Weather/Hawai'i/hfo/weather.gov/hfo/NOWHI/raw/NOWHI_raw_current.html|56254|1790882646
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/net-last.json|244|1790882537
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/last/host-last.json|820|1790882651
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/mem/host-last.json|162|1790882651
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/cpu/host-last.json|85|1790882651
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/load/host-last.json|114|1790882651
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/system.db|921600|1790882651
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/status/system-status.json|2425|1790882652
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Worklog/worklog_current.md|513509|1790882507
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/operations.json|1785|1790882537
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/kilauea.json|359|1790882537
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/power.json|938|1790882537
+/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Website/pages/weather.json|267|1790882537
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py|111913|1790882715
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/network/local-data-globe/rebroadcast/hawaii-current.ndjson|24316|1790882721
+/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/network/local-data-globe/rebroadcast/status-current.json|1785|1790882537
+/home/rootrecord/.local/share/gnome-shell/application_state|2108|1790882681
+/home/rootrecord/.local/share/gvfs-metadata/root|64|1790882683
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7b0039ba-a7e7-4a85-81e2-84b45cc9133a/.sync/sync.lock|150|1790882721
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7b0039ba-a7e7-4a85-81e2-84b45cc9133a/.sync/index.sqlite-wal|984712|1790882716
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/7b0039ba-a7e7-4a85-81e2-84b45cc9133a/.sync/index.sqlite-shm|32768|1790882716
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/sync.lock|150|1790882721
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-wal|4120032|1790882718
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/u400721979/.sync/index.sqlite-shm|32768|1790882718
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f9e247b8-7f33-4946-98ad-e7011788eca2/.sync/sync.lock|150|1790882722
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f9e247b8-7f33-4946-98ad-e7011788eca2/.sync/index.sqlite-wal|1207192|1790882716
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/f9e247b8-7f33-4946-98ad-e7011788eca2/.sync/index.sqlite-shm|32768|1790882696
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/292698a5-31eb-4272-a031-bdfc9c1f1919/.sync/sync.lock|150|1790882721
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/292698a5-31eb-4272-a031-bdfc9c1f1919/.sync/index.sqlite-wal|539752|1790882716
+/home/rootrecord/.local/state/cursor/agent-stores/cursor_agent_stores/292698a5-31eb-4272-a031-bdfc9c1f1919/.sync/index.sqlite-shm|32768|1790882696
+/home/rootrecord/.local/state/wireplumber/stream-properties|1283|1790882672
