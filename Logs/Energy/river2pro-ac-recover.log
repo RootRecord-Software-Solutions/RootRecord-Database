@@ -795,3 +795,22 @@
 2026-10-02T13:09:53-1000 river2pro-ac-force: fail ac_on_exit=2
 2026-10-02T13:10:22-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=26696s ac_ports=false sight=1 sight_age=26s
 2026-10-02T13:10:47-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:11:07-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=26741s ac_ports=false sight=1 sight_age=8s
+2026-10-02T13:11:34-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:11:53-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=26787s ac_ports=false sight=1 sight_age=24s
+2026-10-02T13:12:01-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:12:38-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=26832s ac_ports=false sight=1 sight_age=15s
+2026-10-02T13:12:54-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:13:23-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=26877s ac_ports=false sight=1 sight_age=0s
+2026-10-02T13:13:40-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:14:09-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=26923s ac_ports=false sight=1 sight_age=16s
+2026-10-02T13:14:26-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:14:54-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=26968s ac_ports=false sight=1 sight_age=5s
+2026-10-02T13:15:12-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:15:39-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=27013s ac_ports=false sight=1 sight_age=14s
+2026-10-02T13:15:55-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:16:25-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=27059s ac_ports=false sight=1 sight_age=26s
+2026-10-02T13:16:43-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:17:10-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=27104s ac_ports=false sight=1 sight_age=36s
+2026-10-02T13:17:34-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:17:55-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=27149s ac_ports=false sight=1 sight_age=7s
