@@ -1,28 +1,28 @@
 {
   "skill": "system-stats",
-  "generated_at": "2026-10-02T03:43:49.351Z",
+  "generated_at": "2026-10-02T03:49:32.271Z",
   "host": "rootrecord-software-solutions",
   "current": {
-    "observed_at": "2026-10-02T03:43:47.303Z",
+    "observed_at": "2026-10-02T03:49:30.260Z",
     "host": "rootrecord-software-solutions",
     "metrics": {
       "cpu_percent": {
-        "value": 27.14,
+        "value": 38.27,
         "unit": "%",
         "state": "measured"
       },
       "load1": {
-        "value": 4.82,
+        "value": 16.63,
         "unit": "load",
         "state": "measured"
       },
       "load5": {
-        "value": 7.47,
+        "value": 9.52,
         "unit": "load",
         "state": "measured"
       },
       "load15": {
-        "value": 9.36,
+        "value": 9.3,
         "unit": "load",
         "state": "measured"
       },
@@ -32,59 +32,59 @@
         "state": "measured"
       },
       "mem_available_bytes": {
-        "value": 2411581440.0,
+        "value": 1853210624.0,
         "unit": "B",
         "state": "measured"
       },
       "mem_used_percent": {
-        "value": 84.16,
+        "value": 87.82,
         "unit": "%",
         "state": "measured"
       }
     }
   },
   "five_min": {
-    "period_start": "2026-10-02T03:35:00.000Z",
-    "period_end": "2026-10-02T03:40:00.000Z",
-    "completed_at": "2026-10-02T03:41:59.528Z",
+    "period_start": "2026-10-02T03:40:00.000Z",
+    "period_end": "2026-10-02T03:45:00.000Z",
+    "completed_at": "2026-10-02T03:49:32.251Z",
     "metrics": {
       "cpu_percent": {
-        "avg": 23.64,
-        "min": 23.64,
-        "max": 23.64,
-        "samples": 1,
+        "avg": 37.745000000000005,
+        "min": 27.14,
+        "max": 48.35,
+        "samples": 2,
         "unit": "%",
         "state": "measured"
       },
       "load1": {
-        "avg": 9.9,
-        "min": 9.9,
-        "max": 9.9,
-        "samples": 1,
+        "avg": 5.955,
+        "min": 4.82,
+        "max": 7.09,
+        "samples": 2,
         "unit": "load",
         "state": "measured"
       },
       "load15": {
-        "avg": 10.76,
-        "min": 10.76,
-        "max": 10.76,
-        "samples": 1,
+        "avg": 9.649999999999999,
+        "min": 9.36,
+        "max": 9.94,
+        "samples": 2,
         "unit": "load",
         "state": "measured"
       },
       "load5": {
-        "avg": 10.3,
-        "min": 10.3,
-        "max": 10.3,
-        "samples": 1,
+        "avg": 8.075,
+        "min": 7.47,
+        "max": 8.68,
+        "samples": 2,
         "unit": "load",
         "state": "measured"
       },
       "mem_available_bytes": {
-        "avg": 4101472256.0,
-        "min": 4101472256.0,
-        "max": 4101472256.0,
-        "samples": 1,
+        "avg": 2995128320.0,
+        "min": 2411581440.0,
+        "max": 3578675200.0,
+        "samples": 2,
         "unit": "B",
         "state": "measured"
       },
@@ -92,15 +92,15 @@
         "avg": 15220633600.0,
         "min": 15220633600.0,
         "max": 15220633600.0,
-        "samples": 1,
+        "samples": 2,
         "unit": "B",
         "state": "measured"
       },
       "mem_used_percent": {
-        "avg": 73.05,
-        "min": 73.05,
-        "max": 73.05,
-        "samples": 1,
+        "avg": 80.32499999999999,
+        "min": 76.49,
+        "max": 84.16,
+        "samples": 2,
         "unit": "%",
         "state": "measured"
       }
