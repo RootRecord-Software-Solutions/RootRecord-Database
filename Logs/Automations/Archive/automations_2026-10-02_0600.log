@@ -1,0 +1,486 @@
+2026-10-02T05:11:25-10:00job:automations_log_hourly_archive OK
+2026-10-02T05:11:25-10:00job:security_timelapse_hourly_compile RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/timelapse_hourly.sh"
+2026-10-02T05:11:25-10:00job:security_timelapse_hourly_compile | 05:11:25  🎬  a-eyes-timelapse  hour 04 is outside the 05:00-19:00 window, skipping
+2026-10-02T05:11:26-10:00job:voice_timing_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/Voice-Timing/scripts/voice_timing_report.py"
+2026-10-02T05:11:26-10:00job:voice_timing_report | [ok] voice-timing written (321 runs): /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-Operations/voice-timing.md
+2026-10-02T05:11:27-10:00ENERGY  status=live  B2=2.7%  B1=6.1%  solar=0 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-02T05:11:27-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T05:11:29-10:00job:sys_stats_cycle | SYSTEM  cpu=5%  load=1.02  mem=20%  src=sqlite
+2026-10-02T05:11:29-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-051127.json
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [ecosystem] committed 35 local file(s)
+2026-10-02T05:13:02-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T05:13:02-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T05:13:02-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T05:13:02-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T05:13:02-10:00job:github_sync_all | e73719b6..41cdab20  HEAD -> main
+2026-10-02T05:13:02-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [ecosystem] 35 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [pacific] committed 11 local file(s)
+2026-10-02T05:13:02-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T05:13:02-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T05:13:02-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T05:13:02-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T05:13:02-10:00job:github_sync_all | 28b7a4e..223abd4  HEAD -> main
+2026-10-02T05:13:02-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [pacific] 11 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [database] committed 54 local file(s)
+2026-10-02T05:13:02-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T05:13:02-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T05:13:02-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T05:13:02-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T05:13:02-10:00job:github_sync_all | 806c39c4..e04af9ff  HEAD -> main
+2026-10-02T05:13:02-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [database] 54 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [library] committed 1 local file(s)
+2026-10-02T05:13:02-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T05:13:02-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T05:13:02-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [library] local is ahead of GitHub
+2026-10-02T05:13:02-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Library.git
+2026-10-02T05:13:02-10:00job:github_sync_all | 1f51ce5..5bb7af9  HEAD -> main
+2026-10-02T05:13:02-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [library] 1 files → RootRecord-Software-Solutions/RootRecord-Library (main)
+2026-10-02T05:13:02-10:00job:github_sync_all | ↑ [website] committed 10 local file(s)
+2026-10-02T05:13:02-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T05:13:02-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T05:13:02-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:13:02-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T05:16:02-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T05:16:02-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T05:16:20-10:00job:security_camera_frame_grab | 05:16:02  📷  a-eyes  ch1 → ch1-20261002T151602Z.jpg  (298.9 KB, 4.37s)
+2026-10-02T05:16:20-10:00job:security_camera_frame_grab | 05:16:06  📷  a-eyes  ch2 → ch2-20261002T151606Z.jpg  (323.7 KB, 4.46s)
+2026-10-02T05:16:20-10:00job:security_camera_frame_grab | 05:16:11  📷  a-eyes  ch3 → ch3-20261002T151611Z.jpg  (315.1 KB, 4.49s)
+2026-10-02T05:16:20-10:00job:security_camera_frame_grab | 05:16:15  📷  a-eyes  ch4 → ch4-20261002T151615Z.jpg  (318.7 KB, 4.37s)
+2026-10-02T05:16:20-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T05:16:20-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 5999, "desk_uptime_s": 229813, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-02T15:16:20.080408+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T05:16:20-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T05:16:20-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T05:16:20-10:00ENERGY  status=live  B2=2.7%  B1=5.8%  solar=0 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-02T05:16:20-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T05:16:22-10:00job:sys_stats_cycle | SYSTEM  cpu=5%  load=1.56  mem=20%  src=sqlite
+2026-10-02T05:16:22-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-051621.json
+2026-10-02T05:17:35-10:00job:github_sync_all | ↑ [ecosystem] committed 36 local file(s)
+2026-10-02T05:17:35-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T05:17:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T05:17:35-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T05:17:35-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T05:17:35-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T05:17:35-10:00job:github_sync_all | 41cdab20..4c5b1ad2  HEAD -> main
+2026-10-02T05:17:35-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:17:35-10:00job:github_sync_all | ↑ [ecosystem] 36 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T05:17:35-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-02T05:17:35-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T05:17:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T05:17:35-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:17:35-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T05:17:35-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T05:17:35-10:00job:github_sync_all | 223abd4..367d30b  HEAD -> main
+2026-10-02T05:17:35-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:17:35-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T05:17:35-10:00job:github_sync_all | ↑ [database] committed 60 local file(s)
+2026-10-02T05:17:35-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T05:17:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T05:17:35-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T05:17:35-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T05:17:35-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T05:17:35-10:00job:github_sync_all | e04af9ff..b0bf71df  HEAD -> main
+2026-10-02T05:17:35-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:17:35-10:00job:github_sync_all | ↑ [database] 60 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T05:17:35-10:00job:github_sync_all | — [library] no local changes
+2026-10-02T05:17:35-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T05:17:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T05:17:35-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:17:35-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-02T05:17:35-10:00job:github_sync_all | — [library] nothing to push
+2026-10-02T05:17:35-10:00job:github_sync_all | — [website] no local changes
+2026-10-02T05:17:35-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T05:17:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T05:17:35-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:17:35-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-02T05:17:35-10:00job:github_sync_all | — [website] nothing to push
+2026-10-02T05:17:35-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-02T05:17:35-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-02T05:17:35-10:00job:service_supervisor | [supervisor] weather DEAD — gated-off (RR_LOCAL_DATA_POLL soft-off; not respawning)
+2026-10-02T05:17:35-10:00job:service_supervisor | [supervisor] relay alive pid=5979 (act)
+2026-10-02T05:17:35-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-02T05:17:35-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261002.jsonl", "iface": "wlo1", "hour": {"seconds": 3787, "rx": 310204124, "tx": 44132381, "total": 354336505, "iface": "wlo1", "link": "wireless"}, "day": {"seconds": 98869, "rx": 470810800, "tx": 66962478, "total": 537773278, "iface": "wlo1", "link": "wireless"}}
+2026-10-02T05:17:36-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-02T05:17:36-10:00job:discord_report_relay | same
+2026-10-02T05:17:36-10:00ENERGY  status=live  B2=2.7%  B1=5.7%  solar=0 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-02T05:17:36-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T05:17:38-10:00job:sys_stats_cycle | SYSTEM  cpu=1%  load=0.93  mem=20%  src=sqlite
+2026-10-02T05:17:38-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-051736.json
+2026-10-02T05:17:38-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T05:20:38-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T05:20:38-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T05:20:56-10:00job:security_camera_frame_grab | 05:20:38  📷  a-eyes  ch1 → ch1-20261002T152038Z.jpg  (298.5 KB, 4.37s)
+2026-10-02T05:20:56-10:00job:security_camera_frame_grab | 05:20:42  📷  a-eyes  ch2 → ch2-20261002T152042Z.jpg  (320.9 KB, 4.38s)
+2026-10-02T05:20:56-10:00job:security_camera_frame_grab | 05:20:46  📷  a-eyes  ch3 → ch3-20261002T152046Z.jpg  (337.7 KB, 4.48s)
+2026-10-02T05:20:56-10:00job:security_camera_frame_grab | 05:20:51  📷  a-eyes  ch4 → ch4-20261002T152051Z.jpg  (294.0 KB, 4.59s)
+2026-10-02T05:20:56-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T05:20:56-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 6275, "desk_uptime_s": 230089, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-02T15:20:56.140190+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T05:20:56-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T05:20:56-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T05:20:56-10:00ENERGY  status=live  B2=2.7%  B1=5.5%  solar=0 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-02T05:20:56-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T05:20:58-10:00job:sys_stats_cycle | SYSTEM  cpu=2%  load=1.27  mem=21%  src=sqlite
+2026-10-02T05:20:58-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-052057.json
+2026-10-02T05:22:16-10:00job:github_sync_all | ↑ [ecosystem] committed 15 local file(s)
+2026-10-02T05:22:16-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T05:22:16-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T05:22:16-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T05:22:16-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T05:22:16-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T05:22:16-10:00job:github_sync_all | 4c5b1ad2..97fa403b  HEAD -> main
+2026-10-02T05:22:16-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:22:16-10:00job:github_sync_all | ↑ [ecosystem] 15 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T05:22:16-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-02T05:22:16-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T05:22:16-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T05:22:16-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:22:16-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T05:22:16-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T05:22:16-10:00job:github_sync_all | 367d30b..d7d4c0f  HEAD -> main
+2026-10-02T05:22:16-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:22:16-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T05:22:16-10:00job:github_sync_all | ↑ [database] committed 39 local file(s)
+2026-10-02T05:22:16-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T05:22:16-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T05:22:16-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T05:22:16-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T05:22:16-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T05:22:16-10:00job:github_sync_all | b0bf71df..878d1f4d  HEAD -> main
+2026-10-02T05:22:16-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:22:16-10:00job:github_sync_all | ↑ [database] 39 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T05:22:16-10:00job:github_sync_all | — [library] no local changes
+2026-10-02T05:22:16-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T05:22:16-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T05:22:16-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:22:16-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-02T05:22:16-10:00job:github_sync_all | — [library] nothing to push
+2026-10-02T05:22:16-10:00job:github_sync_all | — [website] no local changes
+2026-10-02T05:22:16-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T05:22:16-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T05:22:16-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:22:16-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-02T05:22:16-10:00job:github_sync_all | — [website] nothing to push
+2026-10-02T05:22:16-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-02T05:22:16-10:00job:voice_system_perf RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/system_perf.py"
+2026-10-02T05:23:06-10:00job:voice_system_perf | {"ok": true, "report": "system_perf", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/system_perf_current.md", "cpu_pct": 2.8, "mem_pct": 19.4, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_starting.wav"}, "voice_rc": 0, "voice": {"ok": true, "mode": "stitch", "report": "system_perf", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/system_perf_current.wav", "clips_used": 0, "live_sentences": 15, "model_loaded": true, "render_s": 16.89, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 40.001, "peak_dbfs": -1.5, "rms_dbfs": -20.17, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 16.98, "peak_rss_mb": 1859}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2621, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_transit.wav"}, "radio": {"ok": true, "report": "system_perf", "file": "system_perf_current.opus", "bytes": 119526, "stage": {"ok": true, "report": "system_perf", "slot": "05:30", "file": "system_perf-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_sent.wav"}}
+2026-10-02T05:23:06-10:00job:voice_nws_weather RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" nws_weather
+2026-10-02T05:24:06-10:00job:voice_nws_weather | {"ok": true, "report": "nws_weather", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/nws_weather_current.md", "sentences": 7, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "nws_weather", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/nws_weather_current.wav", "clips_used": 0, "live_sentences": 18, "model_loaded": true, "render_s": 25.67, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 69.613, "peak_dbfs": -1.5, "rms_dbfs": -20.3, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 25.79, "peak_rss_mb": 1967, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2623, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_transit.wav"}, "radio": {"ok": true, "report": "nws_weather", "file": "nws_weather_current.opus", "bytes": 208393, "stage": {"ok": true, "report": "nws_weather", "slot": "05:30", "file": "nws_weather-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_sent.wav"}}
+2026-10-02T05:24:06-10:00job:voice_remaining_tasks RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" remaining_tasks
+2026-10-02T05:24:47-10:00job:voice_remaining_tasks | {"ok": true, "report": "remaining_tasks", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/remaining_tasks_current.md", "sentences": 5, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "remaining_tasks", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/remaining_tasks_current.wav", "clips_used": 0, "live_sentences": 4, "model_loaded": true, "render_s": 8.17, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 13.81, "peak_dbfs": -1.65, "rms_dbfs": -20.08, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 8.28, "peak_rss_mb": 1394, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2625, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_transit.wav"}, "radio": {"ok": true, "report": "remaining_tasks", "file": "remaining_tasks_current.opus", "bytes": 41687, "stage": {"ok": true, "report": "remaining_tasks", "slot": "05:30", "file": "remaining_tasks-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_sent.wav"}}
+2026-10-02T05:24:47-10:00job:voice_earthquake_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" earthquake_report
+2026-10-02T05:25:29-10:00job:voice_earthquake_report | {"ok": true, "report": "earthquake_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/earthquake_report_current.md", "sentences": 6, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "earthquake_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/earthquake_report_current.wav", "clips_used": 0, "live_sentences": 5, "model_loaded": true, "render_s": 9.92, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 19.247, "peak_dbfs": -3.28, "rms_dbfs": -20.43, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 9.96, "peak_rss_mb": 1457, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2627, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_transit.wav"}, "radio": {"ok": true, "report": "earthquake_report", "file": "earthquake_report_current.opus", "bytes": 58072, "stage": {"ok": true, "report": "earthquake_report", "slot": "05:30", "file": "earthquake_report-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_sent.wav"}}
+2026-10-02T05:25:29-10:00job:voice_kilauea_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" kilauea_report
+2026-10-02T05:26:16-10:00job:voice_kilauea_report | {"ok": true, "report": "kilauea_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_report_current.md", "sentences": 9, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "kilauea_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/kilauea_report_current.wav", "clips_used": 0, "live_sentences": 10, "model_loaded": true, "render_s": 15.97, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 40.324, "peak_dbfs": -1.5, "rms_dbfs": -20.6, "lead_silence_ms": 101, "qc": "PASS", "wall_s": 16.01, "peak_rss_mb": 1715, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2629, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_transit.wav"}, "radio": {"ok": true, "report": "kilauea_report", "file": "kilauea_report_current.opus", "bytes": 121360, "stage": {"ok": true, "report": "kilauea_report", "slot": "05:30", "file": "kilauea_report-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_sent.wav"}}
+2026-10-02T05:26:16-10:00job:voice_solar_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" solar_desk
+2026-10-02T05:29:05-10:00job:voice_solar_desk | {"ok": true, "report": "solar_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/solar_desk_current.md", "sentences": 9, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "solar_desk", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/solar_desk_current.wav", "clips_used": 0, "live_sentences": 8, "model_loaded": true, "render_s": 14.47, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 35.572, "peak_dbfs": -1.5, "rms_dbfs": -20.16, "lead_silence_ms": 110, "qc": "PASS", "wall_s": 14.51, "peak_rss_mb": 1663, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2631, "transcript": false, "report": true, "photo": true, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_transit.wav"}, "radio": {"ok": true, "report": "solar_desk", "file": "solar_desk_current.opus", "bytes": 107743, "stage": {"ok": true, "report": "solar_desk", "slot": "05:30", "file": "solar_desk-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_sent.wav"}}
+2026-10-02T05:29:05-10:00job:voice_security_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" security_desk
+2026-10-02T05:29:46-10:00job:voice_security_desk | {"ok": true, "report": "security_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/security_desk_current.md", "sentences": 7, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "security_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/security_desk_current.wav", "clips_used": 0, "live_sentences": 6, "model_loaded": true, "render_s": 9.22, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 17.316, "peak_dbfs": -2.95, "rms_dbfs": -20.3, "lead_silence_ms": 110, "qc": "PASS", "wall_s": 9.26, "peak_rss_mb": 1403, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2634, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_transit.wav"}, "radio": {"ok": true, "report": "security_desk", "file": "security_desk_current.opus", "bytes": 51611, "stage": {"ok": true, "report": "security_desk", "slot": "05:30", "file": "security_desk-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_sent.wav"}}
+2026-10-02T05:29:46-10:00job:voice_bandwidth_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" bandwidth_desk
+2026-10-02T05:30:37-10:00job:voice_bandwidth_desk | {"ok": true, "report": "bandwidth_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/bandwidth_desk_current.md", "sentences": 9, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "bandwidth_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/bandwidth_desk_current.wav", "clips_used": 0, "live_sentences": 9, "model_loaded": true, "render_s": 16.91, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 43.556, "peak_dbfs": -1.5, "rms_dbfs": -20.82, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 16.95, "peak_rss_mb": 1650, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2636, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_transit.wav"}, "radio": {"ok": true, "report": "bandwidth_desk", "file": "bandwidth_desk_current.opus", "bytes": 131783, "stage": {"ok": true, "report": "bandwidth_desk", "slot": "06:00", "file": "bandwidth_desk-hour.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_sent.wav"}}
+2026-10-02T05:30:37-10:00job:voice_current_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" current_report
+2026-10-02T05:32:08-10:00job:voice_current_report | {"ok": true, "report": "current_report", "md": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Reports/current_report_current.md", "sentences": 33, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "current_report", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/current_report_current.wav", "clips_used": 0, "live_sentences": 43, "model_loaded": true, "render_s": 52.39, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 163.137, "peak_dbfs": -1.5, "rms_dbfs": -20.35, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 52.43, "peak_rss_mb": 2113, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2638, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_transit.wav"}, "radio": {"ok": true, "report": "current_report", "file": "current_report_current.opus", "bytes": 487385, "stage": {"ok": true, "report": "current_report", "slot": "06:00", "file": "current_report-hour.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_sent.wav", "stack": {"ok": true, "played": true, "phase": "stack_all_sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/stack_all_sent.wav"}}}
+2026-10-02T05:32:08-10:00ENERGY  status=live  B2=off  B1=4.2%  solar=0 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-02T05:32:08-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T05:32:11-10:00job:sys_stats_cycle | SYSTEM  cpu=2%  load=1.50  mem=16%  src=sqlite
+2026-10-02T05:32:11-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-053209.json
+2026-10-02T05:33:30-10:00job:github_sync_all | ↑ [ecosystem] committed 85 local file(s)
+2026-10-02T05:33:30-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T05:33:30-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T05:33:30-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T05:33:30-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T05:33:30-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T05:33:30-10:00job:github_sync_all | 97fa403b..154f089b  HEAD -> main
+2026-10-02T05:33:30-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:33:30-10:00job:github_sync_all | ↑ [ecosystem] 85 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T05:33:30-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-02T05:33:30-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T05:33:30-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T05:33:30-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:33:30-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T05:33:30-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T05:33:30-10:00job:github_sync_all | d7d4c0f..d502acf  HEAD -> main
+2026-10-02T05:33:30-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:33:30-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T05:33:30-10:00job:github_sync_all | ↑ [database] committed 78 local file(s)
+2026-10-02T05:33:30-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T05:33:30-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T05:33:30-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T05:33:30-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T05:33:30-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T05:33:30-10:00job:github_sync_all | 878d1f4d..bab4caf4  HEAD -> main
+2026-10-02T05:33:30-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T05:33:30-10:00job:github_sync_all | ↑ [database] 78 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T05:33:30-10:00job:github_sync_all | — [library] no local changes
+2026-10-02T05:33:30-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T05:33:30-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T05:33:30-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:33:30-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-02T05:33:30-10:00job:github_sync_all | — [library] nothing to push
+2026-10-02T05:33:30-10:00job:github_sync_all | — [website] no local changes
+2026-10-02T05:33:30-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T05:33:30-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T05:33:30-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T05:33:30-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-02T05:33:30-10:00job:github_sync_all | — [website] nothing to push
+2026-10-02T05:33:30-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-02T05:33:30-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T05:36:30-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T05:36:30-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T05:36:48-10:00job:security_camera_frame_grab | 05:36:31  📷  a-eyes  ch1 → ch1-20261002T153631Z.jpg  (301.5 KB, 4.37s)
+2026-10-02T05:36:48-10:00job:security_camera_frame_grab | 05:36:35  📷  a-eyes  ch2 → ch2-20261002T153635Z.jpg  (307.2 KB, 4.49s)
+2026-10-02T05:36:48-10:00job:security_camera_frame_grab | 05:36:39  📷  a-eyes  ch3 → ch3-20261002T153639Z.jpg  (318.3 KB, 4.48s)
+2026-10-02T05:36:48-10:00job:security_camera_frame_grab | 05:36:44  📷  a-eyes  ch4 → ch4-20261002T153644Z.jpg  (275.4 KB, 4.38s)
+2026-10-02T05:36:48-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-02T05:36:48-10:00job:service_supervisor | [supervisor] weather DEAD — gated-off (RR_LOCAL_DATA_POLL soft-off; not respawning)
+2026-10-02T05:36:48-10:00job:service_supervisor | [supervisor] relay alive pid=5979 (act)
+2026-10-02T05:36:48-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T05:36:49-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 7228, "desk_uptime_s": 231042, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-02T15:36:48.928867+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T05:36:49-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T05:36:49-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T05:36:49-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-02T05:36:49-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261002.jsonl", "iface": "wlo1", "hour": {"seconds": 3661, "rx": 231989791, "tx": 41239216, "total": 273229007, "iface": "wlo1", "link": "wireless"}, "day": {"seconds": 100022, "rx": 535149703, "tx": 77011103, "total": 612160806, "iface": "wlo1", "link": "wireless"}}
+2026-10-02T05:36:49-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-02T05:36:56-10:00job:discord_report_relay | posted earthquake_report
+2026-10-02T05:36:56-10:00job:discord_report_relay | posted kilauea_report
+2026-10-02T05:36:56-10:00job:discord_report_relay | posted solar_desk
+2026-10-02T05:36:56-10:00job:discord_report_relay | posted security_desk
+2026-10-02T05:36:56-10:00job:discord_report_relay | posted bandwidth_desk
+2026-10-02T05:36:56-10:00job:discord_report_relay | posted system_perf
+2026-10-02T05:36:56-10:00job:voice_kilauea_image_check RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" kilauea_image_check
+2026-10-02T05:37:32-10:00tunnel timeout — reconnecting
+2026-10-02T05:37:34-10:00tunnel timeout — reconnecting
+2026-10-02T05:37:48-10:00tunnel connected  conn=3  edge=lax13
+2026-10-02T05:38:55-10:00job:voice_kilauea_image_check | {"ok": true, "report": "kilauea_image_check", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_image_check_current.md", "sentences": 2, "status_starting": {"ok": true, "skipped": true, "detail": "no_status_type", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "kilauea_image_check", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/kilauea_image_check_current.wav", "clips_used": 0, "live_sentences": 4, "model_loaded": true, "render_s": 7.42, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 11.52, "peak_dbfs": -2.28, "rms_dbfs": -20.24, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 7.56, "peak_rss_mb": 1347, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2640, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "no_status_type", "phase": "transit"}, "radio": {"ok": true, "report": "kilauea_image_check", "file": "kilauea_image_check_current.opus", "bytes": 34540, "stage": {"ok": true, "skipped": true, "detail": "no_stage_type", "report": "kilauea_image_check"}}, "status_send": {"ok": true, "skipped": true, "detail": "no_status_type", "phase": "sent"}}
+2026-10-02T05:38:57-10:00job:radio_news_update RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/RadioRss/scripts/rss_radio.py" news-hour --speak
+2026-10-02T05:39:27-10:00tunnel timeout — reconnecting
+2026-10-02T05:39:29-10:00tunnel timeout — reconnecting
+2026-10-02T05:39:49-10:00tunnel connected  conn=3  edge=lax13
+2026-10-02T05:44:43-10:00tunnel timeout — reconnecting
+2026-10-02T05:44:44-10:00tunnel timeout — reconnecting
+2026-10-02T05:44:44-10:00tunnel timeout — reconnecting
+2026-10-02T05:44:44-10:00tunnel timeout — reconnecting
+2026-10-02T05:44:45-10:00tunnel timeout — reconnecting
+2026-10-02T05:44:45-10:00tunnel timeout — reconnecting
+2026-10-02T05:44:46-10:00tunnel timeout — reconnecting
+2026-10-02T05:44:49-10:00tunnel timeout — reconnecting
+2026-10-02T05:44:57-10:00tunnel timeout — reconnecting
+2026-10-02T05:45:00-10:00cloudflared ERR: 2026-10-02T15:45:00Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47083-
+2026-10-02T05:45:01-10:00cloudflared ERR: 2026-10-02T15:45:01Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:37723-
+2026-10-02T05:45:01-10:00cloudflared ERR: 2026-10-02T15:45:01Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47727-
+2026-10-02T05:45:01-10:00tunnel connection terminated
+2026-10-02T05:45:01-10:00tunnel connection terminated
+2026-10-02T05:45:04-10:00tunnel connection terminated
+2026-10-02T05:45:04-10:00cloudflared ERR: 2026-10-02T15:45:04Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:45:04-10:00cloudflared ERR: 2026-10-02T15:45:04Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:37723-
+2026-10-02T05:45:04-10:00cloudflared ERR: 2026-10-02T15:45:04Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47083-
+2026-10-02T05:45:04-10:00cloudflared ERR: 2026-10-02T15:45:04Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47727-
+2026-10-02T05:45:05-10:00tunnel connection terminated
+2026-10-02T05:45:11-10:00tunnel connection terminated
+2026-10-02T05:45:12-10:00tunnel connection terminated
+2026-10-02T05:45:15-10:00cloudflared ERR: 2026-10-02T15:45:15Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:45:22-10:00cloudflared ERR: 2026-10-02T15:45:22Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:37723-
+2026-10-02T05:45:22-10:00cloudflared ERR: 2026-10-02T15:45:22Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47083-
+2026-10-02T05:45:22-10:00cloudflared ERR: 2026-10-02T15:45:22Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47727-
+2026-10-02T05:45:23-10:00tunnel connection terminated
+2026-10-02T05:45:28-10:00tunnel connection terminated
+2026-10-02T05:45:31-10:00tunnel connection terminated
+2026-10-02T05:45:39-10:00cloudflared ERR: 2026-10-02T15:45:39Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:45:49-10:00cloudflared ERR: 2026-10-02T15:45:49Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:45:55-10:00cloudflared ERR: 2026-10-02T15:45:55Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47727-
+2026-10-02T05:45:55-10:00cloudflared ERR: 2026-10-02T15:45:55Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47083-
+2026-10-02T05:45:55-10:00cloudflared ERR: 2026-10-02T15:45:55Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:37723-
+2026-10-02T05:45:57-10:00tunnel connection terminated
+2026-10-02T05:46:05-10:00cloudflared ERR: 2026-10-02T15:46:05Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:46:07-10:00tunnel DNS/edge discovery failed — check internet + resolver (try 1.1.1.1)
+2026-10-02T05:46:16-10:00tunnel connection terminated
+2026-10-02T05:46:20-10:00tunnel connection terminated
+2026-10-02T05:46:26-10:00cloudflared ERR: 2026-10-02T15:46:26Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:46:30-10:00cloudflared ERR: 2026-10-02T15:46:30Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:46:39-10:00cloudflared ERR: 2026-10-02T15:46:39Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:47:02-10:00cloudflared ERR: 2026-10-02T15:47:02Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:47:22-10:00cloudflared ERR: 2026-10-02T15:47:22Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:47:36-10:00cloudflared ERR: 2026-10-02T15:47:36Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:47:54-10:00cloudflared ERR: 2026-10-02T15:47:54Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:48:17-10:00cloudflared ERR: 2026-10-02T15:48:17Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:48:28-10:00cloudflared ERR: 2026-10-02T15:48:28Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:48:40-10:00cloudflared ERR: 2026-10-02T15:48:40Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:48:44-10:00cloudflared ERR: 2026-10-02T15:48:44Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47727-
+2026-10-02T05:48:44-10:00cloudflared ERR: 2026-10-02T15:48:44Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47083-
+2026-10-02T05:48:44-10:00cloudflared ERR: 2026-10-02T15:48:44Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:37723-
+2026-10-02T05:48:55-10:00tunnel connection terminated
+2026-10-02T05:48:58-10:00tunnel connection terminated
+2026-10-02T05:49:01-10:00cloudflared ERR: 2026-10-02T15:49:01Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:49:16-10:00tunnel connection terminated
+2026-10-02T05:49:31-10:00cloudflared ERR: 2026-10-02T15:49:31Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:49:36-10:00cloudflared ERR: 2026-10-02T15:49:36Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:50:07-10:00cloudflared ERR: 2026-10-02T15:50:07Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:50:11-10:00job:radio_news_update | {"ok": false, "report": "news_update", "words": 3538, "hour": 5, "voices": ["carly", "carly", "ava", "bruce", "carly", "bruce", "bruce", "ava", "carly", "ava", "ava"], "script": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/RadioRss/processed/scripts/news_update/news_update.speak.txt", "polled": 90, "stories": 813, "speak": {"ok": false, "detail": "remote_dir", "report": "news_update", "status_send": {"ok": true, "played": true, "phase": "failed", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/news_update_failed.wav"}, "voices": ["carly", "carly", "ava", "bruce", "carly", "bruce", "bruce", "ava", "carly", "ava", "ava"], "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/news_update_current.wav"}, "detail": "remote_dir"}
+2026-10-02T05:50:11-10:00internet DOWN — net services waiting (retry ~60s)
+2026-10-02T05:50:12-10:00ENERGY  status=live  B2=off  B1=0%  solar=0 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Discharging/batt
+2026-10-02T05:50:12-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T05:50:14-10:00job:sys_stats_cycle | SYSTEM  cpu=1%  load=3.18  mem=18%  src=sqlite
+2026-10-02T05:50:14-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-055012.json
+2026-10-02T05:50:14-10:00job:github_sync_all SKIP — offline (will retry when internet is up)
+2026-10-02T05:50:14-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T05:50:29-10:00cloudflared ERR: 2026-10-02T15:50:29Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:50:43-10:00cloudflared ERR: 2026-10-02T15:50:43Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:50:55-10:00cloudflared ERR: 2026-10-02T15:50:55Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:51:03-10:00tunnel DNS/edge discovery failed — check internet + resolver (try 1.1.1.1)
+2026-10-02T05:51:06-10:00cloudflared ERR: 2026-10-02T15:51:06Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:51:07-10:00tunnel DNS/edge discovery failed — check internet + resolver (try 1.1.1.1)
+2026-10-02T05:51:19-10:00cloudflared ERR: 2026-10-02T15:51:19Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:51:26-10:00cloudflared ERR: 2026-10-02T15:51:26Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:51:34-10:00cloudflared ERR: 2026-10-02T15:51:34Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:51:45-10:00cloudflared ERR: 2026-10-02T15:51:45Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:52:14-10:00cloudflared ERR: 2026-10-02T15:52:14Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47727-
+2026-10-02T05:52:14-10:00cloudflared ERR: 2026-10-02T15:52:14Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:37723-
+2026-10-02T05:52:14-10:00cloudflared ERR: 2026-10-02T15:52:14Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47083-
+2026-10-02T05:52:17-10:00cloudflared ERR: 2026-10-02T15:52:17Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:52:19-10:00tunnel connection terminated
+2026-10-02T05:52:24-10:00tunnel connection terminated
+2026-10-02T05:52:27-10:00tunnel connection terminated
+2026-10-02T05:52:28-10:00cloudflared ERR: 2026-10-02T15:52:28Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:52:28-10:00cloudflared ERR: 2026-10-02T15:52:28Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:52:48-10:00cloudflared ERR: 2026-10-02T15:52:48Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:53:10-10:00cloudflared ERR: 2026-10-02T15:53:10Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:53:15-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | 05:53:15  ✗  a-eyes  ch1 FAILED: [tcp @ 0x5b3cd3df6940] Connection to tcp://192.168.1.33:554?timeout=0 failed: Network is unreachable
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | [in#0 @ 0x5b3cd3df3c40] Error opening input: Netw
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | a-eyes: ch1 grab failed
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | 05:53:15  ✗  a-eyes  ch2 FAILED: [tcp @ 0x5ba541340940] Connection to tcp://192.168.1.33:554?timeout=0 failed: Network is unreachable
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | [in#0 @ 0x5ba54133dc40] Error opening input: Netw
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | a-eyes: ch2 grab failed
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | 05:53:15  ✗  a-eyes  ch3 FAILED: [tcp @ 0x5fd78a1cc940] Connection to tcp://192.168.1.33:554?timeout=0 failed: Network is unreachable
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | [in#0 @ 0x5fd78a1c9c40] Error opening input: Netw
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | a-eyes: ch3 grab failed
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | 05:53:15  ✗  a-eyes  ch4 FAILED: [tcp @ 0x55a9dcdd0940] Connection to tcp://192.168.1.33:554?timeout=0 failed: Network is unreachable
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | [in#0 @ 0x55a9dcdcdc40] Error opening input: Netw
+2026-10-02T05:53:15-10:00job:security_camera_frame_grab | a-eyes: ch4 grab failed
+2026-10-02T05:53:15-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-02T05:53:15-10:00job:service_supervisor | [supervisor] weather DEAD — gated-off (RR_LOCAL_DATA_POLL soft-off; not respawning)
+2026-10-02T05:53:15-10:00job:service_supervisor | [supervisor] relay alive pid=5979 (act)
+2026-10-02T05:53:15-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T05:53:15-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 8215, "desk_uptime_s": 232028, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-02T15:53:15.551418+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T05:53:15-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T05:53:15-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T05:53:15-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-02T05:53:15-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261002.jsonl", "iface": "wlo1", "hour": {"seconds": 4648, "rx": 265953802, "tx": 44288558, "total": 310242360, "iface": "wlo1", "link": "wireless"}, "day": {"seconds": 101009, "rx": 569113714, "tx": 80060445, "total": 649174159, "iface": "wlo1", "link": "wireless"}}
+2026-10-02T05:53:15-10:00job:discord_report_relay SKIP — offline (will retry when internet is up)
+2026-10-02T05:53:15-10:00internet DOWN — net services waiting (retry ~60s)
+2026-10-02T05:53:15-10:00job:voice_hurricane_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" hurricane_desk
+2026-10-02T05:53:33-10:00cloudflared ERR: 2026-10-02T15:53:33Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:37723-
+2026-10-02T05:53:33-10:00cloudflared ERR: 2026-10-02T15:53:33Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47727-
+2026-10-02T05:53:33-10:00cloudflared ERR: 2026-10-02T15:53:33Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47083-
+2026-10-02T05:53:33-10:00cloudflared ERR: 2026-10-02T15:53:33Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:53:34-10:00job:voice_hurricane_desk | {"ok": true, "report": "hurricane_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/hurricane_desk_current.md", "sentences": 5, "status_starting": {"ok": true, "skipped": true, "detail": "no_status_type", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "hurricane_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/hurricane_desk_current.wav", "clips_used": 0, "live_sentences": 11, "model_loaded": true, "render_s": 16.61, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 41.633, "peak_dbfs": -1.5, "rms_dbfs": -20.57, "lead_silence_ms": 100, "qc": "PASS", "wall_s": 16.65, "peak_rss_mb": 1721, "rc": 0}, "deliver": {"ok": false, "sent": false, "detail": "telegram unreachable (gaierror)", "persona": "carly", "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "no_status_type", "phase": "transit"}, "radio": {"ok": false, "detail": "remote_dir", "report": "hurricane_desk"}, "status_send": {"ok": true, "skipped": true, "detail": "no_status_type", "phase": "failed"}}
+2026-10-02T05:53:34-10:00job:voice_system_perf RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/system_perf.py"
+2026-10-02T05:53:41-10:00tunnel connection terminated
+2026-10-02T05:53:46-10:00tunnel connection terminated
+2026-10-02T05:53:51-10:00tunnel connection terminated
+2026-10-02T05:53:54-10:00cloudflared ERR: 2026-10-02T15:53:54Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:54:02-10:00job:voice_system_perf | {"ok": true, "report": "system_perf", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/system_perf_current.md", "cpu_pct": 1.3, "mem_pct": 18.0, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_starting.wav"}, "voice_rc": 0, "voice": {"ok": true, "mode": "stitch", "report": "system_perf", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/system_perf_current.wav", "clips_used": 0, "live_sentences": 15, "model_loaded": true, "render_s": 16.01, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 40.163, "peak_dbfs": -1.5, "rms_dbfs": -20.22, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 16.06, "peak_rss_mb": 1735}, "deliver": {"ok": false, "sent": false, "detail": "telegram unreachable (gaierror)", "persona": "bruce", "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_transit.wav"}, "radio": {"ok": false, "detail": "remote_dir", "report": "system_perf"}, "status_send": {"ok": true, "played": true, "phase": "failed", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_failed.wav"}}
+2026-10-02T05:54:02-10:00job:voice_nws_weather RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" nws_weather
+2026-10-02T05:54:11-10:00cloudflared ERR: 2026-10-02T15:54:11Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:54:21-10:00cloudflared ERR: 2026-10-02T15:54:21Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:54:40-10:00job:voice_nws_weather | {"ok": true, "report": "nws_weather", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/nws_weather_current.md", "sentences": 7, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "nws_weather", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/nws_weather_current.wav", "clips_used": 0, "live_sentences": 18, "model_loaded": true, "render_s": 25.09, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 69.623, "peak_dbfs": -1.5, "rms_dbfs": -20.37, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 25.13, "peak_rss_mb": 1939, "rc": 0}, "deliver": {"ok": false, "sent": false, "detail": "telegram unreachable (gaierror)", "persona": "ava", "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_transit.wav"}, "radio": {"ok": false, "detail": "remote_dir", "report": "nws_weather"}, "status_send": {"ok": true, "played": true, "phase": "failed", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_failed.wav"}}
+2026-10-02T05:54:40-10:00job:voice_remaining_tasks RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" remaining_tasks
+2026-10-02T05:54:50-10:00cloudflared ERR: 2026-10-02T15:54:50Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:54:52-10:00cloudflared ERR: 2026-10-02T15:54:52Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:54:54-10:00cloudflared ERR: 2026-10-02T15:54:54Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47083-
+2026-10-02T05:54:54-10:00cloudflared ERR: 2026-10-02T15:54:54Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:37723-
+2026-10-02T05:54:54-10:00cloudflared ERR: 2026-10-02T15:54:54Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47727-
+2026-10-02T05:55:01-10:00job:voice_remaining_tasks | {"ok": true, "report": "remaining_tasks", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/remaining_tasks_current.md", "sentences": 5, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "remaining_tasks", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/remaining_tasks_current.wav", "clips_used": 0, "live_sentences": 4, "model_loaded": true, "render_s": 8.01, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 13.808, "peak_dbfs": -1.56, "rms_dbfs": -20.12, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 8.05, "peak_rss_mb": 1371, "rc": 0}, "deliver": {"ok": false, "sent": false, "detail": "telegram unreachable (gaierror)", "persona": "bruce", "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_transit.wav"}, "radio": {"ok": false, "detail": "remote_dir", "report": "remaining_tasks"}, "status_send": {"ok": true, "played": true, "phase": "failed", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_failed.wav"}}
+2026-10-02T05:55:01-10:00job:voice_earthquake_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" earthquake_report
+2026-10-02T05:55:02-10:00tunnel connection terminated
+2026-10-02T05:55:05-10:00tunnel connection terminated
+2026-10-02T05:55:13-10:00tunnel connection terminated
+2026-10-02T05:55:20-10:00cloudflared ERR: 2026-10-02T15:55:20Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:55:23-10:00job:voice_earthquake_report | {"ok": true, "report": "earthquake_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/earthquake_report_current.md", "sentences": 7, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "earthquake_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/earthquake_report_current.wav", "clips_used": 0, "live_sentences": 6, "model_loaded": true, "render_s": 11.35, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 23.705, "peak_dbfs": -1.5, "rms_dbfs": -20.46, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 11.39, "peak_rss_mb": 1528, "rc": 0}, "deliver": {"ok": false, "sent": false, "detail": "telegram unreachable (gaierror)", "persona": "carly", "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_transit.wav"}, "radio": {"ok": false, "detail": "remote_dir", "report": "earthquake_report"}, "status_send": {"ok": true, "played": true, "phase": "failed", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_failed.wav"}}
+2026-10-02T05:55:23-10:00job:voice_kilauea_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" kilauea_report
+2026-10-02T05:55:50-10:00job:voice_kilauea_report | {"ok": true, "report": "kilauea_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_report_current.md", "sentences": 9, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "kilauea_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/kilauea_report_current.wav", "clips_used": 0, "live_sentences": 10, "model_loaded": true, "render_s": 16.45, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 40.346, "peak_dbfs": -1.5, "rms_dbfs": -20.6, "lead_silence_ms": 101, "qc": "PASS", "wall_s": 16.49, "peak_rss_mb": 1698, "rc": 0}, "deliver": {"ok": false, "sent": false, "detail": "telegram unreachable (gaierror)", "persona": "carly", "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_transit.wav"}, "radio": {"ok": false, "detail": "remote_dir", "report": "kilauea_report"}, "status_send": {"ok": true, "played": true, "phase": "failed", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_failed.wav"}}
+2026-10-02T05:55:50-10:00internet DOWN — net services waiting (retry ~60s)
+2026-10-02T05:55:50-10:00job:voice_solar_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" solar_desk
+2026-10-02T05:55:52-10:00cloudflared ERR: 2026-10-02T15:55:52Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:56:07-10:00tunnel DNS/edge discovery failed — check internet + resolver (try 1.1.1.1)
+2026-10-02T05:56:16-10:00job:voice_solar_desk | {"ok": true, "report": "solar_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/solar_desk_current.md", "sentences": 9, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "solar_desk", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/solar_desk_current.wav", "clips_used": 0, "live_sentences": 8, "model_loaded": true, "render_s": 14.13, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 34.095, "peak_dbfs": -1.5, "rms_dbfs": -20.19, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 14.17, "peak_rss_mb": 1600, "rc": 0}, "deliver": {"ok": false, "sent": false, "detail": "telegram unreachable (gaierror)", "persona": "bruce", "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_transit.wav"}, "radio": {"ok": false, "detail": "remote_dir", "report": "solar_desk"}, "status_send": {"ok": true, "played": true, "phase": "failed", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_failed.wav"}}
+2026-10-02T05:56:16-10:00job:voice_security_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" security_desk
+2026-10-02T05:56:17-10:00cloudflared ERR: 2026-10-02T15:56:17Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:56:31-10:00cloudflared ERR: 2026-10-02T15:56:31Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:37723-
+2026-10-02T05:56:31-10:00cloudflared ERR: 2026-10-02T15:56:31Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47083-
+2026-10-02T05:56:31-10:00cloudflared ERR: 2026-10-02T15:56:31Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47727-
+2026-10-02T05:56:36-10:00cloudflared ERR: 2026-10-02T15:56:36Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:56:36-10:00job:voice_security_desk | {"ok": true, "report": "security_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/security_desk_current.md", "sentences": 7, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "security_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/security_desk_current.wav", "clips_used": 0, "live_sentences": 6, "model_loaded": true, "render_s": 9.36, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 17.376, "peak_dbfs": -3.03, "rms_dbfs": -20.37, "lead_silence_ms": 110, "qc": "PASS", "wall_s": 9.4, "peak_rss_mb": 1414, "rc": 0}, "deliver": {"ok": false, "sent": false, "detail": "telegram unreachable (gaierror)", "persona": "carly", "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_transit.wav"}, "radio": {"ok": false, "detail": "remote_dir", "report": "security_desk"}, "status_send": {"ok": true, "played": true, "phase": "failed", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_failed.wav"}}
+2026-10-02T05:56:36-10:00job:voice_bandwidth_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" bandwidth_desk
+2026-10-02T05:56:41-10:00cloudflared ERR: 2026-10-02T15:56:41Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:56:42-10:00tunnel connection terminated
+2026-10-02T05:56:49-10:00tunnel connection terminated
+2026-10-02T05:56:53-10:00cloudflared ERR: 2026-10-02T15:56:53Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:56:55-10:00tunnel connection terminated
+2026-10-02T05:57:04-10:00job:voice_bandwidth_desk | {"ok": true, "report": "bandwidth_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/bandwidth_desk_current.md", "sentences": 9, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "bandwidth_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/bandwidth_desk_current.wav", "clips_used": 0, "live_sentences": 9, "model_loaded": true, "render_s": 17.18, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 42.987, "peak_dbfs": -1.5, "rms_dbfs": -20.65, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 17.22, "peak_rss_mb": 1618, "rc": 0}, "deliver": {"ok": false, "sent": false, "detail": "telegram unreachable (gaierror)", "persona": "carly", "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_transit.wav"}, "radio": {"ok": false, "detail": "remote_dir", "report": "bandwidth_desk"}, "status_send": {"ok": true, "played": true, "phase": "failed", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_failed.wav"}}
+2026-10-02T05:57:04-10:00job:voice_current_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" current_report
+2026-10-02T05:57:07-10:00cloudflared ERR: 2026-10-02T15:57:07Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:57:08-10:00cloudflared ERR: 2026-10-02T15:57:08Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:57:22-10:00cloudflared ERR: 2026-10-02T15:57:22Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:57:31-10:00cloudflared ERR: 2026-10-02T15:57:31Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:57:55-10:00cloudflared ERR: 2026-10-02T15:57:55Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:58:04-10:00cloudflared ERR: 2026-10-02T15:58:04Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:58:04-10:00cloudflared ERR: 2026-10-02T15:58:04Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:58:11-10:00job:voice_current_report | {"ok": true, "report": "current_report", "md": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Reports/current_report_current.md", "sentences": 34, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "current_report", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/current_report_current.wav", "clips_used": 0, "live_sentences": 44, "model_loaded": true, "render_s": 54.41, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 167.166, "peak_dbfs": -1.5, "rms_dbfs": -20.3, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 54.46, "peak_rss_mb": 2040, "rc": 0}, "deliver": {"ok": false, "sent": false, "detail": "telegram unreachable (gaierror)", "persona": "ava", "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_transit.wav"}, "radio": {"ok": false, "detail": "remote_dir", "report": "current_report"}, "status_send": {"ok": true, "played": true, "phase": "failed", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_failed.wav"}}
+2026-10-02T05:58:11-10:00internet DOWN — net services waiting (retry ~60s)
+2026-10-02T05:58:11-10:00ENERGY  status=live  B2=off  B1=0%  solar=0 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=92%/Discharging/batt
+2026-10-02T05:58:11-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T05:58:14-10:00job:sys_stats_cycle | SYSTEM  cpu=1%  load=2.64  mem=18%  src=sqlite
+2026-10-02T05:58:14-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-055812.json
+2026-10-02T05:58:14-10:00job:github_sync_all SKIP — offline (will retry when internet is up)
+2026-10-02T05:58:14-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T05:58:31-10:00cloudflared ERR: 2026-10-02T15:58:31Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:58:35-10:00cloudflared ERR: 2026-10-02T15:58:35Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47083-
+2026-10-02T05:58:35-10:00cloudflared ERR: 2026-10-02T15:58:35Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:37723-
+2026-10-02T05:58:35-10:00cloudflared ERR: 2026-10-02T15:58:35Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47727-
+2026-10-02T05:58:40-10:00tunnel connection terminated
+2026-10-02T05:58:53-10:00tunnel connection terminated
+2026-10-02T05:59:02-10:00cloudflared ERR: 2026-10-02T15:59:02Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:59:05-10:00tunnel connection terminated
+2026-10-02T05:59:09-10:00cloudflared ERR: 2026-10-02T15:59:09Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47083-
+2026-10-02T05:59:09-10:00cloudflared ERR: 2026-10-02T15:59:09Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:47727-
+2026-10-02T05:59:09-10:00cloudflared ERR: 2026-10-02T15:59:09Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:37723-
+2026-10-02T05:59:15-10:00tunnel connection terminated
+2026-10-02T05:59:18-10:00tunnel connection terminated
+2026-10-02T05:59:30-10:00cloudflared ERR: 2026-10-02T15:59:30Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:59:39-10:00cloudflared ERR: 2026-10-02T15:59:39Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T05:59:39-10:00tunnel connection terminated
+2026-10-02T06:00:02-10:00cloudflared ERR: 2026-10-02T16:00:02Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T06:00:24-10:00cloudflared ERR: 2026-10-02T16:00:24Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T06:00:49-10:00cloudflared ERR: 2026-10-02T16:00:49Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:54419-
+2026-10-02T06:01:07-10:00tunnel DNS/edge discovery failed — check internet + resolver (try 1.1.1.1)
+2026-10-02T06:01:14-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | 06:01:14  ✗  a-eyes  ch1 FAILED: [tcp @ 0x5e54b9ab6940] Connection to tcp://192.168.1.33:554?timeout=0 failed: Network is unreachable
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | [in#0 @ 0x5e54b9ab3c40] Error opening input: Netw
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | a-eyes: ch1 grab failed
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | 06:01:14  ✗  a-eyes  ch2 FAILED: [tcp @ 0x5c323c541940] Connection to tcp://192.168.1.33:554?timeout=0 failed: Network is unreachable
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | [in#0 @ 0x5c323c53ec40] Error opening input: Netw
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | a-eyes: ch2 grab failed
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | 06:01:14  ✗  a-eyes  ch3 FAILED: [tcp @ 0x5b2859b0b940] Connection to tcp://192.168.1.33:554?timeout=0 failed: Network is unreachable
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | [in#0 @ 0x5b2859b08c40] Error opening input: Netw
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | a-eyes: ch3 grab failed
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | 06:01:14  ✗  a-eyes  ch4 FAILED: [tcp @ 0x5b3a37a62940] Connection to tcp://192.168.1.33:554?timeout=0 failed: Network is unreachable
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | [in#0 @ 0x5b3a37a5fc40] Error opening input: Netw
+2026-10-02T06:01:14-10:00job:security_camera_frame_grab | a-eyes: ch4 grab failed
+2026-10-02T06:01:14-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T06:01:14-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 8694, "desk_uptime_s": 232507, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-02T16:01:14.614571+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T06:01:14-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T06:01:14-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T06:01:14-10:00job:voice_kilauea_image_check SKIP — offline (will retry when internet is up)
+2026-10-02T06:01:14-10:00internet DOWN — net services waiting (retry ~60s)
+2026-10-02T06:01:14-10:00job:energy_sun_times SKIP — offline (will retry when internet is up)
+2026-10-02T06:01:14-10:00job:energy_moon_phase SKIP — offline (will retry when internet is up)
+2026-10-02T06:01:14-10:00job:automations_log_hourly_archive RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/archive_automations_log_hourly.sh"
