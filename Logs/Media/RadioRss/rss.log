@@ -14,3 +14,7 @@
 2026-10-01T23:25:55Z fail bad_desk RuntimeError
 2026-10-02T09:12:18Z fail jpl_news http_403
 2026-10-02T09:20:24Z robots ntsb_investigations
+2026-10-02T09:27:36Z fail jpl_news http_403
+2026-10-02T09:27:36Z robots ntsb_press
+2026-10-02T09:27:36Z robots ntsb_reports
+2026-10-02T09:27:37Z robots register_security
