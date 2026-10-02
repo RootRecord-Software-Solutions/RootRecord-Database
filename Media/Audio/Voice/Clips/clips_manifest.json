@@ -69,6 +69,40 @@
       "source": "local status cue",
       "proposed": false
     },
+    "Ava/current_report_staged_half": {
+      "slug": "current_report_staged_half",
+      "persona": "Ava",
+      "kinds": [
+        "current_report",
+        "status"
+      ],
+      "text": "Current report has been staged for the half hour.",
+      "spoken": "Current report has been staged for the half hour.",
+      "voice": "af_heart",
+      "speed": 1.0,
+      "sha256": "c4a9af46452bd287855f47b65d6547b60120651e02a4b1e6e2f803d8c9653044",
+      "sample_rate": 24000,
+      "channels": 1,
+      "subtype": "PCM_16",
+      "duration_s": 2.489,
+      "peak_dbfs": -5.12,
+      "rms_dbfs": -20.24,
+      "lead_silence_ms": 25,
+      "qc": "PASS",
+      "trimmed_ms": {
+        "lead": 278,
+        "tail": 457
+      },
+      "render_s": 4.63,
+      "rendered": "2026-10-02T00:23:07-10:00",
+      "engine": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "torch": "2.14.0+cpu"
+      },
+      "source": "local status cue",
+      "proposed": false
+    },
     "Ava/current_report_staged_hour": {
       "slug": "current_report_staged_hour",
       "persona": "Ava",
@@ -2008,5 +2042,5 @@
       "proposed": false
     }
   },
-  "updated": "2026-10-02T00:23:01-10:00"
+  "updated": "2026-10-02T00:23:07-10:00"
 }
