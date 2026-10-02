@@ -1,0 +1,796 @@
+2026-10-01T15:15:47-10:00job:automations_log_hourly_archive OK
+2026-10-01T15:15:47-10:00job:security_timelapse_hourly_compile RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/timelapse_hourly.sh"
+2026-10-01T15:15:47-10:00job:security_timelapse_hourly_compile | 15:15:47  🎬  a-eyes-timelapse  hour 14 frames archived → /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Timelapses/_archive/20261001/hour_14
+2026-10-01T15:15:47-10:00job:security_timelapse_hourly_compile | 15:15:47  🎬  a-eyes-timelapse  hour 14 already compiled, skipping
+2026-10-01T15:15:48-10:00ENERGY  status=live  B2=30.5%  B1=13.6%  solar=0 W  ac=45 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:15:48-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:15:48-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:15:51-10:00job:sys_stats_cycle | SYSTEM  cpu=53%  load=4.01  mem=58%  src=sqlite
+2026-10-01T15:15:51-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-151548.json
+2026-10-01T15:17:04-10:00job:github_sync_all | ↑ [ecosystem] committed 79 local file(s)
+2026-10-01T15:17:04-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:17:04-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:17:04-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:17:04-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:17:04-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:17:04-10:00job:github_sync_all | 1725a690..8253c70b  HEAD -> main
+2026-10-01T15:17:04-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:17:04-10:00job:github_sync_all | ↑ [ecosystem] 79 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:17:04-10:00job:github_sync_all | ↑ [pacific] committed 8 local file(s)
+2026-10-01T15:17:04-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:17:04-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:17:04-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:17:04-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:17:04-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:17:04-10:00job:github_sync_all | 3193441..8344660  HEAD -> main
+2026-10-01T15:17:04-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:17:04-10:00job:github_sync_all | ↑ [pacific] 8 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:17:04-10:00job:github_sync_all | ↑ [database] committed 49 local file(s)
+2026-10-01T15:17:04-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:17:04-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:17:04-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:17:04-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:17:04-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:17:04-10:00job:github_sync_all | 3132db78..488bb82a  HEAD -> main
+2026-10-01T15:17:04-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:17:04-10:00job:github_sync_all | ↑ [database] 49 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:17:04-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:17:04-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:17:04-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:17:04-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:17:04-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:17:04-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:17:04-10:00job:github_sync_all | — [website] no local changes
+2026-10-01T15:17:04-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:17:04-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:17:04-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:17:04-10:00job:github_sync_all | ↑ [website] local is ahead of GitHub
+2026-10-01T15:17:04-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Website.git
+2026-10-01T15:17:04-10:00job:github_sync_all | ! [remote rejected] HEAD -> main (cannot lock ref 'refs/heads/main': is at 5e1cbaf51342fb95c587fc01f2de906c77af0d45 but expected 43b9bf12660368e9483cbc83c0b24318755e29ca)
+2026-10-01T15:17:04-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-01T15:20:04-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-01T15:20:04-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-01T15:20:22-10:00job:security_camera_frame_grab | 15:20:04  📷  a-eyes  ch1 → ch1-20261002T012004Z.jpg  (503.9 KB, 4.40s)
+2026-10-01T15:20:22-10:00job:security_camera_frame_grab | 15:20:09  📷  a-eyes  ch2 → ch2-20261002T012009Z.jpg  (290.5 KB, 4.31s)
+2026-10-01T15:20:22-10:00job:security_camera_frame_grab | 15:20:13  📷  a-eyes  ch3 → ch3-20261002T012013Z.jpg  (423.8 KB, 4.37s)
+2026-10-01T15:20:22-10:00job:security_camera_frame_grab | 15:20:18  📷  a-eyes  ch4 → ch4-20261002T012018Z.jpg  (227.1 KB, 4.36s)
+2026-10-01T15:20:22-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-01T15:20:22-10:00job:service_supervisor | [supervisor] weather alive pid=1988833 (act)
+2026-10-01T15:20:22-10:00job:service_supervisor | [supervisor] relay alive pid=1988054 (act)
+2026-10-01T15:20:22-10:00job:geology_collect RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/scripts/geology_collect.py" all
+2026-10-01T15:20:30-10:00job:geology_collect | {"ok": true, "at": "2026-10-01T15:20:22-10:00", "what": "all", "dry_run": false, "sources": {"hawaii": {"ok": true, "count": 59, "new": 0, "new_m2": 0, "ms": 945}, "global": {"ok": true, "count": 36, "new": 0, "ms": 300}, "hvo_notices": {"ok": true, "count": 47, "new": 0, "ms": 4290}, "hvo_status": {"ok": true, "volcanoes": 8, "kilauea": "WATCH", "mauna_loa": "NORMAL", "ms": 1843}}}
+2026-10-01T15:20:30-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-01T15:20:30-10:00job:status_snapshot | live-data 6 pages
+2026-10-01T15:20:30-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-01T15:20:30-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261001.jsonl", "iface": "wlo1", "hour": {"seconds": 3708, "rx": 617369852, "tx": 2746770722, "total": 3364140574, "iface": "wlo1", "link": "wireless"}, "day": {"seconds": 86416, "rx": 4895575454, "tx": 7593670663, "total": 12489246117, "iface": "wlo1", "link": "wireless"}}
+2026-10-01T15:20:30-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-01T15:20:39-10:00job:discord_report_relay | posted energy_report
+2026-10-01T15:20:39-10:00job:discord_report_relay | posted earthquake_report
+2026-10-01T15:20:39-10:00job:discord_report_relay | posted kilauea_report
+2026-10-01T15:20:39-10:00job:discord_report_relay | posted solar_desk
+2026-10-01T15:20:39-10:00job:discord_report_relay | posted security_desk
+2026-10-01T15:20:39-10:00job:discord_report_relay | posted bandwidth_desk
+2026-10-01T15:20:39-10:00job:discord_report_relay | posted system_perf
+2026-10-01T15:20:40-10:00job:voice_nws_weather RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" nws_weather
+2026-10-01T15:21:26-10:00job:voice_nws_weather | {"ok": true, "report": "nws_weather", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/nws_weather_current.md", "sentences": 7, "voice": {"ok": true, "mode": "stitch", "report": "nws_weather", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/nws_weather_current.wav", "clips_used": 0, "live_sentences": 17, "model_loaded": true, "render_s": 28.14, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 52.022, "peak_dbfs": -1.5, "rms_dbfs": -20.21, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 28.3, "peak_rss_mb": 1740, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2289, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "nws_weather", "file": "nws_weather_current.ogg", "bytes": 383056}}
+2026-10-01T15:21:27-10:00ENERGY  status=live  B2=30.5%  B1=12.1%  solar=0 W  ac=45 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:21:27-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:21:27-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:21:29-10:00job:sys_stats_cycle | SYSTEM  cpu=23%  load=4.62  mem=59%  src=sqlite
+2026-10-01T15:21:29-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-152127.json
+2026-10-01T15:22:35-10:00job:github_sync_all | ↑ [ecosystem] committed 38 local file(s)
+2026-10-01T15:22:35-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:22:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:22:35-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:22:35-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:22:35-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:22:35-10:00job:github_sync_all | 8253c70b..1f973f1a  HEAD -> main
+2026-10-01T15:22:35-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:22:35-10:00job:github_sync_all | ↑ [ecosystem] 38 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:22:35-10:00job:github_sync_all | ↑ [pacific] committed 15 local file(s)
+2026-10-01T15:22:35-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:22:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:22:35-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:22:35-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:22:35-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:22:35-10:00job:github_sync_all | 8344660..c3bc33c  HEAD -> main
+2026-10-01T15:22:35-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:22:35-10:00job:github_sync_all | ↑ [pacific] 15 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:22:35-10:00job:github_sync_all | ↑ [database] committed 32 local file(s)
+2026-10-01T15:22:35-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:22:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:22:35-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:22:35-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:22:35-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:22:35-10:00job:github_sync_all | 488bb82a..fe0eb66e  HEAD -> main
+2026-10-01T15:22:35-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:22:35-10:00job:github_sync_all | ↑ [database] 32 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:22:35-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:22:35-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:22:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:22:35-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:22:35-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:22:35-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:22:35-10:00job:github_sync_all | ↑ [website] committed 10 local file(s)
+2026-10-01T15:22:35-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:22:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:22:35-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:22:35-10:00job:github_sync_all | ↑ [website] local is ahead of GitHub
+2026-10-01T15:22:35-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Website.git
+2026-10-01T15:22:35-10:00job:github_sync_all | 5e1cbaf..96a1aa2  HEAD -> main
+2026-10-01T15:22:35-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-01T15:22:52-10:00job:security_camera_frame_grab | 15:22:35  📷  a-eyes  ch1 → ch1-20261002T012235Z.jpg  (517.1 KB, 4.26s)
+2026-10-01T15:22:52-10:00job:security_camera_frame_grab | 15:22:39  📷  a-eyes  ch2 → ch2-20261002T012239Z.jpg  (292.7 KB, 4.24s)
+2026-10-01T15:22:52-10:00job:security_camera_frame_grab | 15:22:44  📷  a-eyes  ch3 → ch3-20261002T012244Z.jpg  (429.3 KB, 4.35s)
+2026-10-01T15:22:52-10:00job:security_camera_frame_grab | 15:22:48  📷  a-eyes  ch4 → ch4-20261002T012248Z.jpg  (237.8 KB, 4.20s)
+2026-10-01T15:22:53-10:00ENERGY  status=live  B2=30.5%  B1=12.1%  solar=0 W  ac=45 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:22:53-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:22:53-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:22:55-10:00job:sys_stats_cycle | SYSTEM  cpu=29%  load=3.02  mem=59%  src=sqlite
+2026-10-01T15:22:55-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-152253.json
+2026-10-01T15:23:56-10:00job:github_sync_all | ↑ [ecosystem] committed 7 local file(s)
+2026-10-01T15:23:56-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:23:56-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:23:56-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:23:56-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:23:56-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:23:56-10:00job:github_sync_all | 1f973f1a..6e0d51d2  HEAD -> main
+2026-10-01T15:23:56-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:23:56-10:00job:github_sync_all | ↑ [ecosystem] 7 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:23:56-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-01T15:23:56-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:23:56-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:23:56-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:23:56-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:23:56-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:23:56-10:00job:github_sync_all | c3bc33c..5e80efa  HEAD -> main
+2026-10-01T15:23:56-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:23:56-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:23:56-10:00job:github_sync_all | ↑ [database] committed 21 local file(s)
+2026-10-01T15:23:56-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:23:56-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:23:56-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:23:56-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:23:56-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:23:56-10:00job:github_sync_all | fe0eb66e..80c00e62  HEAD -> main
+2026-10-01T15:23:56-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:23:56-10:00job:github_sync_all | ↑ [database] 21 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:23:56-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:23:56-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:23:56-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:23:56-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:23:56-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:23:56-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:23:56-10:00job:github_sync_all | — [website] no local changes
+2026-10-01T15:23:56-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:23:56-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:23:56-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:23:56-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-01T15:23:56-10:00job:github_sync_all | — [website] nothing to push
+2026-10-01T15:23:56-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-01T15:23:56-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-01T15:26:57-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-01T15:26:57-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-01T15:26:57-10:00job:status_snapshot | live-data 6 pages
+2026-10-01T15:26:57-10:00ENERGY  status=live  B2=30.5%  B1=11.2%  solar=0 W  ac=45 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:27:31-10:00  ▸  SUMMARY=delta2 soc=30.52% solar=0W ac_out=45W usbc=0W src=cloud charge=generator db=ok ble=BLE_connected_but_fields_empty/None
+2026-10-01T15:27:31-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:27:33-10:00job:sys_stats_cycle | SYSTEM  cpu=22%  load=3.50  mem=63%  src=sqlite
+2026-10-01T15:27:33-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-152732.json
+2026-10-01T15:28:31-10:00job:github_sync_all | ↑ [ecosystem] committed 8 local file(s)
+2026-10-01T15:28:31-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:28:31-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:28:31-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:28:31-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:28:31-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:28:31-10:00job:github_sync_all | 6e0d51d2..ed48564f  HEAD -> main
+2026-10-01T15:28:31-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:28:31-10:00job:github_sync_all | ↑ [ecosystem] 8 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:28:31-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-01T15:28:31-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:28:31-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:28:31-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:28:31-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:28:31-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:28:31-10:00job:github_sync_all | 5e80efa..15b81ad  HEAD -> main
+2026-10-01T15:28:31-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:28:31-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:28:31-10:00job:github_sync_all | ↑ [database] committed 23 local file(s)
+2026-10-01T15:28:31-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:28:31-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:28:31-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:28:31-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:28:31-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:28:31-10:00job:github_sync_all | 80c00e62..3354606f  HEAD -> main
+2026-10-01T15:28:31-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:28:31-10:00job:github_sync_all | ↑ [database] 23 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:28:31-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:28:31-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:28:31-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:28:31-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:28:31-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:28:31-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:28:31-10:00job:github_sync_all | — [website] no local changes
+2026-10-01T15:28:31-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:28:31-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:28:31-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:28:31-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-01T15:28:31-10:00job:github_sync_all | — [website] nothing to push
+2026-10-01T15:28:31-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-01T15:28:31-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-01T15:28:51-10:00job:security_camera_frame_grab | 15:28:31  📷  a-eyes  ch1 → ch1-20261002T012831Z.jpg  (511.3 KB, 4.43s)
+2026-10-01T15:28:51-10:00job:security_camera_frame_grab | 15:28:35  📷  a-eyes  ch2 → ch2-20261002T012835Z.jpg  (290.0 KB, 5.87s)
+2026-10-01T15:28:51-10:00job:security_camera_frame_grab | 15:28:41  📷  a-eyes  ch3 → ch3-20261002T012841Z.jpg  (438.2 KB, 4.70s)
+2026-10-01T15:28:51-10:00job:security_camera_frame_grab | 15:28:46  📷  a-eyes  ch4 → ch4-20261002T012846Z.jpg  (229.5 KB, 4.49s)
+2026-10-01T15:28:51-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-01T15:28:51-10:00job:service_supervisor | [supervisor] weather alive pid=1988833 (act)
+2026-10-01T15:28:51-10:00job:service_supervisor | [supervisor] relay alive pid=1988054 (act)
+2026-10-01T15:28:51-10:00job:geology_collect RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/scripts/geology_collect.py" all
+2026-10-01T15:28:53-10:00job:geology_collect | {"ok": true, "at": "2026-10-01T15:28:51-10:00", "what": "all", "dry_run": false, "sources": {"hawaii": {"ok": true, "count": 59, "new": 0, "new_m2": 0, "ms": 320}, "global": {"ok": true, "count": 36, "new": 0, "ms": 379}, "hvo_notices": {"ok": true, "count": 47, "new": 0, "ms": 1114}, "hvo_status": {"ok": true, "volcanoes": 8, "kilauea": "WATCH", "mauna_loa": "NORMAL", "ms": 520}}}
+2026-10-01T15:28:53-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-01T15:28:54-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261001.jsonl", "iface": "wlo1", "hour": {"seconds": 3708, "rx": 544329979, "tx": 2748595710, "total": 3292925689, "iface": "wlo1", "link": "wireless"}, "day": {"seconds": 86593, "rx": 4943042150, "tx": 7978531997, "total": 12921574147, "iface": "wlo1", "link": "wireless"}}
+2026-10-01T15:28:54-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-01T15:28:54-10:00job:discord_report_relay | same
+2026-10-01T15:28:54-10:00ENERGY  status=live  B2=30.5%  B1=10.7%  solar=0 W  ac=45 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:28:54-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:28:54-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:28:56-10:00job:sys_stats_cycle | SYSTEM  cpu=20%  load=2.14  mem=64%  src=sqlite
+2026-10-01T15:28:56-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-152855.json
+2026-10-01T15:29:51-10:00job:github_sync_all | ↑ [ecosystem] committed 15 local file(s)
+2026-10-01T15:29:51-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:29:51-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:29:51-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:29:51-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:29:51-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:29:51-10:00job:github_sync_all | ed48564f..2605154b  HEAD -> main
+2026-10-01T15:29:51-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:29:51-10:00job:github_sync_all | ↑ [ecosystem] 15 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:29:51-10:00job:github_sync_all | ↑ [pacific] committed 3 local file(s)
+2026-10-01T15:29:51-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:29:51-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:29:51-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:29:51-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:29:51-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:29:51-10:00job:github_sync_all | 15b81ad..1cb7707  HEAD -> main
+2026-10-01T15:29:51-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:29:51-10:00job:github_sync_all | ↑ [pacific] 3 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:29:51-10:00job:github_sync_all | ↑ [database] committed 24 local file(s)
+2026-10-01T15:29:51-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:29:51-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:29:51-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:29:51-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:29:51-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:29:51-10:00job:github_sync_all | 3354606f..7308ba21  HEAD -> main
+2026-10-01T15:29:51-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:29:51-10:00job:github_sync_all | ↑ [database] 24 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:29:51-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:29:51-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:29:51-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:29:51-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:29:51-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:29:51-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:29:51-10:00job:github_sync_all | ↑ [website] committed 2 local file(s)
+2026-10-01T15:29:51-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:29:51-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:29:51-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:29:51-10:00job:github_sync_all | ↑ [website] local is ahead of GitHub
+2026-10-01T15:29:51-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Website.git
+2026-10-01T15:29:51-10:00job:github_sync_all | 96a1aa2..acc05e1  HEAD -> main
+2026-10-01T15:29:51-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-01T15:32:51-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-01T15:32:51-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-01T15:33:09-10:00job:security_camera_frame_grab | 15:32:51  📷  a-eyes  ch1 → ch1-20261002T013251Z.jpg  (521.1 KB, 4.43s)
+2026-10-01T15:33:09-10:00job:security_camera_frame_grab | 15:32:56  📷  a-eyes  ch2 → ch2-20261002T013256Z.jpg  (284.4 KB, 4.52s)
+2026-10-01T15:33:09-10:00job:security_camera_frame_grab | 15:33:00  📷  a-eyes  ch3 → ch3-20261002T013300Z.jpg  (441.1 KB, 4.45s)
+2026-10-01T15:33:09-10:00job:security_camera_frame_grab | 15:33:05  📷  a-eyes  ch4 → ch4-20261002T013305Z.jpg  (225.5 KB, 4.53s)
+2026-10-01T15:33:09-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-01T15:33:09-10:00job:status_snapshot | live-data 6 pages
+2026-10-01T15:33:10-10:00job:voice_nws_weather RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" nws_weather
+2026-10-01T15:33:57-10:00job:voice_nws_weather | {"ok": true, "report": "nws_weather", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/nws_weather_current.md", "sentences": 7, "voice": {"ok": true, "mode": "stitch", "report": "nws_weather", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/nws_weather_current.wav", "clips_used": 0, "live_sentences": 17, "model_loaded": true, "render_s": 31.1, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 52.263, "peak_dbfs": -1.5, "rms_dbfs": -20.4, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 31.24, "peak_rss_mb": 1926, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2291, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "nws_weather", "file": "nws_weather_current.ogg", "bytes": 382082}}
+2026-10-01T15:33:57-10:00job:voice_energy_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" energy_report
+2026-10-01T15:34:28-10:00job:voice_energy_report | {"ok": true, "report": "energy_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/energy_report_current.md", "sentences": 6, "voice": {"ok": true, "mode": "stitch", "report": "energy_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/energy_report_current.wav", "clips_used": 0, "live_sentences": 5, "model_loaded": true, "render_s": 19.28, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 27.122, "peak_dbfs": -1.96, "rms_dbfs": -20.28, "lead_silence_ms": 111, "qc": "PASS", "wall_s": 19.42, "peak_rss_mb": 1503, "rc": 0}, "deliver": {"ok": true, "skipped": true, "detail": "blended into the hourly solar desk; the radio file is refreshed"}, "radio": {"ok": true, "report": "energy_report", "file": "energy_report_current.ogg", "bytes": 196595}}
+2026-10-01T15:34:28-10:00job:voice_current_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" current_report
+2026-10-01T15:36:38-10:00job:voice_current_report | {"ok": true, "report": "current_report", "md": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Reports/current_report_current.md", "sentences": 21, "voice": {"ok": true, "mode": "stitch", "report": "current_report", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/current_report_current.wav", "clips_used": 0, "live_sentences": 27, "model_loaded": true, "render_s": 50.68, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 105.905, "peak_dbfs": -1.5, "rms_dbfs": -20.31, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 50.79, "peak_rss_mb": 2109, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2293, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "current_report", "file": "current_report_current.ogg", "bytes": 782663}}
+2026-10-01T15:36:39-10:00ENERGY  status=live  B2=30.5%  B1=9.3%  solar=0 W  ac=45 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:36:39-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:36:39-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:36:41-10:00job:sys_stats_cycle | SYSTEM  cpu=25%  load=2.69  mem=67%  src=sqlite
+2026-10-01T15:36:41-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-153639.json
+2026-10-01T15:37:42-10:00job:github_sync_all | ↑ [ecosystem] committed 28 local file(s)
+2026-10-01T15:37:42-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:37:42-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:37:42-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:37:42-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:37:42-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:37:42-10:00job:github_sync_all | 2605154b..9e281928  HEAD -> main
+2026-10-01T15:37:42-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:37:42-10:00job:github_sync_all | ↑ [ecosystem] 28 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:37:42-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-01T15:37:42-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:37:42-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:37:42-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:37:42-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:37:42-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:37:42-10:00job:github_sync_all | 1cb7707..13bac26  HEAD -> main
+2026-10-01T15:37:42-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:37:42-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:37:42-10:00job:github_sync_all | ↑ [database] committed 35 local file(s)
+2026-10-01T15:37:42-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:37:42-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:37:42-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:37:42-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:37:42-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:37:42-10:00job:github_sync_all | 7308ba21..f7601939  HEAD -> main
+2026-10-01T15:37:42-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:37:42-10:00job:github_sync_all | ↑ [database] 35 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:37:42-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:37:42-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:37:42-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:37:42-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:37:42-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:37:42-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:37:42-10:00job:github_sync_all | — [website] no local changes
+2026-10-01T15:37:42-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:37:42-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:37:42-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:37:42-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-01T15:37:42-10:00job:github_sync_all | — [website] nothing to push
+2026-10-01T15:37:42-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-01T15:37:42-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-01T15:40:42-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-01T15:40:42-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-01T15:41:00-10:00job:security_camera_frame_grab | 15:40:42  📷  a-eyes  ch1 → ch1-20261002T014042Z.jpg  (529.4 KB, 4.39s)
+2026-10-01T15:41:00-10:00job:security_camera_frame_grab | 15:40:47  📷  a-eyes  ch2 → ch2-20261002T014047Z.jpg  (300.7 KB, 4.34s)
+2026-10-01T15:41:00-10:00job:security_camera_frame_grab | 15:40:51  📷  a-eyes  ch3 → ch3-20261002T014051Z.jpg  (419.2 KB, 4.29s)
+2026-10-01T15:41:00-10:00job:security_camera_frame_grab | 15:40:55  📷  a-eyes  ch4 → ch4-20261002T014055Z.jpg  (237.2 KB, 4.37s)
+2026-10-01T15:41:00-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-01T15:41:00-10:00job:service_supervisor | [supervisor] weather alive pid=1988833 (act)
+2026-10-01T15:41:00-10:00job:service_supervisor | [supervisor] relay alive pid=1988054 (act)
+2026-10-01T15:41:00-10:00job:geology_collect RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/scripts/geology_collect.py" all
+2026-10-01T15:41:06-10:00job:geology_collect | {"ok": true, "at": "2026-10-01T15:41:00-10:00", "what": "all", "dry_run": false, "sources": {"hawaii": {"ok": true, "count": 60, "new": 1, "new_m2": 0, "ms": 738}, "global": {"ok": true, "count": 34, "new": 0, "ms": 293}, "hvo_notices": {"ok": true, "count": 47, "new": 0, "ms": 3263}, "hvo_status": {"ok": true, "volcanoes": 8, "kilauea": "WATCH", "mauna_loa": "NORMAL", "ms": 1839}}}
+2026-10-01T15:41:06-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-01T15:41:06-10:00job:status_snapshot | live-data 6 pages
+2026-10-01T15:41:06-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-01T15:41:07-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261001.jsonl", "iface": "wlo1", "hour": {"seconds": 3752, "rx": 684361507, "tx": 2834632772, "total": 3518994279, "iface": "wlo1", "link": "wireless"}, "day": {"seconds": 86604, "rx": 5031006235, "tx": 8537058084, "total": 13568064319, "iface": "wlo1", "link": "wireless"}}
+2026-10-01T15:41:07-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-01T15:41:08-10:00job:discord_report_relay | posted energy_report
+2026-10-01T15:41:08-10:00ENERGY  status=live  B2=30.5%  B1=8.8%  solar=0 W  ac=45 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:41:08-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:41:08-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:41:10-10:00job:sys_stats_cycle | SYSTEM  cpu=26%  load=3.20  mem=68%  src=sqlite
+2026-10-01T15:41:10-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-154109.json
+2026-10-01T15:42:14-10:00job:github_sync_all | ↑ [ecosystem] committed 21 local file(s)
+2026-10-01T15:42:14-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:42:14-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:42:14-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:42:14-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:42:14-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:42:14-10:00job:github_sync_all | 9e281928..d77763dc  HEAD -> main
+2026-10-01T15:42:14-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:42:14-10:00job:github_sync_all | ↑ [ecosystem] 21 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:42:14-10:00job:github_sync_all | ↑ [pacific] committed 5 local file(s)
+2026-10-01T15:42:14-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:42:14-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:42:14-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:42:14-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:42:14-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:42:14-10:00job:github_sync_all | 13bac26..1f375b0  HEAD -> main
+2026-10-01T15:42:14-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:42:14-10:00job:github_sync_all | ↑ [pacific] 5 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:42:14-10:00job:github_sync_all | ↑ [database] committed 31 local file(s)
+2026-10-01T15:42:14-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:42:14-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:42:14-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:42:14-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:42:14-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:42:14-10:00job:github_sync_all | f7601939..1798886a  HEAD -> main
+2026-10-01T15:42:14-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:42:14-10:00job:github_sync_all | ↑ [database] 31 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:42:14-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:42:14-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:42:14-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:42:14-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:42:14-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:42:14-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:42:14-10:00job:github_sync_all | ↑ [website] committed 4 local file(s)
+2026-10-01T15:42:14-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:42:14-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:42:14-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:42:14-10:00job:github_sync_all | ↑ [website] local is ahead of GitHub
+2026-10-01T15:42:14-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Website.git
+2026-10-01T15:42:14-10:00job:github_sync_all | acc05e1..787e9df  HEAD -> main
+2026-10-01T15:42:14-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-01T15:42:31-10:00job:security_camera_frame_grab | 15:42:14  📷  a-eyes  ch1 → ch1-20261002T014214Z.jpg  (529.8 KB, 4.32s)
+2026-10-01T15:42:31-10:00job:security_camera_frame_grab | 15:42:18  📷  a-eyes  ch2 → ch2-20261002T014218Z.jpg  (301.7 KB, 4.15s)
+2026-10-01T15:42:31-10:00job:security_camera_frame_grab | 15:42:23  📷  a-eyes  ch3 → ch3-20261002T014223Z.jpg  (410.8 KB, 4.27s)
+2026-10-01T15:42:31-10:00job:security_camera_frame_grab | 15:42:27  📷  a-eyes  ch4 → ch4-20261002T014227Z.jpg  (232.6 KB, 4.27s)
+2026-10-01T15:42:32-10:00ENERGY  status=live  B2=30.5%  B1=8.6%  solar=0 W  ac=45 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:42:32-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:42:32-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:42:33-10:00job:sys_stats_cycle | SYSTEM  cpu=19%  load=3.87  mem=69%  src=sqlite
+2026-10-01T15:42:33-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-154232.json
+2026-10-01T15:43:37-10:00job:github_sync_all | ↑ [ecosystem] committed 7 local file(s)
+2026-10-01T15:43:37-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:43:37-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:43:37-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:43:37-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:43:37-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:43:37-10:00job:github_sync_all | d77763dc..c17abe5d  HEAD -> main
+2026-10-01T15:43:37-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:43:37-10:00job:github_sync_all | ↑ [ecosystem] 7 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:43:37-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-01T15:43:37-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:43:37-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:43:37-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:43:37-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:43:37-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:43:37-10:00job:github_sync_all | 1f375b0..5e1ed5b  HEAD -> main
+2026-10-01T15:43:37-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:43:37-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:43:37-10:00job:github_sync_all | ↑ [database] committed 21 local file(s)
+2026-10-01T15:43:37-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:43:37-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:43:37-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:43:37-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:43:37-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:43:37-10:00job:github_sync_all | 1798886a..1db307dc  HEAD -> main
+2026-10-01T15:43:37-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:43:37-10:00job:github_sync_all | ↑ [database] 21 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:43:37-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:43:37-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:43:37-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:43:37-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:43:37-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:43:37-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:43:37-10:00job:github_sync_all | — [website] no local changes
+2026-10-01T15:43:37-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:43:37-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:43:37-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:43:37-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-01T15:43:37-10:00job:github_sync_all | — [website] nothing to push
+2026-10-01T15:43:37-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-01T15:43:37-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-01T15:46:37-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-01T15:46:37-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-01T15:46:38-10:00job:status_snapshot | live-data 6 pages
+2026-10-01T15:46:38-10:00job:voice_nws_weather RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" nws_weather
+2026-10-01T15:47:28-10:00job:voice_nws_weather | {"ok": true, "report": "nws_weather", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/nws_weather_current.md", "sentences": 7, "voice": {"ok": true, "mode": "stitch", "report": "nws_weather", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/nws_weather_current.wav", "clips_used": 0, "live_sentences": 17, "model_loaded": true, "render_s": 33.41, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 52.257, "peak_dbfs": -1.5, "rms_dbfs": -20.52, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 33.64, "peak_rss_mb": 1873, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2295, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "nws_weather", "file": "nws_weather_current.ogg", "bytes": 384113}}
+2026-10-01T15:47:28-10:00ENERGY  status=live  B2=69.4%  B1=8.2%  solar=0 W  ac=22 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:47:28-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:47:28-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:47:30-10:00job:sys_stats_cycle | SYSTEM  cpu=30%  load=5.84  mem=71%  src=sqlite
+2026-10-01T15:47:30-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-154729.json
+2026-10-01T15:48:34-10:00job:github_sync_all | ↑ [ecosystem] committed 16 local file(s)
+2026-10-01T15:48:34-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:48:34-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:48:34-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:48:34-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:48:34-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:48:34-10:00job:github_sync_all | c17abe5d..98175f66  HEAD -> main
+2026-10-01T15:48:34-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:48:34-10:00job:github_sync_all | ↑ [ecosystem] 16 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:48:34-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-01T15:48:34-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:48:34-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:48:34-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:48:34-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:48:34-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:48:34-10:00job:github_sync_all | 5e1ed5b..15bad47  HEAD -> main
+2026-10-01T15:48:34-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:48:34-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:48:34-10:00job:github_sync_all | ↑ [database] committed 26 local file(s)
+2026-10-01T15:48:34-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:48:34-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:48:34-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:48:34-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:48:34-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:48:34-10:00job:github_sync_all | 1db307dc..f90d911d  HEAD -> main
+2026-10-01T15:48:34-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:48:34-10:00job:github_sync_all | ↑ [database] 26 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:48:34-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:48:34-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:48:34-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:48:34-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:48:34-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:48:34-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:48:34-10:00job:github_sync_all | — [website] no local changes
+2026-10-01T15:48:34-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:48:34-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:48:34-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:48:34-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-01T15:48:34-10:00job:github_sync_all | — [website] nothing to push
+2026-10-01T15:48:34-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-01T15:48:34-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-01T15:48:52-10:00job:security_camera_frame_grab | 15:48:34  📷  a-eyes  ch1 → ch1-20261002T014834Z.jpg  (526.6 KB, 4.39s)
+2026-10-01T15:48:52-10:00job:security_camera_frame_grab | 15:48:39  📷  a-eyes  ch2 → ch2-20261002T014839Z.jpg  (310.3 KB, 4.41s)
+2026-10-01T15:48:52-10:00job:security_camera_frame_grab | 15:48:43  📷  a-eyes  ch3 → ch3-20261002T014843Z.jpg  (416.2 KB, 4.36s)
+2026-10-01T15:48:52-10:00job:security_camera_frame_grab | 15:48:48  📷  a-eyes  ch4 → ch4-20261002T014848Z.jpg  (247.1 KB, 4.23s)
+2026-10-01T15:48:52-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-01T15:48:52-10:00job:service_supervisor | [supervisor] weather alive pid=1988833 (act)
+2026-10-01T15:48:52-10:00job:service_supervisor | [supervisor] relay alive pid=1988054 (act)
+2026-10-01T15:48:52-10:00job:geology_collect RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/scripts/geology_collect.py" all
+2026-10-01T15:48:55-10:00job:geology_collect | {"ok": true, "at": "2026-10-01T15:48:52-10:00", "what": "all", "dry_run": false, "sources": {"hawaii": {"ok": true, "count": 59, "new": 0, "new_m2": 0, "ms": 287}, "global": {"ok": true, "count": 34, "new": 0, "ms": 216}, "hvo_notices": {"ok": true, "count": 47, "new": 0, "ms": 1116}, "hvo_status": {"ok": true, "volcanoes": 8, "kilauea": "WATCH", "mauna_loa": "NORMAL", "ms": 580}}}
+2026-10-01T15:48:55-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-01T15:48:55-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261001.jsonl", "iface": "wlo1", "hour": {"seconds": 3774, "rx": 620463023, "tx": 2858411135, "total": 3478874158, "iface": "wlo1", "link": "wireless"}, "day": {"seconds": 86430, "rx": 5057395899, "tx": 8889798925, "total": 13947194824, "iface": "wlo1", "link": "wireless"}}
+2026-10-01T15:48:55-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-01T15:48:55-10:00job:discord_report_relay | same
+2026-10-01T15:48:56-10:00ENERGY  status=live  B2=71.6%  B1=8.0%  solar=0 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:48:56-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:48:56-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:48:57-10:00job:sys_stats_cycle | SYSTEM  cpu=39%  load=5.58  mem=72%  src=sqlite
+2026-10-01T15:48:57-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-154856.json
+2026-10-01T15:50:12-10:00job:github_sync_all | ↑ [ecosystem] committed 17 local file(s)
+2026-10-01T15:50:12-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:50:12-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:50:12-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:50:12-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:50:12-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:50:12-10:00job:github_sync_all | 98175f66..1907ebe1  HEAD -> main
+2026-10-01T15:50:12-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:50:12-10:00job:github_sync_all | ↑ [ecosystem] 17 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:50:12-10:00job:github_sync_all | ↑ [pacific] committed 3 local file(s)
+2026-10-01T15:50:12-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:50:12-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:50:12-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:50:12-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:50:12-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:50:12-10:00job:github_sync_all | 15bad47..57e401a  HEAD -> main
+2026-10-01T15:50:12-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:50:12-10:00job:github_sync_all | ↑ [pacific] 3 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:50:12-10:00job:github_sync_all | ↑ [database] committed 28 local file(s)
+2026-10-01T15:50:12-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:50:12-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:50:12-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:50:12-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:50:12-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:50:12-10:00job:github_sync_all | f90d911d..307e1533  HEAD -> main
+2026-10-01T15:50:12-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:50:12-10:00job:github_sync_all | ↑ [database] 28 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:50:12-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:50:12-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:50:12-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:50:12-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:50:12-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:50:12-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:50:12-10:00job:github_sync_all | ↑ [website] committed 2 local file(s)
+2026-10-01T15:50:12-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:50:12-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:50:12-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:50:12-10:00job:github_sync_all | ↑ [website] local is ahead of GitHub
+2026-10-01T15:50:12-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Website.git
+2026-10-01T15:50:12-10:00job:github_sync_all | 787e9df..f521d04  HEAD -> main
+2026-10-01T15:50:12-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-01T15:53:12-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-01T15:53:12-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-01T15:53:29-10:00job:security_camera_frame_grab | 15:53:12  📷  a-eyes  ch1 → ch1-20261002T015312Z.jpg  (530.6 KB, 4.35s)
+2026-10-01T15:53:29-10:00job:security_camera_frame_grab | 15:53:16  📷  a-eyes  ch2 → ch2-20261002T015316Z.jpg  (295.2 KB, 4.16s)
+2026-10-01T15:53:29-10:00job:security_camera_frame_grab | 15:53:21  📷  a-eyes  ch3 → ch3-20261002T015321Z.jpg  (427.7 KB, 4.29s)
+2026-10-01T15:53:29-10:00job:security_camera_frame_grab | 15:53:25  📷  a-eyes  ch4 → ch4-20261002T015325Z.jpg  (241.0 KB, 4.37s)
+2026-10-01T15:53:29-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-01T15:53:29-10:00job:status_snapshot | live-data 6 pages
+2026-10-01T15:53:30-10:00ENERGY  status=live  B2=76.3%  B1=7.5%  solar=0 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:53:30-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:53:30-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:53:32-10:00job:sys_stats_cycle | SYSTEM  cpu=40%  load=7.68  mem=72%  src=sqlite
+2026-10-01T15:53:32-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-155331.json
+2026-10-01T15:54:27-10:00job:github_sync_all | ↑ [ecosystem] committed 8 local file(s)
+2026-10-01T15:54:27-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:54:27-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:54:27-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:54:27-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:54:27-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:54:27-10:00job:github_sync_all | 1907ebe1..e61112b8  HEAD -> main
+2026-10-01T15:54:27-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:54:27-10:00job:github_sync_all | ↑ [ecosystem] 8 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:54:27-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-01T15:54:27-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:54:27-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:54:27-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:54:27-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:54:27-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:54:27-10:00job:github_sync_all | 57e401a..9ec6b70  HEAD -> main
+2026-10-01T15:54:27-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:54:27-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:54:27-10:00job:github_sync_all | ↑ [database] committed 24 local file(s)
+2026-10-01T15:54:27-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:54:27-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:54:27-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:54:27-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:54:27-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:54:27-10:00job:github_sync_all | 307e1533..5f326cd7  HEAD -> main
+2026-10-01T15:54:27-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:54:27-10:00job:github_sync_all | ↑ [database] 24 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:54:27-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:54:27-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:54:27-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:54:27-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:54:27-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:54:27-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:54:27-10:00job:github_sync_all | — [website] no local changes
+2026-10-01T15:54:27-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:54:27-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:54:27-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:54:27-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-01T15:54:27-10:00job:github_sync_all | — [website] nothing to push
+2026-10-01T15:54:27-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-01T15:54:28-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:54:28-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:54:29-10:00job:sys_stats_cycle | SYSTEM  cpu=45%  load=6.50  mem=72%  src=sqlite
+2026-10-01T15:54:29-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-155428.json
+2026-10-01T15:54:29-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-01T15:54:47-10:00job:security_camera_frame_grab | 15:54:29  📷  a-eyes  ch1 → ch1-20261002T015429Z.jpg  (529.3 KB, 4.29s)
+2026-10-01T15:54:47-10:00job:security_camera_frame_grab | 15:54:34  📷  a-eyes  ch2 → ch2-20261002T015434Z.jpg  (296.3 KB, 4.54s)
+2026-10-01T15:54:47-10:00job:security_camera_frame_grab | 15:54:38  📷  a-eyes  ch3 → ch3-20261002T015438Z.jpg  (427.5 KB, 4.37s)
+2026-10-01T15:54:47-10:00job:security_camera_frame_grab | 15:54:43  📷  a-eyes  ch4 → ch4-20261002T015443Z.jpg  (245.2 KB, 4.55s)
+2026-10-01T15:54:47-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-01T15:54:47-10:00job:service_supervisor | [supervisor] weather alive pid=1988833 (act)
+2026-10-01T15:54:47-10:00job:service_supervisor | [supervisor] relay alive pid=1988054 (act)
+2026-10-01T15:54:48-10:00job:geology_collect RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/scripts/geology_collect.py" all
+2026-10-01T15:54:53-10:00job:geology_collect | {"ok": true, "at": "2026-10-01T15:54:48-10:00", "what": "all", "dry_run": false, "sources": {"hawaii": {"ok": true, "count": 59, "new": 0, "new_m2": 0, "ms": 756}, "global": {"ok": true, "count": 34, "new": 0, "ms": 298}, "hvo_notices": {"ok": true, "count": 47, "new": 0, "ms": 1034}, "hvo_status": {"ok": true, "volcanoes": 8, "kilauea": "WATCH", "mauna_loa": "NORMAL", "ms": 2700}}}
+2026-10-01T15:54:53-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-01T15:54:53-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261001.jsonl", "iface": "wlo1", "hour": {"seconds": 3676, "rx": 692272154, "tx": 2802749243, "total": 3495021397, "iface": "wlo1", "link": "wireless"}, "day": {"seconds": 86456, "rx": 5137473739, "tx": 9159159108, "total": 14296632847, "iface": "wlo1", "link": "wireless"}}
+2026-10-01T15:54:53-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-01T15:54:53-10:00job:discord_report_relay | same
+2026-10-01T15:54:53-10:00ENERGY  status=live  B2=76.3%  B1=7.5%  solar=0 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:55:27-10:00  ▸  SUMMARY=delta2 soc=78.83% solar=0W ac_out=0W usbc=0W src=cloud charge=generator db=ok ble=BLE_connected_but_fields_empty/None
+2026-10-01T15:55:27-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:55:29-10:00job:sys_stats_cycle | SYSTEM  cpu=34%  load=3.41  mem=73%  src=sqlite
+2026-10-01T15:55:29-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-155528.json
+2026-10-01T15:56:35-10:00job:github_sync_all | ↑ [ecosystem] committed 14 local file(s)
+2026-10-01T15:56:35-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T15:56:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T15:56:35-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:56:35-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T15:56:35-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T15:56:35-10:00job:github_sync_all | e61112b8..a6bac21e  HEAD -> main
+2026-10-01T15:56:35-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:56:35-10:00job:github_sync_all | ↑ [ecosystem] 14 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T15:56:35-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-01T15:56:35-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T15:56:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T15:56:35-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:56:35-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T15:56:35-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T15:56:35-10:00job:github_sync_all | 9ec6b70..900574d  HEAD -> main
+2026-10-01T15:56:35-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:56:35-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T15:56:35-10:00job:github_sync_all | ↑ [database] committed 27 local file(s)
+2026-10-01T15:56:35-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T15:56:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T15:56:35-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T15:56:35-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T15:56:35-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T15:56:35-10:00job:github_sync_all | 5f326cd7..478a29d3  HEAD -> main
+2026-10-01T15:56:35-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T15:56:35-10:00job:github_sync_all | ↑ [database] 27 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T15:56:35-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T15:56:35-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T15:56:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T15:56:35-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:56:35-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T15:56:35-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T15:56:35-10:00job:github_sync_all | — [website] no local changes
+2026-10-01T15:56:35-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T15:56:35-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T15:56:35-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T15:56:35-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-01T15:56:35-10:00job:github_sync_all | — [website] nothing to push
+2026-10-01T15:56:35-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-01T15:56:35-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-01T15:59:35-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-01T15:59:35-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-01T15:59:53-10:00job:security_camera_frame_grab | 15:59:35  📷  a-eyes  ch1 → ch1-20261002T015935Z.jpg  (517.6 KB, 4.28s)
+2026-10-01T15:59:53-10:00job:security_camera_frame_grab | 15:59:40  📷  a-eyes  ch2 → ch2-20261002T015940Z.jpg  (303.2 KB, 4.39s)
+2026-10-01T15:59:53-10:00job:security_camera_frame_grab | 15:59:44  📷  a-eyes  ch3 → ch3-20261002T015944Z.jpg  (413.3 KB, 4.29s)
+2026-10-01T15:59:53-10:00job:security_camera_frame_grab | 15:59:48  📷  a-eyes  ch4 → ch4-20261002T015948Z.jpg  (238.7 KB, 4.52s)
+2026-10-01T15:59:53-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-01T15:59:53-10:00job:status_snapshot | live-data 6 pages
+2026-10-01T15:59:54-10:00ENERGY  status=live  B2=80.6%  B1=7.1%  solar=0 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=100%/Full/AC
+2026-10-01T15:59:54-10:00  ▸  ecoflow_read_cycle OK
+2026-10-01T15:59:54-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-01T15:59:56-10:00job:sys_stats_cycle | SYSTEM  cpu=34%  load=4.91  mem=75%  src=sqlite
+2026-10-01T15:59:56-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261001-155955.json
+2026-10-01T16:01:00-10:00job:github_sync_all | ↑ [ecosystem] committed 7 local file(s)
+2026-10-01T16:01:00-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-01T16:01:00-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-01T16:01:00-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T16:01:00-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-01T16:01:00-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-01T16:01:00-10:00job:github_sync_all | a6bac21e..015f6790  HEAD -> main
+2026-10-01T16:01:00-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T16:01:00-10:00job:github_sync_all | ↑ [ecosystem] 7 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-01T16:01:00-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-01T16:01:00-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-01T16:01:00-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-01T16:01:00-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T16:01:00-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-01T16:01:00-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-01T16:01:00-10:00job:github_sync_all | 900574d..c67e231  HEAD -> main
+2026-10-01T16:01:00-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T16:01:00-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-01T16:01:00-10:00job:github_sync_all | ↑ [database] committed 23 local file(s)
+2026-10-01T16:01:00-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-01T16:01:00-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-01T16:01:00-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-01T16:01:00-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-01T16:01:00-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-01T16:01:00-10:00job:github_sync_all | 478a29d3..8ae48cda  HEAD -> main
+2026-10-01T16:01:00-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-01T16:01:00-10:00job:github_sync_all | ↑ [database] 23 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-01T16:01:00-10:00job:github_sync_all | — [library] no local changes
+2026-10-01T16:01:00-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-01T16:01:00-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-01T16:01:00-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T16:01:00-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-01T16:01:00-10:00job:github_sync_all | — [library] nothing to push
+2026-10-01T16:01:00-10:00job:github_sync_all | ↑ [website] committed 3 local file(s)
+2026-10-01T16:01:00-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-01T16:01:00-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-01T16:01:00-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-01T16:01:00-10:00job:github_sync_all | ↑ [website] local is ahead of GitHub
+2026-10-01T16:01:00-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Website.git
+2026-10-01T16:01:00-10:00job:github_sync_all | f521d04..4cb8ae4  HEAD -> main
+2026-10-01T16:01:00-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-01T16:01:18-10:00job:security_camera_frame_grab | 16:01:00  📷  a-eyes  ch1 → ch1-20261002T020100Z.jpg  (513.1 KB, 4.80s)
+2026-10-01T16:01:18-10:00job:security_camera_frame_grab | 16:01:05  📷  a-eyes  ch2 → ch2-20261002T020105Z.jpg  (296.2 KB, 4.39s)
+2026-10-01T16:01:18-10:00job:security_camera_frame_grab | 16:01:09  📷  a-eyes  ch3 → ch3-20261002T020109Z.jpg  (404.1 KB, 4.31s)
+2026-10-01T16:01:18-10:00job:security_camera_frame_grab | 16:01:13  📷  a-eyes  ch4 → ch4-20261002T020113Z.jpg  (240.0 KB, 4.34s)
+2026-10-01T16:01:18-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-01T16:01:18-10:00job:service_supervisor | [supervisor] weather alive pid=1988833 (act)
+2026-10-01T16:01:18-10:00job:service_supervisor | [supervisor] relay alive pid=1988054 (act)
+2026-10-01T16:01:18-10:00job:geology_collect RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Geology/scripts/geology_collect.py" all
+2026-10-01T16:01:25-10:00job:geology_collect | {"ok": true, "at": "2026-10-01T16:01:18-10:00", "what": "all", "dry_run": false, "sources": {"hawaii": {"ok": true, "count": 59, "new": 0, "new_m2": 0, "ms": 819}, "global": {"ok": true, "count": 34, "new": 0, "ms": 226}, "hvo_notices": {"ok": true, "count": 47, "new": 0, "ms": 5336}, "hvo_status": {"ok": true, "volcanoes": 8, "kilauea": "WATCH", "mauna_loa": "NORMAL", "ms": 810}}}
+2026-10-01T16:01:25-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-01T16:01:25-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261001.jsonl", "iface": "wlo1", "hour": {"seconds": 3704, "rx": 705302945, "tx": 2857816934, "total": 3563119879, "iface": "wlo1", "link": "wireless"}, "day": {"seconds": 86468, "rx": 5193492669, "tx": 9449703137, "total": 14643195806, "iface": "wlo1", "link": "wireless"}}
+2026-10-01T16:01:26-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-01T16:01:26-10:00job:discord_report_relay | same
+2026-10-01T16:01:26-10:00job:voice_system_perf RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/system_perf.py"
+2026-10-01T16:03:02-10:00job:voice_system_perf | {"ok": true, "report": "system_perf", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/system_perf_current.md", "cpu_pct": 20.6, "mem_pct": 76.3, "voice_rc": 0, "voice": {"ok": true, "mode": "stitch", "report": "system_perf", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/system_perf_current.wav", "clips_used": 0, "live_sentences": 11, "model_loaded": true, "render_s": 20.31, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 30.177, "peak_dbfs": -1.5, "rms_dbfs": -20.25, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 20.43, "peak_rss_mb": 1455}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2297, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "system_perf", "file": "system_perf_current.ogg", "bytes": 217999}}
+2026-10-01T16:03:02-10:00job:voice_energy_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" energy_report
+2026-10-01T16:03:32-10:00tunnel timeout — reconnecting
+2026-10-01T16:03:32-10:00tunnel timeout — reconnecting
+2026-10-01T16:03:32-10:00tunnel timeout — reconnecting
+2026-10-01T16:03:32-10:00tunnel timeout — reconnecting
+2026-10-01T16:03:32-10:00tunnel timeout — reconnecting
+2026-10-01T16:03:33-10:00tunnel timeout — reconnecting
+2026-10-01T16:03:34-10:00tunnel connected  conn=0  edge=lax07
+2026-10-01T16:03:34-10:00tunnel timeout — reconnecting
+2026-10-01T16:03:48-10:00tunnel connected  conn=2  edge=lax13
+2026-10-01T16:03:48-10:00tunnel connected  conn=1  edge=lax13
+2026-10-01T16:03:48-10:00tunnel connected  conn=3  edge=lax05
+2026-10-01T16:06:05-10:00job:voice_energy_report | {"ok": true, "report": "energy_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/energy_report_current.md", "sentences": 6, "voice": {"ok": true, "mode": "stitch", "report": "energy_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/energy_report_current.wav", "clips_used": 0, "live_sentences": 5, "model_loaded": true, "render_s": 36.57, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 26.902, "peak_dbfs": -1.5, "rms_dbfs": -20.27, "lead_silence_ms": 111, "qc": "PASS", "wall_s": 36.9, "peak_rss_mb": 1503, "rc": 0}, "deliver": {"ok": true, "skipped": true, "detail": "blended into the hourly solar desk; the radio file is refreshed"}, "radio": {"ok": true, "report": "energy_report", "file": "energy_report_current.ogg", "bytes": 194518}}
+2026-10-01T16:06:05-10:00job:voice_remaining_tasks RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" remaining_tasks
+2026-10-01T16:06:32-10:00job:voice_remaining_tasks | {"ok": true, "report": "remaining_tasks", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/remaining_tasks_current.md", "sentences": 5, "voice": {"ok": true, "mode": "stitch", "report": "remaining_tasks", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/remaining_tasks_current.wav", "clips_used": 0, "live_sentences": 4, "model_loaded": true, "render_s": 12.97, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 12.736, "peak_dbfs": -3.1, "rms_dbfs": -20.14, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 13.1, "peak_rss_mb": 1360, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2299, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "remaining_tasks", "file": "remaining_tasks_current.ogg", "bytes": 95477}}
+2026-10-01T16:06:32-10:00job:voice_earthquake_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" earthquake_report
+2026-10-01T16:07:05-10:00job:voice_earthquake_report | {"ok": true, "report": "earthquake_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/earthquake_report_current.md", "sentences": 7, "voice": {"ok": true, "mode": "stitch", "report": "earthquake_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/earthquake_report_current.wav", "clips_used": 0, "live_sentences": 6, "model_loaded": true, "render_s": 17.13, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 22.485, "peak_dbfs": -1.58, "rms_dbfs": -20.37, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 17.42, "peak_rss_mb": 1486, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2301, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "earthquake_report", "file": "earthquake_report_current.ogg", "bytes": 161244}}
+2026-10-01T16:07:05-10:00job:voice_kilauea_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" kilauea_report
+2026-10-01T16:07:45-10:00job:voice_kilauea_report | {"ok": true, "report": "kilauea_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_report_current.md", "sentences": 8, "voice": {"ok": true, "mode": "stitch", "report": "kilauea_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/kilauea_report_current.wav", "clips_used": 0, "live_sentences": 8, "model_loaded": true, "render_s": 23.37, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 35.34, "peak_dbfs": -1.5, "rms_dbfs": -20.44, "lead_silence_ms": 101, "qc": "PASS", "wall_s": 23.49, "peak_rss_mb": 1606, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2303, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "kilauea_report", "file": "kilauea_report_current.ogg", "bytes": 256918}}
+2026-10-01T16:07:45-10:00job:voice_solar_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" solar_desk
+2026-10-01T16:08:25-10:00job:voice_solar_desk | {"ok": true, "report": "solar_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/solar_desk_current.md", "sentences": 7, "voice": {"ok": true, "mode": "stitch", "report": "solar_desk", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/solar_desk_current.wav", "clips_used": 0, "live_sentences": 5, "model_loaded": true, "render_s": 19.05, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 32.073, "peak_dbfs": -1.91, "rms_dbfs": -20.22, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 19.12, "peak_rss_mb": 1521, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2305, "transcript": false, "report": true, "photo": true, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "solar_desk", "file": "solar_desk_current.ogg", "bytes": 240561}}
+2026-10-01T16:08:25-10:00job:voice_security_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" security_desk
+2026-10-01T16:08:54-10:00job:voice_security_desk | {"ok": true, "report": "security_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/security_desk_current.md", "sentences": 7, "voice": {"ok": true, "mode": "stitch", "report": "security_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/security_desk_current.wav", "clips_used": 0, "live_sentences": 6, "model_loaded": true, "render_s": 15.91, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 17.532, "peak_dbfs": -3.42, "rms_dbfs": -20.29, "lead_silence_ms": 110, "qc": "PASS", "wall_s": 16.08, "peak_rss_mb": 1376, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2308, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "security_desk", "file": "security_desk_current.ogg", "bytes": 126287}}
+2026-10-01T16:08:54-10:00job:voice_bandwidth_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" bandwidth_desk
+2026-10-01T16:09:24-10:00job:voice_bandwidth_desk | {"ok": true, "report": "bandwidth_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/bandwidth_desk_current.md", "sentences": 5, "voice": {"ok": true, "mode": "stitch", "report": "bandwidth_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/bandwidth_desk_current.wav", "clips_used": 0, "live_sentences": 4, "model_loaded": true, "render_s": 14.79, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 20.753, "peak_dbfs": -1.5, "rms_dbfs": -21.41, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 14.9, "peak_rss_mb": 1490, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2310, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "bandwidth_desk", "file": "bandwidth_desk_current.ogg", "bytes": 151766}}
+2026-10-01T16:09:24-10:00job:voice_current_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" current_report
+2026-10-01T16:11:36-10:00job:voice_current_report | {"ok": true, "report": "current_report", "md": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Reports/current_report_current.md", "sentences": 21, "voice": {"ok": true, "mode": "stitch", "report": "current_report", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/current_report_current.wav", "clips_used": 0, "live_sentences": 27, "model_loaded": true, "render_s": 51.85, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 98.281, "peak_dbfs": -1.5, "rms_dbfs": -20.21, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 51.93, "peak_rss_mb": 2027, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2312, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "radio": {"ok": true, "report": "current_report", "file": "current_report_current.ogg", "bytes": 715152}}
+2026-10-01T16:11:36-10:00job:discord_report_8h RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_rollups.py" 8h
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted nws_weather
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted energy_report
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted remaining_tasks
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted morning_report
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted midday_report
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted late_report
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted earthquake_report
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted hurricane_desk
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted kilauea_report
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted solar_desk
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted security_desk
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted bandwidth_desk
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted official_weather
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted boot_brief
+2026-10-01T16:11:53-10:00job:discord_report_8h | posted system_perf
+2026-10-01T16:11:53-10:00job:energy_sun_times RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/scripts/sun_times.py"
+2026-10-01T16:11:53-10:00job:energy_sun_times | {"ok": true, "date": "2026-10-01", "sunrise": "06:11", "sunset": "18:08", "sunrise_iso": "2026-10-01T06:11", "sunset_iso": "2026-10-01T18:08", "after_sunset": false, "before_sunrise": false, "source": "open-meteo", "now_hst": "16:11", "refreshed": false, "error": null}
+2026-10-01T16:11:53-10:00job:energy_moon_phase RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/scripts/moon_phase.py"
+2026-10-01T16:11:54-10:00job:energy_moon_phase | {"ok": true, "date": "2026-10-01", "phase": 0.6935, "phase_name": "Waning Gibbous", "illumination": 67, "next_phase": "Last Quarter", "next_phase_date": "2026-10-03", "refreshed": true, "error": null}
+2026-10-01T16:11:54-10:00job:automations_log_hourly_archive RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/archive_automations_log_hourly.sh"
