@@ -18,3 +18,11 @@
 2026-10-02T04:06:05-1000 river2pro-ac-recover: no-op ac_already_on soc=19.06 soc_age=35s input_watts=0 input_key=ac_input_power input_age=34s ac_age=34s src=read-river2pro-20261002-040530.json
 2026-10-02T04:07:35-1000 river2pro-ac-recover: no-op ac_already_on soc=18.84 soc_age=41s input_watts=0 input_key=ac_input_power input_age=41s ac_age=41s src=read-river2pro-20261002-040654.json
 2026-10-02T04:09:06-1000 river2pro-ac-recover: no-op ac_already_on soc=18.52 soc_age=42s input_watts=0 input_key=ac_input_power input_age=41s ac_age=41s src=read-river2pro-20261002-040824.json
+2026-10-02T04:10:38-1000 river2pro-ac-recover: no-op ac_already_on soc=18.16 soc_age=8s input_watts=0 input_key=ac_input_power input_age=7s ac_age=7s src=read-river2pro-20261002-041030.json
+2026-10-02T04:12:08-1000 river2pro-ac-recover: no-op ac_already_on soc=17.92 soc_age=14s input_watts=0 input_key=ac_input_power input_age=13s ac_age=13s src=read-river2pro-20261002-041154.json
+2026-10-02T04:13:39-1000 river2pro-ac-recover: run ac_on reason=soc soc=17.64 soc_age=15s input_watts=0 input_key=ac_input_power input_age=15s ac_ports=false ac_age=14s src=read-river2pro-20261002-041324.json
+2026-10-02T04:13:56-1000 river2pro-ac-recover: ok ac_on_finished reason=soc soc=17.64 input_watts=0 input_key=ac_input_power
+2026-10-02T04:15:09-1000 river2pro-ac-recover: no-op cooldown reason=soc soc=17.57 soc_age=22s input_watts=0 input_key=ac_input_power input_age=22s ac_ports=false ac_age=22s remaining_lt=120s
+2026-10-02T04:16:40-1000 river2pro-ac-recover: no-op ac_already_on soc=17.5 soc_age=28s input_watts=0 input_key=ac_input_power input_age=28s ac_age=28s src=read-river2pro-20261002-041612.json
+2026-10-02T04:18:10-1000 river2pro-ac-recover: no-op ac_already_on soc=17.17 soc_age=34s input_watts=0 input_key=ac_input_power input_age=33s ac_age=33s src=read-river2pro-20261002-041736.json
+2026-10-02T04:19:41-1000 river2pro-ac-recover: no-op ac_already_on soc=16.78 soc_age=1s input_watts=0 input_key=ac_input_power input_age=0s ac_age=0s src=read-river2pro-20261002-041940.json
