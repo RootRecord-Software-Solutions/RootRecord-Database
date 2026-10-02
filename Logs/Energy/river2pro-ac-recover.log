@@ -646,3 +646,13 @@
 2026-10-02T12:04:32-1000 river2pro-ac-recover: no-op ac_unknown_or_stale soc=16.0 soc_age=27s input_watts=0 input_key=ac_input_power input_age=27s ac_ports=false ac_age=22746s
 2026-10-02T12:05:17-1000 river2pro-ac-recover: no-op ac_unknown_or_stale soc=16.0 soc_age=72s input_watts=0 input_key=ac_input_power input_age=72s ac_ports=false ac_age=22791s
 2026-10-02T12:06:03-1000 river2pro-ac-recover: no-op ac_already_on_fresh_output soc=16.0 soc_age=118s input_watts=0 input_key=ac_input_power input_age=118s ac_out=46 out_age=118s ac_ports=false ac_age=22837s src=read-river2pro-20261002-054525.json
+2026-10-02T12:06:47-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=34s input_watts=0 input_key=ac_input_power input_age=34s ac_out=46 out_age=34s ac_age=34s src=cloud-fallback-river2pro.json
+2026-10-02T12:06:48-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=35s input_watts=0 input_key=ac_input_power input_age=35s ac_out=46 out_age=35s ac_age=35s src=cloud-fallback-river2pro.json
+2026-10-02T12:07:22-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=69s input_watts=0 input_key=ac_input_power input_age=69s ac_out=46 out_age=69s ac_age=69s src=cloud-fallback-river2pro.json
+2026-10-02T12:07:34-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=81s input_watts=0 input_key=ac_input_power input_age=80s ac_out=46 out_age=80s ac_age=80s src=cloud-fallback-river2pro.json
+2026-10-02T12:08:19-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=126s input_watts=0 input_key=ac_input_power input_age=126s ac_out=46 out_age=126s ac_age=126s src=cloud-fallback-river2pro.json
+2026-10-02T12:09:06-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=47s input_watts=0 input_key=ac_input_power input_age=46s ac_out=46 out_age=46s ac_age=46s src=cloud-fallback-river2pro.json
+2026-10-02T12:09:51-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=92s input_watts=0 input_key=ac_input_power input_age=92s ac_out=46 out_age=92s ac_age=92s src=cloud-fallback-river2pro.json
+2026-10-02T12:10:37-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=8s input_watts=0 input_key=ac_input_power input_age=7s ac_out=46 out_age=7s ac_age=7s src=cloud-fallback-river2pro.json
+2026-10-02T12:11:22-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=53s input_watts=0 input_key=ac_input_power input_age=52s ac_out=46 out_age=52s ac_age=52s src=cloud-fallback-river2pro.json
+2026-10-02T12:12:07-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=98s input_watts=0 input_key=ac_input_power input_age=97s ac_out=46 out_age=97s ac_age=97s src=cloud-fallback-river2pro.json
