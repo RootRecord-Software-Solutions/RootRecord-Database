@@ -163,3 +163,56 @@ See "systemctl status rr-fallback-runner.service" and "journalctl -xeu rr-fallba
 2026-09-29 16:03:25 HST REL 20260929-160310-5ee01b1e ROLLBACK: health: forced health failure (rollback test)
 2026-09-29 16:03:25 HST REL 20260929-160310-5ee01b1e rolled back to releases/20260929-160245-5ee01b1e/app
 2026-09-29 16:03:25 HST [apply] ROLLED BACK 20260929-160310-5ee01b1e (health/activation failed) rc=7
+2026-10-02 03:00:49 HST [dry-run] release 20261002-030049-92360344 (13 files) -> rr-aws-ip
+2026-10-02 03:00:52 HST [dry-run] preflight: MemAvailable 1340 MB, disk free 2280 MB, current app -> none
+2026-10-02 03:00:52 HST [dry-run] first install: no current release
+2026-10-02 03:00:54 HST [dry-run]   system: would UPDATE /etc/systemd/system/rr-fallback-runner.service
+2026-10-02 03:00:54 HST [dry-run]   system: unchanged /etc/systemd/system/rr-fallback-runner.timer
+2026-10-02 03:00:54 HST [dry-run]   system: unchanged /etc/systemd/system/rr-fallback-apply.service
+2026-10-02 03:00:54 HST [dry-run]   system: unchanged /etc/systemd/system/rr-fallback-apply.path
+2026-10-02 03:00:54 HST [dry-run]   system: unchanged /etc/systemd/system/rr-fallback-apply.timer
+2026-10-02 03:00:54 HST [dry-run]   system: unchanged /etc/systemd/journald.conf.d/60-rootrecord-caps.conf
+2026-10-02 03:00:54 HST [dry-run]   system: unchanged /etc/logrotate.d/rootrecord-fallback
+2026-10-02 03:00:54 HST [dry-run]   system: unchanged /usr/local/sbin/rr-fallback-apply
+2026-10-02 03:00:56 HST [dry-run] flags that would be created (existing flags are never overwritten): tunnel=1 globe_ingest=1 globe_web=1 globe_history=1 desk_watch=1 relay_buffer=1 telegram_hold=0 relay_send=0 globe_feed_8787=1 basic_replies=0 status_health=0 system_monitor=0 geology_current=0 nws_current=0 public_ip_notify=0 hawaii_news=0 github_poller=0 legacy_poller=0 weather_scheduler=0 
+2026-10-02 03:00:56 HST [dry-run] DRY-RUN complete: nothing changed on rr-aws-ip
+2026-10-02 03:01:03 HST [apply] release 20261002-030103-92360344 (13 files) -> rr-aws-ip
+2026-10-02 03:01:05 HST [apply] preflight: MemAvailable 1344 MB, disk free 2280 MB, current app -> none
+2026-10-02 03:01:05 HST [apply] first install: no current release
+2026-10-02 03:01:07 HST [apply]   system: would UPDATE /etc/systemd/system/rr-fallback-runner.service
+2026-10-02 03:01:07 HST [apply]   system: unchanged /etc/systemd/system/rr-fallback-runner.timer
+2026-10-02 03:01:07 HST [apply]   system: unchanged /etc/systemd/system/rr-fallback-apply.service
+2026-10-02 03:01:07 HST [apply]   system: unchanged /etc/systemd/system/rr-fallback-apply.path
+2026-10-02 03:01:07 HST [apply]   system: unchanged /etc/systemd/system/rr-fallback-apply.timer
+2026-10-02 03:01:07 HST [apply]   system: unchanged /etc/systemd/journald.conf.d/60-rootrecord-caps.conf
+2026-10-02 03:01:07 HST [apply]   system: unchanged /etc/logrotate.d/rootrecord-fallback
+2026-10-02 03:01:07 HST [apply]   system: unchanged /usr/local/sbin/rr-fallback-apply
+2026-10-02 03:01:09 HST [apply] flags that would be created (existing flags are never overwritten): tunnel=1 globe_ingest=1 globe_web=1 globe_history=1 desk_watch=1 relay_buffer=1 telegram_hold=0 relay_send=0 globe_feed_8787=1 basic_replies=0 status_health=0 system_monitor=0 geology_current=0 nws_current=0 public_ip_notify=0 hawaii_news=0 github_poller=0 legacy_poller=0 weather_scheduler=0 
+2026-10-02 03:01:09 HST [apply] apply: rsync -> /home/ubuntu/rootrecord/fallback/releases/20261002-030103-92360344.new
+2026-10-02 03:01:15 HST REL 20261002-030103-92360344 manifest OK
+2026-10-02 03:01:16 HST REL 20261002-030103-92360344 backup /home/ubuntu/rootrecord/bin.bak-fallback-deploy-20261002-030103
+2026-10-02 03:01:16 HST flag created tunnel=1
+2026-10-02 03:01:16 HST flag created globe_ingest=1
+2026-10-02 03:01:16 HST flag created globe_web=1
+2026-10-02 03:01:16 HST flag created globe_history=1
+2026-10-02 03:01:16 HST flag created desk_watch=1
+2026-10-02 03:01:16 HST flag created relay_buffer=1
+2026-10-02 03:01:16 HST flag created telegram_hold=0
+2026-10-02 03:01:16 HST flag created relay_send=0
+2026-10-02 03:01:16 HST flag created globe_feed_8787=1
+2026-10-02 03:01:16 HST flag created basic_replies=0
+2026-10-02 03:01:16 HST flag created status_health=0
+2026-10-02 03:01:16 HST flag created system_monitor=0
+2026-10-02 03:01:16 HST flag created geology_current=0
+2026-10-02 03:01:16 HST flag created nws_current=0
+2026-10-02 03:01:16 HST flag created public_ip_notify=0
+2026-10-02 03:01:16 HST flag created hawaii_news=0
+2026-10-02 03:01:16 HST flag created github_poller=0
+2026-10-02 03:01:16 HST flag created legacy_poller=0
+2026-10-02 03:01:16 HST flag created weather_scheduler=0
+2026-10-02 03:01:16 HST installed /etc/systemd/system/rr-fallback-runner.service
+2026-10-02 03:01:16 HST REL 20261002-030103-92360344 active (prev none)
+2026-10-02 03:01:16 HST REL 20261002-030103-92360344 ROLLBACK: flags not in sync with services: DRY-RUN would systemctl enable --now network-globe-web.service  (globe_web)
+DRY-RUN would systemctl enable --now network-globe-connection-history.service  (globe_history)
+2026-10-02 03:01:17 HST REL 20261002-030103-92360344 rolled back to <none: fallback units disabled>
+2026-10-02 03:01:17 HST [apply] ROLLED BACK 20261002-030103-92360344 (health/activation failed) rc=7
