@@ -667,3 +667,34 @@
 2026-10-02T12:18:56-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=123s input_watts=0 input_key=ac_input_power input_age=123s ac_out=46 out_age=123s ac_age=123s src=cloud-fallback-river2pro.json
 2026-10-02T12:19:42-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=38s input_watts=0 input_key=ac_input_power input_age=37s ac_out=46 out_age=37s ac_age=37s src=cloud-fallback-river2pro.json
 2026-10-02T12:20:27-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=83s input_watts=0 input_key=ac_input_power input_age=83s ac_out=46 out_age=83s ac_age=83s src=cloud-fallback-river2pro.json
+2026-10-02T12:21:12-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=2s input_watts=0 input_key=ac_input_power input_age=2s ac_out=46 out_age=2s ac_age=2s src=cloud-fallback-river2pro.json
+2026-10-02T12:21:57-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=47s input_watts=0 input_key=ac_input_power input_age=47s ac_out=46 out_age=47s ac_age=47s src=cloud-fallback-river2pro.json
+2026-10-02T12:22:43-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=93s input_watts=0 input_key=ac_input_power input_age=92s ac_out=46 out_age=92s ac_age=92s src=cloud-fallback-river2pro.json
+2026-10-02T12:23:28-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=8s input_watts=0 input_key=ac_input_power input_age=8s ac_out=46 out_age=8s ac_age=8s src=cloud-fallback-river2pro.json
+2026-10-02T12:24:14-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=54s input_watts=0 input_key=ac_input_power input_age=54s ac_out=46 out_age=54s ac_age=54s src=cloud-fallback-river2pro.json
+2026-10-02T12:24:59-1000 river2pro-ac-recover: no-op ac_already_on soc=16.0 soc_age=99s input_watts=0 input_key=ac_input_power input_age=99s ac_out=46 out_age=99s ac_age=99s src=cloud-fallback-river2pro.json
+2026-10-02T12:25:44-1000 river2pro-ac-recover: no-op ac_already_on soc=59.0 soc_age=15s input_watts=0 input_key=ac_input_power input_age=14s ac_out=92 out_age=14s ac_age=14s src=cloud-fallback-river2pro.json
+2026-10-02T12:26:29-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24063s ac_ports=false sight=1 sight_age=7s
+2026-10-02T12:26:38-1000 river2pro-ac-force: dry-run WOULD_RUN_ac_on ble_age=24072s ac_ports=false sight=1 sight_age=0s
+2026-10-02T12:26:38-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T12:26:50-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24084s ac_ports=false sight=1 sight_age=12s
+2026-10-02T12:27:05-1000 river2pro-ac-force: ok ac_on_finished
+2026-10-02T12:27:15-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24109s ac_ports=false sight=1 sight_age=16s
+2026-10-02T12:27:24-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T12:28:00-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24154s ac_ports=false sight=1 sight_age=14s
+2026-10-02T12:28:16-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T12:28:45-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24199s ac_ports=false sight=1 sight_age=24s
+2026-10-02T12:29:10-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T12:29:30-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24244s ac_ports=false sight=1 sight_age=6s
+2026-10-02T12:29:48-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T12:30:15-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24289s ac_ports=false sight=1 sight_age=14s
+2026-10-02T12:30:31-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T12:31:01-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24335s ac_ports=false sight=1 sight_age=28s
+2026-10-02T12:31:18-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T12:31:46-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24380s ac_ports=false sight=1 sight_age=37s
+2026-10-02T12:31:54-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T12:32:31-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24425s ac_ports=false sight=1 sight_age=14s
+2026-10-02T12:32:48-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T12:33:17-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24471s ac_ports=false sight=1 sight_age=25s
+2026-10-02T12:33:25-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T12:34:03-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=24517s ac_ports=false sight=1 sight_age=16s
