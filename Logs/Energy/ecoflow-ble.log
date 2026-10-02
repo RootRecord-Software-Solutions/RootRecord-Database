@@ -73,3 +73,24 @@
 2026-10-02T13:15:55-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
 2026-10-02T13:16:42-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
 2026-10-02T13:17:34-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:18:22-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:18:49-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T13:19:47-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:20:33-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:21:06-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T13:21:58-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:22:42-10:00 action: OK River2Pro AC ON readback=None sample=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/river2pro-enable_ac_ports-on-20261002-132242.json
+2026-10-02T13:23:29-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:24:15-10:00 action: OK River2Pro AC ON readback=None sample=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/river2pro-enable_ac_ports-on-20261002-132415.json
+2026-10-02T13:25:11-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:25:46-10:00 action: OK River2Pro AC ON readback=None sample=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/river2pro-enable_ac_ports-on-20261002-132546.json
+2026-10-02T13:26:41-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:27:17-10:00 action: OK River2Pro AC ON readback=None sample=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/river2pro-enable_ac_ports-on-20261002-132717.json
+2026-10-02T13:28:12-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:28:39-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T13:29:32-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:30:25-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:31:13-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:31:49-10:00 action: OK River2Pro AC ON readback=None sample=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy/samples/river2pro-enable_ac_ports-on-20261002-133149.json
+2026-10-02T13:32:43-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T13:33:27-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
