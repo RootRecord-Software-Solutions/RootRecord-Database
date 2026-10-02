@@ -1,8 +1,8 @@
-desk_written_at=2026-10-02T01:57:17-10:00
-Delta 2 observation=discharged and powered off last_soc_percent=0.97 age_min=162
-River 2 Pro SOC_percent=53.67 measured_at=2026-10-02T01:57:16-10:00 age_min=0 source=ble
+desk_written_at=2026-10-02T01:58:34-10:00
+Delta 2 observation=discharged and powered off last_soc_percent=0.97 age_min=164
+River 2 Pro SOC_percent=53.49 measured_at=2026-10-02T01:58:33-10:00 age_min=0 source=ble
 River 2 Pro solar_input_w=0
-River 2 Pro ac_output_w=37
+River 2 Pro ac_output_w=48
 River 2 Pro ac_input_w=0
 River 2 Pro usbc_output_w=0
 River 2 Pro charge_source=none
