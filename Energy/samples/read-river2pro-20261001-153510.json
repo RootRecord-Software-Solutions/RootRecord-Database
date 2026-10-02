@@ -1,0 +1,17 @@
+{
+  "alias": "river2pro",
+  "fields": {
+    "ac_ports": true,
+    "usb_ports": null,
+    "dc_12v_port": false,
+    "ac_output_power": 81,
+    "ac_input_power": 0,
+    "usbc_output_power": 50,
+    "usba_output_power": 0,
+    "solar_input_power": 55,
+    "soc": 9.31
+  },
+  "at": "2026-10-01T15:35:07-10:00",
+  "source": "ble",
+  "charge_source": "none"
+}
