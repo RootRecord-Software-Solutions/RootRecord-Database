@@ -87,3 +87,13 @@
 2026-10-02T05:02:26-1000 river2pro-ac-recover: no-op ac_already_on soc=6.96 soc_age=23s input_watts=0 input_key=ac_input_power input_age=23s ac_age=23s src=read-river2pro-20261002-050203.json
 2026-10-02T05:03:12-1000 river2pro-ac-recover: no-op ac_already_on soc=6.86 soc_age=17s input_watts=0 input_key=ac_input_power input_age=16s ac_age=16s src=read-river2pro-20261002-050255.json
 2026-10-02T05:03:57-1000 river2pro-ac-recover: no-op ac_already_on soc=6.75 soc_age=11s input_watts=0 input_key=ac_input_power input_age=11s ac_age=11s src=read-river2pro-20261002-050346.json
+2026-10-02T05:04:42-1000 river2pro-ac-recover: no-op ac_already_on soc=6.66 soc_age=7s input_watts=0 input_key=ac_input_power input_age=7s ac_age=7s src=read-river2pro-20261002-050435.json
+2026-10-02T05:05:28-1000 river2pro-ac-recover: no-op ac_already_on soc=6.57 soc_age=2s input_watts=0 input_key=ac_input_power input_age=2s ac_age=2s src=read-river2pro-20261002-050526.json
+2026-10-02T05:06:13-1000 river2pro-ac-recover: no-op ac_already_on soc=6.53 soc_age=22s input_watts=0 input_key=ac_input_power input_age=22s ac_age=22s src=read-river2pro-20261002-050551.json
+2026-10-02T05:06:58-1000 river2pro-ac-recover: no-op ac_already_on soc=6.44 soc_age=16s input_watts=0 input_key=ac_input_power input_age=16s ac_age=16s src=read-river2pro-20261002-050642.json
+2026-10-02T05:07:44-1000 river2pro-ac-recover: no-op ac_already_on soc=6.36 soc_age=11s input_watts=0 input_key=ac_input_power input_age=10s ac_age=10s src=read-river2pro-20261002-050733.json
+2026-10-02T05:08:29-1000 river2pro-ac-recover: no-op ac_already_on soc=6.29 soc_age=6s input_watts=0 input_key=ac_input_power input_age=5s ac_age=5s src=read-river2pro-20261002-050823.json
+2026-10-02T05:09:14-1000 river2pro-ac-recover: no-op ac_already_on soc=6.25 soc_age=24s input_watts=0 input_key=ac_input_power input_age=24s ac_age=24s src=read-river2pro-20261002-050850.json
+2026-10-02T05:10:00-1000 river2pro-ac-recover: no-op ac_already_on soc=6.17 soc_age=14s input_watts=0 input_key=ac_input_power input_age=14s ac_age=14s src=read-river2pro-20261002-050945.json
+2026-10-02T05:10:45-1000 river2pro-ac-recover: no-op ac_already_on soc=6.1 soc_age=10s input_watts=0 input_key=ac_input_power input_age=9s ac_age=9s src=read-river2pro-20261002-051035.json
+2026-10-02T05:11:30-1000 river2pro-ac-recover: no-op ac_already_on soc=6.06 soc_age=6s input_watts=0 input_key=ac_input_power input_age=6s ac_age=6s src=read-river2pro-20261002-051124.json
