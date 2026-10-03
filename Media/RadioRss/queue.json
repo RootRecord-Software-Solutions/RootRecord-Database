@@ -1353,7 +1353,7 @@
         {
           "publisher": "BBC",
           "source": "BBC Europe",
-          "title": "Watch: Why are students protesting at schools in France?",
+          "title": "Why are students protesting at schools in France?",
           "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-01T12:31:18Z"
         }
@@ -5815,14 +5815,14 @@
         {
           "publisher": "BBC",
           "source": "BBC Business",
-          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-02T17:29:56Z"
         },
         {
           "publisher": "BBC",
           "source": "BBC World",
-          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-10-02T20:25:19Z"
         }
@@ -7527,7 +7527,7 @@
         {
           "publisher": "ABC News Australia",
           "source": "ABC News Australia Top Stories",
-          "title": "Two critically injured after car ploughs into crowd of Newcastle Knights supporters",
+          "title": "P-plater in custody and one critical after car crashes into NRL fans in Newcastle",
           "url": "https://www.abc.net.au/news/2026-10-03/newcastle-knights-car-crash-wallsend-injuries/107224666",
           "published_at": "2026-10-03T00:23:10Z"
         }
@@ -7599,7 +7599,7 @@
         {
           "publisher": "The Guardian",
           "source": "The Guardian International",
-          "title": "Several people injured after vehicle hits crowd in Newcastle waiting to farewell Knights team bus",
+          "title": "Five-year-old girl and man, 67, in critical condition after car hits crowd in Newcastle",
           "url": "https://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle",
           "published_at": "2026-10-03T00:51:35Z"
         }
@@ -7653,7 +7653,7 @@
         {
           "publisher": "ABC News Australia",
           "source": "ABC News Australia Top Stories",
-          "title": "Live: Young girl critical as car hits Newcastle grand final crowd, injuring 10",
+          "title": "Live: One critical after car hits Newcastle grand final crowd, injuring 10",
           "url": "https://www.abc.net.au/news/2026-10-03/newcastle-crash-wallsend-knights/107224796",
           "published_at": "2026-10-03T01:53:45Z"
         }
@@ -7807,6 +7807,1034 @@
           "title": "Brazil's big political rematch: What to know",
           "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
           "published_at": "2026-10-03T02:57:07Z"
+        }
+      ]
+    },
+    {
+      "id": "454b0182407ac35d",
+      "cluster_id": "c_3fcb79c793d80208",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_3fcb79c793d80208.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_3fcb79c793d80208.speak.txt",
+      "sources": [
+        {
+          "publisher": "ABC News Australia",
+          "source": "ABC News Australia Top Stories",
+          "title": "How the eviction of an 87-year-old became Spain's 'last straw'",
+          "url": "https://www.abc.net.au/news/2026-10-03/how-the-case-of-maricarmen-could-change-spain-housing/107210212",
+          "published_at": "2026-10-03T03:36:54Z"
+        }
+      ]
+    },
+    {
+      "id": "4401e4c30d7daf3f",
+      "cluster_id": "c_7ed830d3f02a1ef3",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_7ed830d3f02a1ef3.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_7ed830d3f02a1ef3.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "Two Iranians charged over alleged plot targeting Jewish community in UK",
+          "url": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
+          "published_at": "2026-10-03T03:56:10Z"
+        }
+      ]
+    },
+    {
+      "id": "5b8d9133c87f8b46",
+      "cluster_id": "c_e4c8708d0e9d1110",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_e4c8708d0e9d1110.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_e4c8708d0e9d1110.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "G7 nations bow to US pressure and avoid crippling diesel ban",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/g7-nations-bow-to-us-pressure-and-avoid-crippling-diesel-ban?traffic_source=rss",
+          "published_at": "2026-10-03T03:54:58Z"
+        }
+      ]
+    },
+    {
+      "id": "e1a72fc5e0ecdd00",
+      "cluster_id": "c_f253fe20264b335e",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_f253fe20264b335e.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_f253fe20264b335e.speak.txt",
+      "sources": [
+        {
+          "publisher": "ABC News Australia",
+          "source": "ABC News Australia Top Stories",
+          "title": "Australian arrested for holding 'pistol-like object' in Hong Kong",
+          "url": "https://www.abc.net.au/news/2026-10-03/australian-arrested-in-hong-kong-for-holding-pistol-like-object/107220366",
+          "published_at": "2026-10-03T04:13:48Z"
+        }
+      ]
+    },
+    {
+      "id": "bf9e443730a97df1",
+      "cluster_id": "c_8f920c3ea3aa23e4",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_8f920c3ea3aa23e4.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_8f920c3ea3aa23e4.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "\u2018We swept a lot under the carpet\u2019: Vichy regime film hits home in France of 2026",
+          "url": "https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime",
+          "published_at": "2026-10-03T04:00:48Z"
+        }
+      ]
+    },
+    {
+      "id": "6cd407dc95bb2037",
+      "cluster_id": "c_2cca75a6d839a59b",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_2cca75a6d839a59b.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_2cca75a6d839a59b.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "\u2018My hips can\u2019t help but move\u2019: readers on the songs that always get them dancing",
+          "url": "https://www.theguardian.com/music/2026/oct/03/my-hips-cant-help-but-move-readers-on-the-songs-that-always-get-them-dancing",
+          "published_at": "2026-10-03T04:00:48Z"
+        }
+      ]
+    },
+    {
+      "id": "6b2224dd6471a8be",
+      "cluster_id": "c_e6cc9101c36ae625",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_e6cc9101c36ae625.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_e6cc9101c36ae625.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "India\u2019s Cockroach Party headlines day of anti-establishment protests",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/indias-cockroach-party-headlines-day-of-anti-establishment-protests?traffic_source=rss",
+          "published_at": "2026-10-03T04:28:03Z"
+        }
+      ]
+    },
+    {
+      "id": "8935db8e88a79b02",
+      "cluster_id": "c_8778bbda18c5dec7",
+      "program": "SPACE_BRIEF",
+      "report": "space_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/space_brief/c_8778bbda18c5dec7.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/space_brief/c_8778bbda18c5dec7.speak.txt",
+      "sources": [
+        {
+          "publisher": "NASA",
+          "source": "NASA News Releases",
+          "title": "APOD: 2026 October 3 \u2013 Selfie at Vera Rubin Ridge",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+          "published_at": "2026-10-03T04:05:00Z"
+        },
+        {
+          "publisher": "NASA",
+          "source": "NASA Recently Published Content",
+          "title": "APOD: 2026 October 3 \u2013 Selfie at Vera Rubin Ridge",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+          "published_at": "2026-10-03T04:05:00Z"
+        }
+      ]
+    },
+    {
+      "id": "8f647bd014f11a97",
+      "cluster_id": "c_56fb7388c2fb8af8",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_56fb7388c2fb8af8.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_56fb7388c2fb8af8.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "Brazil\u2019s Lula and Bolsonaro draw thousands as campaigns near end",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss",
+          "published_at": "2026-10-03T04:43:15Z"
+        }
+      ]
+    },
+    {
+      "id": "2587732d91a157f8",
+      "cluster_id": "c_0fe65de528d5f20e",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_0fe65de528d5f20e.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_0fe65de528d5f20e.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "New claims that Netanyahu rejected Hamas offer to release captives",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss",
+          "published_at": "2026-10-03T04:58:43Z"
+        }
+      ]
+    },
+    {
+      "id": "c8884541f0c8d0d3",
+      "cluster_id": "c_6a89f6eb3d19cd30",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_6a89f6eb3d19cd30.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_6a89f6eb3d19cd30.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "WHO warns of \u2018devastating consequences\u2019 due to delayed aid entry into Gaza",
+          "url": "https://www.aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza?traffic_source=rss",
+          "published_at": "2026-10-03T04:54:20Z"
+        }
+      ]
+    },
+    {
+      "id": "8ce673a3ad636d07",
+      "cluster_id": "c_f274180597d35a27",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_f274180597d35a27.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_f274180597d35a27.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "Ten injured after car crashes into rugby supporters in Australia",
+          "url": "https://www.aljazeera.com/news/2026/10/3/10-injured-after-car-crashes-into-rugby-supporters-in-australia?traffic_source=rss",
+          "published_at": "2026-10-03T04:29:23Z"
+        }
+      ]
+    },
+    {
+      "id": "0441cec1402d9e8f",
+      "cluster_id": "c_de487df050aa0beb",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_de487df050aa0beb.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_de487df050aa0beb.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+          "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
+          "published_at": "2026-10-03T05:00:52Z"
+        }
+      ]
+    },
+    {
+      "id": "8c420d7218b624df",
+      "cluster_id": "c_865ed3ce40639792",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_865ed3ce40639792.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_865ed3ce40639792.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "\u2018Elon is my prophet\u2019: how Musk\u2019s Doge team took a wrecking ball to Washington",
+          "url": "https://www.theguardian.com/us-news/2026/oct/03/elon-is-my-prophet-how-musks-doge-team-took-a-wrecking-ball-to-washington",
+          "published_at": "2026-10-03T05:00:50Z"
+        }
+      ]
+    },
+    {
+      "id": "6b852c9d4af61502",
+      "cluster_id": "c_4b7ae23671abd37d",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_4b7ae23671abd37d.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_4b7ae23671abd37d.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "Blind date: \u2018He asked if my disco ball tattoo was an onion\u2019",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/oct/03/blind-date-shahar-stephen",
+          "published_at": "2026-10-03T05:00:52Z"
+        }
+      ]
+    },
+    {
+      "id": "a844bcaf0de8ad3c",
+      "cluster_id": "c_5ef1accf1f312775",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_5ef1accf1f312775.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_5ef1accf1f312775.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "Tim Dowling: nobody\u2019s laughing \u2013 is the joke on me?",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/oct/03/tim-dowling-nobodys-laughing-is-the-joke-on-me",
+          "published_at": "2026-10-03T05:00:51Z"
+        }
+      ]
+    },
+    {
+      "id": "9936a145fc5688a4",
+      "cluster_id": "c_d4bc541760b3066c",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_d4bc541760b3066c.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_d4bc541760b3066c.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "\u2018A beacon of peace\u2019: London\u2019s oldest mosque celebrates centenary",
+          "url": "https://www.theguardian.com/world/2026/oct/03/london-oldest-mosque-fazl-wandsworth-centenary",
+          "published_at": "2026-10-03T05:00:51Z"
+        }
+      ]
+    },
+    {
+      "id": "c0b647797c6a8ec1",
+      "cluster_id": "c_945eb88b394168b9",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_945eb88b394168b9.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_945eb88b394168b9.speak.txt",
+      "sources": [
+        {
+          "publisher": "ABC News Australia",
+          "source": "ABC News Australia Top Stories",
+          "title": "FOMO and 4am wake-up call get Pallister in the ocean",
+          "url": "https://www.abc.net.au/news/2026-10-03/lani-pallister-backs-up-short-course-titles-with-ocean-swim-win/107225056",
+          "published_at": "2026-10-03T05:55:39Z"
+        }
+      ]
+    },
+    {
+      "id": "fb2a9c937ce58110",
+      "cluster_id": "c_3a1c33955250d31d",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_3a1c33955250d31d.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_3a1c33955250d31d.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "\u2018People are deserting it\u2019: why are London mansions struggling to sell?",
+          "url": "https://www.theguardian.com/money/2026/oct/03/london-mansions-sell-house-prices-prime-property",
+          "published_at": "2026-10-03T06:00:50Z"
+        }
+      ]
+    },
+    {
+      "id": "c2ab7dcbc319416a",
+      "cluster_id": "c_47e797ab70049b81",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_47e797ab70049b81.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_47e797ab70049b81.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "Comedy wildlife photography award finalists 2026 \u2013 in pictures",
+          "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/03/comedy-wildlife-photography-awards-2026-in-pictures",
+          "published_at": "2026-10-03T05:00:49Z"
+        }
+      ]
+    },
+    {
+      "id": "63e51ac941e69c86",
+      "cluster_id": "c_451727f012c9b4ec",
+      "program": "CHIPS_BRIEF",
+      "report": "chips_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/chips_brief/c_451727f012c9b4ec.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/chips_brief/c_451727f012c9b4ec.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
+          "published_at": "2026-10-03T05:39:22Z"
+        }
+      ]
+    },
+    {
+      "id": "59bbfa793a90d57b",
+      "cluster_id": "c_73b9a0ad42aee47b",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_73b9a0ad42aee47b.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_73b9a0ad42aee47b.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
+          "url": "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
+          "published_at": "2026-10-03T05:31:08Z"
+        }
+      ]
+    },
+    {
+      "id": "7ab35feda7746e93",
+      "cluster_id": "c_392ba0e4228f5010",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_392ba0e4228f5010.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_392ba0e4228f5010.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "What is Zionism and why do some critics describe it as racist?",
+          "url": "https://www.theguardian.com/world/2026/oct/03/what-is-zionism-green-party-debate",
+          "published_at": "2026-10-03T06:00:51Z"
+        }
+      ]
+    },
+    {
+      "id": "032f1b8d70502901",
+      "cluster_id": "c_c08484f3160696b6",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_c08484f3160696b6.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_c08484f3160696b6.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "Get Jiro: Anthony Bourdain\u2019s ultraviolent sushi chef makes for wild, pulpy television",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/03/get-jiro-anthony-bourdains-ultraviolent-sushi-chef-makes-for-wild-pulpy-television",
+          "published_at": "2026-10-03T06:00:52Z"
+        }
+      ]
+    },
+    {
+      "id": "a43e76213978a7ce",
+      "cluster_id": "c_d87c5fdcbae78a88",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_d87c5fdcbae78a88.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_d87c5fdcbae78a88.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "Gaza voters want jobs and security as Palestinian elections approach",
+          "url": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
+          "published_at": "2026-10-03T05:39:29Z"
+        }
+      ]
+    },
+    {
+      "id": "4a3154d5c30ddea1",
+      "cluster_id": "c_82174d86d53704c2",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_82174d86d53704c2.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_82174d86d53704c2.speak.txt",
+      "sources": [
+        {
+          "publisher": "BBC",
+          "source": "BBC Europe",
+          "title": "Russia strikes second major bridge in Kyiv, mayor says",
+          "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-03T06:27:15Z"
+        },
+        {
+          "publisher": "BBC",
+          "source": "BBC World",
+          "title": "Russia strikes second major bridge in Kyiv, mayor says",
+          "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-03T06:27:15Z"
+        }
+      ]
+    },
+    {
+      "id": "64076d686ad865fc",
+      "cluster_id": "c_fe5d7c3a2bfe86c3",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_fe5d7c3a2bfe86c3.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_fe5d7c3a2bfe86c3.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "Flydubai co-pilot attacked captain with crash axe in \u2018terrorist act\u2019: UAE",
+          "url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss",
+          "published_at": "2026-10-03T06:16:47Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "Flydubai co-pilot used crash axe to attack captain, says UAE",
+          "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+          "published_at": "2026-10-03T07:01:17Z"
+        },
+        {
+          "publisher": "ABC News Australia",
+          "source": "ABC News Australia Top Stories",
+          "title": "Crash axe used in flydubai attack on pilot",
+          "url": "https://www.abc.net.au/news/2026-10-03/sources-say-omani-co-pilot-had-extreme-views/107225300",
+          "published_at": "2026-10-03T09:01:51Z"
+        }
+      ]
+    },
+    {
+      "id": "1fa778785c4b593e",
+      "cluster_id": "c_27d9003ede0a344e",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_27d9003ede0a344e.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_27d9003ede0a344e.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss",
+          "published_at": "2026-10-03T06:53:09Z"
+        }
+      ]
+    },
+    {
+      "id": "6d8ba10303ad16f6",
+      "cluster_id": "c_b1ab7b0e7eb15e34",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_b1ab7b0e7eb15e34.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_b1ab7b0e7eb15e34.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "\u2018Trauma still there\u2019: A decades-old standoff returns to Northern Ireland",
+          "url": "https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss",
+          "published_at": "2026-10-03T06:51:09Z"
+        }
+      ]
+    },
+    {
+      "id": "33ed76febfc81667",
+      "cluster_id": "c_83dfff3470e83dc2",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_83dfff3470e83dc2.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_83dfff3470e83dc2.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "Brazil\u2019s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+          "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+          "published_at": "2026-10-03T07:00:35Z"
+        }
+      ]
+    },
+    {
+      "id": "204932de22c7236a",
+      "cluster_id": "c_9847426e0f6d30f1",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_9847426e0f6d30f1.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_9847426e0f6d30f1.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "'There\u2019s no such thing as democracy' \u2013 Yanis Varoufakis | Radical Thinking with Aditya Chakrabortty",
+          "url": "https://www.theguardian.com/politics/video/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty",
+          "published_at": "2026-10-03T06:45:51Z"
+        }
+      ]
+    },
+    {
+      "id": "a4e152b72edd95ab",
+      "cluster_id": "c_8cb7f083914d8d16",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_8cb7f083914d8d16.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_8cb7f083914d8d16.speak.txt",
+      "sources": [
+        {
+          "publisher": "ABC News Australia",
+          "source": "ABC News Australia Top Stories",
+          "title": "One Nation promises law-and-order boost in Victorian campaign launch",
+          "url": "https://www.abc.net.au/news/2026-10-03/one-nation-launches-victorian-election-campaign/107223676",
+          "published_at": "2026-10-03T07:14:08Z"
+        }
+      ]
+    },
+    {
+      "id": "d35d82e180367929",
+      "cluster_id": "c_17a86d72bc22deb6",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_17a86d72bc22deb6.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_17a86d72bc22deb6.speak.txt",
+      "sources": [
+        {
+          "publisher": "ABC News Australia",
+          "source": "ABC News Australia Top Stories",
+          "title": "Tornado rips through NSW south coast, causing damage around Ulladulla",
+          "url": "https://www.abc.net.au/news/2026-10-03/tornado-tears-through-ulladulla-in-nsw-south-coast/107225262",
+          "published_at": "2026-10-03T07:44:58Z"
+        }
+      ]
+    },
+    {
+      "id": "72186a8fa7dcb5bc",
+      "cluster_id": "c_9e27a65d475516b4",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_9e27a65d475516b4.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_9e27a65d475516b4.speak.txt",
+      "sources": [
+        {
+          "publisher": "BBC",
+          "source": "BBC World",
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-03T07:49:40Z"
+        },
+        {
+          "publisher": "BBC",
+          "source": "BBC Asia",
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-03T07:49:40Z"
+        },
+        {
+          "publisher": "BBC",
+          "source": "BBC Middle East",
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-03T08:26:06Z"
+        }
+      ]
+    },
+    {
+      "id": "8803301abf2a555b",
+      "cluster_id": "c_7ff0df672028764e",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_7ff0df672028764e.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_7ff0df672028764e.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "Bosnian Serb leader says Bosnia is \u2018dead\u2019 ahead of election",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
+          "published_at": "2026-10-03T07:57:53Z"
+        }
+      ]
+    },
+    {
+      "id": "6433e37886dd2efc",
+      "cluster_id": "c_b03cdc33dc92ac7f",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_b03cdc33dc92ac7f.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_b03cdc33dc92ac7f.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+          "published_at": "2026-10-03T07:57:47Z"
+        }
+      ]
+    },
+    {
+      "id": "8b51aefb6d69632a",
+      "cluster_id": "c_65160da2521f8ef0",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_65160da2521f8ef0.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_65160da2521f8ef0.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "To reclaim its sovereignty, Senegal must approach debt differently",
+          "url": "https://www.aljazeera.com/opinions/2026/10/3/to-reclaim-its-sovereignty-senegal-must-approach-debt-differently?traffic_source=rss",
+          "published_at": "2026-10-03T07:51:04Z"
+        }
+      ]
+    },
+    {
+      "id": "550aa0b72687a8de",
+      "cluster_id": "c_f71272d0a46bf306",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_f71272d0a46bf306.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_f71272d0a46bf306.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "\u2018I thought, if I\u2019m going to die, I\u2019m going to write a book first\u2019: Pachinko author Min Jin Lee",
+          "url": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee",
+          "published_at": "2026-10-03T08:00:53Z"
+        }
+      ]
+    },
+    {
+      "id": "e463a15ec003c706",
+      "cluster_id": "c_81889d3d0071a7aa",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_81889d3d0071a7aa.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_81889d3d0071a7aa.speak.txt",
+      "sources": [
+        {
+          "publisher": "ABC News Australia",
+          "source": "ABC News Australia Top Stories",
+          "title": "Sharks could linger off Perth coast despite whale carcass removal",
+          "url": "https://www.abc.net.au/news/2026-10-03/sharks-set-to-linger-off-perth-beaches-after-whale-removed/107223760",
+          "published_at": "2026-10-03T08:09:52Z"
+        }
+      ]
+    },
+    {
+      "id": "baafa5996b5e40c8",
+      "cluster_id": "c_4f94b8c6b1d03d40",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_4f94b8c6b1d03d40.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_4f94b8c6b1d03d40.speak.txt",
+      "sources": [
+        {
+          "publisher": "BBC",
+          "source": "BBC Middle East",
+          "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
+          "url": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-02T15:29:28Z"
+        }
+      ]
+    },
+    {
+      "id": "173e5dbbeeab53ff",
+      "cluster_id": "c_458112b1ac644677",
+      "program": "MAINLAND_WEATHER_BRIEF",
+      "report": "mainland_weather_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/mainland_weather_brief/c_458112b1ac644677.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/mainland_weather_brief/c_458112b1ac644677.speak.txt",
+      "sources": [
+        {
+          "publisher": "National Hurricane Center",
+          "source": "NHC Eastern North Pacific",
+          "title": "Hurricane Rachel Public Advisory Number 25",
+          "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/030835.shtml",
+          "published_at": "2026-10-03T08:35:31Z"
+        }
+      ]
+    },
+    {
+      "id": "c44b7914fe84e3af",
+      "cluster_id": "c_46a0e440ee787a54",
+      "program": "MAINLAND_WEATHER_BRIEF",
+      "report": "mainland_weather_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/mainland_weather_brief/c_46a0e440ee787a54.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/mainland_weather_brief/c_46a0e440ee787a54.speak.txt",
+      "sources": [
+        {
+          "publisher": "National Hurricane Center",
+          "source": "NHC Eastern North Pacific",
+          "title": "Hurricane Rachel Forecast Advisory Number 25",
+          "url": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/030834.shtml",
+          "published_at": "2026-10-03T08:35:01Z"
+        }
+      ]
+    },
+    {
+      "id": "f83572eb6d2619e5",
+      "cluster_id": "c_6f6d0a939f5abf2b",
+      "program": "MAINLAND_WEATHER_BRIEF",
+      "report": "mainland_weather_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/mainland_weather_brief/c_6f6d0a939f5abf2b.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/mainland_weather_brief/c_6f6d0a939f5abf2b.speak.txt",
+      "sources": [
+        {
+          "publisher": "National Hurricane Center",
+          "source": "NHC Eastern North Pacific",
+          "title": "Hurricane Rachel Forecast Discussion Number 25",
+          "url": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/030836.shtml",
+          "published_at": "2026-10-03T08:36:33Z"
+        }
+      ]
+    },
+    {
+      "id": "bf6d57bfd30bfe55",
+      "cluster_id": "c_97a11724f6834efb",
+      "program": "MAINLAND_WEATHER_BRIEF",
+      "report": "mainland_weather_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/mainland_weather_brief/c_97a11724f6834efb.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/mainland_weather_brief/c_97a11724f6834efb.speak.txt",
+      "sources": [
+        {
+          "publisher": "National Hurricane Center",
+          "source": "NHC Eastern North Pacific",
+          "title": "Hurricane Rachel Wind Speed Probabilities Number 25",
+          "url": "https://www.nhc.noaa.gov/text/refresh/MIAPWSEP3+shtml/030835.shtml",
+          "published_at": "2026-10-03T08:36:02Z"
+        }
+      ]
+    },
+    {
+      "id": "11933c9e4d975f3b",
+      "cluster_id": "c_79eaea3ec63cb6ac",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_79eaea3ec63cb6ac.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_79eaea3ec63cb6ac.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "Polls open in Latvia against backdrop of perceived Russia threat",
+          "url": "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss",
+          "published_at": "2026-10-03T08:21:23Z"
+        }
+      ]
+    },
+    {
+      "id": "b9233e2360f2ce0b",
+      "cluster_id": "c_a635425a99d28061",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_a635425a99d28061.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_a635425a99d28061.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "Floods sweep cars through streets after intense rain in Spain",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-spain-floods-clip-mp4?traffic_source=rss",
+          "published_at": "2026-10-03T08:17:40Z"
+        }
+      ]
+    },
+    {
+      "id": "da898af1f3e31ae2",
+      "cluster_id": "c_b93fce2a2f185be3",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_b93fce2a2f185be3.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_b93fce2a2f185be3.speak.txt",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "source": "Al Jazeera",
+          "title": "Yemen\u2019s army claims over 1,500 Houthi casualties in past 24 hours",
+          "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
+          "published_at": "2026-10-03T08:36:17Z"
+        }
+      ]
+    },
+    {
+      "id": "9ff997ed28f97ccf",
+      "cluster_id": "c_a75d69559f094c08",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_a75d69559f094c08.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_a75d69559f094c08.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "Libyan unity talks upended as warlord\u2019s son linked to drone attacks on fuel facilities",
+          "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+          "published_at": "2026-10-03T09:00:56Z"
+        }
+      ]
+    },
+    {
+      "id": "3206303af2556598",
+      "cluster_id": "c_29265e7664afee47",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_29265e7664afee47.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_29265e7664afee47.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "The American dream remains elusive in the valley that inspired East of Eden",
+          "url": "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck",
+          "published_at": "2026-10-03T09:00:54Z"
+        }
+      ]
+    },
+    {
+      "id": "653be59c85ecb7d2",
+      "cluster_id": "c_9d3aff3e83c79c89",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_9d3aff3e83c79c89.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_9d3aff3e83c79c89.speak.txt",
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "source": "The Guardian International",
+          "title": "\u2018An extraordinary hour\u2019: the explosive play re-staging the biggest TV clash of the Aids era",
+          "url": "https://www.theguardian.com/stage/2026/oct/03/kramer-fauci-aids-play-brookyn-new-york",
+          "published_at": "2026-10-03T09:00:55Z"
+        }
+      ]
+    },
+    {
+      "id": "4ddeca1e4dfb4383",
+      "cluster_id": "c_6d1626f823c7db72",
+      "program": "MAINLAND_POLITICS_BRIEF",
+      "report": "mainland_politics_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/mainland_politics_brief/c_6d1626f823c7db72.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/mainland_politics_brief/c_6d1626f823c7db72.speak.txt",
+      "sources": [
+        {
+          "publisher": "NPR",
+          "source": "NPR National",
+          "title": "The Supreme Court faces another term jam-packed with controversy",
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
+          "published_at": "2026-10-03T09:00:00Z"
+        },
+        {
+          "publisher": "NPR",
+          "source": "NPR News",
+          "title": "The Supreme Court faces another term jam-packed with controversy",
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
+          "published_at": "2026-10-03T09:00:00Z"
+        },
+        {
+          "publisher": "NPR",
+          "source": "NPR Politics",
+          "title": "The Supreme Court faces another term jam-packed with controversy",
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
+          "published_at": "2026-10-03T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "47fab7e5420a6eda",
+      "cluster_id": "c_aa77df82eaa27725",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_aa77df82eaa27725.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_aa77df82eaa27725.speak.txt",
+      "sources": [
+        {
+          "publisher": "NPR",
+          "source": "NPR News",
+          "title": "A hot tip to battle performance anxiety? 'Pretend flush' a mistake down the toilet",
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
+          "published_at": "2026-10-03T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "47bac1db19e2383e",
+      "cluster_id": "c_469c5944319f2ee7",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_469c5944319f2ee7.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_469c5944319f2ee7.speak.txt",
+      "sources": [
+        {
+          "publisher": "NPR",
+          "source": "NPR News",
+          "title": "No one expected an American pope. Here's the inside story of how 'Bob' became Pope Leo",
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
+          "published_at": "2026-10-03T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "5830c427ad3e5a16",
+      "cluster_id": "c_b69b36a558a27f3f",
+      "program": "GLOBAL_NEWS_BRIEF",
+      "report": "global_news_brief",
+      "priority": "high",
+      "script": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_b69b36a558a27f3f.txt",
+      "speak": "/home/ubuntu/US-Mainland-Server-2/var/radio-bank/Media/RadioRss/processed/scripts/global_news_brief/c_b69b36a558a27f3f.speak.txt",
+      "sources": [
+        {
+          "publisher": "NPR",
+          "source": "NPR News",
+          "title": "How the system failed us: Former foster youth tell their stories",
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5939829/foster-care-youth-disabilities-failure-voices",
+          "published_at": "2026-10-03T09:00:00Z"
         }
       ]
     }
