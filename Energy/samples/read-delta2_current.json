@@ -1,8 +1,13 @@
 {
   "alias": "delta2",
-  "at": "2026-10-03T09:30:01.000Z",
+  "at": "2026-10-03T11:32:07.354127Z",
   "source": "ble",
   "fields": {
-    "soc": 2
+    "soc": 14.28,
+    "solar_input_power": 0.0,
+    "ac_output_power": 46.0,
+    "usbc_output_power": 24.0,
+    "ac_input_power": 0.0,
+    "usba_output_power": 0.0
   }
 }
