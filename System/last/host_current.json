@@ -3,22 +3,22 @@
   "host": "rootrecord-software-solutions",
   "fields": {
     "cpu_percent": {
-      "value": 9.71,
+      "value": 13.04,
       "unit": "%",
       "state": "measured"
     },
     "load1": {
-      "value": 3.45,
+      "value": 2.14,
       "unit": "load",
       "state": "measured"
     },
     "load5": {
-      "value": 4.63,
+      "value": 2.38,
       "unit": "load",
       "state": "measured"
     },
     "load15": {
-      "value": 3.34,
+      "value": 2.65,
       "unit": "load",
       "state": "measured"
     },
@@ -28,16 +28,16 @@
       "state": "measured"
     },
     "mem_available_bytes": {
-      "value": 6507769856.0,
+      "value": 5948563456.0,
       "unit": "B",
       "state": "measured"
     },
     "mem_used_percent": {
-      "value": 57.24,
+      "value": 60.92,
       "unit": "%",
       "state": "measured"
     }
   },
-  "at": "2026-10-03T17:51:34.407Z",
+  "at": "2026-10-03T18:05:57.349Z",
   "source": "proc"
 }
