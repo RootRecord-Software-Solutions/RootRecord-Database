@@ -1018,3 +1018,8 @@
 2026-10-02T14:34:15-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=31729s ac_ports=false sight=1 sight_age=25s
 2026-10-02T14:34:23-1000 river2pro-ac-force: fail ac_on_exit=2
 2026-10-02T14:35:00-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=31774s ac_ports=false sight=1 sight_age=16s
+2026-10-02T14:35:21-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:35:45-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=31819s ac_ports=false sight=1 sight_age=0s
+2026-10-02T14:36:03-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:36:31-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=31865s ac_ports=false sight=1 sight_age=16s
+2026-10-02T14:36:48-1000 river2pro-ac-force: fail ac_on_exit=2
