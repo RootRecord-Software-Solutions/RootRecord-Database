@@ -1,10 +1,10 @@
 {
-  "updated_on": "2026-10-02",
-  "updated_at": "2026-10-02T17:07:08-10:00",
-  "recording_since": "2026-10-02T02:14:52-10:00",
-  "uptime_pct": 7,
-  "offline_samples": 106,
-  "avg_offline_s": 471,
+  "updated_on": "2026-10-03",
+  "updated_at": "2026-10-03T08:35:48-10:00",
+  "recording_since": "2026-10-03T08:35:48-10:00",
+  "uptime_pct": 100,
+  "offline_samples": 0,
+  "avg_offline_s": null,
   "return_samples": 0,
   "avg_return_hour": null,
   "avg_return_minute": null
