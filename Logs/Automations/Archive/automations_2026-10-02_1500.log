@@ -1,0 +1,754 @@
+2026-10-02T13:17:40-10:00job:automations_log_hourly_archive OK
+2026-10-02T13:17:40-10:00job:security_timelapse_hourly_compile RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/timelapse_hourly.sh"
+2026-10-02T13:17:41-10:00job:security_timelapse_hourly_compile | 13:17:41  🎬  a-eyes-timelapse  hour 12 frames archived → /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Timelapses/_archive/20261002/hour_12
+2026-10-02T13:17:41-10:00job:security_timelapse_hourly_compile | 13:17:41  🎬  a-eyes-timelapse  hour 12 already compiled, skipping
+2026-10-02T13:17:41-10:00job:voice_timing_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/Voice-Timing/scripts/voice_timing_report.py"
+2026-10-02T13:17:41-10:00job:voice_timing_report | [ok] voice-timing written (472 runs): /home/rootrecord/RootRecord-Ecosystem/5 - RootRecord-Library/Documentation/01-Operations/voice-timing.md
+2026-10-02T13:17:43-10:00ENERGY  status=live  B2=22.2%  B1=59%  solar=155 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=80%/Discharging/batt
+2026-10-02T13:17:43-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T13:17:45-10:00job:sys_stats_cycle | SYSTEM  cpu=6%  load=3.37  mem=23%  src=sqlite
+2026-10-02T13:17:45-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-131743.json
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [ecosystem] committed 44 local file(s)
+2026-10-02T13:19:25-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T13:19:25-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T13:19:25-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T13:19:25-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T13:19:25-10:00job:github_sync_all | 25b42f49..f164eb9b  HEAD -> main
+2026-10-02T13:19:25-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [ecosystem] 44 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [pacific] committed 11 local file(s)
+2026-10-02T13:19:25-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T13:19:25-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T13:19:25-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T13:19:25-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T13:19:25-10:00job:github_sync_all | d97deb5..3ac98ea  HEAD -> main
+2026-10-02T13:19:25-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [pacific] 11 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [database] committed 63 local file(s)
+2026-10-02T13:19:25-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T13:19:25-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T13:19:25-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T13:19:25-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T13:19:25-10:00job:github_sync_all | 6358bc12..20af2be4  HEAD -> main
+2026-10-02T13:19:25-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [database] 63 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [library] committed 1 local file(s)
+2026-10-02T13:19:25-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T13:19:25-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T13:19:25-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [library] local is ahead of GitHub
+2026-10-02T13:19:25-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Library.git
+2026-10-02T13:19:25-10:00job:github_sync_all | 86291d1..7c0eb74  HEAD -> main
+2026-10-02T13:19:25-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [library] 1 files → RootRecord-Software-Solutions/RootRecord-Library (main)
+2026-10-02T13:19:25-10:00job:github_sync_all | ↑ [website] committed 10 local file(s)
+2026-10-02T13:19:25-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T13:19:25-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T13:19:25-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T13:19:25-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T13:22:25-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T13:22:25-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T13:22:43-10:00job:security_camera_frame_grab | 13:22:25  📷  a-eyes  ch1 → ch1-20261002T232225Z.jpg  (467.3 KB, 4.55s)
+2026-10-02T13:22:43-10:00job:security_camera_frame_grab | 13:22:29  📷  a-eyes  ch2 → ch2-20261002T232229Z.jpg  (328.6 KB, 4.46s)
+2026-10-02T13:22:43-10:00job:security_camera_frame_grab | 13:22:34  📷  a-eyes  ch3 → ch3-20261002T232234Z.jpg  (385.5 KB, 4.38s)
+2026-10-02T13:22:43-10:00job:security_camera_frame_grab | 13:22:38  📷  a-eyes  ch4 → ch4-20261002T232238Z.jpg  (271.3 KB, 4.48s)
+2026-10-02T13:22:43-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T13:22:43-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 35183, "desk_uptime_s": 258996, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-02T23:22:43.416092+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T13:22:43-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T13:22:43-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T13:22:44-10:00job:voice_system_perf RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/system_perf.py"
+2026-10-02T13:23:34-10:00job:voice_system_perf | {"ok": true, "report": "system_perf", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/system_perf_current.md", "cpu_pct": 21.3, "mem_pct": 25.6, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_starting.wav"}, "voice_rc": 0, "voice": {"ok": true, "mode": "stitch", "report": "system_perf", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/system_perf_current.wav", "clips_used": 0, "live_sentences": 15, "model_loaded": true, "render_s": 18.22, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 40.544, "peak_dbfs": -1.5, "rms_dbfs": -20.22, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 18.37, "peak_rss_mb": 1795}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2700, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_transit.wav"}, "radio": {"ok": true, "report": "system_perf", "file": "system_perf_current.opus", "bytes": 121342, "stage": {"ok": true, "report": "system_perf", "slot": "13:30", "file": "system_perf-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_sent.wav"}}
+2026-10-02T13:23:34-10:00job:voice_nws_weather RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" nws_weather
+2026-10-02T13:24:36-10:00job:voice_nws_weather | {"ok": true, "report": "nws_weather", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/nws_weather_current.md", "sentences": 7, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "nws_weather", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/nws_weather_current.wav", "clips_used": 0, "live_sentences": 18, "model_loaded": true, "render_s": 28.0, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 69.541, "peak_dbfs": -1.5, "rms_dbfs": -20.37, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 28.1, "peak_rss_mb": 1966, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2702, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_transit.wav"}, "radio": {"ok": true, "report": "nws_weather", "file": "nws_weather_current.opus", "bytes": 208508, "stage": {"ok": true, "report": "nws_weather", "slot": "13:30", "file": "nws_weather-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_sent.wav"}}
+2026-10-02T13:24:36-10:00job:voice_remaining_tasks RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" remaining_tasks
+2026-10-02T13:25:15-10:00job:voice_remaining_tasks | {"ok": true, "report": "remaining_tasks", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/remaining_tasks_current.md", "sentences": 5, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "remaining_tasks", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/remaining_tasks_current.wav", "clips_used": 0, "live_sentences": 4, "model_loaded": true, "render_s": 8.81, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 13.366, "peak_dbfs": -3.16, "rms_dbfs": -20.12, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 8.87, "peak_rss_mb": 1388, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2704, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_transit.wav"}, "radio": {"ok": true, "report": "remaining_tasks", "file": "remaining_tasks_current.opus", "bytes": 40460, "stage": {"ok": true, "report": "remaining_tasks", "slot": "13:30", "file": "remaining_tasks-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_sent.wav"}}
+2026-10-02T13:25:15-10:00job:voice_earthquake_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" earthquake_report
+2026-10-02T13:25:57-10:00job:voice_earthquake_report | {"ok": true, "report": "earthquake_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/earthquake_report_current.md", "sentences": 6, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "earthquake_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/earthquake_report_current.wav", "clips_used": 0, "live_sentences": 5, "model_loaded": true, "render_s": 11.11, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 18.733, "peak_dbfs": -3.92, "rms_dbfs": -20.41, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 11.21, "peak_rss_mb": 1435, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2706, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_transit.wav"}, "radio": {"ok": true, "report": "earthquake_report", "file": "earthquake_report_current.opus", "bytes": 56350, "stage": {"ok": true, "report": "earthquake_report", "slot": "13:30", "file": "earthquake_report-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_sent.wav"}}
+2026-10-02T13:25:57-10:00job:voice_kilauea_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" kilauea_report
+2026-10-02T13:26:48-10:00job:voice_kilauea_report | {"ok": true, "report": "kilauea_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_report_current.md", "sentences": 9, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "kilauea_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/kilauea_report_current.wav", "clips_used": 0, "live_sentences": 10, "model_loaded": true, "render_s": 18.91, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 41.034, "peak_dbfs": -1.5, "rms_dbfs": -20.58, "lead_silence_ms": 101, "qc": "PASS", "wall_s": 18.98, "peak_rss_mb": 1725, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2708, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_transit.wav"}, "radio": {"ok": true, "report": "kilauea_report", "file": "kilauea_report_current.opus", "bytes": 123737, "stage": {"ok": true, "report": "kilauea_report", "slot": "13:30", "file": "kilauea_report-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_sent.wav"}}
+2026-10-02T13:26:48-10:00job:voice_solar_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" solar_desk
+2026-10-02T13:28:46-10:00job:voice_solar_desk | {"ok": true, "report": "solar_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/solar_desk_current.md", "sentences": 13, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "solar_desk", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/solar_desk_current.wav", "clips_used": 0, "live_sentences": 11, "model_loaded": true, "render_s": 22.68, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 54.233, "peak_dbfs": -1.5, "rms_dbfs": -20.18, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 22.75, "peak_rss_mb": 1673, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2710, "transcript": false, "report": true, "photo": true, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_transit.wav"}, "radio": {"ok": true, "report": "solar_desk", "file": "solar_desk_current.opus", "bytes": 165011, "stage": {"ok": true, "report": "solar_desk", "slot": "13:30", "file": "solar_desk-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_sent.wav"}}
+2026-10-02T13:28:46-10:00job:voice_security_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" security_desk
+2026-10-02T13:29:27-10:00job:voice_security_desk | {"ok": true, "report": "security_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/security_desk_current.md", "sentences": 7, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "security_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/security_desk_current.wav", "clips_used": 0, "live_sentences": 6, "model_loaded": true, "render_s": 10.55, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 17.229, "peak_dbfs": -2.56, "rms_dbfs": -20.27, "lead_silence_ms": 110, "qc": "PASS", "wall_s": 10.63, "peak_rss_mb": 1417, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2713, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_transit.wav"}, "radio": {"ok": true, "report": "security_desk", "file": "security_desk_current.opus", "bytes": 51406, "stage": {"ok": true, "report": "security_desk", "slot": "13:30", "file": "security_desk-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_sent.wav"}}
+2026-10-02T13:29:27-10:00job:voice_bandwidth_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" bandwidth_desk
+2026-10-02T13:30:40-10:00job:voice_bandwidth_desk | {"ok": true, "report": "bandwidth_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/bandwidth_desk_current.md", "sentences": 9, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "bandwidth_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/bandwidth_desk_current.wav", "clips_used": 0, "live_sentences": 9, "model_loaded": true, "render_s": 17.78, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 38.548, "peak_dbfs": -1.5, "rms_dbfs": -20.69, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 17.83, "peak_rss_mb": 1670, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2715, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_transit.wav"}, "radio": {"ok": true, "report": "bandwidth_desk", "file": "bandwidth_desk_current.opus", "bytes": 116282, "stage": {"ok": true, "report": "bandwidth_desk", "slot": "14:00", "file": "bandwidth_desk-hour.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_sent.wav"}}
+2026-10-02T13:30:40-10:00job:voice_current_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" current_report
+2026-10-02T13:32:30-10:00job:voice_current_report | {"ok": true, "report": "current_report", "md": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Reports/current_report_current.md", "sentences": 35, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "current_report", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/current_report_current.wav", "clips_used": 0, "live_sentences": 44, "model_loaded": true, "render_s": 62.81, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 174.254, "peak_dbfs": -1.5, "rms_dbfs": -20.29, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 62.94, "peak_rss_mb": 2083, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2717, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_transit.wav"}, "radio": {"ok": true, "report": "current_report", "file": "current_report_current.opus", "bytes": 521148, "stage": {"ok": true, "report": "current_report", "slot": "14:00", "file": "current_report-hour.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_sent.wav", "stack": {"ok": true, "played": true, "phase": "stack_all_sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/stack_all_sent.wav"}}}
+2026-10-02T13:32:30-10:00ENERGY  status=live  B2=22.1%  B1=59%  solar=156 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=73%/Discharging/batt
+2026-10-02T13:32:30-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T13:32:33-10:00job:sys_stats_cycle | SYSTEM  cpu=6%  load=3.16  mem=28%  src=sqlite
+2026-10-02T13:32:33-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-133230.json
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [ecosystem] committed 105 local file(s)
+2026-10-02T13:34:39-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T13:34:39-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T13:34:39-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T13:34:39-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T13:34:39-10:00job:github_sync_all | f164eb9b..711f3211  HEAD -> main
+2026-10-02T13:34:39-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [ecosystem] 105 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [pacific] committed 3 local file(s)
+2026-10-02T13:34:39-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T13:34:39-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T13:34:39-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T13:34:39-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T13:34:39-10:00job:github_sync_all | 3ac98ea..e7a73f6  HEAD -> main
+2026-10-02T13:34:39-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [pacific] 3 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [database] committed 89 local file(s)
+2026-10-02T13:34:39-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T13:34:39-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T13:34:39-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T13:34:39-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T13:34:39-10:00job:github_sync_all | 20af2be4..cb83eb7b  HEAD -> main
+2026-10-02T13:34:39-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [database] 89 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [library] committed 17 local file(s)
+2026-10-02T13:34:39-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T13:34:39-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T13:34:39-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [library] local is ahead of GitHub
+2026-10-02T13:34:39-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Library.git
+2026-10-02T13:34:39-10:00job:github_sync_all | 7c0eb74..53c1043  HEAD -> main
+2026-10-02T13:34:39-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [library] 17 files → RootRecord-Software-Solutions/RootRecord-Library (main)
+2026-10-02T13:34:39-10:00job:github_sync_all | ↑ [website] committed 2 local file(s)
+2026-10-02T13:34:39-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T13:34:39-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T13:34:39-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T13:34:39-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T13:37:40-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T13:37:40-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T13:37:57-10:00job:security_camera_frame_grab | 13:37:40  📷  a-eyes  ch1 → ch1-20261002T233740Z.jpg  (468.2 KB, 4.43s)
+2026-10-02T13:37:57-10:00job:security_camera_frame_grab | 13:37:44  📷  a-eyes  ch2 → ch2-20261002T233744Z.jpg  (366.5 KB, 4.42s)
+2026-10-02T13:37:57-10:00job:security_camera_frame_grab | 13:37:49  📷  a-eyes  ch3 → ch3-20261002T233749Z.jpg  (435.4 KB, 4.35s)
+2026-10-02T13:37:57-10:00job:security_camera_frame_grab | 13:37:53  📷  a-eyes  ch4 → ch4-20261002T233753Z.jpg  (301.2 KB, 4.48s)
+2026-10-02T13:37:57-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-02T13:37:57-10:00job:service_supervisor | [supervisor] weather DEAD — gated-off (RR_LOCAL_DATA_POLL soft-off; not respawning)
+2026-10-02T13:37:57-10:00job:service_supervisor | [supervisor] relay alive pid=5979 (act)
+2026-10-02T13:37:57-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T13:37:58-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 36097, "desk_uptime_s": 259911, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-02T23:37:58.061211+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T13:37:58-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T13:37:58-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T13:37:58-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-02T13:37:58-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261002.jsonl", "iface": "wlo1", "hour": {"seconds": 4007, "rx": 352129744, "tx": 55889010, "total": 408018754, "iface": "wlo1", "link": "wireless"}, "day": null}
+2026-10-02T13:37:58-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-02T13:38:03-10:00job:discord_report_relay | posted kilauea_report
+2026-10-02T13:38:03-10:00job:discord_report_relay | posted solar_desk
+2026-10-02T13:38:03-10:00job:discord_report_relay | posted security_desk
+2026-10-02T13:38:03-10:00job:discord_report_relay | posted bandwidth_desk
+2026-10-02T13:38:03-10:00job:discord_report_relay | posted system_perf
+2026-10-02T13:38:05-10:00job:radio_news_update RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/RadioRss/scripts/rss_radio.py" news-hour --speak
+2026-10-02T13:49:53-10:00job:radio_news_update | {"ok": true, "report": "news_update", "words": 3579, "hour": 13, "voices": ["ava", "bruce", "bruce", "ava", "bruce", "ava", "carly", "carly", "bruce", "ava", "carly"], "script": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/RadioRss/processed/scripts/news_update/news_update.speak.txt", "polled": 90, "stories": 1035, "speak": {"ok": true, "report": "news_update", "file": "news_update_current.opus", "bytes": 4542886, "stage": {"ok": true, "report": "news_update", "slot": "14:00", "file": "news_update-hour.opus"}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/news_update_sent.wav"}, "voices": ["ava", "bruce", "bruce", "ava", "bruce", "ava", "carly", "carly", "bruce", "ava", "carly"], "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/news_update_current.wav"}, "detail": "broadcast"}
+2026-10-02T13:49:53-10:00ENERGY  status=live  B2=22.0%  B1=59%  solar=156 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=60%/Discharging/batt
+2026-10-02T13:49:53-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T13:49:56-10:00job:sys_stats_cycle | SYSTEM  cpu=11%  load=2.78  mem=28%  src=sqlite
+2026-10-02T13:49:56-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-134954.json
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [ecosystem] committed 140 local file(s)
+2026-10-02T13:51:20-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T13:51:20-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T13:51:20-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T13:51:20-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T13:51:20-10:00job:github_sync_all | 711f3211..74b896d5  HEAD -> main
+2026-10-02T13:51:20-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [ecosystem] 140 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [pacific] committed 14 local file(s)
+2026-10-02T13:51:20-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T13:51:20-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T13:51:20-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T13:51:20-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T13:51:20-10:00job:github_sync_all | e7a73f6..3efe3c8  HEAD -> main
+2026-10-02T13:51:20-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [pacific] 14 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [database] committed 153 local file(s)
+2026-10-02T13:51:20-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T13:51:20-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T13:51:20-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T13:51:20-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T13:51:20-10:00job:github_sync_all | cb83eb7b..aadd6b18  HEAD -> main
+2026-10-02T13:51:20-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [database] 153 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [library] committed 4 local file(s)
+2026-10-02T13:51:20-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T13:51:20-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T13:51:20-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [library] local is ahead of GitHub
+2026-10-02T13:51:20-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Library.git
+2026-10-02T13:51:20-10:00job:github_sync_all | 53c1043..bfee9bc  HEAD -> main
+2026-10-02T13:51:20-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [library] 4 files → RootRecord-Software-Solutions/RootRecord-Library (main)
+2026-10-02T13:51:20-10:00job:github_sync_all | ↑ [website] committed 10 local file(s)
+2026-10-02T13:51:20-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T13:51:20-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T13:51:20-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T13:51:20-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T13:54:20-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T13:54:20-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T13:54:38-10:00job:security_camera_frame_grab | 13:54:20  📷  a-eyes  ch1 → ch1-20261002T235420Z.jpg  (455.8 KB, 4.39s)
+2026-10-02T13:54:38-10:00job:security_camera_frame_grab | 13:54:25  📷  a-eyes  ch2 → ch2-20261002T235425Z.jpg  (339.4 KB, 4.43s)
+2026-10-02T13:54:38-10:00job:security_camera_frame_grab | 13:54:29  📷  a-eyes  ch3 → ch3-20261002T235429Z.jpg  (419.1 KB, 4.20s)
+2026-10-02T13:54:38-10:00job:security_camera_frame_grab | 13:54:33  📷  a-eyes  ch4 → ch4-20261002T235433Z.jpg  (283.1 KB, 4.36s)
+2026-10-02T13:54:38-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-02T13:54:38-10:00job:service_supervisor | [supervisor] weather DEAD — gated-off (RR_LOCAL_DATA_POLL soft-off; not respawning)
+2026-10-02T13:54:38-10:00job:service_supervisor | [supervisor] relay alive pid=5979 (act)
+2026-10-02T13:54:38-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T13:54:38-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 37098, "desk_uptime_s": 260911, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-02T23:54:38.339456+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T13:54:38-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T13:54:38-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T13:54:38-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-02T13:54:38-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261002.jsonl", "iface": "wlo1", "hour": {"seconds": 4580, "rx": 396134094, "tx": 69798983, "total": 465933077, "iface": "wlo1", "link": "wireless"}, "day": null}
+2026-10-02T13:54:38-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-02T13:54:38-10:00job:discord_report_relay | same
+2026-10-02T13:54:39-10:00job:voice_kilauea_image_check RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" kilauea_image_check
+2026-10-02T13:56:51-10:00job:voice_kilauea_image_check | {"ok": true, "report": "kilauea_image_check", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_image_check_current.md", "sentences": 2, "status_starting": {"ok": true, "skipped": true, "detail": "no_status_type", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "kilauea_image_check", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/kilauea_image_check_current.wav", "clips_used": 0, "live_sentences": 4, "model_loaded": true, "render_s": 9.87, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 12.725, "peak_dbfs": -2.02, "rms_dbfs": -20.33, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 9.99, "peak_rss_mb": 1368, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2719, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "no_status_type", "phase": "transit"}, "radio": {"ok": true, "report": "kilauea_image_check", "file": "kilauea_image_check_current.opus", "bytes": 38223, "stage": {"ok": true, "skipped": true, "detail": "no_stage_type", "report": "kilauea_image_check"}}, "status_send": {"ok": true, "skipped": true, "detail": "no_status_type", "phase": "sent"}}
+2026-10-02T13:56:52-10:00job:voice_system_perf RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/system_perf.py"
+2026-10-02T13:57:46-10:00job:voice_system_perf | {"ok": true, "report": "system_perf", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/system_perf_current.md", "cpu_pct": 15.3, "mem_pct": 29.3, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_starting.wav"}, "voice_rc": 0, "voice": {"ok": true, "mode": "stitch", "report": "system_perf", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/system_perf_current.wav", "clips_used": 0, "live_sentences": 15, "model_loaded": true, "render_s": 18.6, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 40.355, "peak_dbfs": -1.5, "rms_dbfs": -20.19, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 18.65, "peak_rss_mb": 1545}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2721, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_transit.wav"}, "radio": {"ok": true, "report": "system_perf", "file": "system_perf_current.opus", "bytes": 120711, "stage": {"ok": true, "report": "system_perf", "slot": "14:00", "file": "system_perf-hour.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/system_perf_sent.wav"}}
+2026-10-02T13:57:46-10:00job:voice_nws_weather RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" nws_weather
+2026-10-02T13:59:52-10:00job:voice_nws_weather | {"ok": true, "report": "nws_weather", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/nws_weather_current.md", "sentences": 7, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "nws_weather", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/nws_weather_current.wav", "clips_used": 0, "live_sentences": 18, "model_loaded": true, "render_s": 28.78, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 69.725, "peak_dbfs": -1.5, "rms_dbfs": -20.25, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 28.86, "peak_rss_mb": 1881, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2723, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_transit.wav"}, "radio": {"ok": true, "report": "nws_weather", "file": "nws_weather_current.opus", "bytes": 208592, "stage": {"ok": true, "report": "nws_weather", "slot": "14:00", "file": "nws_weather-hour.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/nws_weather_sent.wav"}}
+2026-10-02T13:59:52-10:00job:voice_remaining_tasks RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" remaining_tasks
+2026-10-02T14:00:32-10:00job:voice_remaining_tasks | {"ok": true, "report": "remaining_tasks", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/remaining_tasks_current.md", "sentences": 5, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "remaining_tasks", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/remaining_tasks_current.wav", "clips_used": 0, "live_sentences": 4, "model_loaded": true, "render_s": 8.53, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 13.408, "peak_dbfs": -3.21, "rms_dbfs": -20.1, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 8.57, "peak_rss_mb": 1394, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2725, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_transit.wav"}, "radio": {"ok": true, "report": "remaining_tasks", "file": "remaining_tasks_current.opus", "bytes": 40630, "stage": {"ok": true, "report": "remaining_tasks", "slot": "14:30", "file": "remaining_tasks-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/remaining_tasks_sent.wav"}}
+2026-10-02T14:00:32-10:00job:voice_earthquake_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" earthquake_report
+2026-10-02T14:01:15-10:00job:voice_earthquake_report | {"ok": true, "report": "earthquake_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/earthquake_report_current.md", "sentences": 7, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "earthquake_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/earthquake_report_current.wav", "clips_used": 0, "live_sentences": 6, "model_loaded": true, "render_s": 11.78, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 22.293, "peak_dbfs": -1.58, "rms_dbfs": -20.37, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 11.84, "peak_rss_mb": 1510, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2727, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_transit.wav"}, "radio": {"ok": true, "report": "earthquake_report", "file": "earthquake_report_current.opus", "bytes": 67231, "stage": {"ok": true, "report": "earthquake_report", "slot": "14:30", "file": "earthquake_report-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/earthquake_report_sent.wav"}}
+2026-10-02T14:01:15-10:00job:voice_kilauea_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" kilauea_report
+2026-10-02T14:02:07-10:00job:voice_kilauea_report | {"ok": true, "report": "kilauea_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_report_current.md", "sentences": 9, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "kilauea_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/kilauea_report_current.wav", "clips_used": 0, "live_sentences": 10, "model_loaded": true, "render_s": 17.8, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 40.921, "peak_dbfs": -1.5, "rms_dbfs": -20.58, "lead_silence_ms": 102, "qc": "PASS", "wall_s": 17.85, "peak_rss_mb": 1686, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2729, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_transit.wav"}, "radio": {"ok": true, "report": "kilauea_report", "file": "kilauea_report_current.opus", "bytes": 123239, "stage": {"ok": true, "report": "kilauea_report", "slot": "14:30", "file": "kilauea_report-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/kilauea_report_sent.wav"}}
+2026-10-02T14:02:07-10:00job:voice_solar_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" solar_desk
+2026-10-02T14:04:19-10:00job:voice_solar_desk | {"ok": true, "report": "solar_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/solar_desk_current.md", "sentences": 7, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "solar_desk", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/solar_desk_current.wav", "clips_used": 0, "live_sentences": 5, "model_loaded": true, "render_s": 12.76, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 27.097, "peak_dbfs": -1.6, "rms_dbfs": -20.16, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 12.82, "peak_rss_mb": 1516, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2731, "transcript": false, "report": true, "photo": true, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_transit.wav"}, "radio": {"ok": true, "report": "solar_desk", "file": "solar_desk_current.opus", "bytes": 82364, "stage": {"ok": true, "report": "solar_desk", "slot": "14:30", "file": "solar_desk-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Bruce/solar_desk_sent.wav"}}
+2026-10-02T14:04:19-10:00job:voice_security_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" security_desk
+2026-10-02T14:06:02-10:00job:voice_security_desk | {"ok": true, "report": "security_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/security_desk_current.md", "sentences": 7, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "security_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/security_desk_current.wav", "clips_used": 0, "live_sentences": 6, "model_loaded": true, "render_s": 10.36, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 16.737, "peak_dbfs": -2.97, "rms_dbfs": -20.3, "lead_silence_ms": 110, "qc": "PASS", "wall_s": 10.42, "peak_rss_mb": 1424, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2734, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_transit.wav"}, "radio": {"ok": true, "report": "security_desk", "file": "security_desk_current.opus", "bytes": 49907, "stage": {"ok": true, "report": "security_desk", "slot": "14:30", "file": "security_desk-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/security_desk_sent.wav"}}
+2026-10-02T14:06:02-10:00job:voice_bandwidth_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" bandwidth_desk
+2026-10-02T14:07:06-10:00job:voice_bandwidth_desk | {"ok": true, "report": "bandwidth_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/bandwidth_desk_current.md", "sentences": 9, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "bandwidth_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/bandwidth_desk_current.wav", "clips_used": 0, "live_sentences": 9, "model_loaded": true, "render_s": 17.92, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 38.709, "peak_dbfs": -1.5, "rms_dbfs": -20.67, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 18.03, "peak_rss_mb": 1613, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2736, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_transit.wav"}, "radio": {"ok": true, "report": "bandwidth_desk", "file": "bandwidth_desk_current.opus", "bytes": 116905, "stage": {"ok": true, "report": "bandwidth_desk", "slot": "14:30", "file": "bandwidth_desk-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Carly/bandwidth_desk_sent.wav"}}
+2026-10-02T14:07:06-10:00job:voice_current_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" current_report
+2026-10-02T14:08:50-10:00job:voice_current_report | {"ok": true, "report": "current_report", "md": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Reports/current_report_current.md", "sentences": 33, "status_starting": {"ok": true, "played": true, "phase": "starting", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_starting.wav"}, "voice": {"ok": true, "mode": "stitch", "report": "current_report", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/current_report_current.wav", "clips_used": 0, "live_sentences": 41, "model_loaded": true, "render_s": 63.39, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 168.595, "peak_dbfs": -1.5, "rms_dbfs": -20.36, "lead_silence_ms": 114, "qc": "PASS", "wall_s": 63.58, "peak_rss_mb": 2194, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2738, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "played": true, "phase": "transit", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_transit.wav"}, "radio": {"ok": true, "report": "current_report", "file": "current_report_current.opus", "bytes": 504033, "stage": {"ok": true, "report": "current_report", "slot": "14:30", "file": "current_report-half.opus"}}, "status_send": {"ok": true, "played": true, "phase": "sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/current_report_sent.wav", "stack": {"ok": true, "played": true, "phase": "stack_all_sent", "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/Clips/Ava/stack_all_sent.wav"}}}
+2026-10-02T14:08:51-10:00ENERGY  status=live  B2=21.9%  B1=59%  solar=156 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=49%/Discharging/batt
+2026-10-02T14:08:51-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T14:08:54-10:00job:sys_stats_cycle | SYSTEM  cpu=15%  load=3.87  mem=28%  src=sqlite
+2026-10-02T14:08:54-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-140851.json
+2026-10-02T14:22:09-10:00job:github_sync_all TIMEOUT after 300s
+2026-10-02T14:22:09-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T14:22:09-10:00job:worklog_scan FAIL code=-15
+2026-10-02T14:22:10-10:00HTTP listening on http://127.0.0.1:8799 (open access on bind)
+2026-10-02T14:22:10-10:00boot:start  jobs=9
+2026-10-02T14:22:10-10:00boot:run  priority=0  id=self_terminal
+2026-10-02T14:22:10-10:00boot:p0 self_process pid=120319
+2026-10-02T14:22:10-10:00boot:run  priority=1  id=cloudflare_tunnel
+2026-10-02T14:22:10-10:00boot:p1 cloudflare_tunnel host=rootserver.rootrecord.cloud
+2026-10-02T14:22:10-10:00internet OK at boot — starting tunnel
+2026-10-02T14:22:10-10:00Starting cloudflared mode=token public_host=rootserver.rootrecord.cloud
+2026-10-02T14:22:10-10:00Waiting for tunnel register (timeout=45s)…
+2026-10-02T14:22:10-10:00tunnel starting
+2026-10-02T14:22:11-10:00tunnel connected  conn=0  edge=lax13
+2026-10-02T14:22:11-10:00Tunnel READY — first connection registered.
+2026-10-02T14:22:11-10:00boot:run  priority=2  id=github_setup_remotes
+2026-10-02T14:22:11-10:00tunnel ingress  rootserver.rootrecord.cloud → 127.0.0.1:8799
+2026-10-02T14:22:11-10:00boot:run  priority=3  id=ollama_warmup
+2026-10-02T14:22:11-10:00job:ollama_warmup RUN  bash '/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/plumbing/ollama-warmup.sh'
+2026-10-02T14:22:11-10:00tunnel connected  conn=1  edge=lax08
+2026-10-02T14:22:11-10:00job:ollama_warmup | [ok] ollama up
+2026-10-02T14:22:11-10:00boot:run  priority=4  id=flm_npu_warmup
+2026-10-02T14:22:11-10:00job:flm_npu_warmup RUN  bash '/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/plumbing/flm-warmup.sh'
+2026-10-02T14:22:11-10:00job:flm_npu_warmup | [skip] FLM warmup disabled (no resident model; set FLM_WARMUP_RESIDENT=1 to opt in)
+2026-10-02T14:22:11-10:00boot:run  priority=5  id=council_relay
+2026-10-02T14:22:11-10:00job:council_relay RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts/ensure-relay.sh"
+2026-10-02T14:22:12-10:00tunnel connected  conn=2  edge=lax08
+2026-10-02T14:22:13-10:00tunnel connected  conn=3  edge=lax13
+2026-10-02T14:22:14-10:00job:council_relay | [ok] council-relay started pid=120649 → /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Logs/Communications/council-relay.log
+2026-10-02T14:22:14-10:00boot:run  priority=6  id=security_camera_server
+2026-10-02T14:22:14-10:00job:security_camera_server RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/ensure_cam_server.sh"
+2026-10-02T14:22:15-10:00job:security_camera_server | security cam server started
+2026-10-02T14:22:15-10:00boot:run  priority=7  id=security_timelapse_catchup
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/timelapse_catchup.sh"
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  catchup: checking 20261002, now=14:22 HST
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  hour 05 already compiled, skipping
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  hour 06 has no frames yet, skipping
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  hour 07 has no frames yet, skipping
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  hour 08 already compiled, skipping
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  hour 09 already compiled, skipping
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  hour 10 already compiled, skipping
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  hour 11 already compiled, skipping
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  hour 12 already compiled, skipping
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  hour 13 frames archived → /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Timelapses/_archive/20261002/hour_13
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  hour 13 already compiled, skipping
+2026-10-02T14:22:15-10:00job:security_timelapse_catchup | 14:22:15  🎬  a-eyes-timelapse  catchup: window still open today, skipping daily render
+2026-10-02T14:22:15-10:00boot:run  priority=9  id=network_globe_hawaii
+2026-10-02T14:22:15-10:00job:network_globe_hawaii RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/network/scripts/ensure-network-globe-hawaii.sh"
+2026-10-02T14:22:15-10:00job:network_globe_hawaii | [ensure-network-globe-hawaii] already running -- nothing to do
+2026-10-02T14:22:15-10:00boot:done
+2026-10-02T14:22:44-10:00  ▸  SUMMARY=delta2 soc=21.76% solar=18W ac_out=0W usbc=0W src=ble db=ok
+2026-10-02T14:22:44-10:00scheduler  every_seconds=12  every_minute=11  every_hour=4  on_at=4
+2026-10-02T14:22:44-10:00ENERGY  status=live  B2=21.8%  B1=59%  solar=157 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=43%/Discharging/batt
+2026-10-02T14:22:44-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T14:22:47-10:00job:sys_stats_cycle | SYSTEM  cpu=14%  load=1.51  mem=32%  src=sqlite
+2026-10-02T14:22:47-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-142244.json
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [ecosystem] committed 35 local file(s)
+2026-10-02T14:24:09-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T14:24:09-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T14:24:09-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:24:09-10:00job:github_sync_all | * [new branch]        main       -> origin/main
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T14:24:09-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T14:24:09-10:00job:github_sync_all | b426b293..7f2e76f3  HEAD -> main
+2026-10-02T14:24:09-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [ecosystem] 35 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [pacific] committed 7 local file(s)
+2026-10-02T14:24:09-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T14:24:09-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T14:24:09-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T14:24:09-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T14:24:09-10:00job:github_sync_all | e10ada9..409b317  HEAD -> main
+2026-10-02T14:24:09-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [pacific] 7 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [database] committed 69 local file(s)
+2026-10-02T14:24:09-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T14:24:09-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T14:24:09-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T14:24:09-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T14:24:09-10:00job:github_sync_all | e736ebbf..d5086f76  HEAD -> main
+2026-10-02T14:24:09-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [database] 69 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [library] committed 4 local file(s)
+2026-10-02T14:24:09-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T14:24:09-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T14:24:09-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [library] local is ahead of GitHub
+2026-10-02T14:24:09-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Library.git
+2026-10-02T14:24:09-10:00job:github_sync_all | 28732ef..930b40f  HEAD -> main
+2026-10-02T14:24:09-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:24:09-10:00job:github_sync_all | ↑ [library] 4 files → RootRecord-Software-Solutions/RootRecord-Library (main)
+2026-10-02T14:24:09-10:00job:github_sync_all | — [website] no local changes
+2026-10-02T14:24:09-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T14:24:09-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T14:24:09-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T14:24:13-10:00tunnel timeout — reconnecting
+2026-10-02T14:24:14-10:00tunnel timeout — reconnecting
+2026-10-02T14:24:14-10:00tunnel timeout — reconnecting
+2026-10-02T14:24:15-10:00tunnel timeout — reconnecting
+2026-10-02T14:24:15-10:00tunnel timeout — reconnecting
+2026-10-02T14:24:15-10:00tunnel connected  conn=2  edge=lax09
+2026-10-02T14:24:16-10:00tunnel connected  conn=0  edge=lax13
+2026-10-02T14:24:16-10:00tunnel timeout — reconnecting
+2026-10-02T14:24:16-10:00tunnel timeout — reconnecting
+2026-10-02T14:24:26-10:00tunnel connected  conn=3  edge=lax01
+2026-10-02T14:24:26-10:00tunnel connected  conn=1  edge=lax09
+2026-10-02T14:27:09-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T14:27:09-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T14:27:17-10:00tunnel timeout — reconnecting
+2026-10-02T14:27:17-10:00tunnel timeout — reconnecting
+2026-10-02T14:27:27-10:00tunnel connected  conn=1  edge=lax08
+2026-10-02T14:27:28-10:00job:security_camera_frame_grab | 14:27:10  📷  a-eyes  ch1 → ch1-20261003T002710Z.jpg  (486.3 KB, 4.36s)
+2026-10-02T14:27:28-10:00job:security_camera_frame_grab | 14:27:14  📷  a-eyes  ch2 → ch2-20261003T002714Z.jpg  (324.2 KB, 5.55s)
+2026-10-02T14:27:28-10:00job:security_camera_frame_grab | 14:27:19  📷  a-eyes  ch3 → ch3-20261003T002719Z.jpg  (418.9 KB, 4.40s)
+2026-10-02T14:27:28-10:00job:security_camera_frame_grab | 14:27:24  📷  a-eyes  ch4 → ch4-20261003T002724Z.jpg  (272.0 KB, 4.28s)
+2026-10-02T14:27:28-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-02T14:27:28-10:00job:service_supervisor | [supervisor] weather DEAD — gated-off (RR_LOCAL_DATA_POLL soft-off; not respawning)
+2026-10-02T14:27:28-10:00job:service_supervisor | [supervisor] relay alive pid=120649 (act)
+2026-10-02T14:27:28-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T14:27:29-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 39068, "desk_uptime_s": 262882, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-03T00:27:28.902680+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T14:27:29-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T14:27:29-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T14:27:29-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-02T14:27:29-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261002.jsonl", "iface": "wlo1", "hour": {"seconds": 4318, "rx": 434703109, "tx": 81599910, "total": 516303019, "iface": "wlo1", "link": "wireless"}, "day": null}
+2026-10-02T14:27:29-10:00job:ml2_datapack_pickup RUN  nice -n 10 bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts/run-datapack-pickup.sh"
+2026-10-02T14:27:29-10:00job:ml2_datapack_pickup OK
+2026-10-02T14:27:29-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-02T14:27:35-10:00job:discord_report_relay | posted earthquake_report
+2026-10-02T14:27:35-10:00job:discord_report_relay | posted kilauea_report
+2026-10-02T14:27:35-10:00job:discord_report_relay | posted solar_desk
+2026-10-02T14:27:35-10:00job:discord_report_relay | posted security_desk
+2026-10-02T14:27:35-10:00job:discord_report_relay | posted bandwidth_desk
+2026-10-02T14:27:35-10:00job:discord_report_relay | posted system_perf
+2026-10-02T14:27:35-10:00job:voice_kilauea_image_check RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" kilauea_image_check
+2026-10-02T14:29:49-10:00job:voice_kilauea_image_check | {"ok": true, "report": "kilauea_image_check", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_image_check_current.md", "sentences": 2, "status_starting": {"ok": true, "skipped": true, "detail": "status_off", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "kilauea_image_check", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/kilauea_image_check_current.wav", "clips_used": 0, "live_sentences": 4, "model_loaded": true, "render_s": 8.97, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 12.686, "peak_dbfs": -1.94, "rms_dbfs": -20.37, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 9.07, "peak_rss_mb": 1337, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2740, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "status_off", "phase": "transit"}, "radio": {"ok": true, "report": "kilauea_image_check", "file": "kilauea_image_check_current.opus", "bytes": 38211, "stage": {"ok": true, "skipped": true, "detail": "no_stage_type", "report": "kilauea_image_check"}}, "status_send": {"ok": true, "skipped": true, "detail": "status_off", "phase": "sent"}}
+2026-10-02T14:29:49-10:00ENERGY  status=live  B2=21.8%  B1=59%  solar=156 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=38%/Discharging/batt
+2026-10-02T14:29:49-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T14:29:52-10:00job:sys_stats_cycle | SYSTEM  cpu=14%  load=4.51  mem=30%  src=sqlite
+2026-10-02T14:29:52-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-142950.json
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [ecosystem] committed 48 local file(s)
+2026-10-02T14:31:16-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T14:31:16-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T14:31:16-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T14:31:16-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T14:31:16-10:00job:github_sync_all | 7f2e76f3..bb0ba62c  HEAD -> main
+2026-10-02T14:31:16-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [ecosystem] 48 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [pacific] committed 12 local file(s)
+2026-10-02T14:31:16-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T14:31:16-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T14:31:16-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T14:31:16-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T14:31:16-10:00job:github_sync_all | 409b317..3e98b4d  HEAD -> main
+2026-10-02T14:31:16-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [pacific] 12 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T14:31:16-10:00job:github_sync_all | ↻ [database] sync retry 1/3
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [database] committed 62 local file(s)
+2026-10-02T14:31:16-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T14:31:16-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T14:31:16-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T14:31:16-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T14:31:16-10:00job:github_sync_all | d5086f76..0f1fe580  HEAD -> main
+2026-10-02T14:31:16-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [database] 62 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [library] committed 2 local file(s)
+2026-10-02T14:31:16-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T14:31:16-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T14:31:16-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [library] local is ahead of GitHub
+2026-10-02T14:31:16-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Library.git
+2026-10-02T14:31:16-10:00job:github_sync_all | 930b40f..dc62d62  HEAD -> main
+2026-10-02T14:31:16-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [library] 2 files → RootRecord-Software-Solutions/RootRecord-Library (main)
+2026-10-02T14:31:16-10:00job:github_sync_all | ↑ [website] committed 11 local file(s)
+2026-10-02T14:31:16-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T14:31:16-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T14:31:16-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T14:32:58-10:00tunnel timeout — reconnecting
+2026-10-02T14:33:00-10:00tunnel timeout — reconnecting
+2026-10-02T14:33:02-10:00tunnel connected  conn=1  edge=lax10
+2026-10-02T14:34:16-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T14:34:16-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T14:34:35-10:00job:security_camera_frame_grab | 14:34:16  📷  a-eyes  ch1 → ch1-20261003T003416Z.jpg  (425.9 KB, 4.35s)
+2026-10-02T14:34:35-10:00job:security_camera_frame_grab | 14:34:20  📷  a-eyes  ch2 → ch2-20261003T003420Z.jpg  (307.2 KB, 4.67s)
+2026-10-02T14:34:35-10:00job:security_camera_frame_grab | 14:34:25  📷  a-eyes  ch3 → ch3-20261003T003425Z.jpg  (430.4 KB, 5.05s)
+2026-10-02T14:34:35-10:00job:security_camera_frame_grab | 14:34:30  📷  a-eyes  ch4 → ch4-20261003T003430Z.jpg  (258.9 KB, 4.53s)
+2026-10-02T14:34:35-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T14:34:35-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 39494, "desk_uptime_s": 263308, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-03T00:34:35.156766+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T14:34:35-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T14:34:35-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T14:34:35-10:00job:ml2_datapack_pickup RUN  nice -n 10 bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts/run-datapack-pickup.sh"
+2026-10-02T14:34:35-10:00job:ml2_datapack_pickup OK
+2026-10-02T14:34:36-10:00ENERGY  status=live  B2=21.8%  B1=59%  solar=156 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=36%/Discharging/batt
+2026-10-02T14:34:36-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T14:34:38-10:00job:sys_stats_cycle | SYSTEM  cpu=10%  load=2.75  mem=31%  src=sqlite
+2026-10-02T14:34:38-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-143436.json
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [ecosystem] committed 23 local file(s)
+2026-10-02T14:36:04-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T14:36:04-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T14:36:04-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T14:36:04-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T14:36:04-10:00job:github_sync_all | bb0ba62c..5029ae99  HEAD -> main
+2026-10-02T14:36:04-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [ecosystem] 23 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [pacific] committed 3 local file(s)
+2026-10-02T14:36:04-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T14:36:04-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T14:36:04-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T14:36:04-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T14:36:04-10:00job:github_sync_all | 3e98b4d..74cd08b  HEAD -> main
+2026-10-02T14:36:04-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [pacific] 3 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [database] committed 40 local file(s)
+2026-10-02T14:36:04-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T14:36:04-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T14:36:04-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T14:36:04-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T14:36:04-10:00job:github_sync_all | 0f1fe580..93bdfd88  HEAD -> main
+2026-10-02T14:36:04-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [database] 40 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [library] committed 6 local file(s)
+2026-10-02T14:36:04-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T14:36:04-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T14:36:04-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [library] local is ahead of GitHub
+2026-10-02T14:36:04-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Library.git
+2026-10-02T14:36:04-10:00job:github_sync_all | dc62d62..86e2806  HEAD -> main
+2026-10-02T14:36:04-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [library] 6 files → RootRecord-Software-Solutions/RootRecord-Library (main)
+2026-10-02T14:36:04-10:00job:github_sync_all | ↑ [website] committed 1 local file(s)
+2026-10-02T14:36:04-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T14:36:04-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T14:36:04-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:36:04-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T14:36:21-10:00job:security_camera_frame_grab | 14:36:04  📷  a-eyes  ch1 → ch1-20261003T003604Z.jpg  (423.9 KB, 4.35s)
+2026-10-02T14:36:21-10:00job:security_camera_frame_grab | 14:36:08  📷  a-eyes  ch2 → ch2-20261003T003608Z.jpg  (313.6 KB, 4.37s)
+2026-10-02T14:36:21-10:00job:security_camera_frame_grab | 14:36:12  📷  a-eyes  ch3 → ch3-20261003T003612Z.jpg  (432.1 KB, 4.39s)
+2026-10-02T14:36:21-10:00job:security_camera_frame_grab | 14:36:17  📷  a-eyes  ch4 → ch4-20261003T003617Z.jpg  (261.8 KB, 4.47s)
+2026-10-02T14:36:21-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-02T14:36:21-10:00job:service_supervisor | [supervisor] weather DEAD — gated-off (RR_LOCAL_DATA_POLL soft-off; not respawning)
+2026-10-02T14:36:21-10:00job:service_supervisor | [supervisor] relay alive pid=120649 (act)
+2026-10-02T14:36:21-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-02T14:36:21-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261002.jsonl", "iface": "wlo1", "hour": {"seconds": 4014, "rx": 414674104, "tx": 81278819, "total": 495952923, "iface": "wlo1", "link": "wireless"}, "day": null}
+2026-10-02T14:36:22-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-02T14:36:22-10:00job:discord_report_relay | same
+2026-10-02T14:36:22-10:00ENERGY  status=live  B2=21.8%  B1=59%  solar=156 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=34%/Discharging/batt
+2026-10-02T14:36:22-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T14:36:24-10:00job:sys_stats_cycle | SYSTEM  cpu=28%  load=4.01  mem=44%  src=sqlite
+2026-10-02T14:36:24-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-143623.json
+2026-10-02T14:37:32-10:00job:github_sync_all | ↑ [ecosystem] committed 8 local file(s)
+2026-10-02T14:37:32-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T14:37:32-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T14:37:32-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:37:32-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T14:37:32-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T14:37:32-10:00job:github_sync_all | 5029ae99..a43fdcdf  HEAD -> main
+2026-10-02T14:37:32-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:37:32-10:00job:github_sync_all | ↑ [ecosystem] 8 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T14:37:32-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-02T14:37:32-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T14:37:32-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T14:37:32-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:37:32-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T14:37:32-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T14:37:32-10:00job:github_sync_all | 74cd08b..f163c05  HEAD -> main
+2026-10-02T14:37:32-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:37:32-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T14:37:32-10:00job:github_sync_all | ↑ [database] committed 25 local file(s)
+2026-10-02T14:37:32-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T14:37:32-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T14:37:32-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:37:32-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T14:37:32-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T14:37:32-10:00job:github_sync_all | 93bdfd88..8c25b573  HEAD -> main
+2026-10-02T14:37:32-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:37:32-10:00job:github_sync_all | ↑ [database] 25 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T14:37:32-10:00job:github_sync_all | — [library] no local changes
+2026-10-02T14:37:32-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T14:37:32-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T14:37:32-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:37:32-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-02T14:37:32-10:00job:github_sync_all | — [library] nothing to push
+2026-10-02T14:37:32-10:00job:github_sync_all | — [website] no local changes
+2026-10-02T14:37:32-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T14:37:32-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T14:37:32-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:37:32-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-02T14:37:32-10:00job:github_sync_all | — [website] nothing to push
+2026-10-02T14:37:32-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-02T14:37:32-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T14:40:32-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T14:40:32-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T14:40:33-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 39852, "desk_uptime_s": 263666, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-03T00:40:32.907725+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T14:40:33-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T14:40:33-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T14:40:33-10:00ENERGY  status=live  B2=21.7%  B1=59%  solar=156 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=32%/Discharging/batt
+2026-10-02T14:40:33-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T14:40:35-10:00job:sys_stats_cycle | SYSTEM  cpu=19%  load=3.18  mem=44%  src=sqlite
+2026-10-02T14:40:35-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-144034.json
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [ecosystem] committed 29 local file(s)
+2026-10-02T14:41:48-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T14:41:48-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T14:41:48-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T14:41:48-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T14:41:48-10:00job:github_sync_all | a43fdcdf..1960738b  HEAD -> main
+2026-10-02T14:41:48-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [ecosystem] 29 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-02T14:41:48-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T14:41:48-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T14:41:48-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T14:41:48-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T14:41:48-10:00job:github_sync_all | f163c05..9708d20  HEAD -> main
+2026-10-02T14:41:48-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [database] committed 49 local file(s)
+2026-10-02T14:41:48-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T14:41:48-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T14:41:48-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T14:41:48-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T14:41:48-10:00job:github_sync_all | 8c25b573..e905fa8e  HEAD -> main
+2026-10-02T14:41:48-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [database] 49 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [library] committed 2 local file(s)
+2026-10-02T14:41:48-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T14:41:48-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T14:41:48-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [library] local is ahead of GitHub
+2026-10-02T14:41:48-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Library.git
+2026-10-02T14:41:48-10:00job:github_sync_all | 86e2806..3710b54  HEAD -> main
+2026-10-02T14:41:48-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:41:48-10:00job:github_sync_all | ↑ [library] 2 files → RootRecord-Software-Solutions/RootRecord-Library (main)
+2026-10-02T14:41:48-10:00job:github_sync_all | — [website] no local changes
+2026-10-02T14:41:48-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T14:41:48-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T14:41:48-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:41:48-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T14:42:06-10:00job:security_camera_frame_grab | 14:41:48  📷  a-eyes  ch1 → ch1-20261003T004148Z.jpg  (415.7 KB, 4.42s)
+2026-10-02T14:42:06-10:00job:security_camera_frame_grab | 14:41:52  📷  a-eyes  ch2 → ch2-20261003T004152Z.jpg  (309.9 KB, 4.59s)
+2026-10-02T14:42:06-10:00job:security_camera_frame_grab | 14:41:57  📷  a-eyes  ch3 → ch3-20261003T004157Z.jpg  (424.4 KB, 4.40s)
+2026-10-02T14:42:06-10:00job:security_camera_frame_grab | 14:42:01  📷  a-eyes  ch4 → ch4-20261003T004201Z.jpg  (260.1 KB, 4.55s)
+2026-10-02T14:42:06-10:00job:ml2_datapack_pickup RUN  nice -n 10 bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts/run-datapack-pickup.sh"
+2026-10-02T14:42:06-10:00job:ml2_datapack_pickup OK
+2026-10-02T14:42:06-10:00ENERGY  status=live  B2=21.7%  B1=59%  solar=157 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=31%/Discharging/batt
+2026-10-02T14:42:06-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T14:42:08-10:00job:sys_stats_cycle | SYSTEM  cpu=17%  load=2.94  mem=44%  src=sqlite
+2026-10-02T14:42:08-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-144207.json
+2026-10-02T14:43:19-10:00job:github_sync_all | ↑ [ecosystem] committed 7 local file(s)
+2026-10-02T14:43:19-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T14:43:19-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T14:43:19-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:43:19-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T14:43:19-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T14:43:19-10:00job:github_sync_all | 1960738b..5e8ab0ca  HEAD -> main
+2026-10-02T14:43:19-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:43:19-10:00job:github_sync_all | ↑ [ecosystem] 7 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T14:43:19-10:00job:github_sync_all | ↑ [pacific] committed 1 local file(s)
+2026-10-02T14:43:19-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T14:43:19-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T14:43:19-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:43:19-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T14:43:19-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T14:43:19-10:00job:github_sync_all | 9708d20..fbaabef  HEAD -> main
+2026-10-02T14:43:19-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:43:19-10:00job:github_sync_all | ↑ [pacific] 1 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T14:43:19-10:00job:github_sync_all | ↑ [database] committed 23 local file(s)
+2026-10-02T14:43:19-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T14:43:19-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T14:43:19-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:43:19-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T14:43:19-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T14:43:19-10:00job:github_sync_all | e905fa8e..0077e396  HEAD -> main
+2026-10-02T14:43:19-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:43:19-10:00job:github_sync_all | ↑ [database] 23 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T14:43:19-10:00job:github_sync_all | — [library] no local changes
+2026-10-02T14:43:19-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T14:43:19-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T14:43:19-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:43:19-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-02T14:43:19-10:00job:github_sync_all | — [library] nothing to push
+2026-10-02T14:43:19-10:00job:github_sync_all | — [website] no local changes
+2026-10-02T14:43:19-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T14:43:19-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T14:43:19-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:43:19-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-02T14:43:19-10:00job:github_sync_all | — [website] nothing to push
+2026-10-02T14:43:19-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-02T14:43:19-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T14:46:19-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T14:46:19-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-02T14:46:19-10:00job:service_supervisor | [supervisor] weather DEAD — gated-off (RR_LOCAL_DATA_POLL soft-off; not respawning)
+2026-10-02T14:46:19-10:00job:service_supervisor | [supervisor] relay alive pid=120649 (act)
+2026-10-02T14:46:19-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T14:46:19-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 40199, "desk_uptime_s": 264012, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-03T00:46:19.591609+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T14:46:19-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T14:46:19-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T14:46:19-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-02T14:46:19-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261002.jsonl", "iface": "wlo1", "hour": {"seconds": 4101, "rx": 312814172, "tx": 77894124, "total": 390708296, "iface": "wlo1", "link": "wireless"}, "day": null}
+2026-10-02T14:46:20-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-02T14:46:20-10:00job:discord_report_relay | same
+2026-10-02T14:46:20-10:00job:voice_system_perf RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/system_perf.py"
+2026-10-02T14:46:47-10:00tunnel timeout — reconnecting
+2026-10-02T14:46:47-10:00tunnel timeout — reconnecting
+2026-10-02T14:46:48-10:00tunnel timeout — reconnecting
+2026-10-02T14:46:48-10:00tunnel timeout — reconnecting
+2026-10-02T14:46:48-10:00tunnel timeout — reconnecting
+2026-10-02T14:46:49-10:00tunnel timeout — reconnecting
+2026-10-02T14:46:49-10:00tunnel timeout — reconnecting
+2026-10-02T14:46:53-10:00tunnel timeout — reconnecting
+2026-10-02T14:46:56-10:00tunnel connected  conn=0  edge=lax07
+2026-10-02T14:47:11-10:00tunnel timeout — reconnecting
+2026-10-02T14:47:11-10:00tunnel timeout — reconnecting
+2026-10-02T14:47:11-10:00tunnel timeout — reconnecting
+2026-10-02T14:47:12-10:00tunnel timeout — reconnecting
+2026-10-02T14:47:12-10:00tunnel timeout — reconnecting
+2026-10-02T14:47:12-10:00tunnel timeout — reconnecting
+2026-10-02T14:47:34-10:00tunnel connected  conn=3  edge=lax01
+2026-10-02T14:47:34-10:00tunnel connected  conn=1  edge=lax01
+2026-10-02T14:47:34-10:00tunnel connected  conn=2  edge=lax09
+2026-10-02T14:47:47-10:00job:voice_system_perf | {"ok": true, "report": "system_perf", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/system_perf_current.md", "cpu_pct": 20.1, "mem_pct": 45.4, "status_starting": {"ok": true, "skipped": true, "detail": "status_off", "phase": "starting"}, "voice_rc": 0, "voice": {"ok": true, "mode": "stitch", "report": "system_perf", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/system_perf_current.wav", "clips_used": 0, "live_sentences": 15, "model_loaded": true, "render_s": 18.29, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 40.186, "peak_dbfs": -1.5, "rms_dbfs": -20.14, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 18.39, "peak_rss_mb": 1824}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2742, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "status_off", "phase": "transit"}, "radio": {"ok": true, "report": "system_perf", "file": "system_perf_current.opus", "bytes": 119938, "stage": {"ok": true, "report": "system_perf", "slot": "15:00", "file": "system_perf-hour.opus"}}, "status_send": {"ok": true, "skipped": true, "detail": "status_off", "phase": "sent"}}
+2026-10-02T14:47:47-10:00job:voice_nws_weather RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" nws_weather
+2026-10-02T14:48:39-10:00job:voice_nws_weather | {"ok": true, "report": "nws_weather", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/nws_weather_current.md", "sentences": 7, "status_starting": {"ok": true, "skipped": true, "detail": "status_off", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "nws_weather", "agent": "ava", "voice": "af_heart", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/nws_weather_current.wav", "clips_used": 0, "live_sentences": 18, "model_loaded": true, "render_s": 28.19, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 69.594, "peak_dbfs": -1.5, "rms_dbfs": -20.41, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 28.26, "peak_rss_mb": 1993, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "ava", "chat": "-1004367256267", "message_id": 2744, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "status_off", "phase": "transit"}, "radio": {"ok": true, "report": "nws_weather", "file": "nws_weather_current.opus", "bytes": 208079, "stage": {"ok": true, "report": "nws_weather", "slot": "15:00", "file": "nws_weather-hour.opus"}}, "status_send": {"ok": true, "skipped": true, "detail": "status_off", "phase": "sent"}}
+2026-10-02T14:48:39-10:00job:voice_remaining_tasks RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" remaining_tasks
+2026-10-02T14:49:11-10:00job:voice_remaining_tasks | {"ok": true, "report": "remaining_tasks", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/remaining_tasks_current.md", "sentences": 5, "status_starting": {"ok": true, "skipped": true, "detail": "status_off", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "remaining_tasks", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/remaining_tasks_current.wav", "clips_used": 0, "live_sentences": 4, "model_loaded": true, "render_s": 8.41, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 13.259, "peak_dbfs": -2.38, "rms_dbfs": -20.06, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 8.48, "peak_rss_mb": 1377, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2746, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "status_off", "phase": "transit"}, "radio": {"ok": true, "report": "remaining_tasks", "file": "remaining_tasks_current.opus", "bytes": 40136, "stage": {"ok": true, "report": "remaining_tasks", "slot": "15:00", "file": "remaining_tasks-hour.opus"}}, "status_send": {"ok": true, "skipped": true, "detail": "status_off", "phase": "sent"}}
+2026-10-02T14:49:11-10:00job:voice_earthquake_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" earthquake_report
+2026-10-02T14:50:48-10:00job:voice_earthquake_report | {"ok": true, "report": "earthquake_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/earthquake_report_current.md", "sentences": 6, "status_starting": {"ok": true, "skipped": true, "detail": "status_off", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "earthquake_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/earthquake_report_current.wav", "clips_used": 0, "live_sentences": 5, "model_loaded": true, "render_s": 11.24, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 18.828, "peak_dbfs": -3.73, "rms_dbfs": -20.38, "lead_silence_ms": 110, "qc": "PASS", "wall_s": 11.29, "peak_rss_mb": 1446, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2748, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "status_off", "phase": "transit"}, "radio": {"ok": true, "report": "earthquake_report", "file": "earthquake_report_current.opus", "bytes": 56757, "stage": {"ok": true, "report": "earthquake_report", "slot": "15:00", "file": "earthquake_report-hour.opus"}}, "status_send": {"ok": true, "skipped": true, "detail": "status_off", "phase": "sent"}}
+2026-10-02T14:50:48-10:00job:voice_kilauea_report RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" kilauea_report
+2026-10-02T14:53:11-10:00job:voice_kilauea_report | {"ok": true, "report": "kilauea_report", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_report_current.md", "sentences": 9, "status_starting": {"ok": true, "skipped": true, "detail": "status_off", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "kilauea_report", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/kilauea_report_current.wav", "clips_used": 0, "live_sentences": 10, "model_loaded": true, "render_s": 18.28, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 40.773, "peak_dbfs": -1.5, "rms_dbfs": -20.54, "lead_silence_ms": 101, "qc": "PASS", "wall_s": 18.38, "peak_rss_mb": 1715, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2750, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "status_off", "phase": "transit"}, "radio": {"ok": true, "report": "kilauea_report", "file": "kilauea_report_current.opus", "bytes": 122900, "stage": {"ok": true, "report": "kilauea_report", "slot": "15:00", "file": "kilauea_report-hour.opus"}}, "status_send": {"ok": true, "skipped": true, "detail": "status_off", "phase": "sent"}}
+2026-10-02T14:53:11-10:00job:voice_solar_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" solar_desk
+2026-10-02T14:53:49-10:00job:voice_solar_desk | {"ok": true, "report": "solar_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/solar_desk_current.md", "sentences": 7, "status_starting": {"ok": true, "skipped": true, "detail": "status_off", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "solar_desk", "agent": "bruce", "voice": "am_echo", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/solar_desk_current.wav", "clips_used": 0, "live_sentences": 5, "model_loaded": true, "render_s": 13.11, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 27.628, "peak_dbfs": -1.8, "rms_dbfs": -20.15, "lead_silence_ms": 113, "qc": "PASS", "wall_s": 13.18, "peak_rss_mb": 1519, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "bruce", "chat": "-1004367256267", "message_id": 2752, "transcript": false, "report": true, "photo": true, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "status_off", "phase": "transit"}, "radio": {"ok": true, "report": "solar_desk", "file": "solar_desk_current.opus", "bytes": 83895, "stage": {"ok": true, "report": "solar_desk", "slot": "15:00", "file": "solar_desk-hour.opus"}}, "status_send": {"ok": true, "skipped": true, "detail": "status_off", "phase": "sent"}}
+2026-10-02T14:53:49-10:00job:voice_security_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" security_desk
+2026-10-02T14:54:21-10:00job:voice_security_desk | {"ok": true, "report": "security_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/security_desk_current.md", "sentences": 7, "status_starting": {"ok": true, "skipped": true, "detail": "status_off", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "security_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/security_desk_current.wav", "clips_used": 0, "live_sentences": 6, "model_loaded": true, "render_s": 10.63, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 17.374, "peak_dbfs": -2.55, "rms_dbfs": -20.31, "lead_silence_ms": 110, "qc": "PASS", "wall_s": 10.76, "peak_rss_mb": 1432, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2755, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "status_off", "phase": "transit"}, "radio": {"ok": true, "report": "security_desk", "file": "security_desk_current.opus", "bytes": 51916, "stage": {"ok": true, "report": "security_desk", "slot": "15:00", "file": "security_desk-hour.opus"}}, "status_send": {"ok": true, "skipped": true, "detail": "status_off", "phase": "sent"}, "canonical": {"ok": true, "report_id": "rpt_f412b2af7bb582aff675", "status": "assets_ready"}}
+2026-10-02T14:54:21-10:00job:voice_bandwidth_desk RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" bandwidth_desk
+2026-10-02T14:55:04-10:00job:voice_bandwidth_desk | {"ok": true, "report": "bandwidth_desk", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/bandwidth_desk_current.md", "sentences": 9, "status_starting": {"ok": true, "skipped": true, "detail": "status_off", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "bandwidth_desk", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/bandwidth_desk_current.wav", "clips_used": 0, "live_sentences": 9, "model_loaded": true, "render_s": 17.86, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 37.938, "peak_dbfs": -1.5, "rms_dbfs": -20.67, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 17.99, "peak_rss_mb": 1645, "rc": 0}, "deliver": {"ok": true, "sent": true, "persona": "carly", "chat": "-1004367256267", "message_id": 2757, "transcript": false, "report": true, "photo": false, "plan": {"voice": true, "transcript": false, "report": true}}, "status_transit": {"ok": true, "skipped": true, "detail": "status_off", "phase": "transit"}, "radio": {"ok": true, "report": "bandwidth_desk", "file": "bandwidth_desk_current.opus", "bytes": 114661, "stage": {"ok": true, "report": "bandwidth_desk", "slot": "15:00", "file": "bandwidth_desk-hour.opus"}}, "status_send": {"ok": true, "skipped": true, "detail": "status_off", "phase": "sent"}, "canonical": {"ok": true, "report_id": "rpt_db8d81a6908453aa6967", "status": "assets_ready"}}
+2026-10-02T14:55:05-10:00ENERGY  status=live  B2=21.7%  B1=59%  solar=154 W  ac=0 W  usbc=0 W  src=/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Energy  LAP=24%/Not charging/AC
+2026-10-02T14:55:05-10:00job:sys_stats_cycle RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/sys-sample.sh"
+2026-10-02T14:55:07-10:00job:sys_stats_cycle | SYSTEM  cpu=6%  load=2.93  mem=44%  src=sqlite
+2026-10-02T14:55:07-10:00job:sys_stats_cycle | OK wrote /home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/samples/sys-20261002-145505.json
+2026-10-02T14:56:22-10:00job:github_sync_all | ↑ [ecosystem] committed 105 local file(s)
+2026-10-02T14:56:22-10:00job:github_sync_all | ↓ [ecosystem] fetching origin/main
+2026-10-02T14:56:22-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem
+2026-10-02T14:56:22-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:56:22-10:00job:github_sync_all | ↑ [ecosystem] local is ahead of GitHub
+2026-10-02T14:56:22-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Ecosystem.git
+2026-10-02T14:56:22-10:00job:github_sync_all | 5e8ab0ca..81a42ab2  HEAD -> main
+2026-10-02T14:56:22-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:56:22-10:00job:github_sync_all | ↑ [ecosystem] 105 files → RootRecord-Software-Solutions/RootRecord-Ecosystem (main)
+2026-10-02T14:56:22-10:00job:github_sync_all | ↑ [pacific] committed 20 local file(s)
+2026-10-02T14:56:22-10:00job:github_sync_all | ↓ [pacific] fetching origin/main
+2026-10-02T14:56:22-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server
+2026-10-02T14:56:22-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:56:22-10:00job:github_sync_all | ↑ [pacific] local is ahead of GitHub
+2026-10-02T14:56:22-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server.git
+2026-10-02T14:56:22-10:00job:github_sync_all | fbaabef..b56a583  HEAD -> main
+2026-10-02T14:56:22-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:56:22-10:00job:github_sync_all | ↑ [pacific] 20 files → RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server (main)
+2026-10-02T14:56:22-10:00job:github_sync_all | ↑ [database] committed 84 local file(s)
+2026-10-02T14:56:22-10:00job:github_sync_all | ↓ [database] fetching origin/main
+2026-10-02T14:56:22-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Database
+2026-10-02T14:56:22-10:00job:github_sync_all | * branch              main       -> FETCH_HEAD
+2026-10-02T14:56:22-10:00job:github_sync_all | ↑ [database] local is ahead of GitHub
+2026-10-02T14:56:22-10:00job:github_sync_all | To github.com:RootRecord-Software-Solutions/RootRecord-Database.git
+2026-10-02T14:56:22-10:00job:github_sync_all | 0077e396..cb98f601  HEAD -> main
+2026-10-02T14:56:22-10:00job:github_sync_all | branch 'main' set up to track 'origin/main'.
+2026-10-02T14:56:22-10:00job:github_sync_all | ↑ [database] 84 files → RootRecord-Software-Solutions/RootRecord-Database (main)
+2026-10-02T14:56:22-10:00job:github_sync_all | — [library] no local changes
+2026-10-02T14:56:22-10:00job:github_sync_all | ↓ [library] fetching origin/main
+2026-10-02T14:56:22-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Library
+2026-10-02T14:56:22-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:56:22-10:00job:github_sync_all | — [library] local and GitHub already match
+2026-10-02T14:56:22-10:00job:github_sync_all | — [library] nothing to push
+2026-10-02T14:56:22-10:00job:github_sync_all | — [website] no local changes
+2026-10-02T14:56:22-10:00job:github_sync_all | ↓ [website] fetching origin/main
+2026-10-02T14:56:22-10:00job:github_sync_all | From github.com:RootRecord-Software-Solutions/RootRecord-Website
+2026-10-02T14:56:22-10:00job:github_sync_all | * branch            main       -> FETCH_HEAD
+2026-10-02T14:56:22-10:00job:github_sync_all | — [website] local and GitHub already match
+2026-10-02T14:56:22-10:00job:github_sync_all | — [website] nothing to push
+2026-10-02T14:56:22-10:00job:github_sync_all | — [website-personal] no local changes
+2026-10-02T14:56:22-10:00job:worklog_scan RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Reports/scripts/worklog_once.sh"
+2026-10-02T14:59:22-10:00job:worklog_scan TIMEOUT after 180s
+2026-10-02T14:59:22-10:00job:security_camera_frame_grab RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Security/Cameras/grab_all.sh"
+2026-10-02T14:59:39-10:00job:security_camera_frame_grab | 14:59:22  📷  a-eyes  ch1 → ch1-20261003T005922Z.jpg  (483.0 KB, 4.26s)
+2026-10-02T14:59:39-10:00job:security_camera_frame_grab | 14:59:27  📷  a-eyes  ch2 → ch2-20261003T005927Z.jpg  (288.4 KB, 4.21s)
+2026-10-02T14:59:39-10:00job:security_camera_frame_grab | 14:59:31  📷  a-eyes  ch3 → ch3-20261003T005931Z.jpg  (409.9 KB, 4.28s)
+2026-10-02T14:59:39-10:00job:security_camera_frame_grab | 14:59:35  📷  a-eyes  ch4 → ch4-20261003T005935Z.jpg  (243.4 KB, 4.35s)
+2026-10-02T14:59:39-10:00job:service_supervisor RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/supervise-services.sh"
+2026-10-02T14:59:39-10:00job:service_supervisor | [supervisor] weather DEAD — gated-off (RR_LOCAL_DATA_POLL soft-off; not respawning)
+2026-10-02T14:59:39-10:00job:service_supervisor | [supervisor] relay alive pid=120649 (act)
+2026-10-02T14:59:39-10:00job:system_uptime_log RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/uptime_log.py" tick
+2026-10-02T14:59:40-10:00job:system_uptime_log | {"ok": true, "facts": {"process_uptime_s": null, "boot_uptime_s": 40999, "desk_uptime_s": 264813, "origin_started_at": "2026-09-29T23:26:06.758795+00:00", "last_return_at": "2026-10-03T00:59:40.064217+00:00", "last_return_kind": "desk_up"}}
+2026-10-02T14:59:40-10:00job:status_snapshot RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Website/scripts/live_data_pages.py"
+2026-10-02T14:59:40-10:00job:status_snapshot | live-data 6 pages
+2026-10-02T14:59:40-10:00job:system_net_sample RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/System/scripts/host_desks.py" net-sample
+2026-10-02T14:59:40-10:00job:system_net_sample | {"ok": true, "file": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/System/network/Daily/net-20261002.jsonl", "iface": "wlo1", "hour": {"seconds": 3901, "rx": 303178556, "tx": 72573790, "total": 375752346, "iface": "wlo1", "link": "wireless"}, "day": null}
+2026-10-02T14:59:40-10:00job:ml2_datapack_pickup RUN  nice -n 10 bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/telegram/scripts/run-datapack-pickup.sh"
+2026-10-02T14:59:40-10:00job:ml2_datapack_pickup OK
+2026-10-02T14:59:40-10:00job:discord_report_relay RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Communications/Discord/scripts/report_relay.py"
+2026-10-02T14:59:48-10:00job:discord_report_relay | posted earthquake_report
+2026-10-02T14:59:48-10:00job:discord_report_relay | posted kilauea_report
+2026-10-02T14:59:48-10:00job:discord_report_relay | posted solar_desk
+2026-10-02T14:59:48-10:00job:discord_report_relay | posted security_desk
+2026-10-02T14:59:48-10:00job:discord_report_relay | posted bandwidth_desk
+2026-10-02T14:59:48-10:00job:discord_report_relay | posted system_perf
+2026-10-02T14:59:48-10:00job:voice_kilauea_image_check RUN  nice -n 10 python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Media/Voice/scripts/voice_reports.py" kilauea_image_check
+2026-10-02T15:02:05-10:00job:voice_kilauea_image_check | {"ok": true, "report": "kilauea_image_check", "md": "/home/rootrecord/RootRecord-Ecosystem/test-reports/Voice/kilauea_image_check_current.md", "sentences": 2, "status_starting": {"ok": true, "skipped": true, "detail": "status_off", "phase": "starting"}, "voice": {"ok": true, "mode": "stitch", "report": "kilauea_image_check", "agent": "carly", "voice": "af_nova", "speed": 1.0, "wav": "/home/rootrecord/RootRecord-Ecosystem/2 - RootRecord-Database/Media/Audio/Voice/kilauea_image_check_current.wav", "clips_used": 0, "live_sentences": 4, "model_loaded": true, "render_s": 10.58, "sample_rate": 24000, "channels": 1, "subtype": "PCM_16", "duration_s": 12.68, "peak_dbfs": -1.9, "rms_dbfs": -20.35, "lead_silence_ms": 115, "qc": "PASS", "wall_s": 10.73, "peak_rss_mb": 1362, "rc": 0}, "deliver": {"ok": true, "sent": false, "detail": "unchanged"}, "status_transit": {"ok": true, "skipped": true, "detail": "status_off", "phase": "transit"}, "radio": {"ok": true, "report": "kilauea_image_check", "file": "kilauea_image_check_current.opus", "bytes": 38210, "stage": {"ok": true, "skipped": true, "detail": "no_stage_type", "report": "kilauea_image_check"}}, "status_send": {"ok": true, "skipped": true, "detail": "status_off", "phase": "sent"}, "canonical": {"ok": true, "report_id": "rpt_6fda41c94f94a88ae68c", "status": "assets_ready"}}
+2026-10-02T15:02:08-10:00job:energy_sun_times RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/scripts/sun_times.py"
+2026-10-02T15:02:08-10:00job:energy_sun_times | {"ok": true, "date": "2026-10-02", "sunrise": "06:12", "sunset": "18:08", "sunrise_iso": "2026-10-02T06:12", "sunset_iso": "2026-10-02T18:08", "after_sunset": false, "before_sunrise": false, "source": "open-meteo", "now_hst": "15:02", "refreshed": false, "error": null}
+2026-10-02T15:02:08-10:00job:energy_moon_phase RUN  python3 "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Energy/scripts/moon_phase.py"
+2026-10-02T15:02:10-10:00job:energy_moon_phase | {"ok": true, "date": "2026-10-02", "phase": 0.7293, "phase_name": "Last Quarter", "illumination": 56, "next_phase": "Last Quarter", "next_phase_date": "2026-10-03", "refreshed": true, "error": null}
+2026-10-02T15:02:10-10:00job:automations_log_hourly_archive RUN  bash "/home/rootrecord/RootRecord-Ecosystem/1 - Servers/1 - RootRecord-Pacific-Solar-Server/Automations/scripts/archive_automations_log_hourly.sh"
