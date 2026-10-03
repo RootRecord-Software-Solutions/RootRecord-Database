@@ -390,3 +390,14 @@
 2026-10-02T16:52:50-1000 delta2-ac-force: no-op sample_stale sight_age=38s ble_age=3521s ac_ports=true — reader owns the radio until a fresh BLE sample
 2026-10-02T16:53:36-1000 delta2-ac-force: no-op sample_stale sight_age=16s ble_age=3566s ac_ports=true — reader owns the radio until a fresh BLE sample
 2026-10-02T16:54:21-1000 delta2-ac-force: no-op sample_stale sight_age=12s ble_age=3612s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T16:55:07-1000 delta2-ac-force: no-op out_of_range sight=0 sight_age=7s ble_age=3658s ac_ports=true detail=not_seen
+2026-10-02T16:55:53-1000 delta2-ac-force: no-op out_of_range sight=0 sight_age=5s ble_age=3704s ac_ports=true detail=not_seen
+2026-10-02T16:56:39-1000 delta2-ac-force: no-op out_of_range sight=0 sight_age=9s ble_age=3749s ac_ports=true detail=not_seen
+2026-10-02T16:57:24-1000 delta2-ac-force: no-op sample_stale sight_age=5s ble_age=3794s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T16:58:09-1000 delta2-ac-force: no-op sample_stale sight_age=50s ble_age=3840s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T16:58:54-1000 delta2-ac-force: no-op sample_stale sight_age=1s ble_age=3885s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T16:59:40-1000 delta2-ac-force: no-op sample_stale sight_age=15s ble_age=3931s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T17:00:25-1000 delta2-ac-force: no-op sample_stale sight_age=60s ble_age=3976s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T17:01:10-1000 delta2-ac-force: no-op sample_stale sight_age=11s ble_age=4021s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T17:01:56-1000 delta2-ac-force: no-op sample_stale sight_age=26s ble_age=4067s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T17:02:41-1000 delta2-ac-force: no-op sample_stale sight_age=43s ble_age=4112s ac_ports=true — reader owns the radio until a fresh BLE sample
