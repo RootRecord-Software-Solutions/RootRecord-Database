@@ -1,7 +1,8 @@
 {
-  "at": "2026-10-02T15:06:33-10:00",
+  "at": "2026-10-02T15:19:13-10:00",
   "source": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson",
   "window_h": 24,
+  "span_d": 14,
   "min_mag": 2.5,
   "excludes": "hawaii-last ids",
   "count": 32,
@@ -13,8 +14,16 @@
     "place": "165 km SSE of Vilyuchinsk, Russia",
     "time_hst": "2026-10-02T06:34:41.010000-10:00"
   },
-  "new_this_run": 0,
-  "usgs_generated_utc": "2026-10-03T01:06:19+00:00",
+  "change": {
+    "m25_24h": 32,
+    "m25_24h_prior": 40,
+    "m25_24h_pct": -20,
+    "m25_7d": 321,
+    "m25_7d_prior": 423,
+    "m25_7d_pct": -24
+  },
+  "new_this_run": 20,
+  "usgs_generated_utc": "2026-10-03T01:18:19+00:00",
   "events": [
     {
       "id": "us6000tz9t",

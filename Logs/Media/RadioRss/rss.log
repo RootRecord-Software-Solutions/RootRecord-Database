@@ -57,3 +57,6 @@
 2026-10-02T23:39:42Z robots spc_forecast
 2026-10-03T00:57:09Z fail bad_desk RuntimeError
 2026-10-03T00:57:09Z fail bad_desk RuntimeError
+2026-10-03T01:08:55Z robots register_science
+2026-10-03T01:10:42Z fail un_news parse_error
+2026-10-03T01:10:46Z robots spc_forecast

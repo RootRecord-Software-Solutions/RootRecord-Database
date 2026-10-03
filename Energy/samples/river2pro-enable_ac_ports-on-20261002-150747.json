@@ -1,0 +1,9 @@
+{
+  "alias": "river2pro",
+  "method": "enable_ac_ports",
+  "want": true,
+  "readback": null,
+  "soc": null,
+  "label": "River2Pro AC ON",
+  "at": "2026-10-02T15:07:47-10:00"
+}
