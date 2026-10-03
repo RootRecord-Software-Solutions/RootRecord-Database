@@ -900,3 +900,53 @@
 2026-10-02T13:49:39-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29053s ac_ports=false sight=1 sight_age=9s
 2026-10-02T13:50:06-1000 river2pro-ac-force: fail ac_on_exit=2
 2026-10-02T13:50:24-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29098s ac_ports=false sight=1 sight_age=24s
+2026-10-02T13:50:33-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:51:10-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29144s ac_ports=false sight=1 sight_age=15s
+2026-10-02T13:51:26-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:51:55-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29189s ac_ports=false sight=1 sight_age=0s
+2026-10-02T13:52:18-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:52:40-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29234s ac_ports=false sight=1 sight_age=16s
+2026-10-02T13:52:58-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:53:25-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29279s ac_ports=false sight=1 sight_age=5s
+2026-10-02T13:53:44-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:54:11-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29325s ac_ports=false sight=1 sight_age=13s
+2026-10-02T13:54:27-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:54:56-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29370s ac_ports=false sight=1 sight_age=27s
+2026-10-02T13:55:11-1000 river2pro-ac-force: ok ac_on_finished
+2026-10-02T13:55:41-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29415s ac_ports=false sight=1 sight_age=9s
+2026-10-02T13:56:08-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:56:26-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29460s ac_ports=false sight=1 sight_age=21s
+2026-10-02T13:56:52-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:57:11-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29506s ac_ports=false sight=1 sight_age=7s
+2026-10-02T13:57:38-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:57:57-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29551s ac_ports=false sight=1 sight_age=22s
+2026-10-02T13:58:13-1000 river2pro-ac-force: ok ac_on_finished
+2026-10-02T13:58:42-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29596s ac_ports=false sight=1 sight_age=10s
+2026-10-02T13:58:58-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T13:59:27-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29641s ac_ports=false sight=1 sight_age=24s
+2026-10-02T13:59:36-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:00:13-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29687s ac_ports=false sight=1 sight_age=16s
+2026-10-02T14:00:34-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:00:58-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29732s ac_ports=false sight=1 sight_age=1s
+2026-10-02T14:01:19-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:01:43-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29777s ac_ports=false sight=1 sight_age=18s
+2026-10-02T14:01:54-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:02:29-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29823s ac_ports=false sight=1 sight_age=13s
+2026-10-02T14:02:45-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:03:14-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29868s ac_ports=false sight=1 sight_age=24s
+2026-10-02T14:03:23-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:04:00-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29914s ac_ports=false sight=1 sight_age=16s
+2026-10-02T14:04:21-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:04:45-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=29959s ac_ports=false sight=1 sight_age=1s
+2026-10-02T14:05:07-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:05:30-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=30004s ac_ports=false sight=1 sight_age=18s
+2026-10-02T14:05:41-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:06:15-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=30049s ac_ports=false sight=1 sight_age=13s
+2026-10-02T14:06:32-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:07:01-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=30095s ac_ports=false sight=1 sight_age=26s
+2026-10-02T14:07:25-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:07:46-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=30140s ac_ports=false sight=1 sight_age=6s
+2026-10-02T14:08:03-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:08:31-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=30185s ac_ports=false sight=1 sight_age=12s
+2026-10-02T14:08:48-1000 river2pro-ac-force: fail ac_on_exit=2
+2026-10-02T14:09:17-1000 river2pro-ac-force: run ac_on reason=in_range ble_age=30231s ac_ports=false sight=1 sight_age=26s
