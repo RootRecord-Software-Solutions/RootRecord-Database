@@ -349,3 +349,16 @@
 2026-10-02T16:24:41-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
 2026-10-02T16:25:22-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
 2026-10-02T16:25:33-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:26:08-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:26:13-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:26:51-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:26:57-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:27:49-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:28:29-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:29:41-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:30:13-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:30:40-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:31:10-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:31:44-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:31:57-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:32:53-10:00 action: WAITING / No data — auth not completed: error_bleak exc=none
