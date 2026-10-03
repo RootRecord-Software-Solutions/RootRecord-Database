@@ -307,3 +307,45 @@
 2026-10-02T16:05:19-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
 2026-10-02T16:05:19-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
 2026-10-02T16:05:43-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:06:09-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:06:48-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:06:51-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:07:16-10:00 action: FAIL — BleakBluetoothNotAvailableError: ('No powered Bluetooth adapters found. Turn on Bluetooth and try again.', <BleakBluetoothNotAvailableReason.POWERED_OFF: 3>)
+2026-10-02T16:07:21-10:00 action: FAIL — BleakDBusError: [org.bluez.Error.Failed] No discovery started
+2026-10-02T16:08:25-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:08:50-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:09:03-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:09:46-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:10:34-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:11:28-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:11:33-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:12:05-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:12:39-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:12:49-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:13:12-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:13:37-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:13:59-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:14:20-10:00 action: FAIL — BleakDBusError: [org.bluez.Error.Failed] No discovery started
+2026-10-02T16:14:42-10:00 action: WAITING / No data — device not seen in scan mac=24:58:7C:20:92:61
+2026-10-02T16:15:07-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:15:28-10:00 action: WAITING / No data — device not seen in scan mac=24:58:7C:20:92:61
+2026-10-02T16:15:53-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:16:32-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:17:21-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:17:37-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:17:59-10:00 action: FAIL — BleakDBusError: [org.bluez.Error.Failed] No discovery started
+2026-10-02T16:19:00-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:19:31-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:19:38-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:20:13-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:20:22-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:20:46-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:21:09-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:21:23-10:00 action: FAIL — BleakDBusError: [org.bluez.Error.Failed] No discovery started
+2026-10-02T16:22:04-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:22:11-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:23:49-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:23:57-10:00 action: WAITING / No data — device not seen in scan mac=24:58:7C:20:92:61
+2026-10-02T16:24:41-10:00 action: WAITING / No data — auth not completed: error_auth_failed exc=NeedBindInstallFirst (BLE session auth rejected; not a read failure and not a re-pair instruction)
+2026-10-02T16:25:22-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
+2026-10-02T16:25:33-10:00 action: WAITING / No data — auth not completed: error_not_found exc=none
