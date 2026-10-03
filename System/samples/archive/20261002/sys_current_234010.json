@@ -8,7 +8,7 @@
       "state": "measured"
     },
     "load1": {
-      "value": 0.81,
+      "value": 0.78,
       "unit": "load",
       "state": "measured"
     },
@@ -18,7 +18,7 @@
       "state": "measured"
     },
     "load15": {
-      "value": 0.92,
+      "value": 0.94,
       "unit": "load",
       "state": "measured"
     },
@@ -28,16 +28,16 @@
       "state": "measured"
     },
     "mem_available_bytes": {
-      "value": 8586915840.0,
+      "value": 8687738880.0,
       "unit": "B",
       "state": "measured"
     },
     "mem_used_percent": {
-      "value": 43.58,
+      "value": 42.92,
       "unit": "%",
       "state": "measured"
     }
   },
-  "at": "2026-10-03T09:40:10.019Z",
+  "at": "2026-10-03T09:38:47.283Z",
   "source": "proc"
 }
