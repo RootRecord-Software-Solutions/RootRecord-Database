@@ -408,3 +408,7 @@
 2026-10-02T17:06:28-1000 delta2-ac-force: no-op sample_stale sight_age=16s ble_age=4339s ac_ports=true — reader owns the radio until a fresh BLE sample
 2026-10-02T17:07:13-1000 delta2-ac-force: no-op sample_stale sight_age=10s ble_age=4384s ac_ports=true — reader owns the radio until a fresh BLE sample
 2026-10-02T17:07:58-1000 delta2-ac-force: no-op sample_stale sight_age=1s ble_age=4429s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T17:08:44-1000 delta2-ac-force: no-op sample_stale sight_age=14s ble_age=4475s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T17:09:30-1000 delta2-ac-force: no-op sample_stale sight_age=15s ble_age=4520s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T17:10:15-1000 delta2-ac-force: no-op sample_stale sight_age=60s ble_age=4566s ac_ports=true — reader owns the radio until a fresh BLE sample
+2026-10-02T17:11:00-1000 delta2-ac-force: no-op sample_stale sight_age=11s ble_age=4611s ac_ports=true — reader owns the radio until a fresh BLE sample
