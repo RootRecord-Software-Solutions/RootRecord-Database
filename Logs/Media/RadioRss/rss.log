@@ -7,3 +7,11 @@
 2026-10-03T11:19:55Z fail bad_desk RuntimeError
 2026-10-03T11:21:20Z fail bad_desk RuntimeError
 2026-10-03T11:21:20Z fail bad_desk RuntimeError
+2026-10-03T11:22:08Z fail bad_desk RuntimeError
+2026-10-03T11:22:08Z fail bad_desk RuntimeError
+2026-10-03T11:22:30Z fail jpl_news http_403
+2026-10-03T11:22:47Z robots register_security
+2026-10-03T11:22:47Z robots register_on_prem
+2026-10-03T11:22:47Z robots register_off_prem
+2026-10-03T11:22:47Z robots register_software
+2026-10-03T11:22:47Z robots register_science
