@@ -271,3 +271,14 @@
 2026-10-02T15:49:42-1000 delta2-ac-force: no-op ble_ac_already_on ble_age=9s ac_out=0 sight_age=17s
 2026-10-02T15:50:28-1000 delta2-ac-force: no-op ble_ac_already_on ble_age=18s ac_out=0 sight_age=29s
 2026-10-02T15:51:14-1000 delta2-ac-force: no-op ble_ac_already_on ble_age=19s ac_out=0 sight_age=25s
+2026-10-02T15:51:59-1000 delta2-ac-force: no-op ble_ac_already_on ble_age=4s ac_out=0 sight_age=10s
+2026-10-02T15:52:44-1000 delta2-ac-force: no-op ble_ac_already_on ble_age=10s ac_out=0 sight_age=17s
+2026-10-02T15:53:29-1000 delta2-ac-force: no-op ble_ac_already_on ble_age=21s ac_out=0 sight_age=30s
+2026-10-02T15:54:14-1000 delta2-ac-force: no-op ble_ac_already_on ble_age=5s ac_out=0 sight_age=10s
+2026-10-02T15:55:00-1000 delta2-ac-force: no-op ble_ac_already_on ble_age=50s ac_out=0 sight_age=26s
+2026-10-02T15:55:45-1000 delta2-ac-force: no-op ble_ac_already_on ble_age=96s ac_out=0 sight_age=42s
+2026-10-02T15:56:30-1000 delta2-ac-force: no-op ble_ac_already_on ble_age=141s ac_out=0 sight_age=26s
+2026-10-02T15:57:16-1000 delta2-ac-force: run ac_on reason=in_range ble_age=186s ac_ports=true sight=1 sight_age=71s
+2026-10-02T15:57:25-1000 delta2-ac-force: fail ac_on_exit=2
+2026-10-02T15:58:01-1000 delta2-ac-force: run ac_on reason=in_range ble_age=232s ac_ports=true sight=1 sight_age=0s
+2026-10-02T15:58:12-1000 delta2-ac-force: fail ac_on_exit=2
