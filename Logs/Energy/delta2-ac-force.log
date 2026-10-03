@@ -359,3 +359,11 @@
 2026-10-02T16:32:00-1000 delta2-ac-force: run ac_on reason=in_range ble_age=2271s ac_ports=true sight=1 sight_age=36s
 2026-10-02T16:32:53-1000 delta2-ac-force: fail ac_on_exit=2
 2026-10-02T16:32:53-1000 delta2-ac-force: run ac_on reason=in_range ble_age=2324s ac_ports=true sight=1 sight_age=36s
+2026-10-02T16:33:37-1000 delta2-ac-force: fail ac_on_exit=2
+2026-10-02T16:33:39-1000 delta2-ac-force: run ac_on reason=in_range ble_age=2370s ac_ports=true sight=1 sight_age=37s
+2026-10-02T16:33:55-1000 delta2-ac-force: fail ac_on_exit=2
+2026-10-02T16:34:25-1000 delta2-ac-force: no-op out_of_range sight=0 sight_age=29s ble_age=2416s ac_ports=true detail=not_seen
+2026-10-02T16:35:12-1000 delta2-ac-force: no-op out_of_range sight=0 sight_age=76s ble_age=2463s ac_ports=true detail=not_seen
+2026-10-02T16:35:57-1000 delta2-ac-force: no-op out_of_range sight=0 sight_age=122s ble_age=2508s ac_ports=true detail=not_seen
+2026-10-02T16:36:45-1000 delta2-ac-force: no-op out_of_range sight=0 sight_age=47s ble_age=2556s ac_ports=true detail=owner_scan_miss
+2026-10-02T16:37:32-1000 delta2-ac-force: no-op out_of_range sight=0 sight_age=94s ble_age=2603s ac_ports=true detail=owner_scan_miss
