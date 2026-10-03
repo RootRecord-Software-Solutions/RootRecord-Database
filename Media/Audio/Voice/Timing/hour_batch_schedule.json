@@ -1,16 +1,16 @@
 {
-  "at": "2026-10-03T07:22:25-10:00",
+  "at": "2026-10-03T07:51:16-10:00",
   "job_id": "voice_hour_batch",
-  "at_minute": 42,
+  "at_minute": 36,
   "at_second": 0,
   "push_minute": 55,
-  "base_start_minute": 42,
+  "base_start_minute": 36,
   "suggested_start_minute": 43,
-  "lead_minutes_before_push": 13,
+  "lead_minutes_before_push": 19,
   "reason": "keep_base_extra_cushion",
-  "averages_runs": 3,
-  "total_avg_seconds": 499.8,
-  "total_p95_seconds": 514.6,
-  "total_avg_minutes": 8.33,
-  "total_p95_minutes": 8.58
+  "averages_runs": 4,
+  "total_avg_seconds": 492.5,
+  "total_p95_seconds": 513.6,
+  "total_avg_minutes": 8.21,
+  "total_p95_minutes": 8.56
 }
